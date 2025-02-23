@@ -1,0 +1,25 @@
+[
+    {
+        "code": "98004",
+        "flavor": "Alles nach Vorschrift, jedes „i” hat seinen Punkt, jedes „t” seinen Strich. Es hat immer funktioniert - bis jetzt.",
+        "name": "Roland Banks",
+        "subname": "Der Bundesagent",
+        "text": "[reaction] Nachdem du einen Gegner besiegt hast: Entdecke 1 Hinweis an deinem Ort. (Nur ein Mal pro Runde.)\n[elder_sign]-Effekt: +1 für jeden Hinweis auf deinem Ort.",
+        "traits": "Behörde. Detective.",
+        "back_flavor": "Der Bundesagent Roland Banks hat sich stets penibel an die Vorschriften gehalten. Das war seine einzige Chance, nicht in den Sumpf der Korruption zu geraten und sich nicht die „Eine Hand wäscht die andere”-Mentalität vieler Leute in der Zeit der Prohibition anzueignen. Als Agent Banks in der Provinz von Virgina die falsche Alkoholschmuggel-Operation hochnahm, wurde er mit einem bizarren Fall in der Nähe von Arkham, Massachusetts, „belohnt”. Roland ist von Anfang der Ermittlung klar, dass Arkham seine Geheimnisse für sich behalten will und er von der Standardvorgehensweise abrücken muss, um den Fall aufklären zu können. Denn sein Agenten-Leitfaden bietet keine Anleitung, wie mit uralten Mythen und rachsüchtigen Göttern zu verfahren ist …",
+        "back_text": "<b>Deckgröße</b>: 30.\n<b>Deckbau-Optionen</b>: Wächterkarten ([guardian]) Stufe 0-5, Sucherkarten ([seeker]) Stufe 0-2, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Rolands 38er Spezial, Vertuschen, 1 zufällige Grundschwäche."
+    },
+    {
+        "code": "98005",
+        "name": "Ungelöste Geheimnisse",
+        "text": "Nur für das Deck von Roland Banks. Ersatz.\nSchnell. Spiele diese Karte nur in deinem Zug.\nPlatziere entweder 1 Hinweis <i>(aus dem Markervorrat)</i> auf deinem Ort oder entdecke 1 Hinweis an deinem Ort. Entferne Ungelöste Geheimnisse aus dem Spiel.",
+        "traits": "Erkenntnis."
+    },
+    {
+        "code": "98006",
+        "flavor": "… war die Musik Teil des Traums, oder der Traum Teil der Musik? - Graeme Davis, Das Klagelied der Vernunft",
+        "name": "Das Klagelied der Vernunft",
+        "text": "Nur für das Deck von Roland Banks. Ersatz.\n<b>Enthüllung</b> - Platziere 2 deiner Hinweise auf deinem Ort. Falls du dies nicht kannst, platziere alle deine Hinweise auf deinem Ort, nimm 1 Horror und mische Das Klagelied der Vernunft in dein Deck zurück.",
+        "traits": "Wahnsinn."
+    }
+]

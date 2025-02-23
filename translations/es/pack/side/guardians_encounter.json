@@ -1,0 +1,486 @@
+[
+    {
+        "code": "83001",
+        "name": "El letargo eterno",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la fuerza del Abismo.\n[cultist]: Revela otra ficha. Si fracasas y la fuerza del Abismo es 3 o menos, añade 1 punto de fuerza al Abismo.\n[tablet]: 0. Ignora todas las bonificaciones a tu valor de habilidad para esta prueba de habilidad.\n[elder_thing]: -5. En lugar de eso, puedes añadir 1 punto de fuerza al Abismo para tener éxito automáticamente.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la fuerza del Abismo más 1.\n[cultist]: Revela otra ficha. Si fracasas y la fuerza del Abismo es 5 o menos, añade 1 punto de fuerza al Abismo.\n[tablet]: -2. Ignora todas las bonificaciones a tu valor de habilidad para esta prueba de habilidad.\n[elder_thing]: -6. En lugar de eso, puedes añadir 1 punto de fuerza al Abismo para tener éxito automáticamente."
+    },
+    {
+        "code": "83002",
+        "flavor": "Jessie Burke, una agente del gobierno que trabaja en Egipto, os ha pedido que acudáis a El Cairo para ayudarla a resolver un problema médico. Gente de todas partes de El Cairo y de todos los estratos sociales, incluyendo a John, el marido y compañero de Jessie, están sumiéndose en un letargo misterioso del que no despiertan. Tendréis que investigar este extraño fenómeno.",
+        "name": "La petición de Jessie",
+        "text": "[action] Los investigadores, como grupo, gastan 1 pista [per_investigator]: Haz aparecer, al azar, uno de los Enemigos que están bajo la carta de referencia de escenario.",
+        "back_name": "Os siguen la pista",
+        "back_flavor": "Habéis encontrado suficientes indicios como para confirmar la existencia de una oscura organización en El Cairo, y puede que el origen de la maldición que aflige a la ciudad. Sin embargo, pese a todos vuestros esfuerzos, la cábala secreta ha desaparecido de la ciudad sin dejar rastro. Vais a necesitar mucha más información si queréis curar esta enfermedad.",
+        "back_text": "Busca todos los Enemigos [[Hermandad]] que estén en juego actualmente <i>(en un Lugar o en la zona de amenaza de un investigador)</i>. Coloca todos esos Enemigos bajo la carta de referencia de escenario, fuera del juego.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todas las copias puestas aparte del Resucitado abisal y luego barájalo.\nAñade 1 punto de fuerza al Abismo.\nSi es el acto 1, haz avanzar la carta de Acto en curso."
+    },
+    {
+        "code": "83003",
+        "flavor": "El sol sale sobre El Cairo. Esta mañana hay mucha gente que no se ha despertado en la ciudad. Un siniestro pensamiento os invade la mente. Si os quedáis dormidos, puede que nunca volváis a despertados. Con lo poco que habéis descansado la pasada noche, os cuesta manteneros despiertos y seguir la investigación…",
+        "name": "La maldición del Abismo",
+        "text": "<b>Obligado</b> - Si la fuerza del Abismo es 0: Establece la fuerza del Abismo en 1. Cada investigador roba 1 carta y se cura 1 punto de horror.",
+        "back_name": "El Abismo crece…",
+        "back_flavor": "A medida que crece el número de víctimas de la maldición que ha infectado El Cairo, un silencioso terror atenaza la ciudad. Cuando vuelve a caer la noche, un repentino pánico invade las calles. Comienza con una agitación en el exterior del hospital, donde la gente exige saber qué les ha ocurrido a sus seres queridos y qué están haciendo los doctores para resolver el problema. En poco tiempo hay saqueos y disturbios por toda la ciudad. Para cuando da la medianoche, el caos más absoluto reina en las calles.",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nAñade 1 punto de fuerza al Abismo."
+    },
+    {
+        "code": "83004",
+        "flavor": "Cuando llega la mañana, la ciudad vuelve a estar en silencio. El hospital está desbordado con las víctimas de la noche anterior, y las calles están llenas de mucha más gente comatosa. Habéis aguantado hasta ahora sin dormir, pero no podéis seguir así mucho más tiempo. La fatiga les está pasando factura a vuestro cuerpo y a vuestra mente. Si no os dais prisa, podríais ser las próximas víctimas del hechizo.",
+        "name": "Jardín de sombras",
+        "text": "<b>Obligado</b> - Si la fuerza del Abismo es 0 o 1: Establece la fuerza del Abismo en 2. Cada investigador roba 1 carta o bien se cura 1 punto de horror.",
+        "back_name": "El letargo eterno",
+        "back_flavor": "Estáis demasiado agotados como para continuar. Vuestra mente le grita a vuestro cuerpo que siga en marcha, pero vuestros músculos os traicionan. Os desplomáis en el suelo como un saco de patatas.\nOs resistís con todas vuestras fuerzas, pero apenas lográis mover los dedos. Notáis como si un fuerte peso cayera sobre vuestras cabezas, y un sudario negro os cubre los ojos.\nSi os dormís aquí, nunca volveréis a despertar. Y, sin embargo, en lo más profundo de vuestras mentes, estáis demasiado cansados como para que os importe.\nBostezáis.",
+        "back_text": "Añade 1 punto de fuerza al Abismo.\nCada investigador que no haya desistido queda derrotado y es <i>\"atrapado por el Abismo\".</i>"
+    },
+    {
+        "code": "83005",
+        "flavor": "Mientras registráis El Cairo en busca de respuestas, comenzáis a sospechar que la corazonada de Jessie era cierta. Unos sombríos personajes os siguen por toda la ciudad, y varias de las personas con las que habláis se niegan a tener nada que ver con vosotros, ¿Qué ocultan?",
+        "name": "La maldición del sueño interminable",
+        "text": "<b>Obligado</b> - Después de que un Enemigo [[Hermandad]] entre en la zona de victoria: Dale la vuelta y resuelve el texto que tiene en el otro lado.\n<b>Objetivo</b> - Encuentra tantas cartas [[Prueba]] como puedas y añádelas a la zona de victoria antes de que el plan avance. Si hay 6 cartas [[Prueba]] en la zona de victoria, haz avanzar el acto.",
+        "back_name": "Hacia el desierto",
+        "back_flavor": "Arrinconáis a uno de los agentes de la organización en un oscuro callejón mientras intenta huir de la ciudad: -Es demasiado tarde para detener la profecía -dice con expresión asustada-. Por favor, dejad que me vaya.\nNotáis la debilidad de carácter del hombre y le decís que puede ayudaros a detener lo que esté planeando la organización si os cuenta todo lo qie sabe: -La Hermandad de la Bestia cree que ha encontrado su receptáculo -os explica mientras balbucea nervioso-. Ahora le están dando a su Elegido un poder indecible ¡Es imposible que logréis detenerlos!\nSe debate hasta que logra escaparse de vosotros y huir hacia la calle principal. Si seguís a ese hombre, puede que os lleve al escondrijo de la Hermandad…",
+        "back_text": "Crea el mazo de Exploración barajando todos los Lugares [[Expedición]] puestos aparte. Busca en el mazo y la pila de descartes de Encuentros 1 copia de cada una de las siguientes cartas de Traición: Terror bajo las pirámides, Enjambre de langostas, Alcance abisal, Eclipse y Tormenta de arena. Añade esas cartas al mazo de Exploración y barájalo; a continuación, añade la pila de descartes de Encuentros al mazo de Encuentros y baraja éste.\nCada investigador pierde todas sus pistas.\nRetira todas las pistas de cada Lugar [[El Cairo]]."
+    },
+    {
+        "code": "83006",
+        "flavor": "Perseguís al agente de la Hermandad mientras huye de la ciudad hacia el oeste. Seguir su rastro en el desierto será más fácil si os unís a la expedición arqueológica que se encuentra en marcha.",
+        "name": "Secretos en la arena",
+        "text": "No pueden colocarse pistas en Lugares <b>El Cairo</b>.\n[action] Si estás en un Lugar [[Expedición]]: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él.",
+        "back_name": "Todo por el Elegido",
+        "back_flavor": "No lográis encontrar el escondrijo de la Hermandad, pero sí que encontráis al agente al que interrogasteis en El Cairo… O al menos lo que queda de él. En las salas de un antiguo templo dedicado a un faraón olvidado hace milenios, alguien ha colocado el cadáver del hombre sobre un altar de piedra. Su cuerpo está cubierto de puñaladas recientes. No podéis evitar preguntaros si habrá sido culpa vuestra de algún modo.\nTras investigar el cuerpo y lo que queda del templo medio enterrado, realizáis un preocupante descubrimiento. Como sospechabais, la Hermandad de la Bestia ha causado la maldición que aflige a El Cairo. Encontráis varios pasajes que describen el hechizo en gran detalle, aunque esas descripciones no coinciden con lo que habéis visto con vuestros propios ojos. Los tomos de la Hermandad describen cómo transportar a las víctimas a otro reino, a un lugar llamado el Abismo. Un paisaje de pesadilla del que los soñadores no pueden despertar. La fuerza del \"Elegido\" aumenta con cada soñador…",
+        "back_text": "Coloca 1 ficha de daño [per_investigator] sobre cada Lugar <b>El Cairo</b>. Hasta el final del escenario, las fichas de Daño que haya sobre Lugares representan \"soñadores\": víctimas que sufren la maldición del letargo eterno.\bPon en juego el Enemigo Neith puesto aparte en las Calles de El Cairo."
+    },
+    {
+        "code": "83007",
+        "flavor": "El último registro que encontráis describe el momento de la cosecha, en el que serán sacrificados mil soñadores. Gracias al conocimiento de la Hermandad que habéis obtenido, creéis que podéis revertir su maldición antes de que se cobre las vidas de todos los hombres, mujeres y niños de El Cairo.",
+        "name": "La hora del juicio",
+        "text": "[action] Si hay un soñador en tu Lugar: Realiza una prueba de [willpower] o de [intellect] (X) para intentar despertar a un soñador. X es la fuerza del Abismo. Si tienes éxito, mueve un soñador de tu Lugar a Neith en forma de daño.\n<b>Objetivo</b> - Si a Neith no le queda salud, haz avanzar el acto.",
+        "back_name": "El final de la heraldo",
+        "back_flavor": "Con cada uno de los soñadores que liberáis, el poder arcano que emplea Neith se desvanece. En poco tiempo, la mujer cae de rodillas después de que su cuerpo haya perdido todo el poder que tenía. Sin embargo, ni siquiera empleando los hechizos y registros que encontráis en el templo de la Hermandad lográis despertar a todas las víctimas; sólo despiertan las que se sumieron en el trance del hechizo más recientemente. El resto de las víctimas, incluido John Burke, tienen su destino inexorablemente vinculado a Neith: -Si creéis que esto es el final, merecéis la suerte que os tiene reservada Xzharah -os advierte ésta-. Matadme y seréis los siguientes en morir.\nVaciláis. Pero si permitís que siga viviendo, aquellos a quienes ha atrapado en el sueño nunca despertarán. ¿Qué es una vida en comparación con las vidas de tantos inocentes?",
+        "back_text": "Los investigadores deben decidir (elige sabiamente):\n- <i>Destruir a Neith de una vez por todas.</i>\nAl elegir esta opción, creéis que quienes siguen sufriendo la maldición del sueño eterno quedarán libres. <b>(→R1)</b>\n- <i>Dejar vivir a Neith y escuchar lo que tiene que decir.</i>\nAl elegir esta opción, creéis que podéis descubrir más información sobre el ser al que Neith llama Xzharah. <b>(→R2)</b>"
+    },
+    {
+        "code": "83008",
+        "name": "Calles de El Cairo",
+        "text": "<b>Obligado</b> - Después de que descubras 2 o más pistas en las Calles de El Cairo en un mismo turno: Recibe 1 punto de horror.\n[action] Si no hay pistas en las Calles de El Cairo: Realiza una prueba de [agility] (4). Si tienes éxito, recuerda que has \"encontrado una puerta marcada con sangre\".",
+        "traits": "El Cairo.",
+        "back_flavor": "Está siendo un mes extrañamente seco en El Cairo. El implacable calor del sol convierte en un horno las estrechas y sinuosas calles de la ciudad. Los peatones van de sombra en sombra para esconderse de la luz solar… ¿O acaso os evitan a vosotros?"
+    },
+    {
+        "code": "83009",
+        "name": "Bazar de El Cairo",
+        "text": "Mientras estés en el Bazar de El Cairo, reduce en 1 el coste de cada Apoyo [[Objeto]] que juegues y aumenta en 1 el coste de cada uno de los demás Apoyos que juegues.\n[action] Gasta 10 recursos: Recuerda que has \"comprado una extraña baratija\".",
+        "traits": "El Cairo.",
+        "back_flavor": "Las bulliciosas calles del bazar están repletas de vendedores ambulantes ofreciendo sus artículos y de una ruidosa muchedumbre de clientes. Desplazarse entre la multitud ya es bastante difícil, y encontrar a vuestro objetivo será más problemático aún."
+    },
+    {
+        "code": "83010",
+        "name": "Museo de Antigüedades Egipcias",
+        "text": "[action]: Realiza una prueba de [intellect] (5). Si tienes éxito, recuerda que has \"descubierto una antigua tablilla.\"\n<b>Obligado</b> - Después de que investigues el Museo de Antigüedades Egipcias, si no tuviste éxito por al menos 2: Pierde todas tus acciones restantes y termina tu turno inmediatamente.",
+        "traits": "El Cairo.",
+        "back_flavor": "Este nuevo museo, construido en la plaza Tahrir después de que el Nilo inundara el antiguo edificio, alberga la mayor colección del mundo de antigüedades faraónicas, que incluye papiros, monedas, estatuas, tablillas, sarcófagos e incluso momias."
+    },
+    {
+        "code": "83011",
+        "name": "Afueras de El Cairo",
+        "text": "[action] Elige y descarta 5 cartas de tu mano. Recuerda que has \"saboteado el tren\".\n[action] Si ningún investigador ha \"saboteado el tren\": <b>Desistir.</b> Coges el tren que sale de El Cairo y abandonas a los soñadores a su pesadilla sin fin.",
+        "traits": "El Cairo.",
+        "back_flavor": "Cuando el ardiente sol se pone sobre El Cairo, el cielo queda bañado de preciosos rayos de color rojo y naranja. Es un magnífico preludio para los horrores que están por venir."
+    },
+    {
+        "code": "83012",
+        "name": "Patio del Templo",
+        "text": "Mientras no queden pistas en el Patio del Templo, cada copia del Suplicante humilde pierde Indiferente.\n[action]: Realiza una prueba de [combat] (5). Si tienes éxito, recuerda que te has  \"colado en un templo desierto\".",
+        "traits": "El Cairo.",
+        "back_flavor": "Los plateados rayos de luz bañan el patio de un agradable brillo. Pese a la urgencia de tu misión, te sientes en paz allí. Juras volver a él si sigues despierto cuando todo acabe."
+    },
+    {
+        "code": "83013",
+        "name": "Neith",
+        "subname": "Heraldo del Abismo",
+        "text": "Cazador. Represalia.\n<b>Obligado</b> - Después de que el horror de un ataque de Neith derrote a un investigador o Apoyo [[Aliado]]: Esa carta queda <i>\"atrapada por el Abismo\".</i>\n<b>Obligado</b> - Cuando a Neith se le inflija cualquier cantidad de daño por un ataque, si hay al menos 1 soñador en su Lugar: Retira 1 soñador de su Lugar y cancela 1 punto de daño que se le acabe de infligir a Neith.",
+        "traits": "Humanoide. Hermandad. Élite."
+    },
+    {
+        "code": "83014",
+        "name": "Suplicante humilde",
+        "text": "<b>Aparición</b> - Cualquier Lugar [[El Cairo]] (que tenga un Enemigo [[Hermandad]] si es posible).\nIndiferente.\nCada Enemigo [[Hermandad]] que haya en el Lugar del Suplicante humilde no puede ser atacado ni dañado.\n<b>Obligado</b> - Cuando acabe la fase de Enemigos: Mueve el Suplicante humilde una vez hacia el Enemigo [[Hermandad]] más cercano si es posible.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "83015",
+        "name": "Criatura del Abismo",
+        "text": "Represalia.\nX es la fuerza del Abismo.\n<b>Obligado</b> - Después de que la criatura del Abismo entre en juego, si la fuerza del Abismo es 2 o menos: Añade 1 punto de fuerza al Abismo..\n<b>Obligado</b> - Después de que la Criatura del Abismo sea derrotada, si la fuerza del Abismo es 5 o más: Retira 1 punto de fuerza del Abismo.",
+        "traits": "Monstruo. Tierras del Sueño."
+    },
+    {
+        "code": "83016",
+        "name": "El usurpador de la noche",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la fuerza del Abismo.\n[cultist]: Revela otra ficha. Si fracasas y la fuerza del Abismo es 3 o menos, añade 1 punto de fuerza al Abismo.\n[tablet]: -1. Ignora todas las bonificaciones a tu valor de habilidad para esta prueba de habilidad.\n[elder_thing]: -4. Si tienes éxito y la fuerza del Abismo es 4 o más, retira 1 punto de fuerza del Abismo.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la fuerza del Abismo más 1.\n[cultist]: Revela otra ficha. Si fracasas y la fuerza del Abismo es 5 o menos, añade 1 punto de fuerza al Abismo.\n[tablet]: -3. Ignora todas las bonificaciones a tu valor de habilidad para esta prueba de habilidad.\n[elder_thing]: -5. Si tienes éxito y la fuerza del Abismo es 4 o más, retira 1 punto de fuerza del Abismo."
+    },
+    {
+        "code": "83017",
+        "flavor": "Con los miembros de la Hermandad sueltos, tuvisteis que realizar vuestra investigación en secreto, lejos de ojos indiscretos. Ahora que os han descubierto, sabéis que cualquiera podría ser un espía de la cábala secreta, incluso los miembros de la expedición de Winlock. Es un riego que debéis correr para desbaratar sus planes. Aun así, saber que podrían atacar en cualquier momento hace que tengáis los nervios a flor de piel. Antes o después revelarán sus intenciones, y tendréis que estar listos para lo que hagan.",
+        "name": "La Hermandad aguarda su momento",
+        "back_name": "¡La venganza de la Hermandad!",
+        "back_flavor": "Tras encontrar el momento perfecto para atacar, los miembros restantes de la Hermandad os tienden una emboscada durante la noche. \"¡Por Nephren-Ka! ¡Por Xzharah!\", gritan exultantes mientras rodean vuestro campamento. Sus ojos brillan con un poder antinatural, tiene los músculos abultados, y en sus venas palpita un extraño fluido. Nada de lo que decís lo disuade de su asalto, y os preguntáis si en sus mentes queda algún rastro de humanidad.",
+        "back_text": "Siguiendo el orden de juego, cada investigador coge un Enemigo [[Hermandad]] de debajo de la carta de referencia de escenario y lo hace aparecer enfrentado a él, hasta que hayan aparecido todos los Enemigos de debajo de la carta de referencia del escenario o todos los investigadores hayan hecho aparecer un Enemigo de esta forma. Haz aparecer todos los Enemigos que aún queden bajo la carta de referencia de escenario, de uno en uno, en los Lugares vacíos más alejados del Campamento de expedición. <i>Ignora todas las instrucciones \"<b>Aparición</b>\" de esos Enemigos.</i>\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nAñade 1 punto de fuerza al Abismo."
+    },
+    {
+        "code": "83018",
+        "flavor": "Este siniestro plan no sólo amenaza nuestro mundo, sino también otro. Sólo tenéis una oportunidad de evitar que logren su objetivo. Ahora es el momento de actuar.",
+        "name": "Conspiración en el oscuro más allá",
+        "text": "Los investigadores no pueden <b>Negociar</b> con Enemigos [[Hermandad]].\nNo se le puede dar la vuelta a ningún Enemigo [[Hermandad]].\n<b>Obligado</b> - Después de que se coloque la 4.ª u 8.ª ficha de Perdición sobre este plan: Añade 1 punto de fuerza al Abismo.",
+        "back_name": "Profecía cumplida",
+        "back_flavor": "-Está hecho -dice Xzharah mientras hunde su arma en el último de los soñadores. Su estrellada superficie, empapada de cálida sangre carmesí, devora la fuerza vital de la víctima-. Con esta alma, estoy completo.\nEl Abismo queda sumido en un terrible silencio. Nadie puede cuestionar la autoridad y el poder del nuevo señor del reino. Burdas criaturas de oscuridad salen a gatas de sus agujeros para rendir tributo a su mano. Mientras Xzharah examina sus dominios, la neblina se enrosca en torno a sus pies con cada paso que da. Innumerables criaturas aladas se inclinan en sumisión a su paso.\nEste mundo es suyo. El nuestro será el siguiente.",
+        "back_text": "Cada investigador queda derrotado.\nCada investigador derrotado queda <i>\"atrapado por el Abismo\".</i>\n<b>(→R1)</b>"
+    },
+    {
+        "code": "83019",
+        "flavor": "La expedición se pone en marcha con el apoyo de Winlock. Pero, a diferencia de los demás arqueólogos e investigadores, no buscáis criptas ni artefactos antiguos. Vuestro objetivo es algo mucho más antiguo y peligroso: un lugar que los demás no creerían que existe ni aunque se lo contaseis.",
+        "name": "La búsqueda del portal",
+        "text": "[action]: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él..",
+        "back_name": "Constructo de los antiguos",
+        "back_flavor": "Han pasado varias semanas desde que partisteis de El Cairo, pero, para consternación vuestra, no habéis encontrado ni rastro del portal sobrenatural por el que supuestamente se retiró la Hermandad.\nCuando empezáis a plantearos regresar a El Cairo para seguir investigando, os llaman a la tienda de Winlock, donde el cansado líder de la expedición está examinado un mapa de Egipto que tiene en sus encallecidas manos.\n-Ah, ya están aquí -dice mientras rebusca en su mochila, saca un viejo tomo medio quemado y lo pone en la mesa que tenéis delante-. Pensé que les gustaría ver lo que encontramos en esa cripta que hay al sur. Le dais la vuelta al libro y lo hojeáis hasta llegar a un mapa del desierto que tiene unos jeroglíficos egipcios. Es la misma región del mapa que tiene Winlock.\n-¿Ven eso de ahí? -pregunta mientras señala uno de los jeroglíficos del lado occidental del mapa-. Significa \"puerta\".\nEsboza una sonrisa traviesa y luego señala el mismo lugar en su mapa, indicándoos vuestro destino.\n-¿Es eso lo que están buscando?",
+        "back_text": "Añade el Portal arcano puesto aparte al mazo de Exploración y baraja éste."
+    },
+    {
+        "code": "83020",
+        "flavor": "Tras haber logrado acotar la ubicación del portal, os despedís de Winlock y de su equipo. No queréis que os sigan allí adonde vais…",
+        "name": "Hacia el portal",
+        "text": "[action]: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él..\n<b>Objetivo</b> - Al final de la ronda, si todos los investigadores no derrotados están en el Portal arcano y gastan la cantidad necesaria de pistas, haz avanzar el acto.",
+        "back_name": "Entrando en los sueños",
+        "back_flavor": "La realidad se aleja cuando cruzáis el umbral del portal. Las arenosas dunas se pliegan hacia los cimientos de la Tierra, el firmamento se parte y los colores del mundo se destiñen cuando llegan al arco. Cuando volvéis a abrir los ojos, estáis en un lugar entre los mundos. En el extremo opuesto del corredor, una silueta sale de la puerta que hay al otro lado; no tiene rostro y blande una hoja curvada que palpita con un oscuro poder: -Seréis mi siguiente sacrificio -dice con furia.",
+        "back_text": "Pon en juego el Lugar Entre los sueños, con el lado revelado boca arriba. Mueve allí a todos los investigadores y retira todos los demás Lugares de la partida. Haz aparecer el Enemigo Xzharah puesto aparte en Entre los sueños, con el lado de Enemigo boca arriba. Añade al mazo de Encuentros la pila de descartes de Encuentros y todas las copias de Shantak temido puestas aparte y barájalo.\n<hr><b>Si el Apoyo Anj antiguo está en juego:</b>\n<blockquote><i>El anj que llevas como amuleto brilla con una luz cegadora, haciendo que Xzharah retroceda: -¡Así que Neith nos ha abandonado! -bufa Xzharah.</i></blockquote>\nAgota a Xzharah y haz que deje de estar enfrentado a todos los investigadores."
+    },
+    {
+        "code": "83021",
+        "flavor": "Xzharah está acumulando fuerzas, matando a todos y cada uno de los soñadores que cruzan de este reino al Abismo que hay más allá. Cuando la última alma sea suya, ¿quién quedará para evitar su conquista?",
+        "name": "El usurpador de la noche",
+        "text": "<b>Objetivo</b> - <i>\"¡Debemos encontrar un modo de detenerlo!\"</i> Si Xzharah está agotado, un investigador que esté en su Lugar puede elegir hacer avanzar el acto. Límite de una vez por fase.",
+        "back_name": "La derrota de Xzharah",
+        "back_flavor": "Xzharah no puede ser detenido de ninguna forma que conozcáis. Quizás si descubrís más información sobre el reino que hay al otro lado del portal, logréis encontrar un medio de ponerle fin a este vil ritual.",
+        "back_text": "Si se cumplen al menos 3 de los siguientes requisitos, puedes pasar a <b>(→R2)</b>. Si no es así, dale la vuelta a este acto al lado \"a\".\n- Xzharah no debe tener salud restante.\n- Los investigadores, como grupo, deben tener 3 pistas [per_investigator].\n- La fuerza del Abismo debe ser 4 o menos.\n- Los investigadores deben haber \"liberado a los ángeles descarnados\", \"avisado a los ciudadanos de Sarkomand\", y \"suplicado ayuda\"."
+    },
+    {
+        "code": "83022a",
+        "name": "Entre los sueños",
+        "text": "<b>Obligado</b> - Si la fuerza del Abismo es 0: Establece la fuerza del Abismo en 1.\n[reaction] Después de que investigues con éxito Entre los sueños: Dale la vuelta y resuelve el texto que tiene en el otro lado.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "83022b",
+        "flavor": "El portal que hay al otro lado de este corredor lleva a un lugar que está más allá del mundo físico. Un lugar en el que convergen sueños y realidad.\nCalmas tu mente y fijas la mirada en el Abismo que te envuelve.",
+        "name": "A las Tierras del Sueño",
+        "text": "Pon en juego los Lugares restantes puestos aparte, con el lado revelado boca arriba: El Gran Abismo, Túneles bajo Ngranek, Escalera hacia Sarkomand y Cavernas llenas de niebla. <i>Coloca en cada uno de esos Lugares una cantidad de pistas igual a su valor de pista.</i>\nEl investigador que está resolviendo este texto deja de estar enfrentado a todos los Enemigos enfrentados y se mueve a El Gran Abismo.\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "83023a",
+        "flavor": "…había llegado al pozo cuyos mohosos peldaños de piedra descienden a unas criptas de pesadilla.\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "name": "El Gran Abismo",
+        "text": "[reaction] Después de que descubras la última pista restante en El Gran Abismo: Dale la vuelta y resuelve el texto que tiene en el otro lado.",
+        "traits": "Sobrenatural. Tierras del Sueño."
+    },
+    {
+        "code": "83023b",
+        "flavor": "Mientras atraviesas el vasto Abismo, te sorprende encontrar a otras personas que vagan por la cavernosa neblina encantados y confusos. No reconoces a ninguno de los pacientes del incidente de El Cairo, así que la Hermandad debe de haber enviado aquí a estas víctimas hace poco. Con el conocimiento que tienes ahora, podrías intentar despertarlos, o bien guiarlos hacia  Xzharah como sacrificios.",
+        "name": "El destino de los soñadores",
+        "text": "Debes decidir (elige una opción):\n- Retira 2 puntos de fuerza del Abismo.\n- Añade 2 puntos de fuerza al Abismo.\nIndependientemente de tu elección, dale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "83024a",
+        "flavor": "…Ngranek es de muy difícil acceso, árido y siniestro; y según ciertos rumores, se abren unas cavernas junto a su cima en donde habitan las descarnadas alimañas de la noche.\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "name": "Túneles bajo Ngranek",
+        "text": "[action]: Realiza una prueba de [intellect] (2) para buscar señales de vida en estos abruptos túneles. Si tienes éxito, dale la vuelta a este Lugar y resuelve el texto que tiene en el otro lado.",
+        "traits": "Sobrenatural. Tierras del Sueño."
+    },
+    {
+        "code": "83024b",
+        "flavor": "Mientras exploras los túneles volcánicos, encuentras los cuerpos maltratados de docenas de criaturas aladas: algunas son negras y no tienen rostro, pero sí unas alas membranosas y cuernos oscuros; otras son enormes y escamadas, con las alas como murciélagos y cabezas como de caballo. Al adentrarte más en los túneles, encuentras más de las criaturas sin rostro atadas con gruesas cadenas de hierro. Imaginas que son prisioneros de Xzharah. No emiten sonido alguno cuando te acercas, pero sí giran hacia ti sus cabezas imposibles.",
+        "name": "Prisioneros de la conquista",
+        "text": "Debes decidir (elige una opción):\n- Realiza una prueba de [agility] (4) para liberar a las criaturas. Si tienes éxito, una de ellas te entrega 3 silbatos negros antes de emprender el vuelo hacia su amo; tomo el control del Apoyo Ángel descarnado invocado puesto aparte y recuerda que has \"liberado a los ángeles descarnados\".\n- Realiza una prueba de [combat] (4) para matar a las criaturas. Si tienes éxito, recuerda que has \"ejecutado a los ángeles descarnados\".\nIndependientemente de tu elección y de si tienes éxito o fracasa en la prueba de habilidad indicada, dale la vuelta a esta carta."
+    },
+    {
+        "code": "83025a",
+        "flavor": "Terrible es el recuerdo que en él dejó aquella bajada tenebrosa. Las horas transcurrían una tras otra, mientras Carter giraba y giraba en la interminable espiral de peldaños y escaleras.\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "name": "Escalera hacia Sarkomand",
+        "text": "[action]: Realiza una prueba de [willpower] (3) para desplazarte por la desconcertante escalera que desafía la gravedad. Si tienes éxito, dale la vuelta a este. Si tienes éxito, dale la vuelta a este Lugar y resuelve el texto que tiene en el otro lado.",
+        "traits": "Sobrenatural. Tierras del Sueño."
+    },
+    {
+        "code": "83025b",
+        "flavor": "Después de lo que parece una eternidad, por fin llegas a lo alto de las escaleras subterráneas, donde una trampilla te lleva a la superficie. Te encuentras en la gran plaza central de una ciudad en ruinas, en la costa de un bello océano de color azul cielo. Un par de colosales estatuas de un león alado vigilan la entrada a la escalera.",
+        "name": "Ruinas de Sarkomand",
+        "text": "Debes decidir (elige una opción):\n- Realiza una prueba de [intellect] (3) para hablar con las criaturas casi humanoides que habitan en estas ruinas. Si tienes éxito, lo adviertes de la batalla que se desarrolla abajo y huyen; recuerda que has \"avisado a los ciudadanos de Sarkomand\".\n- Realiza una prueba de [combat] (3) para bloquear la trampilla. Si tienes éxito, derribas las estatuas de león y las usas para bloquear la entrada a la escalera mientras bajas de nuevo hacia las profundidades; recuerda que has \"cortado toda posibilidad de fuga\".\nIndependientemente de tu elección y de si tienes éxito o fracasas en la prueba de habilidad indicada, dale la vuelta a esta carta."
+    },
+    {
+        "code": "83026a",
+        "name": "Cavernas llenas de niebla",
+        "text": "[action]: Realiza una prueba de [agility] (4) para atravesar la niebla. Si tienes éxito, dale la vuelta a este Lugar y resuelve el texto que tiene en el otro lado.",
+        "traits": "Sobrenatural. Tierras del Sueño."
+    },
+    {
+        "code": "83026b",
+        "flavor": "La niebla se va haciendo más densa a medida que te adentras en las profundidades del Abismo. Por fin llegas a una sala abierta en la que la niebla se ha retirado, y te encuentras con una lata estatua de un anciano con una gran barba y una melena de pelo largo. Va subido a un carro formado por una enorme concha y tirado por bestias maravillosas y extrañas.",
+        "name": "Efigie de Nodens",
+        "text": "Debes decidir (elige una opción):\n- Realiza una prueba de [willpower] (2) para rogarle ayuda a la entidad representada en la estatua. Si tienes éxito, recuerda que has \"suplicado ayuda\".\n- Realiza una prueba de  [combat] (2) para derribar la estatua. Si tienes éxito, la tiras y se hace mil pedazos contra el abrupto suelo de la caverna; recuerda que has \"agraviado al soberano de este reino\".\nIndependientemente de tu elección y de si tienes éxito o fracasas en la prueba de habilidad indicada, dale la vuelta a esta carta."
+    },
+    {
+        "code": "83027a",
+        "name": "Xzharah",
+        "subname": "Elegido de la bestia",
+        "text": "Cazador. Represalia\nXzharah recibe +5 puntos de salud [per_investigator] y no puede ser derrotado mediante daño.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] o de [intellect] (X), donde X es la fuerza del Abismo. Si tienes éxito, dale la vuelta a este Enemigo y resuelve el texto que tiene en el otro lado. Si fracasas, Xzharah te ataca.",
+        "traits": "Servidor. Tierras del Sueño. Conspirador. Élite."
+    },
+    {
+        "code": "83027b",
+        "flavor": "Las palabras del Elegido son siniestros susurros que se abren paso por vuestros oídos: El día de Nephren-Ka llegará, y el camino estará revenido de sangre -promete-. Demostrad vuestra lealtad y seréis recompensados. Cuando llegue el día, sólo vosotros recibiréis su perdón. Negaos y seréis consumidos. Y entonces gobernaré en solitario este lugar.",
+        "name": "Usurpar la noche",
+        "text": "Si todos los requisitos se cumplen, puedes pasar a <b>(→R3)</b>.\n- La fuerza del Abismo debe ser 5 o más.\n- Los investigadores deben haber \"ejecutado a los ángeles descarnados\", \"cortado toda posibilidad de fuga\" y \"agraviado al soberano de este reino\".\nSi no se cumplen los requisitos anteriores, cada investigador puede elegir si acepta o no la clemencia de Xzharah y <b>desiste</b> inmediatamente. Si queda algún investigador, dale la vuelta a esta carta a su lado Enemigo."
+    },
+    {
+        "code": "83028",
+        "flavor": "El colosal arco se alza ante vosotros, como algo sacado de un relato de ficción. No hace falta ser arqueólogo para darse cuenta de que no es de origen egipcio. Si este portal lleva realmente a otra parte, debe de haber una forma de \"activarlo\"…",
+        "name": "Portal arcano",
+        "traits": "Expedición. Desierto. Ruinas"
+    },
+    {
+        "code": "83029",
+        "flavor": "No se trataba de pájaros o de murciélagos comunnes en otros lugares de la tierra o en el país de los sueños, ya que eran más grandes que un elefante…\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "name": "Shantak temido",
+        "text": "Cazador. Descomunal.\nMientras el Shantak temido esté preparado, las capacidades [action] y [reaction] de su Lugar no pueden ser activadas.",
+        "traits": "Monstruo. Tierras del Sueño. Shantak."
+    },
+    {
+        "code": "83030",
+        "name": "Portavoz del Faraón Negro",
+        "text": "Mientras la fuerza del Abismo sea 2 o menos, el Portavoz del Faraón Negro obtiene Cazador.\n<b>Obligado</b> - Después de que el Portavoz del Faraón Negro sea derrotado, si la fuerza del Abismo es 3 o más: Cada investigador que esté en su Lugar recibe 1 punto de daño.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "83031a",
+        "name": "Dr. Layla El Masri",
+        "subname": "Traductora hierática",
+        "text": "<b>Aparición</b> - Campamento de expedición.\n[action] Como grupo, los investigadores que estén en el Lugar de la Dra. Layla El Masri descartan cartas de su mano que tengan al menos 4 iconos [willpower] entre todas: <b>Negociar.</b> Añade a la Dra. Layla El Masri a la zona de victoria.",
+        "traits": "Humanoide. Sectario. Hermandad."
+    },
+    {
+        "code": "83031b",
+        "flavor": "-¡No tuve elección! -grita Layla-. Las cosas que he leído… Los registros que he traducido… Todo apunta a una sola cosa -afirma-. Destrucción. Perdición. No podemos detenerlo. Lo único que podemos hacer es crear un lugar para nuestros seres queridos entre los escombros. Le decís que haréis todo lo que podáis para detener esta \"destrucción\", pero sacude la cabeza con lágrimas en los ojos: -Es inútil, pero… -Layla respira hondo mientras sopesa sus opciones-. Prometedme que mantendréis a salvo a mis hijos y os ayudaré en lo que pueda.",
+        "name": "La prueba de la traductora",
+        "text": "<hr><b>Después de que un investigador haya \"descubierto una antigua tablilla\", lee el siguiente texto. Si ya se ha completado esa tarea, léelo inmediatamente:</b>\n<blockquote><i>Le llevas la tablilla a la Dra. El Masri y ella la traduce lo mejor que puede: -Cuando se haga la Elección, Él recibirá el poder de mil sacrificios hechos en la tierra sagrada -lee antes de pararse para parpadear varias veces mientras intenta procesar su significado. Luego abre los ojos como platos y pregunta-: ¿Cuántos pacientes hay ahora mismo en coma?</i></blockquote>\nRetira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Prueba."
+    },
+    {
+        "code": "83032a",
+        "name": "Dr. Wentworth Moore",
+        "subname": "Suplicante oscuro",
+        "text": "<b>Aparición</b> - Museo de Antigüedades Egipcias.\nEl Dr. Wentworth Moore no puede ser dañado mientras haya un Enemigo [[Monstruo]] preparado en su Lugar.\n<b>Obligado</b> - Después de que el Dr. Wentworth Moore entre en juego: Busca un Enemigo [[Monstruo]] en el mazo y la pila de descartes de Encuentros y haz que parezca en su Lugar. Baraja el mazo de Encuentros.",
+        "traits": "Humanoide. Sectario. Hermandad."
+    },
+    {
+        "code": "83032b",
+        "flavor": "Pese a que hacéis todo lo que podéis, el Dr. Moore se escapa mientras estáis ocupados con su \"guardaespaldas\". Tras derrotar a la criatura, y sabiendo que lo perseguiréis, sospecháis que intentará escapar de la ciudad mientras tenga la posibilidad.",
+        "name": "La prueba del suplicante",
+        "text": "<hr><b>Después de que un investigador haya \"saboteado el tren\", lee el siguiente texto. Si ya se ha completado esa tarea, léelo inmediatamente:</b>\n<blockquote><i>Logras acorralar al  Dr. Moore cuando intenta escapar a pie de la ciudad.\n-Muy astuto -admite-. Pero ya no queda tiempo.\nEnciérrame, me da igual. Los soñadores serán sacrificados, y nuestro Elegido nos llevará hacia una nueva era.\nSin embargo, después de varias horas, te ruega que le dejes marcharse de la ciudad: -Por favor, ¡la muerte se acerca! Neith viene a por todos nosotros. Todos seremos sacrificados, ¿no lo entiendes? ¡Tanto tú como yo! ¡Debemos huir de la ciudad mientras aún podamos!</i></blockquote>\nRetira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Prueba."
+    },
+    {
+        "code": "83033a",
+        "name": "Nadia Nimr",
+        "subname": "Sacerdotisa de la Bestia",
+        "text": "<b>Aparición</b> - Patio del Templo.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (7). Puedes recibir hasta 3 puntos de horror para reducir la dificultad de esta prueba en 2 por cada punto de horror recibido de esta forma. Si tienes éxito, añade a Nadia Nimr a la zona de victoria. Si fracasas, Nadia Nimr te ataca.",
+        "traits": "Humanoide. Sectario. Hermandad."
+    },
+    {
+        "code": "83033b",
+        "flavor": "La fe de Nadia se tambalea. Asustada y confusa, acaba por ceder: -Nos dijeron que dejásemos una única residencia de El Cairo -explica-. Ninguno sabemos por qué, o qué conexión tiene con la Hermandad. Lo único que sabemos es que no deben ser molestados. Te da una llavecita de latón con cierta vacilación: -…Así que quizá sea el momento de molestarlos. La puerta del edificio está marcada con sangre de cordero.",
+        "name": "La prueba de la sacerdotisa",
+        "text": "<hr><b>Después de que un investigador haya \"encontrado una puerta marcada con sangre\", lee el siguiente texto. Si ya se ha completado esa tarea, léelo inmediatamente:</b>\n<blockquote><i>Entras en la residencia marcada usando la llave que te dio Nadia. Para tu sorpresa, no hay nadie en su interior, sólo un leve hedor a putrefacción y cuero envejecido. El sótano de la residencia está repleto de libros viejos, registros que llevaban la Hermandad y sus muchos agentes. Llevará tiempo examinarlos, pero una pista es una pista.</i></blockquote>\nRetira 1 punto de la fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Prueba."
+    },
+    {
+        "code": "83034a",
+        "name": "Farid",
+        "subname": "Vendedor ruin",
+        "text": "<b>Aparición</b> - Bazar de El Cairo.\n[action]: <b>Negociar.</b> Realiza una prueba de [intellect] (7). Puedes gastar hasta 5 recursos para reducir la dificultad de esta prueba en 1 por cada recurso gastado de esta forma. Si tienes éxito, añade a Farid a la zona de victoria. Si fracasas, Farid te ataca.",
+        "traits": "Humanoide. Sectario. Hermandad."
+    },
+    {
+        "code": "83034b",
+        "flavor": "-Está bien, está bien -se rinde Farid-. Soy un hombre de negocios, no un soldado. Haced un trato conmigo y os diré lo que sé. Luego me marcharé de la ciudad y no os molestaré más.\nLe preguntáis qué quiere, y os responde: -Hay una cámara en el templo abandonado del este; y se dice que contiene muchos artefactos antiguos y valiosos. De los que alcanzarían un alto precio en el mercado negro -Sonría mostrando los dientes-. Si lográis entrar en ese templo, soy todo vuestro. ¿Trato hecho?",
+        "name": "La prueba del vendedor",
+        "text": "<hr><b>Después de que un investigador se haya \"colado en un templo desierto\", lee el siguiente texto. Si ya se ha completado esa tarea, léelo inmediatamente:</b>\n<blockquote><i>Farid tiene una amplia sonrisa mientras mete ídolos de oro en su mochila. Le urges a que te dé la información antes de que se deje llevar por la emoción: -Mira, me prometieron riquezas como jamás habría podido soñar. Hasta yo tengo un precio, ¿sabes? -te dice mientras levanta las manos con gesto resignado-. Voy a mostrarte mis registros. He hecho muchos \"negocios\" en los últimos meses. Eso te llevará en la dirección correcta.</i></blockquote>\nRetira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Prueba."
+    },
+    {
+        "code": "83035a",
+        "name": "Nassor",
+        "subname": "Operativo de la Hermandad",
+        "text": "<b>Aparición</b> - Calles de El Cairo.\nRepresalia.\n<b>Obligado</b> - Cuando Nassor ataque: Añade 1 punto de fuerza al Abismo, o bien Nassor inflige +1 de daño y +1 de horror para este ataque (o bien +2 de daño y +2 de horror si es la fase de Enemigos).",
+        "traits": "Humanoide. Sectario. Hermandad."
+    },
+    {
+        "code": "83035b",
+        "flavor": "Pese a sus heridas mortales, el asesino sonríe con malicia: -Llega el día -dice entre toses-. ¿Pensáis que lo evitaréis matándome? ¡Necios! ¡La Bestia os devorará a todos!\nSe ríe como un loco con su último aliento y luego calla.\nOs dais prisa en registrar sus pertenencias antes de que algún transeúnte vea el cuerpo. Entre los muchos objetos extraños que lleva encima, encontráis un pequeño diario con tapa de cuero que tiene una enigmática inscripción:\nNuestro tributo empapa la hoja abisal\nMil almas no despertarán\nAsí nuestro Elegido se alzará\n¡Llega el Día de la señal!",
+        "name": "La prueba del asesino",
+        "text": "Retira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Prueba."
+    },
+    {
+        "code": "83036a",
+        "name": "Profesor Nathaniel Taylor",
+        "subname": "Guardián de antigüedades",
+        "text": "<b>Aparición</b> - Afueras de El Cairo.\n[action] Como grupo, los investigadores que estén en el Lugar del Profesor Nathaniel Taylor descartan cartas de su mano que tengan al menos 4 iconos [intellect] entre todas: <b>Negociar.</b> Añade al Profesor Nathaniel Taylor a la zona de victoria.",
+        "traits": "Humanoide. Sectario. Hermandad."
+    },
+    {
+        "code": "83036b",
+        "flavor": "-Pronto estaré muerto de todas formas -admite el profesor Taylor con un hondo suspiro-. Si no eres tú o la Hermandad, será el tumor de mi pulmón -Tira la ceniza de su pipa y la deja en la mesa antes de girarse hacia ti-. Está bien. Estoy seguro de que supondrá nuestra muerte, pero te ayudaré. No sé qué esperas de mí exactamente. Supongo que si encontrases uno de los artefactos de la Hermandad, podría estudiarlo.",
+        "name": "La prueba del profesor",
+        "text": "<hr><b>Después de que un investigador haya \"comprado una extraña baratija\", lee el siguiente texto. Si ya se ha completado esa tarea, léelo inmediatamente:</b>\n<blockquote><i>Dejas el objeto en el escritorio del profesor. Éste se pone el monóculo y lo examina atentamente: -¡Qué interesante! -exclama-. Esto sólo puede provenir de una tumba concreta de las criptas reales. La mayoría de estudiosos ni siquiera cree que exista.\nSe pone en pie y te estrecha la mano: -Dame algo de tiempo para estudiarlo más. Puede que, si ambos salimos de ésta con vida, pueda volver a entregar mi tesis -dice con una risilla macabra.</i></blockquote>\nRetira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Prueba."
+    },
+    {
+        "code": "83037",
+        "name": "Campamento de expedición",
+        "text": "[action]: <b>Negociar.</b> Realiza una prueba de [intellect] (2) para hablar con los investigadores ubicados aquí. Si tienes éxito, mira las X primeras cartas del mazo de Exploración o del mazo de Encuentros, donde X es la cantidad de puntos por encima del valor mínimo de éxito. Coloca hasta 2 de esas cartas en la parte inferior de ese mazo. Coloca el resto en la parte superior en orden aleatorio. Límite de grupo de una vez por ronda.",
+        "traits": "Expedición. El Cairo. Desierto.",
+        "back_flavor": "En el exterior de la ciudad, las mayores mentes de la arqueología de la época se han reunido tras obtener la financiación, los recursos y los conocimientos para descubrir todos los secretos que oculta el antiguo Egipto. Puede que su expedición revele la verdad que estáis buscando."
+    },
+    {
+        "code": "83038",
+        "name": "Río Nilo",
+        "text": "<b>Obligado</b> - Después de que entres en el Río Nilo: Debes recibir 1 punto de horror o bien descartar 1 carta de tu mano al azar.",
+        "traits": "Expedición. Desierto."
+    },
+    {
+        "code": "83039",
+        "name": "Arenas de Dashur",
+        "text": "Como coste adicional para explorar mientras estés en las Arenas de Dashur, debes gastar 2 recursos.",
+        "traits": "Expedición. Desierto."
+    },
+    {
+        "code": "83040",
+        "name": "Dunas del Sahara",
+        "text": "<b>Obligado</b> - Después de que entres en las Dunas del Sahara: Debes recibir 1 punto de daño o bien perder 1 acción.",
+        "traits": "Expedición. Desierto"
+    },
+    {
+        "code": "83041",
+        "name": "Cámara intacta",
+        "text": "Cada Enemigo [[Monstruo]] que esté en la Cámara intacta recibe +2 a combate y +1 a su valor de daño.\n[action] Si un Enemigo [[Monstruo]] fue derrotado aquí en esta ronda: Te quedas mirando los ojos muertos de la criatura y el Abismo te devuelve la mirada. Retira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Expedición. Ruinas."
+    },
+    {
+        "code": "83042",
+        "name": "Esfinge sin rostro",
+        "text": "X es la fuerza del Abismo.\n[action] Si tienes al menos 2 pistas: Te quedas mirando el rostro vacío de la esfinge y el Abismo te devuelve la mirada. Coloca 2 de tus pistas sobre la Esfinge sin rostro y retira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Expedición. Desierto. Ruinas."
+    },
+    {
+        "code": "83043",
+        "name": "Oasis del desierto",
+        "text": "[action]: Cúrate 1 punto de daño y 1 punto de horror. Límite de una vez por partida.\n[action] [action] Si no tienes horror: Te quedas mirando tu reflejo en el agua y el Abismo te devuelve la mirada. Recibe 3 puntos de horror y retira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Expedición. Desierto."
+    },
+    {
+        "code": "83044",
+        "name": "Ruinas azotadas por la arena",
+        "text": "Mientras estés investigando las Ruinas azotadas por la arena, si tienes 5 o más cartas en la mano, estás reciben +3 a velo.\n[action] [action] Si tienes 8 o más cartas en la mano: Te quedas mirando cómo se arremolinan las arenas y el Abismo te devuelve la mirada. Descarta 3 cartas de tu mano al azar y retira 1 punto de fuerza del Abismo. Límite de grupo de una vez por partida.",
+        "traits": "Expedición. Desierto. Ruinas."
+    },
+    {
+        "code": "83045",
+        "name": "Resucitado abisal",
+        "text": "<b>Aparición</b> - Lugar [[Desierto]] o [[Sobrenatural]] más alejado.\nCazador.\n<b>Obligado</b> - Cuando el Resucitado abisal ataque durante la fase de Enemigos: En lugar de su daño normal, inflige X puntos de daño para este ataque, donde X es la fuerza del Abismo. Si este ataque derrota al investigador o a un Apoyo [[Aliado]], esa carta queda <i>\"atrapada por el Abismo.\"</i>",
+        "traits": "Monstruo. Tierras del Sueño."
+    },
+    {
+        "code": "83046",
+        "name": "La cosa del sarcófago",
+        "text": "<b>Aparición</b> - El Lugar que tenga más pistas.\nMientras su Lugar no tengas pistas, La cosa del sarcófago obtiene Cazador.\n<b>Obligado</b> - Mientras La cosa del sarcófago esté preparada, cuando la ataques por cualquier medio que no sea una carta [[A distancia]], [[Arma de fuego]] o [[Hechizo]]: Te ataca inmediatamente.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "83047",
+        "name": "Eclipse",
+        "text": "Mientras estés en un Lugar [[Sobrenatural]], el Eclipse obtiene Peligro.\n<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si fracasas, debes recibir 2 puntos de horror o bien elegir un Apoyo [[Aliado]] que esté en tu Lugar para que sea derrotado y <i>\"atrapado por el Abismo\".</i>",
+        "traits": "Poder."
+    },
+    {
+        "code": "83048",
+        "name": "Tormenta de arena",
+        "text": "Mientras estés en un Lugar [[Desierto]], la Tormenta de arena obtiene Peligro.\n<b>Revelación</b> - Realiza una prueba de [agility] (3). Si fracasas, debes recibir 2 puntos de daño o bien descartar un Apoyo que controles.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "83049",
+        "name": "Terror bajo las pirámides",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Por cada punto que te falte para tener éxito, elige y descarta 1 carta de tu mano. Por cada carta que no puedas descartar, recibe 1 punto de horror.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "83050",
+        "name": "Enjambre de langostas",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (3). Por cada punto que te falte para tener éxito, pierde 1 recurso. Por cada recurso que no puedas perder, recibe 1 punto de daño.",
+        "traits": "Poder."
+    },
+    {
+        "code": "83051",
+        "name": "Letargo",
+        "text": "<b>Revelación</b> - Pon el Letargo en juego en tu zona de amenaza si no hay ninguna copia de él en tu zona de amenaza (si la hay, en lugar de eso descarta el Letargo y obtiene Oleada).\n<b>Obligado</b> - Cuando comience tu turno: Realiza una prueba de [willpower] (2). Si fracasas, pierde 1 acción.\n[reaction] Después de que se retire fuerza del Abismo: Descarta el Letargo.",
+        "traits": "Maldición. Abismo."
+    },
+    {
+        "code": "83052",
+        "name": "Sacrificio oscuro",
+        "text": "<b>Revelación</b> - Pon el Sacrificio oscuro en juego en tu zona de amenaza si no hay ninguna copia de él en tu zona de amenaza (si la hay, en lugar de eso descarta el Sacrificio oscuro y obtiene Oleada).\n<b>Obligado</b> - Después de que se añada fuerza al Abismo: Recibe 1 punto de daño y 1 punto de horror. Si este efecto derrota a un investigador o a un Apoyo [[Aliado]], esta carta queda <i>\"atrapada por el Abismo\".</i>\n[reaction] Después de que se retire fuerza del Abismo: Descarta el Sacrificio oscuro.",
+        "traits": "Maldición. Abismo."
+    },
+    {
+        "code": "83053",
+        "name": "El Viento Negro",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Añadir 1 punto de fuerza al Abismo y añadir El Viento Negro a la zona de victoria.\n- Descartar El Viento Negro y robar la primera carta del mazo de Encuentros para sustituirlo. Recibes -1 a todas las habilidades durante el resto de esta ronda.",
+        "traits": "Poder."
+    },
+    {
+        "code": "83054",
+        "name": "Alcance abisal",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (X). X es la fuerza del Abismo. Si fracasas por: \n- 1 exactamente, coloca 1 de tus pistas en tu Lugar.\n- 2 exactamente, recibe 1 punto de daño y 1 punto de horror.\n- 3 exactamente, no puedes jugar cartas en esta ronda.\n- 4 o más, coloca 1 ficha de Perdición sobre el plan en curso. Este efecto puede hacer que el plan en curso avance.",
+        "traits": "Maldición. Abismo."
+    },
+    {
+        "code": "83055",
+        "flavor": "Vivos o muertos…, pero generalmente muertos.",
+        "name": "John y Jessie Burke",
+        "subname": "Incansables en la búsqueda",
+        "text": "[action] Agota John y Jessie Burke e inflígeles 1 punto de daño: Elige un Enemigo que esté en un Lugar conectado. Muévete al Lugar de ese Enemigo. A continuación, enfréntate a ese Enemigo e inflígele 1 punto de daño.",
+        "traits": "Aliado. Gobierno.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "83056",
+        "name": "Anj antiguo",
+        "subname": "Égida de la heraldo",
+        "text": "Usos (4 cargas).\n[reaction] Cuando un investigador que esté en tu Lugar fuese a fracasar en una prueba por más de 1, gasta 1 carga: En lugar de eso, el investigador fracasa por 1 (incluso si fracasó automáticamente).",
+        "traits": "Objeto. Reliquia.",
+        "slot": "Accesorio"
+    },
+    {
+        "code": "83057",
+        "name": "Khopesh del Abismo",
+        "subname": "Malicia manifestada",
+        "text": "[action]: <b>Combatir.</b> Recibes +3 [combat] e infliges +1 de daño para este ataque.\n[reaction] Después de que derrotes a un Enemigo usando el Khopesh del Abismo, agótalo: Elige un Enemigo que esté en otro Lugar revelado. Deja de estar enfrentado a todos los demás Enemigos enfrentados a ti y muévete al Lugar del Enemigo elegido. A continuación, enfréntate a ese Enemigo.",
+        "traits": "Objeto. Arma. Reliquia. Cuerpo a cuerpo.",
+        "slot": "Mano x2"
+    },
+    {
+        "code": "83058",
+        "name": "Ángel descarnado invocado",
+        "subname": "Regalo de Nodens",
+        "text": "Usos (3 silbatos). Si el Ángel descarnado invocado no tiene silbatos o si abandona el juego, retíralo de la partida.\n[action] Gasta 1 silbato y recibe 1 punto de horror: <b>Evitar.</b> Evita automáticamente a todos los Enemigos enfrentados a ti que no sean el <b>Ángel descarnado</b> y muévete a cualquier Lugar revelado.",
+        "traits": "Monstruo. Ángel descarnado. Poder."
+    }
+]

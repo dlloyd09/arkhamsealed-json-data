@@ -1,0 +1,533 @@
+[
+    {
+        "code": "06039",
+        "name": "Más allá de las Puertas del Sueño",
+        "text": "<b>Fácil/Normal</b>\n[skull] : -X. X es la mitad de la cantidad de cartas que haya en tu mano (redondeando hacia arriba).\n[cultist]: -X. X es la cantidad de Lugares Bosque encantados revelados.\n[tablet]: -2. Si fracasas y esta prueba es un ataque o un intento de evitar contra un Enemigo multitud, añádele 1 carta de multitud.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull] : -X. X es la cantidad de cartas que haya en tu mano.\n[cultist]: -X. X es la cantidad de Lugares [[Bosque]] revelados.\n[tablet]: -2. Si esta prueba es un ataque o un intento de evitar contra un Enemigo multitud, añádele 1 carta de multitud."
+    },
+    {
+        "code": "06040",
+        "name": "Viaje pro las puertas",
+        "text": "<b>Obligado</b> - Cuando se coloque perdición sobre este plan durante la fase de Mitos, si algún investigador está en un Lugar [[Peldaños]]: Coloca 1 ficha de Perdición adicional sobre este plan.",
+        "flavor": "Desde vuestro sueño inicial, os habéis visto atraídos a un paisaje onírico familiar; el mismo que Virgil Gray atravesaba en su historia de Relatos de nunca más. ¿Esto es real? ¿O es sólo vuestra mente conjurando lo que espera ver?",
+        "back_name": "Engaño de la mente",
+        "back_text": "<b>Si está en juego el acto 1, 2, o 3, lee lo siguiente:</b>\n<i><blockquote>Los peldaños comienzan a retorcerse como una serpiente que se desenrosca al despertar. Intentáis mantener el equilibrio, pero no hay nada a lo que os podáis agarrar mientras las escaleras se ladean y giran.</i></blockquote>\nCada investigador superviviente es derrotado y sufre 1 trauma físico. Cada uno de esos investigadores puede realizar una prueba de [willpower] (3) antes de ser derrotado para recordar que todo esto es un sueño. Cada investigador que tenga éxito es derrotado y sufre 1 trauma mental en lugar de físico.<hr>\n<b>Si está en juego el acto 4, lee lo siguiente:</b>\n<i><blockquote>\"¡Ayuda! ¡Por favor! ¡Alguien!\" La voz sale de entre los árboles alejados del camino. Normalmente, no os dejaríais engañar por un truco así, pero la voz era demasiado familiar como para ignorarla. Puede que fuera un ser querido o alguien a quien fallasteis cuando más lo necesitaba. Da igual. Ahora es demasiado tarde. Os volvéis y buscáis el camino, pero ha desaparecido.</blockquote></i>\nAnota en el registro de campaña que <i>los soñadores se desviaron del camino</i>. Cada investigador superviviente es derrotado y sufre 1 trauma mental."
+    },
+    {
+        "code": "06041",
+        "name": "Entrando en las Tierras del Sueño",
+        "text": "No robes cartas del mazo de Encuentros durante la fase de mitos.\n<b>Objetivo</b> - Si un investigador entra en La caverna de fuego, haz avanzar el acto inmediatamente.",
+        "flavor": "La puerta que sale de vuestro sueño inicial os lleva a una escalera de piedra. Miles de escaleras distintas se une aquí, formando un nexo incomprensible de escalones en el que se encuentran mundos e historias. En el lugar que se unen las escaleras, forman un único sendero en espiral que sigue descendiendo hacia la tierra de los sueños.",
+        "back_name": "Sacerdotes de las Tierras del Sueño",
+        "back_text": "Cada investigador pierde todas sus pistas.\nPon en juego en La caverna del fuego los Enemigos Nasht y Kaman-Thah puestos aparte.\nVuestro sueño se hace más profundo. Añade 1 ficha [skull] a la bolsa de caos durante el resto de la campaña.",
+        "back_flavor": "En el centro de esta caverna hay una columna de fuego flanqueada por dos hombres con barba y túnica. Reconocéis la escena de los relatos de Virgil Gray. Los sacerdotes, la caverna: es todo tal y como lo describió. O estáis compartiendo sus delirios o bien os habéis aventurado en el mismo paisaje onírico.\n-Hay que poneros a prueba -dice uno de los sacerdotes con tono enigmático-. Vuestra odisea será grande, y por lo tanto también debe serlo vuestra prueba."
+    },
+    {
+        "code": "06042",
+        "name": "La prueba de Nasht y Kaman-Thah",
+        "text": "No robes cartas del mazo de Encuentros durante la fase de mitos.\n<b>Objetivo</b> - Si no están en juego ni Nasht ni Kaman-Thah, haz avanzar el acto inmediatamente.",
+        "flavor": "Las puertas doradas enrejadas no se abren para vosotros. Sólo los sacerdotes pueden juzgar si sois dignos de pasar a los siguientes escalones. Cruzan sus armas -una alabarda de acero y una guadaña de plata- frente a las puertas.",
+        "back_name": "Cuidado con el camino que os espera",
+        "back_text": "Cada investigador pierde todas sus pistas.\nPon en juego en los Lugares Setecientos peldaños, Pie de los peldaños y El camino encantado puestos aparte.\nVuestro sueño se hace más profundo. Añade 1 ficha [skull] a la bolsa de caos durante el resto de la campaña.",
+        "back_flavor": "Satisfechos de que sois dignos de entrar en la Tierra del Sueño, los sacerdotes se hacen a un lado para dejaros pasar, y la puerta se abre. Antes de pasar por ella, uno de ellos agarra a uno de vosotros por la muñeca y os da un último aviso:\n-Vuestro viaje os llevará más allá de las tierras de los dioses. El ojo del caos está sobre vosotros. Seguid el camino y estaréis seguros. Pero ¡cuidado…! -Aprieta más fuerte-. ¡No os desviéis del camino!"
+    },
+    {
+        "code": "06043",
+        "flavor": "Unas escaleras en espiral descienden durante lo que parece una infinidad.",
+        "name": "El descenso final",
+        "text": "No robes cartas del mazo de Encuentros durante la fase de mitos.\n<b>Objetivo</b> - Si todos los investigadores están en El camino encantado, haz avanzar el acto inmediatamente.",
+        "back_name": "Hacia el encanto",
+        "back_text": "Cada investigador pierde todas sus pistas.\nVuestro sueño se hace más profundo. Añade 1 ficha [skull] a la bolsa de caos durante el resto de la campaña.\nRetira de la partida todos los Lugares [[Peldaños]].\nElige al azar 6 de los Lugares Bosque encantado puestos aparte para ponerlos en juego. Retira de la partida la copia restante.\nBaraja todas las cartas de escenario puestas aparte restantes excepto el Gug trabajador y Randolph Carter <i>(Soñador experto)</i>, para formar el mazo de Encuentros. <i>(a partir de ahora, los investigadores roban cartas del mazo de Encuentros durante cada fase de mitos de forma normal)</i>.",
+        "back_flavor": "Cuando llegáis al pie de la escalera, os encontráis en un bosque de robles sobrenatural. El suelo del bosque está cubierto de una espesa capa de hojas caídas durante innumerables años, y os rodean hongos brillantes de todas formas y tipos. La tierra está perforada por raíces retorcidas, y los árboles se ven estrangulados por enredaderas invasivas. Un sinuoso camino de tierra se adentra en el bosque."
+    },
+    {
+        "code": "06044",
+        "name": "El camino",
+        "text": "<b>Obligado</b> - Después de l aprimera vez que un investigador entre en un Lugar Bosque Encantado: Anota en el registro de campaña que <i>los soñadores se desviaron del camino</i>.\n<b>Objetivo</b> - Sólo los investigadores que estén en El camino encantado pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "flavor": "Lo único que tenéis que hacer es permanecer en el camino.",
+        "back_name": "Nuevos visitantes",
+        "back_text": "Los investigadores deben decidir (elige una opción):\n- Os quedáis en un segundo plano y observáis cómo se desarrolla esta surrealista escena. <b>(→R1)</b>\n- Interrumpís al gato de las cicatrices y manejáis la situación vosotros mismos. <b>(→R2)</b>",
+        "back_flavor": "Cuando os acercáis a la linde del bosque, aparecen más criaturas con aspecto de roedor, que surgen de madrigueras del suelo y de agujeros de los árboles. En unos instantes, el bosque está repleto de ellas. Os rodean y parlotean en un idioma que lográis entender de algún modo: \"Intrusos\". \"Están con los gatos\". \"Nuevos soñadores\". \"No, siguieron al gato negro\". \"Pero el gato negro no está aquí\". \"Somos muchos; ellos son pocos\". Varios de ellos emiten gruñidos mientras comienzan a acercarse. En ese momento, oís una voz humana que dice: -¿Qué significa todo esto?\nEl dueño de la voz es un joven rubio con expresión impertérrita. Junto a él, un grupo de enfadados gatos que van a su altura, excepto uno viejo y con cicatrices que se coloca al frente del grupo. Os dais cuenta de que el hombre no os habla a vosotros, sino a las criaturas que os rodean, que se echan atrás despacito mientras soportan la regañina. A continuación, y para seguir aumentando vuestra sorpresa, el gato de las cicatrices habla: -¡Vuestro tributo se ha retrasado!"
+    },
+    {
+        "code": "06045",
+        "name": "Setenta peldaños",
+        "subname": "De sueño ligero",
+        "text": "<b>Obligado</b> - Cuando abandones los Setenta peldaños: Recibe 1 punto de horror por cada carta que tengas en la mano por encima de 5.\n[free]: Elige y descarta 1 carta de tu mano.",
+        "back_flavor": "Ya no estáis en vuestro mundo.\nUna espiral de piedra serpenteante cuelga suspendida en el éter sin apoyo visible. Al pie de los escalones hay una isla a modo de rellano que también flota en el vacío; en ella, un alto portal dorado lleva a una caverna brillantemente iluminada.",
+        "traits": "Peldaños."
+    },
+    {
+        "code": "06046",
+        "name": "La caverna de fuego",
+        "text": "<b>Obligado</b> - Al final de la fase de Mitos: Cada investigador que esté en La caverna de fuego recibe 1 punto de daño.",
+        "flavor": "\"En uno de sus sueños ligeros, descendió los setenta peldaños que conducen a la caverna de fuego y habló de su proyecto a los sacerdotes Nasht y Kaman-Thah de luenga barba. Y los sacerdotes, cubiertos con sus tiaras, movieron negativamente la cabeza, augurando que sería la muerte de su alma.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_text": "No puedes entrar en La caverna de fuego a menos que todas las pistas de los Setenta peldaños hayan sido descubiertas.",
+        "back_flavor": "\"En este rellano había un enorme portal que se extendía por todo el ancho de la plataforma de roca. Resplandeciente y de color dorado y broncíneo, el portal se elevaba hacia el cielo y parecía no acabar nunca, desapareciendo en la turbia oscuridad que me recordaba a unas nubes de tormenta.\"\n– Jennifer Brozek, <u>Para combatir el Viento Negro</u>",
+        "traits": "Cueva. Peldaños."
+    },
+    {
+        "code": "06047",
+        "name": "Setecientos peldaños",
+        "subname": "De sueño profundo",
+        "text": "<b>Obligado</b> - Cuando abandones los Setecientos peldaños: Recibe 1 punto de horror por cada carta que tengas en la mano por encima de 3.\n[free]: Elige y descarta 1 carta de tu mano.",
+        "back_flavor": "\"Así que, tras pedir a los sacerdotes su bendición solemne y maquinar con astucia su expedición, descendió audazmente los setecientos peldaños que conducen a la Puerta del Sueño Profundo.\"\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Peldaños."
+    },
+    {
+        "code": "06048",
+        "name": "Pie de los peldaños",
+        "text": "<b>Obligado</b> - Después de que entres en el Pie de los peldaños, si tienes al menos 1 carta en la mano: Realiza una prueba de [willpower] (X). X es el número de cartas de tu mano <i>(tras asignar cartas a esta prueba)</i>. Si fracasas, por cada carta en tu mano debes recibir 1 punto de horror o bien descartar la carta.",
+        "back_text": "No puedes entrar en el Pie de los peldaños a menos que todas las pistas de los Setecientos peldaños hayan sido descubiertas.",
+        "back_flavor": "Los peldaños acaban por dar paso a una tierra margosa. En los últimos peldaños hay un lecho de hongos brillantes cuyas formas desafían cualquier convención natural.",
+        "traits": "Peldaños. Bosque."
+    },
+    {
+        "code": "06049",
+        "name": "El camino encantado",
+        "text": "El camino encantado está conectado a cada uno de los Lugares Bosque encantado.\nEl camino encantado recibe +1 a velo por cada Lugar Bosque encantado sin revelar en juego.\n[action] [action] [action]: Haces lo que os han dicho… pero tienes la sensación de que te estás perdiendo algo. Coloca 1 pista sobre El camino encantado <i>(de la reserva de fichas)</i>.",
+        "back_text": "No puedes entrar en El camino encantado a menos que todas las pistas del Pie de los peldaños hayan sido descubiertas.",
+        "back_flavor": "Desde el pie de la escalera, un tranquilo camino de tierra serpentea por un espeso bosque. Muchas docenas de ojos os observan con curiosidad desde los enmarañados árboles que rodean el camino.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06050",
+        "name": "Bosque Encantado",
+        "subname": "Bosque místico",
+        "text": "Como coste adicional para que abandones este Lugar, debes elegir y descartar 1 carta de tu mano por cada pista que haya en este Lugar.",
+        "flavor": "\"Mientras recorría, pues, los angostos corredores fosforescentes que quedan entre los troncos gigantescos de ese bosque iba Carter emitiendo ciertos sonidos chirriantes, a la manera de los zoogs, y callando de cuando en cuando en espera de respuestas.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06051",
+        "name": "Bosque Encantado",
+        "subname": "Poblado de zoogs",
+        "text": "<b>Obligado</b> - Después de que un Enemigo [[Zoog]] con la palabra clave Multitud X aparezca en este Lugar: Añádele 1 carta de multitud adicional.",
+        "flavor": "\"Recordaba que había un poblado de zoogs en el centro del bosque.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06052",
+        "name": "Bosque Encantado",
+        "subname": "Gran círculo de piedras",
+        "text": "<b>Obligado</b> - Después de que sea revelado este Lugar: Haz aparecer el Gug trabajador puesto aparte en este Lugar.",
+        "flavor": "\"Finalmente, el enorme resplandor de aquellos hongos hinchados reveló una siniestra inmensidad verdosa y gris que ascendía hasta la bóveda espesa de la selva.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06053",
+        "name": "Bosque Encantado",
+        "subname": "Trampilla de piedra",
+        "text": "Mientras estés investigando este Lugar, recibe +1 a velo por cada carta de tu mano.",
+        "flavor": "\"…en ese lugar, había incrustada en el suelo una enorme losa de piedra. Y dicen quienes se habían atrevido a acercarse a ella, que tiene una argolla de hierro de un metro de diámetro.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06054",
+        "name": "Bosque Encantado",
+        "subname": "El árbol lunar",
+        "text": "<b>Obligado</b> - Después de que entres en este Lugar: Debes recibir 2 puntos de horror o perder todas tus acciones restantes.",
+        "flavor": "\"El Consejo de Sabios, al reconocer al visitante, le ofreció una calabaza llena de savia fermentada de cierto árbol encantado que era distinto a todos los demás…\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06055",
+        "name": "Bosque Encantado",
+        "subname": "Bosque fungoso",
+        "text": "<b>Obligado</b> - Cuando comience tu turno, si estás en este Lugar: Revela una ficha aleatoria de la bolsa de caos. Si revelas una ficha [skull], [cultist], [tablet], [elder_thing] o [auto_fail], recibe 1 punto de daño y pierde 1 acción.",
+        "flavor": "\"Reconocía el camino por los hongos grotescos; que cada vez parecían más voluminosos y mejor alimentados, a medida que se iba aproximando al terrible círculo…\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06056",
+        "name": "Bosque Encantado",
+        "subname": "Bosque perdido",
+        "text": "<b>Obligado</b> - Después de que reveles este Lugar: Si no abandonas este Lugar antes del final de la ronda, coloca 1 ficha de Perdición sobre el plan en curso.",
+        "flavor": "\"En las oquedades de ese bosque enmarañado, cuyos prodigiosos robles tantean y entrelazan sus ramas al aire…\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_flavor": "El exuberante bosque te atrae hacia su interior, y te desvías del camino…",
+        "traits": "Bosque."
+    },
+    {
+        "code": "06057",
+        "name": "Kaman-Thah",
+        "subname": "Sacerdote de las Tierras del Sueño",
+        "text": "Indiferente. Represalia.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] o de [intellect] (2) para demostrar que eres digno de entrar en las Tierras del Sueño. Esta prueba recibe +1 a su dificultad [per_investigator]. Si tienes éxito, dale la vuelta a Kaman-Thah y resuelve el texto que tiene en el otro lado. Si fracasas, Kaman-Thah ataca a cada investigador que esté en su Lugar.\n<b>Obligado</b> - Después de que derrotes a Kaman-Thah: Dale la vuelta y resuelve el texto que tiene en el otro lado.",
+        "traits": "Tierras del Sueño. Protector. Élite."
+    },
+    {
+        "code": "06057b",
+        "name": "La prueba de Kaman-Thah",
+        "text": "<b>Si negociaste con Kaman-Thah, lee lo siguiente:</b><i><blockquote>-Tu mente es fuerte -admite el guardián-; pero, ¿estás listo para renunciar a tu concepto de la verdad? ¿De la realidad? Si es así, modifica tu ropa.\nProtestas, presa de la confusión.\n-Ésta es una tierra de voluntades -prosigue el sacerdote-. Si tu determinación es realmente lo bastante fuerte, demuéstramelo.\n Cierras los ojos e imaginas un atuendo distinto, esforzándote por recordar su textura, su color, su olor. Todos y cada uno de los hilos de la tela. Cuando abres los ojos, lo llevas puesto.\n-Bien -dice Kaman-Thah mientras se hace a un lado.</i></blockquote>\nAñade esta carta a la zona de victoria.<hr>\n<b>Si derrotaste a Kaman-Thah, lee lo siguiente:</b><i><blockquote>El sacerdote soporta tu infantil noción de resistencia durante unos instantes, hasta que ves un destello de fuego en sus ojos. Está totalmente ileso.\n-Eres feroz. Pero la ferocidad no te llevará muy lejos. Puedes pasar, pero hazme caso: la violencia no resuelve todos los problemas.</i></blockquote>\nAñade esta carta a la zona de victoria."
+    },
+    {
+        "code": "06058",
+        "name": "Nasht",
+        "subname": "Sacerdote de las Tierras del Sueño",
+        "text": "Indiferente. Represalia.\n[action]: <b>Negociar.</b> Realiza una prueba de [combat] o de [agility] (2) para demostrar que eres digno de entrar en las Tierras del Sueño. Esta prueba recibe +1 a su dificultad [per_investigator]. Si tienes éxito, dale la vuelta a Nasht y resuelve el texto que tiene en el otro lado. Si fracasas, Nasht ataca a cada investigador que esté en su Lugar.\n<b>Obligado</b> - Después de que derrotes a Nasht: Dale la vuelta y resuelve el texto que tiene en el otro lado.",
+        "traits": "Tierras del Sueño. Protector. Élite."
+    },
+    {
+        "code": "06058b",
+        "name": "La prueba de Nasht",
+        "text": "<b>Si negociaste con Nasht, lee lo siguiente:</b><i><blockquote>-Tu misión lleva hacia la  muerte -predice el sacerdote-. Demuestra que puedes sobrevivir a los que se avecina y te dejaré pasar. Muéstrame tu arma.\nAbres la mano y revelas la primera arma que te viene en mente. Nasht la tira al suelo de un manotazo.\n-Eso no es un arma. Muéstrame tu verdadera arma.\nReflexionas durante un momento. ¿A qué arma podría estar refiriéndose el guardián? ¿Qué arma podría sobrevivir en un lugar como éste? La respuesta te llega de repente, clara como el día. Te señalas la sien, y Nasht asiente.\nMuy bien.</i></blockquote>\nAñade esta carta a la zona de victoria.<hr>\n<b>Si derrotaste a Nasht, lee lo siguiente:</b><i><blockquote>El guardián te rechaza con un leve gesto de la mano, y te ves lanzado contra la pared de la caverna.\n-Tus ojos me confunden con un débil anciano. Que te sirva de lección. No te fíes de tus ojos, porque te mentirán -Se hace a un lado para dejarte pasar.</i></blockquote>\nAñade esta carta a la zona de victoria."
+    },
+    {
+        "code": "06059",
+        "name": "Randolph Carter",
+        "subname": "Soñador experto",
+        "text": "Recibes +1 [combat] y +1 [agility].\n[reaction] Después de que sea revelado un símbolo [tablet] durante una prueba de habilidad en tu Lugar, agota a Randolph Carter: Roba 2 cartas.",
+        "traits": "Aliado. Soñador.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "06060",
+        "name": "Gug trabajador",
+        "text": "Cazador.\nEl Gug trabajador no puede entrar en El camino encantado.",
+        "traits": "Monstruo. Gug."
+    },
+    {
+        "code": "06061",
+        "name": "Zoog anciano",
+        "text": "<b>Aparición</b> - Cualquier Lugar Bosque Encantado (sin revelar si es posible).\nIndiferente.\n<b>Obligado</b> - Al comienzo de la fase de Enemigos, si el Zoog anciano está preparado: Añade 1 carta de multitud a cada Enemigo [[Zoog]] Multitud que haya en juego.",
+        "traits": "Criatura. Zoog. Élite."
+    },
+    {
+        "code": "06062",
+        "name": "Perdidos en el bosque",
+        "text": "Oleada.\n<b>Revelación</b> - Cada investigador que esté en un Lugar Bosque Encantado realiza una prueba de [willpower] (3). Cada investigador que fracase pierde 1 acción y recibe 1 punto de horror.",
+        "traits": "Equivocación."
+    },
+    {
+        "code": "06063",
+        "name": "Pesadilla consciente",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si estás enfrentado a un Enemigo [[Personal]].\n[cultist]: Revela otra ficha de Caos. Si fracasas y está en juego el plan 2 o 3, haz una prueba de infestación.\n[elder_thing]: -X. X es la cantidad de Lugares infestados.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si estás enfrentado a un Enemigo [[Personal]].\n[cultist]: Revela otra ficha de Caos. Si está en juego el plan 2 o 3, haz una prueba de infestación.\n[elder_thing]: -X. X es la cantidad de Lugares infestados más 1."
+    },
+    {
+        "code": "06064",
+        "name": "Salas de Santa María",
+        "flavor": "Una agobiante y siniestra sensación os invade mientras exploráis el Hospital de Santa María. Sus alas tienen una inquietante oscuridad, y están totalmente vacías salvo por algún auxiliar ocasional haciendo la ronda nocturna. Las Luces parpadean, y parece haber sombras corriendo de rincón en rincón. El laberinto de pasillos ha empezado a adoptar una imprecisión casi onírica. Uno de vosotros ve otra araña que le sube por la pierna y la aparta de un manotazo. Os preguntáis qué hace que aparezcan tan a menudo.",
+        "back_name": "Acontecimientos inquietantes",
+        "back_text": "Añade el mazo de Encuentros la pila de descartes de Encuentros, el conjunto de encuentros <i>Arañas</i> y todas las copias de Brote puestas aparte y barájalo.\nRoba la carta de Historia Comienza la infestación puesta aparte y resuelve su texto.",
+        "back_flavor": "Seguís explorando el hospital, y las cosas extrañas que habéis observado se vuelven cada vez más frecuentes. Densas telarañas oscuras cubren los rincones de todas las salas. Hay arañas correteando por paredes y techos que parecen surgir de ninguna parte y desvanecerse igual de rápido. No es producto de vuestra imaginación: se ha producido una infestación de arañas en el hospital. Y no son arañas cualquiera: son mayores que una araña media, con largas patas afiladas y serradas y grandes abdómenes peludos. Lo más preocupante aún tal vez sea la ausencia total de personal del hospital en las salas. Aparte de varios auxiliares asustados y recelosos, no veis a más miembros del personal, ni siquiera enfermeras o médicos. ¿Dónde ha ido todo el mundo?"
+    },
+    {
+        "code": "06065",
+        "name": "La infestación se extiende",
+        "text": "<b>Obligado</b> - Al final de la fase de Mitos: Haz una prueba de infestación.",
+        "flavor": "Una presencia monstruosa ha infectado el Santa María. Acecha en el interior de los muros y observa desde todas partes. En escasos minutos, ha tejido gruesas redes pegajosas por las salas que visitáis. Por todo el hospital, las luces se han apagado o parpadean, y algunos de los aparatos médicos más avanzados están rotos y cubiertos de telarañas.",
+        "back_name": "Se deshata la locura",
+        "back_text": "Busca cada Enemigo Auxiliar receloso que esté en juego y sustitúyelo por un Enemigo Auxiliar corrompido puesto aparte <i>(mantiene su estado de juego y todas las fichas y cartas Vinculadas que tenga)</i>.\nBusca en el mazo y la pila de descartes de Encuentros todas las copias de Auxiliar receloso y retíralas de la partida.\nAñade al mazo de Encuentros la pila de descartes de Encuentros, todos los Enemigos Auxiliar corrompido puestos aparte restantes y el conjunto de encuentros <i>Agentes de Atlach-Nacha</i> puesto aparte. A continuación, baraja el mazo de Encuentros.\n Añade 1 ficha [skull] y 1 ficha [cultist] a la bolsa de infestación.",
+        "back_flavor": "De repente, se desata el caos en el hospital. Se oyen ruidos de insectos y golpes en las paredes. En la oscuridad apenas distinguís las siluetas de extrañas criaturas de aspecto arácnido que corretean a lo lejos. Al doblar una esquina, veis a un auxiliar que se retuerce sobre el pulido suelo y se convulsiona con violencia como si lo poseyera una fuerza maligna. Corréis junto a él y lo ponéis boca arriba… Y descubrís que tiene casi todo el rostro cubierto de una espesa telaraña, y que sus ojos están vidriosos y abiertos como platos. Cuando lo sacudís, no reacciona."
+    },
+    {
+        "code": "06066",
+        "name": "El hospital de los horrores",
+        "text": "<b>Obligado</b> - Al final de la fase de Mitos: Haz una prueba de infestación.\nCada Enemigo [[Araña]] que esté en un Lugar infestado recibe +1 a combate y +1 a evitar.",
+        "flavor": "Todo el edificio ha quedado infestado por un siniestro mal: algo que no sigue las leyes de la naturaleza. Debéis encontrar algún modo de detenerlo… o de escapar antes de que también os consuma a vosotros.",
+        "back_name": "Huida a la desesperada",
+        "back_text": "Anota 8 marcas en la sección \"Peldaños del puente\" del registro de campaña.\n<b>(→R4)</b>",
+        "back_flavor": "La infestación ha engullido todo el hospital. No queda una sola habitación indemne. Corréis por los pasillos, tratando desesperadamente de encontrar una salida, pero no halláis más que paredes cubiertas de telarañas, víctimas envueltas en capullos de seda y personal del hospital muerto colgado del techo."
+    },
+    {
+        "code": "06067",
+        "name": "Buscando respuestas",
+        "flavor": "Algo no va bien con vuestros compañeros, y aunque la ciencia médica ha avanzado mucho, no logra identificar lo que les está ocurriendo. Habéis decidido poneros manos a la obra para averiguar qué pasa y arreglarlo.",
+        "back_name": "Una pista prometedora",
+        "back_text": "Pon en juego los Lugares Escalera y Puerta del sótano puestos aparte.\nComprueba el plan en curso.\n- Si está en juego el plan 2 o 3, haz una prueba de infestación.\n- Si está en juego el plan 1, avanza inmediatamente al plan 2.",
+        "back_flavor": "Entre los archivos del hospital, y retazos de conversaciones susurradas, lográis descubrir que hace poco hubo otro paciente en el hospital cuyo estado era un fiel reflejo del de vuestros amigos. Tras pasar semanas en coma, el paciente se despertó esta mañana de forma abrupta e inexplicable. Desconcertados, los médicos has puesto al paciente en cuarentena en alguna zona del sótano del hospital, bajo el pabellón oriental."
+    },
+    {
+        "code": "06068",
+        "name": "La búsqueda del paciente",
+        "text": "<b>Objetivo</b> - Si un investigador controla a Randolph Carter, haz avanzar el acto.",
+        "flavor": "Debéis descubrir dónde tienen a ese misterioso paciente. Si lográis encontrarlo y hablar con él, tal vez pueda daros respuestas sobre lo que les ocurre a vuestros amigos.",
+        "back_name": "La declaración de Carter",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.",
+        "back_flavor": "Tras algo de persuasión, lográis convencer al hombre rubio de que escuche vuestra historia. Cuando le explicáis lo que les ha sucedido a vuestros compañeros, parece entenderlo y sacude la cabeza de forma solemne: -Sabía que el tal Virgil causaría problemas. Ojalá le hubiera convencido de no escribir esa historia.\nLe preguntáis que a qué se refiere, y da un largo suspiro antes de explicarse: -Es todo cierto. Todo. Las Tierras del Sueño son reales. Y creo que algo está provocando que se estén mezclando con el mundo de la vigilia. Por eso está pasando todo esto -dice mientras señala las telarañas de los rincones de la sala-. Con vuestra ayuda, quizá logre evitar temporalmente que la infestación se extienda. Y después, podremos investigar este asunto más a fondo.\nSe levanta del catre y os estrecha la mano: -Por cierto, me llamo Randolph. Randolph Carter."
+    },
+    {
+        "code": "06069",
+        "name": "Conteniendo el brote",
+        "text": "Cada Lugar infestado obtiene: \"[action]: Realiza una prueba de [willpower] (X) para intentar cerrar la grieta. X es el velo de este Lugar. Los investigadores que estén en este Lugar pueden, como grupo, gastar 1 pista [per_investigator] para tener éxito automáticamente. Si tienes éxito, sustituye una ficha de Daño de este Lugar por una ficha de Horror. Durante el resto de la partida, este Lugar no puede quedar infestado\".\n<b>Objetivo</b> - Si no hay Lugares infestados en juego, haz avanzar el acto.",
+        "flavor": "Con ayuda de Randolph Carter, debéis intentar cerrar las grietas que se han abierto entre las Tierras del Sueño y el mundo de la vigilia.",
+        "back_name": "El próximo paso",
+        "back_text": "Comprueba el registro de campaña.\n- Si <i>la Dra. Maheswaran se unió a la investigación</i> y estaba en juego cuando acabó el escenario, <b>(→R1)</b>.\n- Si <i>la Dra. Maheswaran se unió a la investigación</i> y no estaba en juego cuando acabó el escenario, <b>(→R2)</b>.\n- Si <i>la Dra. Maheswaran se quedó con sus pacientes</i> , <b>(→R3)</b>.",
+        "back_flavor": "Tras cerrar la última grieta, la infestación cesa y el hospital vuelve a la normalidad. -Buen trabajo -dice Randolph-. Aun así, creo que es necesario seguir investigando este asunto. No sabemos qué ha provocado todo esto.\nLe recordáis que también está el tema de vuestros compañeros, que siguen sin despertar.\n-Sí, por supuesto. Eso también. Venid, vayamos a algún sitio privado donde podamos conversar sobre qué hacer a continuación. Por desgracia, no creo que aquí haya nada más que podamos hacer por ayudar a vuestros amigos.\nNo sabéis si, con ese \"aquí\", Randolph se refiera al \"hospital\" o a \"el mundo de la vigilia\". En cualquier caso, la situación no es halagüeña para vuestros compañeros."
+    },
+    {
+        "code": "06070",
+        "name": "Sala de espera",
+        "text": "Mientras la Sala de espera no esté infestada, obtiene: \"[action]: <b>Desistir.</b> Huyes del hospital dejando atrás a tus compañeros.\"",
+        "flavor": "En el ángulo de las ventanas, unas redes de seda recorren el cristal, casi como si se tejerán solas. ¿Estaban ahí cuando llegaste…?",
+        "back_flavor": "La sala de espera del hospital es agradable, pero aburrida, con varias filas de bancos y sillas. Cerca de ellos hay una pequeña estantería con diverso material de lectura, la mayoría del cual parece terriblemente monótono.",
+        "traits": "Hospital de Santa María."
+    },
+    {
+        "code": "06071",
+        "name": "Sala de urgencias",
+        "text": "Mientras estés en la Sala de urgencias, cada una de tus pruebas de habilidad recibe +1 a su dificultad por cada carta asignada a ella.",
+        "flavor": "Esta sala contiene las consecuencias de lo que debió de ser un ingreso truculento. El colchón del centro de la sala está cubierto de salpicaduras de sangre seca, y hay suministros médicos como vendas, gasas y jeringuillas diseminadas por el suelo.",
+        "back_flavor": "Te asomas al pabellón de urgencias y descubres varias habitaciones más aparte de la que alberga a tus compañeros.",
+        "traits": "Hospital de Santa María."
+    },
+    {
+        "code": "06072",
+        "name": "Pabellón de las terapias experimentales",
+        "text": "[reaction] Cuando investigues el Pabellón de las terapias experimentales, recibe 1 punto de horro: El Pabellón de las terapias experimentales recibe -2 a velo para esta investigación.",
+        "flavor": "Esta sala está llena de camas, y todas están separadas por cortinas. Junto a cada cama hay aparatos de alta tecnología, listos para administrar todo tipo de tratamientos radicales.",
+        "back_flavor": "De este pasillo cuelga un letrero que dice \"Terapias experimentales\". No estás seguro de los tipos de remedios con los que experimenta el personal del Santa María, y tampoco estás seguro de querer saberlo.",
+        "traits": "Hospital de Santa María."
+    },
+    {
+        "code": "06073",
+        "name": "Oficina de archivos",
+        "text": "[action] [action] [action] Si no estás enfrentado a ningún Enemigo: De una en una, realiza 4 acciones de investigar básicas.",
+        "flavor": "Las paredes de esta sala están cubiertas estante tras estante de archivadores. Por algún extraño motivo, están completamente empapados. Ves que del techo gotea agua y que se ha derrumbado parcialmente debido al moho y la putrefacción. A cada paso que das, se te pegan telarañas en los zapatos.",
+        "back_flavor": "Junto a la puerta de esta sala hay una placa que dice: \"ARCHIVOS\".\nBajo ella, otro letrero advierte: \"SÓLO PARA EL PERSONAL\".",
+        "traits": "Hospital de Santa María."
+    },
+    {
+        "code": "06074",
+        "name": "Escalera",
+        "text": "[reaction] Después de que entres en la Escalera desde un Lugar que no sea [[Sótano]]: Muévete a un Lugar [[Sótano]]. A continuación, realiza una prueba de [agility] (4). Si fracasas, recibe 2 puntos de daño.\n<b>Obligado</b> - Después de que la Escalera quede infestada: Realiza una prueba de infestación.",
+        "back_flavor": "Tras el pabellón de terapias experimentales hay una puerta sin letrero alguno que da a una oscura escalera que se adentra en el hospital.",
+        "traits": "Hospital de Santa María."
+    },
+    {
+        "code": "06075",
+        "name": "Morgue",
+        "text": "[action]: Realiza una prueba de [willpower] (3). Si tienes éxito, descubre 1 pista en este Lugar. Si fracasas, recibe 1 punto de horror.\n<b>Obligado</b> - Después de que se descubra la última pista de la Morgue: Realiza una prueba de infestación.",
+        "flavor": "Eso no parece humano.",
+        "back_name": "Puerta del sótano",
+        "back_flavor": "Una de las distintas puertas de madera sin identificar que hay en el frío y mohoso sótano el Hospital de Santa María.",
+        "traits": "Hospital de Santa María. Sótano."
+    },
+    {
+        "code": "06076",
+        "name": "Sala de operaciones",
+        "text": "[action] [action]: Elige a un investigador que esté en tu Lugar y realiza una prueba de [intellect] (4). Si tienes éxito, cúrale 3 puntos de daño a ese investigador. Si fracasas, inflígele 1 punto de daño a ese investigador.",
+        "flavor": "Parece como si hubieran abandonado esta sala en mitad de una operación. Sobre la mesa de operaciones hay un paciente muerto que está totalmente tapado por una sábana… salvo por las arácnidas patas que emergen del cuerpo del paciente.",
+        "back_name": "Puerta del sótano",
+        "back_flavor": "Una de las distintas puertas de madera sin identificar que hay en el frío y mohoso sótano el Hospital de Santa María.",
+        "traits": "Hospital de Santa María. Sótano."
+    },
+    {
+        "code": "06077",
+        "name": "Habitación privada",
+        "text": "[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (2). Si tienes éxito, realiza una prueba de [intellect] (2). Si tienes éxito, los investigadores que estén en este Lugar pueden, como grupo, gastar 1 pista [per_investigator] para darle el control del Apoyo Randolph Carter puesto aparte a un investigador que esté en este Lugar.",
+        "flavor": "El paciente que estaba buscando está sentado en una cama en el centro de esta oscura habitación. Le preguntáis por su enfermedad, pero se limita a contestar: -¿Por qué debería ayudaros? De todas formas, jamás me creeríais.",
+        "back_name": "Puerta del sótano",
+        "back_flavor": "Una de las distintas puertas de madera sin identificar que hay en el frío y mohoso sótano el Hospital de Santa María.",
+        "traits": "Hospital de Santa María. Sótano."
+    },
+    {
+        "code": "06078",
+        "name": "Comienza la infestación…",
+        "text": "Coloca 1 ficha de daño sobre el Lugar que tenga más pistas, o bien sobre 2 Lugares que tengan más pistas si hay 3 o 4 investigadores en la partida. Durante el resto del escenario, las fichas de Daño que haya sobre los Lugares representan la infestación que se extiende. Cada Lugar que tenga una ficha de Daño es un Lugar \"infestado\".\nPrepara una bolsa aparte que contenga las siguientes fichas: [skull], [tablet], [tablet], [tablet], [tablet], [cultist], [cultist] (si no tienes una segunda bolsa, emplea un cubilete, una taza o cualquier otro recipiente opaco). Ésta es la bolsa de infestación, y las fichas son fichas de Infestación en lugar de ser fichas de Caos.\nAlgunas capacidades indicarán a los jugadores que realicen una prueba de infestación. Una prueba de infestación puede hacer que la infestación se extienda a otros Lugares o poner en peligro a los investigadores que estén en Lugares infestados. Para resolver una prueba de infestación, un investigador debe revelar una ficha de Infestación aleatoria de la bolsa de infestación y resolver los efectos de dicha ficha siguiendo las indicaciones del otro lado de esta carta.\nDale la vuelta a esta carta y colócala junto a la cara de referencia de escenario.",
+        "back_name": "Prueba de infestación",
+        "back_text": "<i>Usa estos resultados únicamente al revelar fichas de infestación de la bolsa de infestación.</i>\n[skull]: Pon aparte esta ficha. Busca en el mazo y la pila de descartes de Encuentros un Enemigo  [[Araña]] y haz que aparezca en el Lugar infestado más cercano a cualquier investigador.\n[tablet]: Pon aparte esta ficha.\n[cultist]: Pon aparte esta ficha. Elige un Lugar conectado a un Lugar infestado. Ese Lugar queda infestado <i>(coloca una ficha de Daño sobre él para indicarlo).</i> A continuación, si hay 2 o más fichas [cultist] puestas aparte, devuelve a la bolsa de infestación todas las fichas de infestación puestas aparte."
+    },
+    {
+        "code": "06079",
+        "name": "Randolph Carter",
+        "subname": "Encadenado al mundo de la vigilia",
+        "text": "Recibes +1 [willpower] y +1 [intellect].\n[reaction] Después de que sea revelado un símbolo [elder_thing] durante una prueba de habilidad en tu Lugar, agota a Randolph Carter: Roba 2 cartas.",
+        "traits": "Aliado. Soñador.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "06080",
+        "name": "Dra. Shivani Maheswaran",
+        "subname": "Médica de urgencias",
+        "text": "[free] Agota a la Dra. Shivani Maheswaran: Evita automáticamente a un Auxiliar receloso enfrentado.\n[reaction] Cuando un investigador revele un símbolo [skull] o [cultist] en una ficha de infestación, retira a la Dra. Shivani Maheswaran de la partida: Cancela esa ficha y devuélvela a la bolsa de infestación.",
+        "traits": "Aliado. Médico."
+    },
+    {
+        "code": "06081",
+        "name": "Auxiliar receloso",
+        "text": "Cazador.\nEl Auxiliar receloso no puede atacar, ser atacado ni ser infligido daño.\nMientras el Auxiliar receloso esté enfrentado a ti, no puedes investigar.",
+        "traits": "Humanoide. Personal."
+    },
+    {
+        "code": "06082",
+        "name": "Auxiliar corrompido",
+        "text": "Cazador.\n<b>Obligado</b> - Cuando el Auxiliar corrompido se le inflija 1 o más puntos de daño mientras está en un Lugar infestado: Cancela 1 punto de ese daño.",
+        "traits": "Humanoide. Personal. Araña."
+    },
+    {
+        "code": "06083",
+        "name": "Brote",
+        "text": "<b>Revelación</b> - Realiza una prueba de infestación. Si estás en un Lugar infestado, considera cada ficha [tablet] que reveles como si fuera una ficha [skull] en su lugar.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "06084",
+        "name": "Tejedora gris",
+        "text": "<b>Presa</b> - Menor [agility].\nCazador.\nMientras la Tejedora gris esté preparada, cada investigador que esté en su Lugar no puede realizar acciones de movimiento.",
+        "traits": "Monstruo. Araña."
+    },
+    {
+        "code": "06085",
+        "name": "Voluntad de la madre araña",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si hay un Enemigo [[Araña]] en tu Lugar, no puedes asignar cartas a esta prueba de habilidad. Si fracasas, no puedes ni atacar ni investigar hasta el final de la ronda.",
+        "traits": "Poder."
+    },
+    {
+        "code": "06086",
+        "name": "La niebla reptante",
+        "text": "<b>Presa</b> - Más cartas en la mano.\nCazador. Descomunal.\nAumenta la dificultad para que ataques o intentes evitar a La niebla reptante en 1 por cada carta que tengas en la mano que tenga el dorso de carta de Encuentro.",
+        "traits": "Monstruo. Avatar."
+    },
+    {
+        "code": "06087",
+        "name": "Ley de 'Ygiroth",
+        "subname": "Caos",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\nNo puedes jugar cartas ni activar capacidades de cartas de Jugador que tengan un coste de recursos impreso impar.\n[action] Descarta de tu mano una carta de Jugador que tenga un coste de recursos impreso par: Descarta esta carta de tu mano.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06088",
+        "name": "Ley de 'Ygiroth",
+        "subname": "Discordia",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\nNo puedes asignar cartas a pruebas de habilidad que tengan una cantidad total impar de iconos de habilidad en ellas.\n[action] Descarta de tu mano una carta que tenga una cantidad total par de iconos de habilidad: Descarta esta carta de tu mano.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06089",
+        "name": "Ley de 'Ygiroth",
+        "subname": "Pandemonio",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\nNo puedes jugar cartas que tengan una cantidad impar de palabras en su nombre ni tampoco asignarlas a pruebas de habilidad <i>(una palabra es cualquier conjunto de caracteres separados por espacios)</i>.\n[action] Descarta de tu mano una carta de Jugador que tenga una cantidad par de palabras en su nombre: Descarta esta carta de tu mano.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06090",
+        "name": "Susurros de Hipnos",
+        "text": "Peligro.\n<b>Revelación</b> - Elige una habilidad ([willpower], [intellect], [combat] o [agility]). Durante el resto de la ronda, cada investigador recibe -2 a la habilidad elegida. No puedes elegir una habilidad que ya haya sido elegida por una copia de este efecto en esta ronda.",
+        "flavor": "\"…ningún dios ni demonio podía haber aspirado a descubrimientos y conquistas como los que nosotros planeábamos en voz baja.\"\n– H. P. Lovecraft, \"Hipnos\"",
+        "traits": "Terror."
+    },
+    {
+        "code": "06091",
+        "name": "Ghast cazador",
+        "text": "Cazador.\n<b>Presa</b> - Más daño.\n<b>Obligado</b> - Después de que el Ghast cazador entre en un Lugar que tenga un Enemigo [[Gug]]: Prepara todos los Enemigos [[Gug]] que estén en su Lugar e inflige 1 punto de daño al Ghast cazador.",
+        "traits": "Humanoide. Monstruo. Ghast."
+    },
+    {
+        "code": "06092",
+        "name": "Gug pesado",
+        "text": "<b>Obligado</b> - Después de que el Gug pesado se agote: No se prepara durante la siguiente fase de Mantenimiento.",
+        "traits": "Monstruo. Gug."
+    },
+    {
+        "code": "06093",
+        "name": "Maldición del soñador",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (5). Por cada punto que te falte para tener éxito, recibe 1 punto de daño, hasta un máximo de 3 puntos de daño. A efectos de contar iconos asignados a esta prueba de habilidad, los iconos [intellect], [combat] y [agility] cuentan como iconos apropiados, y los iconos [willpower] y [wild] cuentan como 2 iconos apropiados.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "06094",
+        "name": "Somnifobia",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (5). Por cada punto que te falte para tener éxito, recibe 1 punto de horror, hasta un máximo de 3 puntos de horror. A efectos de contar iconos asignados a esta prueba de habilidad, los iconos [intellect], [combat] y [agility] cuentan como iconos apropiados, y los iconos [willpower] y [wild] cuentan como 2 iconos apropiados.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06095",
+        "name": "Sueño profundo",
+        "text": "<b>Revelación</b> - Pon el Sueño profundo en juego en tu zona de amenaza.\nTu tamaño de mano máximo se reduce en 3 y se comprueba cada vez que robes 1 o más cartas.\n[action][action]: Descarta el Sueño profundo.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "06096",
+        "name": "Eclipse en las Tierras del Sueño",
+        "text": "<b>Revelación</b> - Pon el Eclipse en las Tierras del Sueño en juego junto al mazo de Plan.\n<b>Obligado</b> - Cuando inicies una investigación: Debes recibir 1 punto de horror, o bien tu Lugar recibe +2 a velo para esta investigación.\n<b>Obligado</b> - Al final de la ronda: Descarta el Eclipse en las Tierras del Sueño.",
+        "traits": "Poder."
+    },
+    {
+        "code": "06097",
+        "name": "Fenómeno prismático",
+        "text": "<b>Revelación</b> - Pon el Fenómeno prismático en juego en tu zona de amenaza.\nLa primera vez que realices una de las siguientes acciones (robar, recursos o jugar) cada ronda, te cuesta 1 acción adicional.\n<b>Obligado</b> - Después de que investigues con éxito un Lugar: En lugar de descubrir pistas, descarta el Fenómeno prismático.",
+        "traits": "Poder."
+    },
+    {
+        "code": "06098",
+        "name": "Terrores nocturnos",
+        "text": "<b>Revelación</b> - Pon los Terrores nocturnos en juego en tu zona de amenaza.\n<b>Obligado</b> - Después de que fracases en una prueba de habilidad: Revela las 3 primeras cartas de tu mazo. Roba todas las Debilidades reveladas de este modo y retira las demás cartas de la partida.\n[action] Si los Terrores nocturnos están en tu zona de amenaza: Realiza una prueba de [willpower] (4). Después de que termine, descarta los Terrores nocturnos <i>(incluso si fracasas)</i>.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06099",
+        "name": "Atisbo del mundo subterráneo",
+        "text": "<b>Revelación</b> - Pon el Atisbo del mundo subterráneo en juego en tu zona de amenaza.\n<b>Obligado</b> - Cuando fueses a recibir daño y/u horror: Recibe 1 punto adicional de daño y/u horror.\n[free]: Descarta el Atisbo del mundo subterráneo. A continuación, recibe 1 punto de daño y 1 punto de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06100",
+        "name": "Hilos de la realidad",
+        "text": "<b>Revelación</b> - Vincula esta carta al Apoyo que no sea Permanente ni Debilidad con mayor coste impreso que controles. Si no es así, los Hilos de la realidad obtienen Oleada.\nConsidera el cuadro de texto de reglas impreso del Apoyo vinculado como si estuviera en blanco (excepto los [[Rasgos]] y las capacidades Obligado).\n[action] Descarta un Apoyo que controles: Descarta los Hilos de la realidad.",
+        "traits": "Poder."
+    },
+    {
+        "code": "06101",
+        "name": "Araña de Leng",
+        "text": "<b>Obligado</b> - Cuando acabe la fase de Enemigos: Añade 1 carta de multitud a cada Enemigo Colonia de arañas que haya en juego. Si no hay Enemigos Colonia de arañas en juego, busca en el mazo y la pila de descartes de Encuentros un Enemigo Colonia de arañas y haz que aparezca en el Lugar de la Araña de Leng sin cartas de multitud.",
+        "traits": "Monstruo. Araña."
+    },
+    {
+        "code": "06102",
+        "name": "Colonia de arañas",
+        "text": "Multitud 2.\nX es igual a la cantidad de Enemigos Colonia de arañas que haya en este Lugar <i>(incluyendo las cartas de multitud)</i>.",
+        "traits": "Criatura. Araña."
+    },
+    {
+        "code": "06103",
+        "name": "Redes nauseabundas",
+        "text": "<b>Revelación</b> - Vincula esta carta a tu Lugar.\nCada Enemigo [[Araña]] que esté en el Lugar vinculado obtiene Represalia y Alerta. Los investigadores no pueden salir del Lugar vinculado.\n[action]: Realiza una prueba de [combat] (3) o de [agility] (3). Si tienes éxito, descarta las Redes nauseabundas.",
+        "traits": "Obstacle."
+    },
+    {
+        "code": "06104",
+        "name": "Perseguido por corsarios",
+        "text": "<b>Revelación</b> - Vincula Perseguido por corsarios al acto en curso.\n<b>Obligado</b> - Cuando el acto avance: Cada investigador recibe 2 puntos de daño.\nEl acto vinculado obtiene: \"[action]: Realiza una prueba de [intellect] (4) para engañar a los corsarios o de [agility] (4) para darles esquinazo. Si tienes éxito, descarta Perseguido por corsarios.\"",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "06105",
+        "name": "Corsario de Leng",
+        "text": "<b>Aparición</b> - Lugar [[Ciudad]] o [[Superficie]] más cercano.\nAlerta.\n<b>Obligado</b> - Después de que el Corsario de Leng ataque mediante su palabra clave Alerta: Recibe -3 a evitar durante el rsto de la fase.",
+        "traits": "Humanoide. Monstruo."
+    },
+    {
+        "code": "06106",
+        "name": "Zoog furtivo",
+        "text": "<b>Aparición</b> - Enfrentado con el investigador que esté en tu Lugar con menos [combat].\n<b>Presa</b> - Menor [combat].\nRepresalia. Multitud 1.",
+        "flavor": "\"…a pesar de que se alimentan principalmente de hongos, se dice que también les atrae la carne…\"\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Criatura. Zoog."
+    },
+    {
+        "code": "06107",
+        "name": "Zoog sigiloso",
+        "text": "<b>Aparición</b> - Enfrentado con el investigador que esté en tu Lugar con menos [agility].\n<b>Presa</b> - Menor [agility].\nAlerta. Multitud 1.",
+        "flavor": "\"…cuyos ojos espectrales destacan en la oscuridad mucho antes de que puedan distinguirse sus siluetas oscuras, desmedradas y escurridizas.\"\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Criatura. Zoog."
+    },
+    {
+        "code": "06108",
+        "name": "Zoog discreto",
+        "text": "<b>Aparición</b> - Cualquier Lugar conectado.\nCazador. Multitud 2.\n<b>Obligado</b> - Cuando el Zoog discreto sea derrotado: Cancela todo el daño sobrante y mueve todas sus cartas anfitrionas a de multitud a un Lugar conectado, agotadas..",
+        "flavor": "\"La mayoría vive en madrigueras, aunque algunos habitan en los troncos de los grandes árboles…\"– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Criatura. Zoog."
+    },
+    {
+        "code": "06109",
+        "name": "Madriguera Zoog",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (3). Por cada punto que te falte para tener éxito, añade 1 carta de multitud al Enemigo [[Zoog]] Multitud más cercano. Si fracasas y no hay ningún Enemigo así en juego, busca un Enemigo [[Zoog]] en el mazo y pila de descartes de Encuentros, róbalo y baraja el mazo de Encuentros.",
+        "traits": "Riesgo."
+    }
+]

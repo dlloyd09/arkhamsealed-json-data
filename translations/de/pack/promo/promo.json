@@ -1,0 +1,25 @@
+[
+    {
+        "code": "99001",
+        "name": "Marie Lambeau",
+        "subname": "Das Showgirl",
+        "text": "Solange du 1 oder mehr Verderben auf Karten hast, die du kontrollierst, darfst du während deines Zuges eine zusätzliche Aktion nehmen, die nur zum Spielen einer [[Zauber]]-Karte oder zum Aktivieren einer [action]-Fähigkeit eines [[Zaubers]] verwendet werden kann.\n[elder_sign]-Effekt: +1. Du darfst einer Karte, die du kontrollierst, 1 Verderben hinzufügen oder von einer Karte, die du kontrollierst, 1 Verderben entfernen.",
+        "traits": "Performer. Zauberer.",
+        "back_flavor": "Marie Lambeau hatte schon immer eine überirdisch schöne Stimme. Viele beschrieben sie als „rauchiger Samt“. Man sagte, sie sei geboren, um Jazzmusik zu machen, dass sie einen großen Zauber hätte - und vielleicht hatten die Menschen damit auch recht. Schließlich hörte sie seit dem Tod ihrer Grand-Mère in ihren Träumen Lieder, die mit nichts zu vergleichen waren, was sie in dieser Welt je gehört hat. Die Texte schienen in keiner irdischen Sprache verfasst zu sein, die Melodien wirkten verdreht und verzerrt. Den wahren Grund für Grand-Mères Umzug von Newo Orleans nach Arkham würde Marie wohl nie erfahren. Es gab Menschen, die ihre Grand-Mère als Hexe bezeichneten. Vielleicht pulsiert mehr als nur der Jazz in Maries Blut…",
+        "back_text": "<b>Deckgröße</b>: 30.\n<b>Deckbau-Optionen</b>: [[Zauber]]-Karten Stufe 0-5, Mystikerkarten ([mystic]) Stufe 0-3, Neutrale Karten Stufe 0-5, [[Okkult]]-Karten Stufe 0, bis zu 5 andere Sucher- und/oder Überlebenderkarten ([seeker] und/oder [survivor]) Stufe 0.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Rätselhaftes Lied, Baron Samedi, 1 zufällige Grundschwäche."
+    },
+    {
+        "code": "99002",
+        "name": "Rätselhaftes Lied",
+        "text": "Nur für das Deck von Marie Lambeau.\nSchnell. Spiele diese Karte, sobald die Agenda durch das Erreichen des Verderbensschwellenwertes vorrücken würde.\nBis zum Ende der Phase kann die Agenda nicht durch das Erreichen des Verderbensschwellenwertes vorrücken. Entferne Rätselhaftes Lied aus dem Spiel.",
+        "traits": "Zauber. Lied."
+    },
+    {
+        "code": "99003",
+        "name": "Baron Samedi",
+        "subname": "Herr des Friedhofs",
+        "text": "<b>Enthüllung</b> - Bringe Baron Samedi ins Spiel. Er kann das Spiel nicht verlassen, solange sich weniger als 3 Verderben auf ihm befinden.\n<b>Erzwungen</b> – Sobald eine beliebige Menge Schaden auf einem Ermittler an Baron Samedis Ort platziert wird: Platziere 1 zusätzlichen Schaden auf jenem Ermittler.\n[free] Erschöpfe Baron Samedi: Platziere 1 Verderben auf Baron Samedi. Falls sich 3 oder mehr Verderben auf ihm befinden, lege ihn ab.",
+        "traits": "Avatar.",
+        "slot": "Verbündeter"
+    }
+]

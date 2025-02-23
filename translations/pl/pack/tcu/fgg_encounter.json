@@ -1,0 +1,257 @@
+[
+    {
+        "code": "05197",
+        "name": "Dla większego dobra",
+        "text": "<b>Łatwy / Standardowy</b>\n[skull]: -X. X to najwyższa liczba żetonów zagłady na obecnym w grze wrogu z cechą [[Kultysta]].\n[cultist]: -2. Odkryj nowy żeton.\n[tablet]: -3. Jeśli test zakończy się porażką, umieść 1 żeton zagłady na najbliższym wrogu z cechą [[Kultysta]].\n[elder_thing]: -3. Jeśli test zakończy się porażką, porusz 1 żeton zagłady z najbliższego wroga z cechą [[Kultysta]] na obecną tajemnicę.",
+        "back_text": "<b>Trudny / Ekspercki</b>\n[skull]: -X. X to łączna liczba żetonów zagłady na wrogach z cechą [[Kultysta]] w grze.\n[cultist]: -2. Odkryj nowy żeton.\n[tablet]: -3. Jeśli test zakończy się porażką, umieść 1 żeton zagłady na każdym wrogu z cechą [[Kultysta]] w grze. Jeśli w grze nie ma żadnych wrogów z cechą [[Kultysta]], odkryj nowy żeton.\n[elder_thing]: -3. Jeśli test zakończy się porażką, porusz na obecną tajemnicę wszystkie żetony zagłady z wroga z cechą [[Kultysta]] z największą liczbą żetonów zagłady. Jeśli na żadnym wrogu z cechą [[Kultysta]] w grze nie ma żetonów zagłady, odkryj nowy żeton."
+    },
+    {
+        "code": "05198",
+        "flavor": "ADAPT YOUR BELIEFS AND BE OPEN TO NEW TRUTHS.\nYOU ARE EXPECTED TO CONFORM.\nDO NOT STRAY FROM THE PATH.",
+        "name": "THE HIEROPHANT · V",
+        "text": "<b>Forced</b> - When you defeat a [[Silver Twilight]] enemy: You leave behind some evidence of the scuffle. Move 1 doom from each enemy at that location to the current agenda.",
+        "back_name": "Meeting of Minds",
+        "back_flavor": "As you explore the building, you almost wander into a heated debate between several members of the Lodge in a nearby hallway. Seeing an opportunity to learn more, you hide and eavesdrop on the conversation. \"Mr. Sanford's orders are to complete the geist-trap at any cost,\" one of them says firmly. \"If that means we must put lives in danger, so be it. The good of the many outweigh the good of the few; you know this.\"\nAnother member, a woman, pounds her fist on the wall.\"No! Our first resort cannot be to spill blood. There must be another way.\"\n\"There is no time,\" the other responds, and there is a murmur of agreement among the rest. \"It is clear you do not have the will to proceed. Take her away. We will make her see for herself the sacrifices that must be made for the greater good.\"\n\"No! You can't do this!\" the woman yells. You wince as her screams echo down the corridor. What are they planning to do?",
+        "back_text": "Discard the top 5 cards of the encounter deck. In player order, each investigator must draw a [[Cultist]] enemy discarded in this way."
+    },
+    {
+        "code": "05199",
+        "flavor": "The Lodge will resort to drastic measures in order to achieve their goals. If you don’t act quickly, blood will surely be shed.",
+        "name": "Ends and Means",
+        "text": "Each [[Silver Twilight]] enemy in a [[Sanctum]] location loses aloof.\n<b>Forced</b> - When you defeat a [[Silver Twilight]] enemy: You leave behind some evidence of the scuffle. Move 1 doom from each enemy at that location to the current agenda.",
+        "back_name": "The Greater Good",
+        "back_text": "<b>Revelation</b> - Replace the act and agenda decks with The Greater Good. Spawn the set-aside Summoned Beast at the Puzzle Box's location (or any [[Sanctum]] location if the Puzzle Box is not in play) and remove the Puzzle Box from the game."
+    },
+    {
+        "code": "05200",
+        "flavor": "You have arrived at the Lodge’s manor in French Hill to see if they can help you piece together the evidence you’ve collected. Perhaps you can even speak with the president of the Lodge again. But as you approach the manor, you begin to wonder if this was a test of your loyalty all along.",
+        "name": "Warm Welcome",
+        "back_name": "The Initiation",
+        "back_flavor": "\"Ah, it's you.\" You are approached by a member of the Lodge whom you recognize: one of Carl Sanford's bodyguards from your previous meeting with the president. \"I regret to inform you that Mr. Sanford and the other members of the Lodge are busy with an important task at the moment. I would suggest you come back at a later time.\" You tell the man that your task is important, and offer to help in return for a meeting with Mr. Sanford. He considers you for a moment, then nods. \"All right. We are attempting to open a device which we believe will help us bind the revenant you encountered earlier. You'll want to speak with Nathan Wick if you want to help. You can find him in the library upstairs.\" You thank him and turn to leave, but he grabs your arm and stops you, adding one final warning: \"You should know that we intend to open this device at any cost. If you cannot stomach the consequences, once again, I suggest you leave.\"",
+        "back_text": "If the Library is not in play, put it into play.\nSpawn the set-aside Nathan Wick enemy in the Library, <i>(Master of Initiation)</i> side faceup. Attach the set-aside Puzzle Box story asset to him."
+    },
+    {
+        "code": "05201",
+        "flavor": "The Lodge is up to something - you’re sure of it. You’re not sure exactly what their plans entail, but your suspicions have proven correct so far. You have decided to sneak into the Lodge’s manor in French Hill to learn what they are plotting.",
+        "name": "Infiltrating the Lodge",
+        "text": "[reaction] After you evade an enemy: Remove all doom from it.",
+        "back_name": "The Indoctrination",
+        "back_flavor": "At first, your investigation yields few answers. There is indeed a meeting of some sort happening at the manor tonight, though you're not sure why. Finally, you catch a break. On a nearby table, a written summons explains the reason for tonight's gathering:\n\"Our timetable has moved forward. We must complete the trap by midnight tonight. The device we found will aid us in binding the revenant, so it is imperative that we find a way to open it before the ceremony begins. We have no time to waste with prudence or cowardice. Report to Nathan Wick in the sanctum at once.\"\nYou are left with more questions than answers.",
+        "back_text": "If the Inner Sanctum is not in play, put it into play.\nSpawn the set-aside Nathan Wick enemy in the Inner Sanctum, <i>(Master of Indoctrination)</i> side faceup. Attach the set-aside Puzzle Box story asset to him.\nFor the remainder of the game, the current act gains \"[reaction] After you evade an enemy: Remove all doom from it.\" Place this card next to the act deck as a reminder, then advance to act 2a."
+    },
+    {
+        "code": "05202",
+        "flavor": "Whatever the Lodge is planning, it involves a \"device\" they will do anything to open. It seems a Lodge member by the name of Nathan Wick holds the device at the moment. One way or another, you have to get your hands on it.",
+        "name": "Obtaining the Device",
+        "text": "<b>Objective</b> - If Nathan Wick is added to the victory display by any means, choose an investigator to take control of the attached Puzzle Box, and advance.",
+        "back_name": "The Puzzle Box",
+        "back_text": "<b>If you advanced by defeating Nathan Wick:</b>\n<blockquote><i>You quickly pry the device from Nathan's hands and flee before you are noticed.</i></blockquote><hr><b>If you advanced by evading Nathan Wick:</b>\n<blockquote><i>You wait until Nathan is not looking, then sweep in and steal the device from the table next to him. You are long gone by the time he realizes it is missing.</i></blockquote><hr><b>If you advanced by parleying with Nathan Wick:</b>\n<blockquote><i>\"All right, listen,\" Nathan explains quietly. \"Truth is, there probably is a safer way for us to open the device. This building holds many secrets; more than you could possible know. But time is running thin, and Mr. Sanford wants it open by midnight. If you can open it before then, great. If not, well... If I were you, I wouldn't be around it when we try to force it open.\" He hands you the device and walks away, leaving you in silence.</i></blockquote>"
+    },
+    {
+        "code": "05203",
+        "flavor": "The \"device\" is nothing more than a locked puzzle box, just about large enough to hold a pair of shoes. The diagram on its surface depicts a broken pattern which can be manipulated to no apparent end, and there does not appear to be a keyhole of any kind.",
+        "name": "The Four Keys",
+        "text": "<b>Objective</b> - If investigators at the same location control the Puzzle Box, the [skull] key, the [cultist] key, the [tablet] key, and the [elder_thing] key, advance.",
+        "back_name": "Opening the Box",
+        "back_flavor": "Though the box itself seems to fight you at every turn, with all four key components in your possession, you finally manage to piece together how to open the contraption. First, you twist and contort the box's many mechanical devices until the image on its lid lines up perfectly with the diagram in your possession ([tablet]). Next, you chant the Latin incantation inscribed on the small wooden plaque you found ([cultist]). It takes a few tries to get it right, but eventually you hear a click as the surface of the wooden container shifts and changes. A round indentation has appeared on the side of the box, matching the size of your mysterious block onyx coin ([elder_thing]). As soon as you place the coin inside, another wooden panel opens on the other side, revealing a keyhole. Finally, you insert the key of bone ([skull]) into the keyhole and turn it. The lid begins to open, and suddenly the entirety of the room is engulfed in a rush of air as all light, color, sound, and matter is sucked into the box.",
+        "back_text": "Check Campaign Log.\n- <i>If the investigators are members of the Lodge,</i> <b>(→R1)</b>.\n- Otherwise, <b>(→R2)</b>."
+    },
+    {
+        "code": "05204",
+        "flavor": "Główna siedziba Loży Srebrnego Świtu mieści się we wspaniałej, wiktoriańskiej posiadłości w dzielnicy French Hill, górującej nad większą częścią miasta. Światło przenika przez kolorowe szkło jej dużych, wykończonych witrażami drzwi.",
+        "name": "Wrota Loży",
+        "subname": "Czekaliśmy na was",
+        "text": "Wrogowie nie mogą być rozstawiani we Wrotach Loży.\n[action]: <b>Rezygnacja.</b> Przychodzenie tu chyba jednak nie było dobrym pomysłem.",
+        "traits": "Loża.",
+        "back_flavor": "Kiedy podchodzisz do wrót rezydencji Loży w dzielnicy French Hill, ze zdziwieniem dostrzegasz kilka automobili zaparkowanych na pobliskiej ulicy. Światło błyszczy w części okien budynku. Czyżby tego wieczora zorganizowano tu jakieś spotkanie?"
+    },
+    {
+        "code": "05205",
+        "flavor": "Główna siedziba Loży Srebrnego Świtu mieści się we wspanialej, wiktoriańskiej posiadłości w dzielnicy French Hill, górującej nad większą częścią miasta. Światło przenika przez kolorowe szkło jej dużych, wykończonych witrażami drzwi.",
+        "name": "Wrota Loży",
+        "subname": "Wstęp tylko dla członków",
+        "text": "Wrogowie nie mogą być rozstawiani we Wrotach Loży.\n[action]: <b>Rezygnacja.</b> Przychodzenie tu chyba jednak nie było dobrym pomysłem.",
+        "traits": "Loża.",
+        "back_flavor": "Kiedy podchodzisz do wrót rezydencji Loży w dzielnicy French Hill, ze zdziwieniem dostrzegasz kilka automobili zaparkowanych na pobliskiej ulicy. Światło błyszczy w części okien budynku. Czyżby tego wieczora zorganizowano tu jakieś spotkanie?"
+    },
+    {
+        "code": "05206",
+        "flavor": "Strażnicy odsuwają się na bok i pozwalają ci wejść do przedsionka. „Pan Sanford pana oczekiwał” - dodaje tajemniczo jeden z nich. Wnętrze rezydencji jest czyste i zadbane. Zresztą niczego innego nie spodziewałeś się po najbardziej prestiżowym klubie towarzyskim w Arkham. Drewniane ściany zdobią tabliczki, obrazy i inne drobiazgi świadczące o długiej i barwnej historii Loży.",
+        "name": "Przedsionek",
+        "subname": "Czekaliśmy na was",
+        "traits": "Loża.",
+        "back_flavor": "Frontowe wejście do rezydencji Loży jest pilnowane przez dwóch mężczyzn w trenczach, którzy kiwają ci głowami na powitanie.",
+        "back_text": "Drzwi prowadzące do Loży Srebrnego Świtu są strzeżone. Nie możesz wejść do Przedsionka.\nWrota Loży zyskują: „[action]: <b>Pertraktacje.</b> Strażnicy rozpoznają was z posiadłości Meigera i pozwalają wam wejść. Odkryj Przedsionek”."
+    },
+    {
+        "code": "05207",
+        "flavor": "Wnętrze rezydencji jest czyste i zadbane. Zresztą niczego innego nie spodziewałeś się po najbardziej prestiżowym klubie towarzyskim w Arkham. Drewniane ściany zdobią tabliczki, obrazy i inne drobiazgi świadczące o długiej i barwnej historii Loży.",
+        "name": "Przedsionek",
+        "subname": "Wstęp tylko dla członków",
+        "text": "<b>Wymuszony</b> - Po tym, jak Przedsionek został odkryty: umieść na nim 1 losowy, odłożony na bok klucz.",
+        "traits": "Loża.",
+        "back_flavor": "Frontowe wejście do rezydencji Loży jest pilnowane przez dwóch mężczyzn w trenczach. Być może jest inna droga do wnętrza budynku…"
+    },
+    {
+        "code": "05208",
+        "flavor": "W piwnicy Loży znajduje się tylko duży, połamany stojak na wino i kilka nieoznaczonych beczek. Ciężkie, stalowe drzwi zagradzają dalszą drogę w głąb piwnicy. Prawie nie chcesz wiedzieć, co czai się po drugiej stronie. Prawie.",
+        "name": "Piwnica Loży",
+        "subname": "Czekaliśmy na was",
+        "text": "<b>Wymuszony</b> - Po tym, jak Piwnica Loży została odkryta: umieść na niej 1 losowy, odłożony na bok klucz.",
+        "traits": "Loża.",
+        "back_flavor": "Kilka zamkniętych okien biegnących na poziomie ziemi wzdłuż budynku świadczy o istnieniu piwnicy pobudowanej pod posiadłością. Wewnątrz musi panować mrok."
+    },
+    {
+        "code": "05209",
+        "flavor": "Wkradasz się przez niedomknięte okno do wnętrza piwnicy budynku. Znajduje się tam tylko duży, połamany stojak na wino i kilka nieoznaczonych beczek. Ciężkie, stalowe drzwi zagradzają dalszą drogę w głąb piwnicy. Prawie nie chcesz wiedzieć, co czai się po drugiej stronie. Prawie.",
+        "name": "Piwnica Loży",
+        "subname": "Wstęp tylko dla członków",
+        "traits": "Loża.",
+        "back_flavor": "Kilka okien biegnących na poziomie ziemi wzdłuż budynku świadczy o istnieniu piwnicy pobudowanej pod posiadłością. Wewnątrz musi panować mrok.",
+        "back_text": "Tylne wejście do Loży Srebrnego Świtu jest ukryte. Nie możesz wejść do Piwnicy Loży.\nWrota Loży zyskują: „[action] Badacze znajdujący się we Wrotach Loży wydają, jako grupa, 1 [per_investigator] żetonów wskazówek: odkryj Piwnicę Loży”."
+    },
+    {
+        "code": "05210",
+        "flavor": "W chwili wejścia do przyjemnie ogrzanego salonu zauważasz elegancko ubranego jegomościa, czytającego przy świetle padającym z płonącego kominka. Ku twojemu zdziwieniu niemal nie zwraca na ciebie uwagi.",
+        "name": "Salon",
+        "text": "<b>Wymuszony</b> - Po odkryciu Salonu: umieść w grze odłożone na bok lokalizacje Skarbiec i Biblioteka. Umieść odłożony na bok atut August Lindquist w grze, w Salonie. Umieść na nim 1 losowy, odłożony na bok klucz.",
+        "traits": "Loża.",
+        "back_flavor": "Kiedy zbliżasz się do schodów prowadzących na pierwsze piętro rezydencji, wyczuwasz zapach płonących, woskowych świec. Jest na tyle cicho, że słyszysz delikatny szelest odwracanej strony."
+    },
+    {
+        "code": "05211",
+        "flavor": "This simple unadorned room contains many shelves and filing cabinets, where important documents and records pertaining to the Lodge are kept. A small combination safe hides in a corner of the room. You wonder what secrets you could uncover here if you had more time.",
+        "name": "Vault",
+        "text": "<b>Forced</b> - After the Vault is revealed: Place 1 random set-aside key on it.",
+        "traits": "Lodge.",
+        "back_flavor": "A heavy wooden door with an iron-barred window appears to lead into a small vault. It is sealed shut from prying eyes.",
+        "back_text": "The door to the Vault is locked. You cannot enter the Vault unless you control the [elder_thing] key."
+    },
+    {
+        "code": "05212",
+        "flavor": "Even the Lodge's library is arranged to showcase the organization's wealth and power. There are hundreds of books among the room's tall, cramped shelves.",
+        "name": "Library",
+        "text": "While you are investigating the Library, if you control the [tablet] key, the Library gets -3 shroud.",
+        "traits": "Lodge.",
+        "back_flavor": "A narrow, windowless hallway slopes upward from the lounge, leading you to a tall, wooden door."
+    },
+    {
+        "code": "05213",
+        "flavor": "Za stalowymi drzwiami oświetlone pochodniami, kamienne korytarze wiodą głębiej pod ziemię. W porównaniu do wykończonych polerowanym drewnem wnętrz górnej części rezydencji ten obszar w dwójnasób wydaje się brudny i zakurzony. Co to za miejsce, u diabła?",
+        "name": "Katakumby Loży",
+        "text": "<b>Wymuszony</b> - Kiedy Katakumby Loży zostają odkryte: umieść w grze odłożone na bok Wewnętrzne Sanktuarium i każdą z odłożonych na bok lokalizacji Wejście do sanktuarium.",
+        "traits": "Loża. Sanktuarium.",
+        "back_flavor": "Pozbawione okienka, stalowe drzwi blokują drogę w głąb nieznanych pomieszczeń. Wyczuwasz, że ta piwnica jest znacznie większa, niż się z pozoru wydaje.",
+        "back_text": "Drzwi do Katakumb są zamknięte. Nie możesz wejść do Katakumb Loży, chyba że kontrolujesz przynajmniej 1 klucz ([skull]/[cultist]/[tablet]/[elder_thing])."
+    },
+    {
+        "code": "05214",
+        "flavor": "At the center of this room lies an ornately carved stone altar. Blood drains from the altar through a series of channels in the mosaic stone floor.",
+        "name": "Ceremony Room",
+        "text": "<b>Forced</b> - When the round ends: Each investigator and each [[Ally]] asset in the Ceremony Room takes 1 direct horror. Cancel this effect if an investigator in the Ceremony Room controls the [skull] key.",
+        "traits": "Lodge. Sanctum.",
+        "back_name": "Sanctum Doorway",
+        "back_flavor": "Beyond a stone archway lies an unmarked iron door, mocking you with untold secrets and hidden truths."
+    },
+    {
+        "code": "05215",
+        "name": "Holding Cells",
+        "text": "<b>Forced</b> - After Holding Cells is revealed: Search the encounter deck and discard pile for a [[Cultist]] enemy and spawn it in the Holding Cells. Shuffle the encounter deck.",
+        "traits": "Lodge. Sanctum.",
+        "back_name": "Sanctum Doorway",
+        "back_flavor": "Beyond a stone archway lies an unmarked iron door, mocking you with untold secrets and hidden truths."
+    },
+    {
+        "code": "05216",
+        "flavor": "At the far end of this room, a podium stands atop a wooden platform. Several rows of plush seats face the stage. You've never heard of a meeting room like this within the Lodge; this must be a place for only the most dedicated and trusted members.",
+        "name": "Inner Sanctum",
+        "text": "<b>Forced</b> - After the Inner Sanctum is revealed: Place 1 random set-aside key on it.",
+        "traits": "Lodge. Sanctum.",
+        "back_flavor": "At the end of the catacombs lies a set of iron doors adorned with the symbol of the Silver Twilight Lodge - three arrows pointed upwards. Unsurprisingly, the doors are locked tight.",
+        "back_text": "The door to the Inner Sanctum is locked. You cannot enter the Inner Sanctum unless you control the [cultist] key."
+    },
+    {
+        "code": "05217",
+        "name": "Nathan Wick",
+        "subname": "Master of Initiation",
+        "text": "Retaliate.\n[action]: <b>Parley.</b> Test [willpower] (3) to persuade Nathan to let you find another option. If you succeed, place 1 resource on Nathan Wick. Then, if there are 1 [per_investigator] resources on him, add him to the victory display. If you fail, Nathan Wick attacks you.",
+        "traits": "Humanoid. Cultist. Silver Twilight. Elite."
+    },
+    {
+        "code": "05217b",
+        "name": "Nathan Wick",
+        "subname": "Master of Indoctrination",
+        "text": "Alert.\n<b>Forced</b> - After you evade Nathan Wick by 3 or more: You steal the puzzle box. Add Nathan Wick to the victory display.",
+        "traits": "Humanoid. Cultist. Silver Twilight. Elite."
+    },
+    {
+        "code": "05218",
+        "name": "Lodge Jailor",
+        "text": "<b>Spawn</b> - Any [[Sanctum]] location.\nAloof.\n<b>Forced</b> - After Lodge Jailor enters play: Place 2 doom and 1 random set-aside key on it.\n[action]: <b>Parley.</b> Test [intellect] (3). If you succeed, either remove 1 doom from Lodge Jailor, or take control of its key.",
+        "traits": "Humanoid. Cultist. Silver Twilight."
+    },
+    {
+        "code": "05219",
+        "name": "Cell Keeper",
+        "text": "<b>Spawn</b> - Any [[Sanctum]] location.\nAlert.\n<b>Forced</b> - After Cell Keeper enters play: Place 2 doom and 1 random set-aside key on it.\n<b>Forced</b> - When you evade Cell Keeper by 2 or more: Take control of its key.",
+        "traits": "Humanoid. Cultist. Silver Twilight."
+    },
+    {
+        "code": "05220",
+        "name": "Summoned Beast",
+        "subname": "Guardian of the Trap",
+        "text": "Retaliate. Hunter.\nSummoned Beast gets +1 fight, +1 evade, +1 damage, and +1 horror for every 2 doom in play.\n<b>Forced</b> - At the start of the enemy phase: Summoned Beast defeats each [[Humanoid]] enemy at its location. Move all doom from each of those enemies to Summoned Beast.\n<b>Objective</b> - If the Summoned Beast is defeated, <b>(→R3)</b>.",
+        "traits": "Monster. Silver Twilight. Elite."
+    },
+    {
+        "code": "05221",
+        "name": "Knight of the Inner Circle",
+        "text": "<b>Spawn</b> - Any location connected to yours.\n<b>Prey</b> - Most ([skull]/[cultist]/[tablet]/[elder_thing]) keys controlled.\nAlert. Aloof. Hunter.\n<b>Forced</b> - After you enter Knight of the Inner Circle's location (or vice-versa): Test [agility] (4). If you fail, Knight of the Inner Circle engages you.",
+        "traits": "Humanoid. Cultist. Silver Twilight."
+    },
+    {
+        "code": "05222",
+        "name": "Knight of the Outer Void",
+        "text": "<b>Spawn</b> - Any location connected to yours.\nAloof. Peril. Retaliate.\n<b>Revelation</b> - After Knight of the Outer Void spawns, place either 1 or 2 doom on it.\n[action]: <b>Parley.</b> Test [willpower] or [intellect] (4). If you succeed, take control of 1 doom on Knight of the Outer Void, and flip it to its clue side. If you fail, Knight of the Outer Void attacks you.",
+        "traits": "Humanoid. Cultist. Silver Twilight."
+    },
+    {
+        "code": "05223",
+        "name": "Call to Order",
+        "text": "<b>Revelation</b> - Find the 2 topmost [[Cultist]] enemies in the encounter discard pile and spawn them in the empty location with the most remaining clues. If no [[Cultist]] enemies are spawned by this effect, Call to Order gains surge.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "05224",
+        "name": "Expulsion",
+        "text": "<b>Revelation</b> - If there are no [[Cultist]] enemies in play, Expulsion gains surge. Otherwise, the nearest [[Cultist]] enemy readies, moves (one location at a time) until it reaches your location, engages you, and makes an immediate attack. Then, place each ([skull]/[cultist]/[tablet]/[elder_thing]) key you control on that enemy.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "05225",
+        "name": "Beneath the Lodge",
+        "text": "If you control at least 1 ([skull]/[cultist]/[tablet]/[elder_thing]) key, Beneath the Lodge gains peril and its skill test gets +1 difficulty.\n<b>Revelation</b> - Test [intellect] (3). For each point you fail by, you must either lose 1 clue or take 1 horror.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "05226",
+        "name": "Mark of the Order",
+        "text": "Surge.\n<b>Revelation</b> - Check which investigator controls each key. The investigator with...\n- ...the [skull] key takes 1 damage.\n- ...the [cultist] key takes 1 horror.\n- ...the [tablet] key discards 2 random cards from hand.\n- ...the [elder_thing] key loses 3 resources.",
+        "traits": "Scheme."
+    },
+    {
+        "code": "05227",
+        "flavor": "\"I don’t really care what you’re doing here. But perhaps we can make an arrangement…\"",
+        "name": "August Lindquist",
+        "subname": "Elegant and Elusive",
+        "text": "[action] Investigators at August Lindquist's location spend 2 [per_investigator] clues, as a group: <b>Parley.</b> Each investigator who spent at least 1 clue must either take 1 damage or 1 horror. Remove August Lindquist from the game and take control of his key.",
+        "traits": "Cultist. Silver Twilight."
+    },
+    {
+        "code": "05228",
+        "name": "Pudełko-zagadka",
+        "subname": "Tajemnicze urządzenie",
+        "text": "<b>Wymuszony</b> - Kiedy zostałeś pokonany: przekaż kontrolę nad Pudełkiem-zagadką innemu badaczowi.\n[action]: Zgaś palenisko w twojej lokalizacji, wyczerp Widmowego obserwatora albo zadaj 5 obrażeń Widmowemu obserwatorowi, jeśli jest wyczerpany. Ta akcja nie wywołuje ataków towarzyszących Widmowego obserwatora. (Limit grupowy raz na grę).",
+        "traits": "Przedmiot. Relikwia."
+    }
+]

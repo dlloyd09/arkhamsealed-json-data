@@ -1,0 +1,66 @@
+[
+    {
+        "code": "core",
+        "name": "База"
+    },
+    {
+        "code": "dwl",
+        "name": "Наследие Данвича"
+    },
+    {
+        "code": "eoe",
+        "name": "На краю земли"
+    },
+    {
+        "code": "fhv",
+        "name": "Пир в Хемлок-Вейл"
+    },
+    {
+        "code": "investigator",
+        "name": "Колоды сыщиков"
+    },
+    {
+        "code": "parallel",
+        "name": "Альтернативные"
+    },
+    {
+        "code": "promotional",
+        "name": "Промо"
+    },
+    {
+        "code": "ptc",
+        "name": "Путь в Каркозу"
+    },
+    {
+        "code": "return",
+        "name": "Возвращение"
+    },
+    {
+        "code": "side_stories",
+        "name": "Отдельные сценарии"
+    },
+    {
+        "code": "tcu",
+        "name": "Нарушенный круг"
+    },
+    {
+        "code": "tdc",
+        "name": "The Drowned City"
+    },
+    {
+        "code": "tde",
+        "name": "Пожиратели снов"
+    },
+    {
+        "code": "tfa",
+        "name": "Забытая эпоха"
+    },
+    {
+        "code": "tic",
+        "name": "Заговор в Инсмуте"
+    },
+    {
+        "code": "tsk",
+        "name": "Алые ключи"
+    }
+]

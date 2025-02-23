@@ -1,0 +1,187 @@
+[
+    {
+        "code": "04205",
+        "name": "El corazón de los antiguos",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si estás en un Lugar [[Cueva]].\n[cultist]: -2. Si fracasas, coloca 1 ficha de Perdición sobre tu Lugar.\n[tablet]: -2. Si estás envenenado, en lugar de eso esta prueba fracasa automáticamente.\n[elder_thing]: -3. Si fracasas, recibe 1 punto de horror.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si estás en un Lugar [[Cueva]].\n[cultist]: -3. Si fracasas, coloca 1 ficha de Perdición sobre tu Lugar.\n[tablet]: -3. Si estás envenenado, en lugar de eso esta prueba fracasa automáticamente. Si no estás evenenado y fracasas, pon en juego en tu zona de amenaza una Debilidad Envenenado puesta aparte.\n[elder_thing]: -4. Si fracasas, recibe 1 punto de horror."
+    },
+    {
+        "code": "04206",
+        "name": "Boca de K'n-yan",
+        "subname": "Las fauces de la caverna",
+        "text": "[action]: <b>Desistir.</b> \"Acampemos y resolvamos este enigma mañana.\"\n[action]: Comprueba tus suministros. Si tienes una brújula, mira las 3 primeras cartas del mazo de Exploración. Coloca 1 en la parte inferior y las otras 2 en la parte superior, en cualquier orden.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "04206b",
+        "flavor": "Incluso el gran tamaño de la entrada de la caverna palidece en comparación con la enormidad de las profundidades que hay debajo.",
+        "name": "Boca de K'n-yan",
+        "subname": "Las profundidades del subsuelo",
+        "text": "[action]: Comprueba tus suministros. Si tienes un mapa, mira las 2 primeras cartas del mazo de Exploración. Descarta todas las cartas de Traición miradas mediante este efecto. Baraja el mazo de Exploración.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "04207",
+        "flavor": "Ahora estáis en lo más profundo de la jungla, rodeados por todas partes de tierra virgen sin explorar. A vuestro alrededor, la selva canta, con letras interpretadas por cada insecto que hace ruido, cada rama de árbol que se parte y cada serpiente que sisea.",
+        "name": "El corazón de la jungla",
+        "text": "[action]: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él.",
+        "back_name": "¿Estamos solos?",
+        "back_flavor": "Tras explorar la selva durante horas, llegáis a lo alto de un empinado risco, desde el que se ve gran parte de la zona circundante. Unas imposibles criaturas aladas graznan en el cielo, volando en círculos sobre la entrada de la caverna como buitres que esperan su comida. Desde este punto de observación, quizá podáis ver las amenazas que se aproximan a través de la vegetación de abajo. Si tuvierais algo que os ayudase a ver a más distancia…",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nEl investigador jefe elige a un investigador para que sea el vigía del grupo. Ese investigador comprueba sus suministros.\nSi el vigía tiene prismáticos, puede ver la criatura que se acerca y evitarla. El vigía no sufre efectos adversos.\nSi el vigía no tiene prismáticos, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo. Haz que ese Enemigo aparezca en el Lugar del vigía."
+    },
+    {
+        "code": "04208",
+        "flavor": "El día avanza rápidamente. A través del grueso follaje de los árboles, notas que el sol comienza a acercarse al horizonte. La luz del cielo se va atenuando hacia el este. Pronto, la jungla quedará cubierta por la oscuridad, y tendréis que deteneros y acampar para pasar la noche.",
+        "name": "Sol crepuscular",
+        "text": "[action]: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él.",
+        "back_name": "La noche cae en la jungla",
+        "back_flavor": "La noche llega rápidamente, bañando la selva con una tenue luz de luna. Los sonidos de la jungla cambian medida que las criaturas nocturnas empiezan a salir. En poco tiempo, el aire se llena con el zumbido y los ruidos de extraños insectos y de bestias aún más extrañas, cuya identidad sois incapaces de determinar.\nLos peligros de las horas nocturnas son demasiado grandes como para ignorarlos, y la oscuridad os dificulta el estudio de los símbolos y patrones necesarios para mover los pilares de forma correcta. No tenéis más remedio que acampar y seguir la exploración por la mañana.",
+        "back_text": "Cada investigador superviviente desiste inmediatamente."
+    },
+    {
+        "code": "04209",
+        "flavor": "La entrada de la caverna está rodeada por seis columnas de piedra, y cada una de ellas tiene tallada una serie de extrañas muescas y jeroglíficos que forman un intrincado diseño. Al tocarlas, las muescas brillan con fuerza, y al girarlas, los diseños se mueven y cambian. ¿Es posible que estos patrones coincidan con los símbolos  que se encuentran en otras regiones de la jungla?",
+        "name": "Buscando el patrón"
+    },
+    {
+        "code": "04209b",
+        "name": "La serpiente alada",
+        "subname": "La ira de Yig",
+        "text": "<b>Aparición</b> - Boca de K'n-yan.\nAlerta. Cazador. Descomunal.\nNo puede ser derrotado. No puede realizar ataques de oportunidad.\n<b>Obligado</b> - Después de que se coloque una ficha de columna en la Boca de K'n-yan: Agota La serpiente alada. No se prepara durante la fase de Mantenimiento de esta ronda.",
+        "traits": "Monstruo. Serpiente. Élite."
+    },
+    {
+        "code": "04210",
+        "flavor": "Habéis descubierto que cada una de las ruinas del interior de la jungla tiene un patrón de símbolos característico que coincide con los que aparecen en las seis columnas. Al girar las columnas para que formen estos patrones, una criatura serpentina desciende de las nubes…",
+        "name": "Abriendo las fauces",
+        "text": "[action] Los investigadores que estén en la Boca de K'n-yan gastan, como grupo, 1 pistas [per_investigator]: Resuelves una parte del enigma. Añade 1 recurso a la Boca de K'n-yan como ficha de columna.\n<b>Objetivo</b> - Resuelve el enigma de las seis columnas para poder entrar en K'n-yan. Si hay 6 fichas de columna en la Boca de K'n-yan, haz avanzar el acto al acto 2b.",
+        "back_name": "Entrando en K'n-yan",
+        "back_flavor": "Con un grave retumbar que hace temblar el suelo del exterior, algo se mueve en el interior de la caverna. Los seis obeliscos se meten en el suelo siguiendo una secuencia determinada mientras giran. La criatura serpiente que protegía la caverna emite un chillido de odio e ira antes de marcharse volando y desaparecer tras los árboles. Una a una, las columnas de piedra desaparecen en el suelo, y la Tierra deja de temblar.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "04211",
+        "flavor": "Aunque la mayor parte de este sistema de cavernas es natural y no ha sido tocado por la humanidad, os asombra encontrar señales de que una antigua civilización vivió en esta zona.",
+        "name": "Las cavernas solitarias",
+        "text": "[action] Si no hay pistas en tu Lugar: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él.\n<b>Obligado</b> - Cuando este plan avance: No retires la perdición de ningún Lugar en juego.",
+        "back_name": "La venganza de las serpientes",
+        "back_text": "<b>Comprueba el registro de campaña. <i>Si el Heraldo sigue vivo:</i></b>\n<blockquote><i>Desde la entrada que tenéis detrás, un siseo amenazador y un cascabeleo demasiado familiar os paraliza de terror. Agarráis el arma más cercana que podéis encontrar y os volvéis con las manos temblorosas por el miedo. ¿Cómo os ha seguido hasta aquí? ¿Cuándo acabará esta terrible caza?</i></blockquote>\nBusca el Heraldo de Valusia en la colección y haz que aparezca en el Lugar más alejado de todos los investigadores (si hay 8 o más marcas en la sección \"Furia de Yig\" del registro de campaña, en lugar de eso entra en juego en el Lugar del investigador jefe). Entra en juego con una cantidad de daño igual a la cantidad anotada entre paréntesis en el registro de campaña."
+    },
+    {
+        "code": "04212",
+        "flavor": "Brillantes ojos amarillos os observan desde todos lados mientras seguís adentrándoos en la caverna. Los radiantes orbes se desvanecen cuando los ilumináis, y reaparecen en cuanto vuelve la oscuridad.",
+        "name": "Ojos en la oscuridad",
+        "text": "[action] Si no hay pistas en tu Lugar: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él.\n*Este plan recibe +1 [per_investigator] a su umbral de perdición.",
+        "back_name": "Las cavernas se desmoronan",
+        "back_flavor": "Sin previo aviso, un estruendo ensordecedor retumba por toda la cueva, y el suelo que tenéis bajo los pies tiembla con una fuerza tremenda. Del techo de la caverna comienzan a caer estalactitas y trozos de rocas partidas que golpean el suelo a vuestro alrededor, haciendo que aparezcan grietas en la piedra.\n-¡Tenemos que salir de aquí! -le gritáis a Ichtaca, pero para cuando os dais cuenta de lo que va a suceder, ya es demasiado tarde. El suelo cede bajo vuestros pies y empezáis a caer, precipitándoos en las profundidades…",
+        "back_text": "Cada investigador superviviente queda derrotado y sufre 1 trauma físico."
+    },
+    {
+        "code": "04213",
+        "flavor": "Las vastas cavernas subterráneas de K’n-yan son frías y demasiado tranquilas. Hay ruinas olvidadas y diseminadas por vuestro camino hacia el Nexo de N’kai. ¿Qué ocurrió en este antiguo y olvidado lugar? ¿Estuvieron estas ruinas ocupadas por humanos alguna vez? ¿O por una especie mucho anterior?",
+        "name": "Caverna de la era olvidada",
+        "back_name": "En círculos",
+        "back_flavor": "Con pocos puntos de referencia que tomar por los oscuros y solitarios túneles, debéis confiar en vuestra agudeza mental y sentido de la orientación para seguir avanzando sin perderos. Si tuvierais algún modo sencillo de marcar los lugares que ya habéis visitado…",
+        "back_text": "Añade el Descenso a Yoth al mazo de Exploración.\nEl investigador jefe elige a un investigador para que sea el explorador del grupo. Ese investigador comprueba sus suministros.\nSi el explorador tiene tiza, logra evitar andar en círculos. El explorador no sufre efectos adversos.\nSi el explorador no tiene tiza, coloca 1 pista en cada Lugar que haya en juego <i>(de la reserva de fichas)</i>. A continuación, si el explorador está en un Lugar de una sola cara, devuelve ese Lugar al mazo de Exploración y baraja éste. Mueve cada Enemigo e investigador que estuviera en ese Lugar al Lugar conectado que esté más cerca de la Boca de K'n-yan."
+    },
+    {
+        "code": "04214",
+        "flavor": "Cuanto más descendéis por la fría oscuridad, más sentís el aplastador peso del mundo sobre vosotros, y la mareante realidad del mundo que tenéis debajo. De pronto, ansiáis estar en la superficie, y os preguntáis si alguna vez volveréis a ver el cielo.",
+        "name": "Descenso a la oscuridad",
+        "text": "<b>Objetivo</b> - Si todos los investigadores supervivientes están en el Descenso a Yoth y no hay fichas de Perdición en él, podéis hacer avanzar el acto..",
+        "back_name": "Hacia Yoth",
+        "back_flavor": "Ante vosotros se encuentra un ornamentado umbral con elaboradas decoraciones, y un disco de piedra apartado a un lado para revelar el reino infernal que hay más allá. Las cavernas del otro lado están bañadas por un brillo rojo. Las estatuas y grabados con temática de serpiente que hay en las paredes os dicen que vais por el camino correcto.",
+        "back_text": "Comprueba el registro de campaña. \n-<i>Si los investigadores rescataron a Alejandro:</i>  <b>(→R1)</b>\n-<i>Si Alejandro ha desaparecido:</i> <b>(→R2)</b>"
+    },
+    {
+        "code": "04215",
+        "name": "Trampa de foso",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n-Realiza una prueba de [agility] (3) para intentar saltar el hueco. Por cada punto que te falte para tener éxito, recibe 1 punto de daño.\n-Añadir la Trampa de foso al mazo de Exploración y barajar éste. No puedes elegir esta opción si la Trampa de foso fue robada del mazo de Exploración.",
+        "traits": "Trampa."
+    },
+    {
+        "code": "04216",
+        "name": "Esporas venenosas",
+        "text": "<b>Revelación</b> - Vincula esta carta a tu Lugar.\n<b>Obligado</b> - Al final de la ronda: Cada investigador que esté en el Lugar vinculado y esté envenenado recibe 2 puntos de horror. Cada investigador que esté en el Lugar vinculado y no esté envenenado debe poner en su zona de amenaza una Debilidad Envenenado puesta aparte. Descarta las Esporas venenosas.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "04217",
+        "flavor": "La flora que hay a lo largo de este camino está salvajemente deformada. Algunas de las flores están marchitas, y otras son vibrantes, pero todas te resultan alienígenas.",
+        "name": "Bosque devastado por el tiempo",
+        "text": "[action] [action]: Elige una carta de la zona de victoria que no sea [[Élite]] y que valga puntos de venganza. Coloca esa carta en la pila de descartes de Encuentros. Límite de grupo de una vez por partida.",
+        "traits": "Jungla."
+    },
+    {
+        "code": "04218",
+        "flavor": "Antaño fue un lugar ceremonial, pero ahora está olvidado e invadido por la vegetación.",
+        "name": "Altar de piedra",
+        "text": "<b>Obligado</b> - Después de que entres en el Altar de piedra: Revela una ficha de Caos aleatoria de la bolsa de caos. Si revelas un símbolo [elder_sign], [skull], [cultist], [tablet], [elder_thing] o [auto_fail], pierde una acción. Si no puedes, en lugar de eso recibe 1 punto de horror.",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "04219",
+        "name": "Planta parásita agresiva",
+        "text": "Alerta. Represalia.\n<b>Obligado</b> - Después de que la Planta parásita agresiva realice un ataque de oportunidad contra ti: Comprueba tus suministros. Si no tienes una navaja, pierde todas tus acciones restantes y termina tu turno.",
+        "traits": "Criatura. Flora."
+    },
+    {
+        "code": "04220",
+        "name": "Basilisco",
+        "text": "<b>Presa</b> - Más cercano a la Boca de K'n-yan.\nCazador.\n<b>Obligado</b> - Después de que se coloque una ficha de columna en la Boca de K'n-yan: Añade una copia del Basilisco al mazo de Encuentros y baraja éste. Máximo de una vez por ronda.",
+        "traits": "Monstruo. Serpiente."
+    },
+    {
+        "code": "04221",
+        "flavor": "Una hormiga es una molestia. Una colonia es otra historia.",
+        "name": "¡Hormigas!",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (4). Por cada punto que te falte para tener éxito, descarta una carta aleatoria de tu mano o elige y descarta una carta de tu zona de juego..",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "04222",
+        "flavor": "El tamaño de estas cavernas es vertiginoso.\nSon realmente un mundo en sí mismo.",
+        "name": "Pasadizos amplios",
+        "text": "Como coste adicional para que explores mientras estés en los Pasadizos amplios, comprueba los suministros. Si ningún investigador que esté en este Lugar tiene prismáticos, debes gastar 1 acción adicional.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "04223",
+        "name": "Sala de la idolatría",
+        "text": "<b>Obligado</b> - Después de que pongas la Sala de la idolatría en juego por haber explorado con éxito: Comprueba el registro de campaña. Si hay 5 o más marcas en la sección \"Furia de Yig\", roba la primera carta del mazo de Encuentros, o bien las 2 primeras cartas si hay 10 o más marcas.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "04224",
+        "flavor": "La garganta de la caverna se extiende durante kilómetros, y no puedes evitar sentirte como si bajaras hacia el estómago de una gran bestia.",
+        "name": "Hondonada oscura",
+        "text": "<b>Obligado</b> - Después de que la Hondonada oscura entre en juego, comprueba los suministros. Si ningún investigador tiene un mapa: Coloca 1 pista adicional [per_investigator] en la Hondonada oscura.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "04225",
+        "flavor": "El camino serpentea y se retuerce por un abismo oscuro. A vuestro paso hay estatuas de serpientes con las cabezas echadas hacia atrás, dispuestas para atacar.",
+        "name": "Quebrada peligrosa",
+        "text": "<b>Obligado</b> - Después de que fracases en una prueba de habilidad al investigar la Quebrada peligrosa: Comprueba los suministros. Si ningún investigador que esté en tu Lugar tiene cuerda, coloca 1 ficha de Perdición en la Quebrada peligrosa.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "04226",
+        "flavor": "Enormes cristales blancos atraviesan el túnel, enviando reflejos de luz por las paredes y el techo.",
+        "name": "Columnas de cristal",
+        "text": "<b>Obligado</b> - Después de que entres en las Columnas de cristal: Realiza una prueba de [willpower] (1). Esta prueba recibe +1 a su dificultad por cada punto de venganza que haya en la zona de victoria. Si fracasas, recibe 1 punto de daño y 1 punto de horror.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "04227",
+        "name": "Descenso a Yoth",
+        "text": "<b>Obligado</b> - Después de que el Descenso a Yoth entre en juego: Cada investigador debe colocar 1 ficha de Perdición sobre el Descenso a Yoth o bien robar las 2 primeras cartas del mazo de Encuentros.\n[reaction] Después de que investigues con éxito el Descenso a Yoth: En lugar de descubrir pistas, puedes darle la vuelta a 1 ficha de Perdición que esté en el Descenso a Yoth para que muestre su lado de pista.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "04228",
+        "name": "Sin vuelta atrás",
+        "text": "<b>Revelación</b> - Vincula Sin vuelta atrás a tu Lugar o a un Lugar conectado. Límite de 1 por Lugar.\nLos investigadores no pueden entrar en el Lugar vinculado ni salir de él.\n[action]: Realiza una prueba de [combat] (3) o comprueba tus suministros. Si tienes éxito, o si tienes un pico, descarta Sin vuelta atrás. Cualquier investigador que esté en un Lugar conectado puede activar esta capacidad.",
+        "traits": "Riesgo."
+    }
+]

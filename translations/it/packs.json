@@ -1,0 +1,374 @@
+[
+    {
+        "code": "aof",
+        "name": "Aura di Fede"
+    },
+    {
+        "code": "aon",
+        "name": "Tutto o Niente"
+    },
+    {
+        "code": "apot",
+        "name": "Lo Spettro della Verità"
+    },
+    {
+        "code": "bad",
+        "name": "Sangue Amaro"
+    },
+    {
+        "code": "bbt",
+        "name": "Al Cospetto del Trono Nero"
+    },
+    {
+        "code": "blbe",
+        "name": "La Melma Che Divorò Ogni ALTRA Cosa!"
+    },
+    {
+        "code": "blob",
+        "name": "La Melma Che Divorò Ogni Cosa"
+    },
+    {
+        "code": "bob",
+        "name": "Sangue di Baalshandor"
+    },
+    {
+        "code": "bota",
+        "name": "Sangue sull'Altare"
+    },
+    {
+        "code": "bsr",
+        "name": "L'Ascesa delle Stelle Nere"
+    },
+    {
+        "code": "btb",
+        "name": "Da Manuale"
+    },
+    {
+        "code": "coh",
+        "name": "Il Carnevale degli Orrori"
+    },
+    {
+        "code": "core",
+        "name": "Scatola Base"
+    },
+    {
+        "code": "cotr",
+        "name": "La Maledizione del Rougarou"
+    },
+    {
+        "code": "dca",
+        "name": "La Cupa Carcosa"
+    },
+    {
+        "code": "def",
+        "name": "Lo Scoglio del Diavolo"
+    },
+    {
+        "code": "dre",
+        "name": "Rivelazioni Oscure"
+    },
+    {
+        "code": "dsm",
+        "name": "Il Lato Oscuro della Luna"
+    },
+    {
+        "code": "dwl",
+        "name": "L'Eredità di Dunwich"
+    },
+    {
+        "code": "eoec",
+        "name": "Ai Confini della Terra, Espansione Campagna"
+    },
+    {
+        "code": "eoep",
+        "name": "Ai Confini della Terra, Espansione Investigatori"
+    },
+    {
+        "code": "eotp",
+        "name": "Echi dal Passato"
+    },
+    {
+        "code": "fgg",
+        "name": "Per il Bene Superiore"
+    },
+    {
+        "code": "fhvc",
+        "name": "La Festa di Hemlock Vale, Espansione Campagna"
+    },
+    {
+        "code": "fhvp",
+        "name": "La Festa di Hemlock Vale, Espansione Investigatori"
+    },
+    {
+        "code": "fof",
+        "name": "Fortuna e Follia"
+    },
+    {
+        "code": "guardians",
+        "name": "I Guardiani dell'Abisso"
+    },
+    {
+        "code": "har",
+        "name": "Harvey Walters"
+    },
+    {
+        "code": "hfa",
+        "name": "A Caccia di Risposte"
+    },
+    {
+        "code": "hhg",
+        "name": "Orrore ad Alta Velocità"
+    },
+    {
+        "code": "hote",
+        "name": "Cuore degli Antichi"
+    },
+    {
+        "code": "hotel",
+        "name": "Assassinio all'Hotel Excelsior"
+    },
+    {
+        "code": "hoth",
+        "name": "L'Ora della Cacciatrice"
+    },
+    {
+        "code": "icc",
+        "name": "Nelle Grinfie del Caos"
+    },
+    {
+        "code": "iotv",
+        "name": "La Collera del Vuoto"
+    },
+    {
+        "code": "itd",
+        "name": "Con l'Acqua alla Gola"
+    },
+    {
+        "code": "itm",
+        "name": "Nel Maelstrom"
+    },
+    {
+        "code": "jac",
+        "name": "Jacqueline Fine"
+    },
+    {
+        "code": "lif",
+        "name": "Una Luce nella Nebbia"
+    },
+    {
+        "code": "litas",
+        "name": "Oltre il Tempo e lo Spazio"
+    },
+    {
+        "code": "lod",
+        "name": "Il Covo di Dagon"
+    },
+    {
+        "code": "lol",
+        "name": "I Labirinti della Follia"
+    },
+    {
+        "code": "ltr",
+        "name": "Riposa in Pace"
+    },
+    {
+        "code": "mtt",
+        "name": "Macchinazioni Temporali"
+    },
+    {
+        "code": "nat",
+        "name": "Nathaniel Cho"
+    },
+    {
+        "code": "otr",
+        "name": "Di Nuovo in Viaggio"
+    },
+    {
+        "code": "pap",
+        "name": "Pistole e Perle"
+    },
+    {
+        "code": "pnr",
+        "name": "Punto di Non Ritorno"
+    },
+    {
+        "code": "promo",
+        "name": "Promo"
+    },
+    {
+        "code": "ptc",
+        "name": "La Strada per Carcosa"
+    },
+    {
+        "code": "ptr",
+        "name": "Il Sentiero dei Giusti"
+    },
+    {
+        "code": "rcore",
+        "name": "Scatola Base (Nuovo Formato)"
+    },
+    {
+        "code": "rod",
+        "name": "Leggi o Muori"
+    },
+    {
+        "code": "rop",
+        "name": "Reliquie del Passato"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Ritorno a... L'Eredità di Dunwich"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Ritorno a... La Notte della Zelota"
+    },
+    {
+        "code": "rtptc",
+        "name": "Ritorno a... La Strada per Carcosa"
+    },
+    {
+        "code": "rtr",
+        "name": "Marea Rossa"
+    },
+    {
+        "code": "rttcu",
+        "name": "Ritorno a... Il Circolo Spezzato"
+    },
+    {
+        "code": "rttfa",
+        "name": "Ritorno a... L'Era Dimenticata"
+    },
+    {
+        "code": "sfk",
+        "name": "Alla Ricerca del Kadath"
+    },
+    {
+        "code": "sha",
+        "name": "Eoni Infranti"
+    },
+    {
+        "code": "ste",
+        "name": "Stella Clark"
+    },
+    {
+        "code": "tbb",
+        "name": "Oltre i Confini"
+    },
+    {
+        "code": "tcoa",
+        "name": "Città degli Archivi"
+    },
+    {
+        "code": "tcu",
+        "name": "Il Circolo Spezzato"
+    },
+    {
+        "code": "tdcc",
+        "name": "La Città Sommersa, Espansione Campagna"
+    },
+    {
+        "code": "tdcp",
+        "name": "La Città Sommersa, Espansione Investigatori"
+    },
+    {
+        "code": "tde",
+        "name": "I Divoratori di Sogni"
+    },
+    {
+        "code": "tdg",
+        "name": "La Porta delle Profondità"
+    },
+    {
+        "code": "tdor",
+        "name": "Il Lamento Funebre della Ragione"
+    },
+    {
+        "code": "tdoy",
+        "name": "Abissi di Yoth"
+    },
+    {
+        "code": "tece",
+        "name": "L'Espresso di Essex County"
+    },
+    {
+        "code": "tfa",
+        "name": "L'Era Dimenticata"
+    },
+    {
+        "code": "tftbw",
+        "name": "Combattere il Vento Nero"
+    },
+    {
+        "code": "tic",
+        "name": "La Cospirazione di Innsmouth"
+    },
+    {
+        "code": "tmg",
+        "name": "Il Gala di Mezzo Inverno"
+    },
+    {
+        "code": "tmm",
+        "name": "Il Museo della Miskatonic"
+    },
+    {
+        "code": "tof",
+        "name": "Trame del Fato"
+    },
+    {
+        "code": "tpm",
+        "name": "La Maschera Pallida"
+    },
+    {
+        "code": "tsh",
+        "name": "Le Mille Forme dell’Orrore"
+    },
+    {
+        "code": "tskc",
+        "name": "Le Chiavi Scarlatte, Espansione Campagna"
+    },
+    {
+        "code": "tskp",
+        "name": "Le Chiavi Scarlatte, Espansione Investigatori"
+    },
+    {
+        "code": "tsn",
+        "name": "Il Nome Segreto"
+    },
+    {
+        "code": "tuo",
+        "name": "Il Giuramento Impronunciabile"
+    },
+    {
+        "code": "uad",
+        "name": "Unione e Disillusione"
+    },
+    {
+        "code": "uau",
+        "name": "Le Dimensioni dell'Invisibile"
+    },
+    {
+        "code": "wda",
+        "name": "Verso un Destino Oscuro"
+    },
+    {
+        "code": "wgd",
+        "name": "La Dimora degli Dèi"
+    },
+    {
+        "code": "win",
+        "name": "Winifred Habbamock"
+    },
+    {
+        "code": "woc",
+        "name": "La Tessitrice del Cosmo"
+    },
+    {
+        "code": "wog",
+        "name": "La Guerra degli Dèi Esterni"
+    },
+    {
+        "code": "wos",
+        "name": "Il Prezzo del Peccato"
+    }
+]

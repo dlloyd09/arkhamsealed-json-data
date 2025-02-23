@@ -1,0 +1,175 @@
+[
+    {
+        "code": "05325",
+        "name": "Ante el trono negro",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la mitad de la perdición que haya sobre Azathoth (redondeando hacia arriba), hasta un mínimo de 2.\n[cultist]: Revela otra ficha. Si fracasas busca en el mazo y la pila de descartes de Encuentros un Enemigo [[Sectario]] y róbalo. Baraja el mazo de Encuentros.\n[tablet]: -2. Si fracasas, Azathoth te ataca.\n[elder_thing]: -4. Si tu valor de habilidad modificado para esta prueba es 0, coloca 1 ficha de Perdición sobre Azathoth.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad de perdición que haya sobre Azathoth, hasta un mínimo de 2.\n[cultist]: Revela otra ficha. Si fracasas busca en el mazo y la pila de descartes de Encuentros un Enemigo [[Sectario]] y róbalo. Baraja el mazo de Encuentros.\n[tablet]: -3. Si fracasas, Azathoth te ataca.\n[elder_thing]: -6. Si tu valor de habilidad modificado para esta prueba es 0, coloca 1 ficha de Perdición sobre Azathoth."
+    },
+    {
+        "code": "05326",
+        "name": "La Rueda de la Fortuna · X",
+        "text": "Cada Lugar está conectado a cada Lugar adyacente a él.\nNo retires perdición de los Enemigos cuando avance el plan.",
+        "flavor": "UN FINAL ES OTRO PRINCIPIO.\nEL CAMBIO ES LA ÚNICA CONSTANTE.\nTU DESTINO FINAL ESTÁ PRÓXIMO.",
+        "back_name": "Alegraos, pues el fin está cerca!",
+        "back_text": "Cada Enemigo [[Sectario]] comete suicidio ritual. Descarta todos los Enemigos [[Sectario]] que haya en juego y mueve toda la perdición de ellos a Azathoth.\nEl investigador jefe debe buscar en el mazo y la pila de descartes de Encuentros una copia de la Melodía demoníaca y robarla.\n<hr><blockquote><i>Las únicas rutas que os guían hacia vuestro destino son senderos sin fin y escalones de piedra negra. Es un laberinto imposible de recorrer.</i></blockquote>\nComprueba el registro de campaña. Si el <i>diario de Gilman</i> está anotado en la sección \"Recuerdos descubiertos\", lográis encontrar el camino, Si no es así, os perdéis irremediablemente; cada investigador debe moverse al Lugar que esté a su izquierda o bien mover la colocación de su Lugar una vez hacia la izquierda (colocando un espacio vacío en el sitio que ocupaba previamente). Ningún Lugar puede moverse más de una vez mediante este efecto.",
+        "back_flavor": "De algún modo, no sois los únicos humanos aquí. Sólo son cascarones vacíos, casi completamente desprovistos de humanidad, nada más que carne, músculo y hueso, conservados para toda la eternidad en su cerril pasión, arrodillándose y cantando en siniestra adoración: \"¡Azathoth! ¡Azathoth! ¡El fin ha llegado!\""
+    },
+    {
+        "code": "05327",
+        "name": "Espera",
+        "text": "Cada Lugar está conectado a cada Lugar adyacente a él.\nNo retires perdición de los Enemigos cuando avance el plan.",
+        "flavor": "…el ilimitado Azathoth, el sultán de los demonios, cuyo nombre jamás se atrevieron labios humanos a pronunciar en voz alta, el que roe hambriento en inconcebibles cámarasoscuras, más allá de los tiempos, entre los fúnebres redobles de unos tambores de locura y el agudo, monótono gemido de unas flautas execrables…\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_name": "Mordisqueando vorazmente",
+        "back_text": "Cada Enemigo [[Sectario]] comete suicidio ritual. Descarta todos los Enemigos [[Sectario]] que haya en juego y mueve toda la perdición de ellos a Azathoth.\nEl investigador jefe debe buscar en el mazo y la pila de descartes de Encuentros una copia de la Melodía demoníaca y robarla.\n<hr><blockquote><i>En este vacío fuera del tiempo, nada es como debería ser. La niebla baila y gira a vuestro alrededor. Desde el más allá llega una risa que se burla de vosotros, y de las oscuras nébulas surge un espectro familiar, un ser que debería llevar muerto mucho tiempo.</i></blockquote>\nComprueba el registro de campaña. Si el <i>crucifijo gastado</i> está anotado en la sección \"Recuerdos descubiertos\", el espectro reconoce el crucifijo que robasteis del cuarto de Walter Gilman y retrocede lentamente, volviendo a la oscuridad del más allá.\nSi no es así, el espectro os ataca; cada investigador debe realizar una prueba de [willpower] (4). Cada investigador que fracase recibe 1 punto de daño y 1 punto de horror."
+    },
+    {
+        "code": "05328",
+        "name": "La última cuenta atrás",
+        "text": "Cada Lugar está conectado a cada Lugar adyacente a él.\nNo retires perdición de los Enemigos cuando avance el plan. (<i>Cuidado - el escenario no acabará cuando avance este plan, pero la perdición del mundo estará cerca</i>).",
+        "flavor": "…su repugnante montura, el shantak, riendo y agitando sus enormes alas viscosas con un maligno regocijo, proseguía su impetuosa carrera hacia esos pozos impíos adonde no llega jamás ningún sueño… \n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_name": "Azathoth se agita…",
+        "back_text": "Cada Enemigo [[Sectario]] comete suicidio ritual. Descarta todos los Enemigos [[Sectario]] que haya en juego y mueve toda la perdición de ellos a Azathoth.\nEl investigador jefe debe buscar en el mazo y la pila de descartes de Encuentros una copia de la Melodía demoníaca y robarla.\nYa no hay mazo de plan, pero el escenario no ha acabado. Hasta el final del escenario, la perdición que fuese a colocarse sobre el plan en curso se coloca en su lugar sobre Azathoth, y toda la perdición en juego se considera que está sobre Azathoth.\n<hr><blockquote><i>Os encontráis con otro círculo de adoradores de Azathoth, liderados por un ser informe y encapuchado que sostiene un antiguo farol sobre su cabeza. La tenue luz gris del farol apenas logra penetrar la oscuridad del reino. De algún modo, el fantasma os resulta familiar, y una vaga sensación de unión os impulsa hacia delante.</i></blockquote>\nComprueba el registro de campaña. Si la <i>muñeca de vaina de  maíz</i> está anotada en la sección \"Recuerdos descubiertos\", la criatura también os reconoce. Os mira con curiosidad, y el círculo de plegaria queda en silencio; retira 1 ficha de Perdición de Azathoth. Si no es así, la criatura apenas os presta atención, y el círculo reanuda si cántico."
+    },
+    {
+        "code": "05329",
+        "name": "El cosmos llama",
+        "text": "[action] Gasta X pistas: Roba las X primeras cartas del Cosmos. Elige una para ponerla en juego empleando sus instrucciones \"<b>Cosmos</b> -\" y muévete a ella. Devuelve el resto al Cosmos y barájalo.\n<b>Objetivo</b> - Sólo los investigadores que estén en el Palacio espantoso pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto (<i>Cuidado: cualquier investigador que no esté allí morirá</i>).",
+        "flavor": "Desde la brecha sin horizonte de las enormes fauces del cielo, habéis viajado una distancia imposible, y aun así estáis a mucha distancia del trono nocturno en el que se agita Azathoth.",
+        "back_name": "Palacio de los Primigenios",
+        "back_text": "Retira el Acceso cósmico de la partida. Añade al Cosmos todos los Lugares en juego menos el Palacio espantoso y barájalo. Cada investigador que esté en esos Lugares se queda atrás y muere. Coge todos los Enemigos que estén en esos Lugares y las 5 primeras cartas del mazo de Encuentros, baraja ese grupo de cartas y ponlo sobre el mazo de Encuentros.\nCoge la Corte de los Primigenios puesta aparte y las 2 primeras cartas del Cosmos y barájalas para que no sepas cuál es cuál. A continuación, ponlas en juego junto con el espacio vacío, como se muestra en la \"Colocación de Lugares para el acto 2\" de la guía de campaña.\nSiguiendo el orden de juego, cada investigador roba la primera carta del mazo de Encuentros.",
+        "back_flavor": "Vuestros corceles os llevan por la entrada del palacio de pesadilla, y os sorprende descubrir que las salas del interior son tan vastas y cavernosas como el espacio vacío que lo rodea. Es como si el portal sólo fuese el umbral hacia otro universo, tan desolado y sin límites como el último."
+    },
+    {
+        "code": "05330",
+        "name": "En los dominios de Azathoth",
+        "text": "[action] Gasta X pistas: Roba las X primeras cartas del Cosmos. Elige una para ponerla en juego empleando sus instrucciones \"<b>Cosmos</b> -\" y muévete a ella. Devuelve el resto al Cosmos y barájalo.\n<b>Objetivo</b> - Sólo los investigadores que estén en la Corte de los Primigenios pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto (<i>Cuidado: cualquier investigador que no esté allí morirá</i>).",
+        "flavor": "El silencioso frío de este lugar vacío hace que se os estremezcan hasta los huesos. Ninguna luz penetra en estas salas negras. No os llega ninguna calidez, y ninguna brisa toca vuestra piel. Un macabro pensamiento os cruza la mente: esto debe ser la sensación que uno tiene al morir",
+        "back_name": "El núcleo del universo",
+        "back_text": "Retira el Palacio espantoso de la partida. Añade al Cosmos todos los Lugares en juego menos la Corte de los Primigenios y barájalo. Cada investigador que esté en esos Lugares se queda atrás y muere.  Coge todos los Enemigos que estén en esos Lugares y las 5 primeras cartas del mazo de Encuentros, baraja ese grupo de cartas y ponlo sobre el mazo de Encuentros.\nCoge El trono negro puesta aparte y las 3 primeras cartas del Cosmos y barájalas para que no sepas cuál es cuál. A continuación, ponlas en juego junto con el espacio vacío, como se muestra en la \"Colocación de Lugares para el acto 3\" de la guía de campaña.\nSiguiendo el orden de juego, cada investigador roba la primera carta del mazo de Encuentros.",
+        "back_flavor": "Las criaturas aladas aterrizan sobre una sinuosa pasarela de piedra negra que se extiende hacia un infinito horizonte vacío inmenso. Tenéis que espolearlos y animarlos un buen rato antes de que los corceles sigan adelante. Al parecer, hasta las bestias más terribles se asustan de este lugar. Aun así, oís el mecánico cántico de quienes habitan más cerca del sultan demoníaco, el enloquecedor gemido de las flautas y el monótono ritmo de los tambores que resuenan incesantemente en vuestras mentes…"
+    },
+    {
+        "code": "05331",
+        "name": "Lo que debe hacerse",
+        "text": "[action] Gasta X pistas: Roba las X primeras cartas del Cosmos. Elige una para ponerla en juego empleando sus instrucciones \"<b>Cosmos</b> -\" y muévete a ella. Devuelve el resto al Cosmos y barájalo.\n<b>Objetivo</b> - Si el investigador jefe está en El trono negro y no hay pistas en ese Lugar, haz avanzar el acto.",
+        "flavor": "Ya estáis cerca. Podéis sentir el movimiento y las revoluciones de los eones en el vacío que os rodea. Aquí, en el núcleo de todas las cosas, el mismísimo centro del propio caos, se encuentra vuestro objetivo y vuestro destino final.",
+        "back_name": "El fin",
+        "back_text": "Comprueba el registro de campaña.\n- Si al menos dos de las siguientes afirmaciones son ciertas, puedes pasar a <b>(→R2)</b>: Los investigadores <i>han aceptado su destino</i>, la <i>flauta hipnotizadora</i> está anotada en la sección \"Recuerdos descubiertos\", y los <i>componentes del ritual</i> están anotados en la sección \"Recuerdos descubiertos\".\n- Si al menos dos de las siguientes afirmaciones son ciertas, puedes pasar a <b>(→R3)</b>: Los investigadores <i>han rechazado su destino</i>, el <i>trozo de sombra desgarrado</i> está anotado en la sección \"Recuerdos descubiertos\", y la <i>voluta de niebla espectral</i> está anotada en la sección \"Recuerdos descubiertos\".\n- Si no es así, <b>(→R4)</b>.",
+        "back_flavor": "Estáis sobre un precipicio ante todo lo negro y levantáis la mirada hacia la ciega y muda monstruosidad que es Azathoth. Su mera visión hace que se os nuble la vista y que el cuerpo os tiemble de forma incontrolada. El monótono sonido de la flauta es tan fuerte ahora que os sacude los huesos y está a punto de haceros vomitar por la fuerza que ejerce en vuestras entrañas. Os sale sangre de los ojos y oídos.\nSi Azathoth despierta, devorará todos los mundos que han existido. Debéis actuar ahora, antes de que sea demasiado tarde."
+    },
+    {
+        "code": "05332",
+        "name": "Acceso cósmico",
+        "text": "<b>Obligado</b> - Al final de la ronda: Añade pistas al Acceso cósmico hasta que tenga 3 pistas.\nCada Lugar [[Vacío]] obtiene: \"[action]: Añade este Lugar al Cosmos y barájalo; luego mueve al Acceso cósmico cada investigador y Enemigo que estuviera en ese Lugar.\".",
+        "back_flavor": "…aquel monstruo escamoso e inflexible transportaba a su indefenso jinete. Con la velocidad de un meteoro rasgó el límite extremo de los abismos exteriores. Atrás quedaron las estrellas y los distintos reinos de la materia, y atravesó el vacío sin forma, más allá del tiempo…\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "05333",
+        "name": "Palacio espantoso",
+        "text": "<b>Obligado</b> - Al final de la ronda: Añade pistas al Palacio espantoso hasta que tenga 4 pistas.\nCada Lugar [[Vacío]] obtiene: \"[action]: Añade este Lugar al Cosmos y barájalo; luego mueve al Palacio espantoso cada investigador y Enemigo que estuviera en ese Lugar.\".",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "05334",
+        "name": "Corte de los Primigenios",
+        "text": "<b>Obligado</b> - Al final de la ronda: Añade pistas a la Corte de los Primigenios hasta que tenga 6 pistas.\nCada Lugar [[Vacío]] obtiene: \"[action]: Añade este Lugar al Cosmos y barájalo; luego mueve a la Corte de los Primigenios cada investigador y Enemigo que estuviera en ese Lugar.\".",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "05335",
+        "name": "El trono negro",
+        "text": "El trono negro recibe +X a velo, donde X es la mitad de perdición que haya sobre Azathoth (redondeada hacia arriba).\n<b>Embrujado</b> - Debes colocar 1 fiche de Perdición sobre Azathoth, o bien Azathoth te ataca.",
+        "flavor": "…al trono de la tiniebla final, a Azathoth, allá en el centro del vacío sin forma.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "05336",
+        "name": "Niebla del danzante",
+        "text": "<b>Cosmos</b> - Debes conectarla a la derecha, o bien perder 2 recursos y conectarla a un Lugar adyacente en una dirección de tu elección.\n[reaction] Después de que te muevas a la Niebla del danzante, retira 1 recurso de la carta de referencia de escenario: Muévete a un Lugar conectado.",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural. Vacío.",
+        "back_traits": "Sobrenatural."
+		},
+    {
+        "code": "05337",
+        "name": "Ascenso hacia el olvido",
+        "text": "<b>Cosmos</b> - Debes conectarlo arriba, o bien recibir 2 puntos de horror y conectarlo al Lugar conectado que esté más arriba en una dirección de tu elección.\n[action] Retira 1 recurso de la carta de referencia de escenario: Mueve la colocación del Ascenso hacia el olvido una vez hacia arriba, colocando un espacio vacío en el sitio que ocupaba previamente. Límite de grupo de una vez por partida.",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural. Vacío.",
+        "back_traits": "Sobrenatural."
+    },
+    {
+        "code": "05338",
+        "name": "Infinito de oscuridad",
+        "text": "<b>Cosmos</b> - Debes conectarlo abajo, o bien recibir 2 puntos de daño y conectarlo al Lugar conectado que esté más abajo en una dirección de tu elección.\n[action] Retira 1 recurso de la carta de referencia de escenario: Mueve la colocación del Ascenso hacia el olvido una vez hacia abajo, colocando un espacio vacío en el sitio que ocupaba previamente. Límite de grupo de una vez por partida.",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural. Vacío.",
+        "back_traits": "Sobrenatural."
+    },
+    {
+        "code": "05339",
+        "name": "Portal cósmico",
+        "text": "<b>Cosmos</b> - Conectar a cualquier Lugar revelado, en una dirección de tu elección.\n<b>Obligado</b> - Después de que entres en el Portal cósmico: debes gastar 1 pista o bien recibir 1 punto de horror.\n[action] Retira 1 recurso de la carta de referencia de escenario: Mueve cualquier cantidad de investigadores que estén en el Portal cósmico a cualquier otro Lugar [[Vacío]].",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural. Vacío.",
+        "back_traits": "Sobrenatural."
+    },
+    {
+        "code": "05340",
+        "name": "Sendero hacia el vacío",
+        "text": "<b>Cosmos</b> - Conectar en una dirección de tu elección.\n<b>Obligado</b> - Después de que entres en el Sendero hacia el vacío: Debes descartar 1 carta de tu mano o bien recibir 1 punto de daño.\n[action] Retira 1 recurso de la carta de referencia de escenario: Mueve el Sendero hacia el vacío a cualquier sitio adyacente, colocando un espacio vacío en el sitio que ocupaba previamente. Límite de grupo de una vez por ronda.",
+        "back_name": "Cosmos",
+        "back_flavor": "Las estrellas danzaban burlescas y a cada momento parecían cambiar de posición para formar unos signos fatales que casi se podían descifrar, aun cuando no hubieran sido vistos antes jamás, los vientos inferiores aullaban constantemente en las vagas tinieblas y en las soledades de más allá del cosmos.\n– H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Sobrenatural. Vacío.",
+        "back_traits": "Sobrenatural."
+    },
+    {
+        "code": "05341",
+        "name": "Danzante sin mente",
+        "text": "<b>Aparición</b> - Espacio vació más alejado.\nCazador.\nEl Danzante sin mente puede entrar en el espacio vacío como si fuese un Lugar.\n<b>Obligado</b> - Después de que el Danzante sin mente se mueva a un espacio vacío mediante su palabra clave Cazador: Resuelve de nuevo su palabra clave Cazador. Límite de una vez por ronda.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "05342",
+        "name": "Caos definitivo",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (4). Si fracasas, vincula el Caos definitivo a Azathoth. Si fracasas por 2 o más, recibe 1 punto de daño y 1 punto de horror. Si fracasas por 3 o más, el Caos definitivo obtiene Oleada. No puede ser cancelado.\nSi hay 3 copias del Caos definitivo vinculadas a Azathoth, descártalas y coloca 1 ficha de Perdición sobre Azathoth, o bien Azathoth ataca a cada investigador siguiendo el orden de juego. No puede ser cancelado.",
+        "traits": "Poder."
+    },
+    {
+        "code": "05343",
+        "name": "Trato susurrado",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción): Colocar 1 ficha de Perdición sobre Azathoth o bien Azathoth te ataca.",
+        "flavor": "Existía la figura inmemorial del delegado o mensajero de poderes ocultos y terribles…\n– H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "traits": "Pacto."
+    },
+    {
+        "code": "05344",
+        "name": "¡El fin está cerca!",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (1). Esta prueba recibe +X a su dificultad, donde X es el número del plan en curso. Si no hay ningún plan en juego, X es 4. Si fracasas, mueve a Azathoth toda la perdición de los Enemigos [[Sectario]] en juego, o bien coloca 1 ficha de Perdición sobre Azathoth si no hay Enemigos [[Sectario]] en juego.",
+        "traits": "Fin de los tiempos."
+    },
+    {
+        "code": "05345",
+        "name": "Un mundo en la oscuridad",
+        "text": "<b>Revelación</b> - Si no hay perdición sobre Azathoth, Un mundo en la oscuridad obtiene Oleada. Si no es así, debes elegir una opción por cada ficha de Perdición que haya sobre Azathoth:\n- Pierde 1 recurso.\n- Elige y descarta 1 carta de tu mano.\n- Recibe 1 punto de horror.\n- Recibe 1 punto de daño.",
+        "traits": "Fin de los tiempos."
+    },
+    {
+        "code": "05346",
+        "name": "Azathoth",
+        "subname": "El Caso Primordial",
+        "text": "Azathoth es ciego y omnipotente. Es inmune a todos los efectos de cartas de Jugador y de acciones de investigador, y no puede ser derrotado por ningún  medio.\n<b>Obligado</b> - Si hay 10 o más fochas de Perdición sobre Azathoth: El dios ciego e idiota se alza desde su trono en el vacío definitivo del caos y devora el universo. <b>(→R1)</b>",
+        "traits": "Primigenio. Élite."
+    }
+]

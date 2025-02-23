@@ -1,0 +1,247 @@
+[
+    {
+        "code": "07198",
+        "name": "Horror a toda máquina",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si quedan 6 o menos Lugares en el mazo de Carretera.\n[cultist]: -1. Por cada punto que te falte para tener éxito, un investigador que esté en tu Vehículo coloca 1 de sus pistas sobre tu Lugar.\n[tablet]: -2. Por cada punto que te falte para tener éxito, un investigador que esté en tu Vehículo pierde 1 recurso.\n[elder_thing]: -4. Si fracasas, resuelve la palabra clave Cazador de cada Enemigo en juego.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si quedan 6 o menos Lugares en el mazo de Carretera.\n[cultist]: -2. Por cada punto que te falte para tener éxito, un investigador que esté en tu Vehículo coloca 1 de sus pistas sobre tu Lugar.\n[tablet]: -3. Por cada punto que te falte para tener éxito, un investigador que esté en tu Vehículo pierde 1 recurso.\n[elder_thing]: -4. Resuelve la palabra clave Cazador de cada Enemigo en juego."
+    },
+    {
+        "code": "07199",
+        "name": "¡Comienza la persecución! (v. I)",
+        "text": "Como coste adicional para moverte mientras no estés en un Vehículo, debes gastar 2 acciones.\n<b>Obligado</b> - Al final de la ronda: Empezando por el Lugar que esté más cerca de la parte trasera, pon aparte, fuera del juego, cada Lugar que no tenga Vehículos, Enemigos o investigadores, o bien añádelo a la zona de victoria si tiene <b>Victoria X</b> y no tiene pistas. Deja de hacerlo cuando llegues a un Lugar que tenga al menos 1 Vehículo, Enemigo o investigador o al Lugar que esté detrás del investigador más cercano a la parte trasera.",
+        "flavor": "¡Los agentes de la Orden os tienden una emboscada de camino a Cabo del Halcón!"
+    },
+    {
+        "code": "07199b",
+        "name": "El Terror del Arrecife del Diablo",
+        "subname": "Monstruosidad implacable",
+        "text": "<b>Aparición</b> - El Lugar más cercano a la parte trasera.\nCazador. Descomunal. Represalia.\n<b>Obligado</b> - Cuando El Terror del Arrecife del Diablo fuese a ser derrotado: En vez de eso, retira todo el daño que tenga y agótalo. No puede prepararse durante el resto de la ronda.",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "07200",
+        "name": "¡Comienza la persecución! (v. II)",
+        "text": "Como coste adicional para moverte mientras no estés en un Vehículo, debes gastar 2 acciones.\n<b>Obligado</b> - Al final de la ronda: Empezando por el Lugar que esté más cerca de la parte trasera, pon aparte, fuera del juego, cada Lugar que no tenga Vehículos, Enemigos o investigadores, o bien añádelo a la zona de victoria si tiene <b>Victoria X</b> y no tiene pistas. Deja de hacerlo cuando llegues a un Lugar que tenga al menos 1 Vehículo, Enemigo o investigador o al Lugar que esté detrás del investigador más cercano a la parte trasera.",
+        "flavor": "¡Los agentes de la Orden os tienden una emboscada de camino a Cabo del Halcón!",
+        "back_name": "Qué mala pata",
+        "back_text": "Dale la vuelta a todos los Vehículos que estén en marcha, de forma que queden detenidos.\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo. Si hay 3 o 4 investigadores en la partida, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Vehículo]] o una Traición Avería. El investigador jefe roba esa carta.",
+        "back_flavor": "Justo cuando creías poder huir indemne, oyes el revelador traqueteo del motor que no logra seguir el ritmo que necesitas. Maldices y detienes el coche un momento antes de que se cale. ¡Solo tienes unos segundos para volverlo a arrancar antes de que los sectarios te alcancen!"
+    },
+    {
+        "code": "07201",
+        "name": "Persecución implacable",
+        "text": "Como coste adicional para moverte mientras no estés en un Vehículo, debes gastar 2 acciones.\n<b>Obligado</b> - Al final de la ronda: Empezando por el Lugar que esté más cerca de la parte trasera, pon aparte, fuera del juego, cada Lugar que no tenga Vehículos, Enemigos o investigadores, o bien añádelo a la zona de victoria si tiene <b>Victoria X</b> y no tiene pistas. Deja de hacerlo cuando llegues a un Lugar que tenga al menos 1 Vehículo, Enemigo o investigador o al Lugar que esté detrás del investigador más cercano a la parte trasera.",
+        "flavor": "¡La Orden quiere sangre!",
+        "back_name": "Sin combustible",
+        "back_flavor": "El día empieza a despuntar entre los árboles que hay al este, y aún no has logrado llegar al Cabo del Halcón por culpa de la intromisión de tus incansables perseguidores. El coche ha empezado a vibrar y traquetear. Sabes que es cuestión de minutos que se quede sin gasolina, pero no tienes elección. Casi te han alcanzado. Pisas el acelerador a fondo…\nLa curva te pilla por sorpresa. Intentas frenar derrapando, pero es demasiado tarde. Experimentas una breve sensación de ingravidez cuando las ruedas se despegan del suelo. El tiempo parece detenerse. Después, un torbellino de caos se desata a tu alrededor.\nLo siguiente de lo que tienes consciencia es de estar saliendo a gatas de entre los restos. Estás cubierto de sangre y magulladuras, pero sigues con vida. Y, en un irónico giro del destino, tus perseguidores han pasado de largo por el lugar de tu accidente.\n-La próxima vez, conduzco yo -bromea la agente Harper entre accesos de tos.",
+        "back_text": "Cada investigador queda derrotado y sufre 1 trauma físico."
+    },
+    {
+        "code": "07202",
+        "name": "Pisando a fondo",
+        "text": "Cada Enemigo obtiene Cazador.\n<b>Obligado</b> - Al final de cada fase de Investigación: Cada Vehículo que esté en marcha debe moverse a un Lugar [[Carretera]] conectado que elija el conductor.\n<b>Objetivo</b> - ¡Llega al Cabo del Halcón tan rápido como puedas! <i>(se te indicará cuando debes avanzar)</i>.",
+        "flavor": "Tu única posibilidad es llegar al Cabo del Halcón antes de que tus perseguidores te alcancen.",
+        "back_name": "¿Por fin a salvo?",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "-¡Creo que los hemos perdido! -grita la agente Harper, con la cabeza fuera de la ventanilla del coche. Echas un vistazo por el retrovisor y confirmas que ya no ves las luces de los faros de tus perseguidores. Un cálido alivio te recorre el cuerpo. Por fin se ha acabado.\nPor ahora."
+    },
+    {
+        "code": "07203",
+        "name": "Acceso al Cabo del Halcón",
+        "text": "<b>Objetivo</b> - Si todos los investigadores no derrotados están en el Acceso al Cabo del Halcón, haz avanzar el acto.",
+        "flavor": "La carretera sigue subiendo por el lateral del acantilado. La luz del faro que hay en lo alto atraviesa la niebla, atrayéndote para que te acerques.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07204a",
+        "name": "Carretera mal iluminada",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 1 pista por cada investigador que haya en ese Vehículo. Por cada pista que no hayan podido gastar, un investigador que esté en ese Vehículo recibe 2 puntos de horror. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07204b",
+        "name": "Carretera mal iluminada",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Por cada pista que no hayan podido gastar, un investigador que esté en ese Vehículo recibe 1 punto de horror. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07204c",
+        "name": "Carretera mal iluminada",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Por cada pista que no hayan podido gastar, un investigador que esté en ese Vehículo recibe 2 puntos de horror. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07205a",
+        "name": "Carretera del acantilado",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Si no pueden, el conductor del Vehículo realiza una prueba de [willpower] (X) o de [agility] (X), donde X es la cantidad de pistas que no hayan podido gastar. Si el conductor fracasa, su Vehículo es retirado de la partida y cada investigador que haya en ese Vehículo recibe 10 puntos de daño. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07205b",
+        "name": "Carretera del acantilado",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Si no pueden, el conductor del Vehículo realiza una prueba de [willpower] (X) o de [agility] (X), donde X es la cantidad de pistas que no hayan podido gastar. Si el conductor fracasa, su Vehículo es retirado de la partida y cada investigador que haya en ese Vehículo recibe 10 puntos de daño. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07206a",
+        "name": "Bifurcación del camino",
+        "text": "Carretera 2.\n[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de cualquier Lugar que esté por delante de este.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07206b",
+        "name": "Bifurcación del camino",
+        "text": "Carretera 2.\n[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de cualquier Lugar que esté por delante de este.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07207a",
+        "name": "Intersección",
+        "text": "Carretera 3.\n[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de cualquier Lugar que esté por delante de este.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07207b",
+        "name": "Intersección",
+        "text": "Carretera 3.\n[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de cualquier Lugar que esté por delante de este.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07208a",
+        "name": "Curva cerrada",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 1 pista por cada investigador que haya en ese Vehículo. Por cada pista que no hayan podido gastar, un investigador que esté en ese Vehículo recibe 2 puntos de daño. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07208b",
+        "name": "Curva cerrada",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Por cada pista que no hayan podido gastar, un investigador que esté en ese Vehículo recibe 1 punto de daño. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07208c",
+        "name": "Curva cerrada",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Por cada pista que no hayan podido gastar, un investigador que esté en ese Vehículo recibe 2 puntos de daño. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07209a",
+        "name": "Camino desolado",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 2 pistas por cada investigador que haya en ese Vehículo. Si no pueden, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Vehículo]] y haz aparecer ese Enemigo en el Camino desolado. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07209b",
+        "name": "Camino desolado",
+        "text": "Carretera 1.\n<b>Obligado</b> - Cuando un vehículo abandone este Lugar: Los investigadores que estén en este Lugar, como grupo, deben gastar 1 pista por cada investigador que haya en ese Vehículo. Si no pueden, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Vehículo]] y haz aparecer ese Enemigo en el Camino desolado. Límite de una vez por partida por cada Vehículo.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+    },
+    {
+        "code": "07210",
+        "name": "El camino largo",
+        "text": "Carretera 1.\n<b>Obligado</b> -Después de que un Vehículo entre en El camino Largo: Coloca 1 ficha de Perdición sobre el plan en curso (este efecto puede hacer que el plan en curso avance). Ese Vehículo no puede abandonar El camino largo hasta el final de la próxima ronda.",
+        "back_name": "Camino viejo de Innsmouth",
+        "back_flavor": "A la izquierda, en un área más cercana, y cruzada por numerosas corrientes de agua salitrosa, la estrecha carretera de Ipswich brillaba con el blanco reflejo de la luna.\n – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Carretera."
+   },
+    {
+        "code": "07211a",
+        "name": "Coche de Thomas Dawson",
+        "subname": "En marcha",
+        "text": "Vehículo. Límite de 2 investigadores en este Vehículo.\nEste Vehículo está en marcha. Los investigadores no pueden entrar o salir de él.\n[action] Si eres el conductor de este Vehículo: Roba la primera carta del mazo de Encuentros. A continuación, mueve este Vehículo a un Lugar [[Carretera]] conectado. Máximo de una vez por ronda.\n[action] Si eres el conductor de este Vehículo: detienes el coche. Dale la vuelta a este Vehículo.",
+        "traits": "Vehículo."
+    },
+    {
+        "code": "07211b",
+        "name": "Coche de Thomas Dawson",
+        "subname": "Detenido",
+        "text": "Vehículo. Límite de 2 investigadores en este Vehículo.\nEste Vehículo está detenido.\n[action] Si eres el conductor de este Vehículo: Arrancas el coche. Dale la vuelta a este Vehículo.",
+        "traits": "Vehículo."
+    },
+    {
+        "code": "07212a",
+        "name": "Coche de Elina Harper",
+        "subname": "En marcha",
+        "text": "Vehículo. Límite de 2 investigadores en este Vehículo.\nEste Vehículo está en marcha. Los investigadores no pueden entrar o salir de él.\n[action] Si eres el conductor de este Vehículo: Roba la primera carta del mazo de Encuentros. A continuación, mueve este Vehículo a un Lugar [[Carretera]] conectado. Máximo de una vez por ronda.\n[action] Si eres el conductor de este Vehículo: detienes el coche. Dale la vuelta a este Vehículo.",
+        "traits": "Vehículo."
+    },
+    {
+        "code": "07212b",
+        "name": "Coche de Elina Harper",
+        "subname": "Detenido",
+        "text": "Vehículo. Límite de 2 investigadores en este Vehículo.\nEste Vehículo está detenido.\n[action] Si eres el conductor de este Vehículo: Arrancas el coche. Dale la vuelta a este Vehículo.",
+        "traits": "Vehículo."
+    },
+    {
+        "code": "07213",
+        "name": "Automóvil en persecución",
+        "text": "<b>Aparición</b> - El Lugar más cercano a la parte trasera.\nCazador.\n<b>Obligado</b> - Cuando el Automóvil en persecución te ataque, si no estás en un Vehículo: Inflige +2 de daño para este ataque.\n<b>Obligado</b> - Cuando el Automóvil en persecución ataque a un investigador que esté en un Vehículo: Ataca también a cada uno de los demás investigadores que haya en ese Vehículo.",
+        "traits": "Vehículo. Humanoide. Sectario."
+    },
+    {
+        "code": "07214",
+        "name": "Camioneta para golpes",
+        "text": "<b>Aparición</b> -  El Lugar más cercano a la parte trasera.\nCazador. Represalia.\nLa Camioneta para golpes no puede atacar durante la misma fase en la que se haya movido mediante la palabra clave Cazador.",
+        "traits": "Vehículo. Humanoide. Sectario."
+    },
+    {
+        "code": "07215",
+        "name": "Asesino híbrido",
+        "text": "Cazador.\n<b>Obligado</b> - Después de que el Asesino híbrido se mueva mediante la palabra clave Cazador, si no está enfrentado: Resuelve su palabra clave Cazador de nuevo. Límite de una vez por ronda.",
+        "traits": "Vehículo. Humanoide. Híbrido."
+    },
+    {
+        "code": "07216",
+        "name": "Trayecto accidentado",
+        "text": "<b>Revelación</b> - Si…\n- …no estás en un Vehículo, realiza una prueba de [agility] (5). Si fracasas, recibe 3 puntos de daño.\n- …estás en un Vehículo, el conductor de ese Vehículo realiza una prueba de [agility] (3). Si el conductor fracasa, cada investigador que esté en tu Vehículo recibe 2 puntos de daño.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07217",
+        "name": "\"¡No veo nada!\"",
+        "text": "<b>Revelación</b> - Si…\n- …no estás en un Vehículo, realiza una prueba de [willpower] (5). Si fracasas, recibe 3 puntos de horror.\n- …estás en un Vehículo, el conductor de ese Vehículo realiza una prueba de [willpower] (3). Si el conductor fracasa, cada investigador que esté en tu Vehículo recibe 2 puntos de horror.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07218",
+        "name": "Ojos en los árboles",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (4). Si fracasas, debes descartar un Apoyo que controles o bien descartar 1 carta de tu mano por cada punto que te falte para tener éxito. Si fracasas y estás en un Vehículo, cada uno de los demás investigadores que haya en tu Vehículo también debe resolver este efecto como si acabara de fracasar.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07219",
+        "name": "\"¡Están ganando terreno!\"",
+        "text": "<b>Revelación</b> - Resuelve la palabra clave Cazador de cada Enemigo en juego. Si no se ha movido ningún Enemigo como resultado de este efecto, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Vehículo]] y haz aparecer ese Enemigo en el Lugar más cercano a la parte trasera.",
+        "traits": "Maquinación."
+    }
+]

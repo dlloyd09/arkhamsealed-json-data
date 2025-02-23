@@ -1,0 +1,211 @@
+[
+    {
+        "code": "04161",
+        "name": "El límite del otro lado",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si estás en un Lugar [[Antiguo]].\n[cultist]: Revela otra ficha. Si fracasas, coloca 1 ficha de Perdición sobre un Enemigo [[Sectario]].\n[tablet]: Revela otra ficha. Si fracasas y hay un Enemigo [[Serpiente]] en tu Lugar, te ataca.\n[elder_thing]: -4. Si fracasas, coloca 1 pistas <i>(de la reserva de fichas)</i> en el Lugar [[Antiguo]] más cercano.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si estás en un Lugar [[Antiguo]].\n[cultist]: Revela otra ficha. Si fracasas, coloca 1 ficha de Perdición sobre cada Enemigo [[Sectario]].\n[tablet]: Revela otra ficha. Si fracasas, cada Enemigo [[Serpiente]] en tu Lugar te ataca.\n[elder_thing]: -4. Coloca 1 pistas <i>(de la reserva de fichas)</i> en el Lugar [[Antiguo]] más cercano."
+    },
+    {
+        "code": "04162",
+        "flavor": "Ichtaca ya está levantada cuando os despertáis, poniéndose su armadura tradicional, colgándose el arco a la espalda y una larga espada al costado: -Algo no va bien -dice enigmáticamente-. Sólo quería mirar a través del límite…\nTiene los ojos inyectados en sangre, y el rostro pálido como un fantasma. Sospecháis que ni ha dormido en toda la noche: -No importa. Es hora de que contempléis el destino que le espera a la humanidad si fracasamos.",
+        "name": "El límite se ha roto",
+        "back_name": "La persecución del heraldo",
+        "back_text": "<b>Comprueba el registro de campaña. Si <i>el Heraldo sigue vivo</i>:</b><blockquote><i>Se produce una repentina explosión de trueno en el cielo sin estar precedida por la luz habitual, y os hace saltar por sorpresa. Como si siguiera el sonido, un relámpago plateado surge de las nubes y abre una grieta en el mundo frente a vosotros. De ella sale una criatura familiar. Sisea con ira y levanta su lanza dorada para atacar.</i></blockquote>\nBusca el Heraldo de Valusia en la colección y haz que aparezca en el Lugar más alejado de todos los investigadores (si hay 6 o más marcas en la sección \"Furia de Yig\" del registro de campaña, en lugar de eso entra en juego en el Lugar del investigador jefe). Entra en juego con una cantidad de daño igual a la cantidad anotada entre paréntesis en el registro de campaña."
+    },
+    {
+        "code": "04163",
+        "flavor": "La fuerza de Ichtaca sigue debilitándose mientras viajáis por la extraña visión. Nunca la habéis visto tan afectada. Se distrae con frecuencia, mirando a su alrededor como si fuera a encontrar la respuesta ante ella en cualquier momento. De vez en cuando, murmura extrañas frases para sí: -¿Cómo puede haber ocurrido esto…? La respuesta estará con los antiguos… Hay alguien más aquí, lo sé…",
+        "name": "La barrera es delgada",
+        "back_name": "Visión del futuro",
+        "back_flavor": "Los plateados destellos de relámpagos se vuelven más frecuentes, y el cielo comienza a partirse. Se oyen truenos a los lejos, y veis cómo las siluetas de ambas ciudades -la ciudad actual y su predecesora antigua- son consumidas en unas gigantescas fauces de piedra. Hay seis columnas rodeando la cavernosa apertura, y cada una de ellas brilla con fuerza. Una luz roja brota del centro de la abertura, y el suelo tiembla con la fuerza de un terremoto.\n-Ya hemos visto bastante. ¡Debemos salir de aquí mientras podamos! -grita Ichtaca. Por primera vez desde que la conocéis, oís que su voz tiembla.",
+        "back_text": "Busca todos los Lugares [[Tenochtitlán]] que haya en juego y no tengan pistas. Añade esos Lugares a la zona de victoria. A continuación, por cada Lugar <b>Época actual</b> que haya en juego, busca en el mazo de Exploración un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda y colócalo sobre ese Lugar, sustituyéndolo.\nCada investigador pierde todas sus pistas.\nHaz aparecer el Enemigo Padma Amrita puesto aparte en el Templo Mayor.\nRetira de la partida el mazo de Plan actual. Pon en juego el Acto 3a y el Plan 3a puestos aparte como Acto y Plan actuales."
+    },
+    {
+        "code": "04164",
+        "flavor": "La antigua adversaria de Alejandro se encuentra en lo alto de los escalones del templo principal, revelando su verdadero yo. Veis relámpagos plateados a través de sus brazos abiertos. Hay un ejército de siseantes cobras enroscadas a sus pies: -¡Sólo los elegidos pueden encontrar el Nexo! ¡Sólo yo soy digna!",
+        "name": "El tiempo se colapsa",
+        "back_name": "Atrapados en el tiempo",
+        "back_flavor": "-Puede que una eternidad o dos aplaquen vuestro necio deseo de encontrar la verdad -os dice Padma mientras su risa resuena por el cielo y entra por la grieta que hay sobre el templo-. No es que importe. Vuestra especie dejará de existir en la Tierra dentro de poco…\nSe desvanece sin dejar rastro. Le preguntáis a Ichtaca qué deberíais hacer a continuación, pero ella también ha desaparecido. La tormenta se calma de pronto, y os rodea un silencio ensordecedor.",
+        "back_text": "<b>(→R2)</b>"
+    },
+    {
+        "code": "04165",
+        "flavor": "Al salir del hotel, os dais cuenta de que el paisaje de la ciudad se ha visto alterado. Relámpagos plateados restallan en el cielo sobre vuestras cabezas, y la tierra tiembla profundamente bajo vuestros pies. Monstruosas entidades similares a pólipos flotan justo por debajo de las nubes: -¿Qué está pasando? -le gritáis a Ichtaca para haceros oír sobre el silbante viento-. ¿Qué es este lugar?\n-Un futuro -contesta de forma enigmática.",
+        "name": "Cruzar el umbral",
+        "text": "<b>Objetivo</b> - Después de que el primer Lugar [[Tenochtitlán]] entre en juego por haber explorado con éxito, haz avanzar el acto.",
+        "back_name": "Hacia el pasado",
+        "back_flavor": "Veis a lo lejos cómo la luz se filtra por una amplia grieta en el suelo. Cuando os acercáis, os dais cuenta de que la fisura no es natural. Veis el cielo abajo, como si estuvierais mirando un reflejo de las nubes de arriba. De la grieta surgen volutas de humo gris que emiten un olor agridulce. La atravesáis, resistiendo el impulso de vomitar cuando el mundo se vuelve del revés. Cuando volvéis a abrir los ojos, estáis en otro lugar. No en alguna parte, sino en algún <u>tiempo</u>.",
+        "back_text": "El investigador que acabe de poner en juego un Lugar [[Tenochtitlán]] por haber explorado con éxito debe realizar una prueba de [willpower] (4). Si fracasa, debe buscar una Debilidad básica [[Locura]] o [[Lesión]] aleatoria en la colección, añadirla a su mazo y barajar éste.\n<i>(Nota: ten en cuenta que las conexiones de los Lugares son distintas en los Lugares [[Tenochtitlán]].)</i>"
+    },
+    {
+        "code": "04166",
+        "flavor": "¿Esto es real o es una visión? Sea como sea, los secretos de los antiguos podrían contener la clave para encontrar el Nexo de N’kai…",
+        "name": "Pasado y presente",
+        "text": "<b>Objetivo</b> - Encuentra caminos hacia el Nexo descubriendo todas las pistas de tantos Lugares [[Tenochtitlán]] distintos como puedas antes de que se acabe el tiempo. Si hay 6 Lugares [[Tenochtitlán]] en juego que no tengan pistas, haz avanzar el acto.",
+        "back_name": "Visión del futuro",
+        "back_flavor": "Los plateados destellos de relámpagos se vuelven más frecuentes, y el cielo comienza a partirse. Se oyen truenos a los lejos, y veis cómo las siluetas de ambas ciudades -la ciudad actual y su predecesora antigua- son consumidas en unas gigantescas fauces de piedra. Hay seis columnas rodeando la cavernosa apertura, y cada una de ellas brilla con fuerza. Una luz roja brota del centro de la abertura, y el suelo tiembla con la fuerza de un terremoto.\n-Ya hemos visto bastante. ¡Debemos salir de aquí mientras podamos! -grita Ichtaca. Por primera vez desde que la conocéis, oís que su voz tiembla.",
+        "back_text": "Añade todos los Lugares [[Tenochtitlán]] que haya en juego a la zona de victoria. A continuación, por cada Lugar <b>Época actual</b> que haya en juego, busca en el mazo de Exploración un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda y colócalo sobre ese Lugar, sustituyéndolo.\nCada investigador pierde todas sus pistas.\nHaz aparecer el Enemigo Padma Amrita puesto aparte en el Templo Mayor.\nRetira de la partida el mazo de Plan actual. Pon en juego el Acto 3a y el Plan 3a puestos aparte como Acto y Plan actuales."
+    },
+    {
+        "code": "04167",
+        "flavor": "Ichtaca señala el templo que se ve a lo lejos, gritando para hacerse oír sobre la feroz tormenta: -¡Ha sido ella! Ella es quien nos tiene atrapados aquí; ¡lo había desde el principio!\nSi queréis volver a casa, tendréis que atravesar la grieta por la que ha entrado Padma de un modo u otro.",
+        "name": "El viaje de regreso",
+        "text": "<b>Objetivo</b> - Si Padma Amrita es derrotada, haz avanzar el acto.\n<b>Objetivo</b> - Si los investigadores en el Templo Mayor gastan la cantidad necesaria de pistas, haz avanzar el acto.",
+        "back_name": "El portal a casa",
+        "back_text": "<b>Si Padma Amrita fue derrotada:</b>\n<blockquote><i>-¡No! ¡Necios! -grita Padma mientras cae de rodillas, sangrando de sus heridas. Levanta la vista para mirar a Ichtaca a los ojos, suplicándola-. ¿Cómo has podido…?\nEstá a punto de decir algo más, pero Ichtaca la silencia con una flecha disparada a un pulmón.\nMarchaos -dice Ichtaca-. Enseguida voy.\nOs sacudís el miedo y atravesáis la grieta.</i></blockquote>\n<b>(→R1)</b>\n<hr><b>Si los investigadores gastaron pistas para avanzar:</b>\n<blockquote><i>¡No! ¡Volved aquí! -grita Padma en cuanto se da cuenta de vuestro plan-. ¡No podéis dejarme aquí! ¡He sido elegida!\nIchtaca vuelve la vista hacia ella con ojos compasivos. Las dos parecen mirarse como si supieran algo más, y oís que Padma grita: -¿Cómo has podido?\nInchtaca no le presta atención y se gira para miraros: -Marchaos. Enseguida voy.\nOs sacudís el miedo y atravesáis la grieta.</i></blockquote>\n<b>(→R1)</b>"
+    },
+    {
+        "code": "04168",
+        "name": "Ruinas del templo",
+        "text": "[action] [action]: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "Aunque aún no se conoce la ubicación exacta del templo principal de Tenochtitlán, ha comenzado la excavación en busca de las ruinas de los muchos templos que antaño cubrían la zona."
+    },
+    {
+        "code": "04169",
+        "name": "Catedral Metropolitana",
+        "text": "[action] Recibe 1 punto de horror: Roba 2 cartas.\n[action] Si tienes 6 o más cartas en la mano: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "La Catedral Metropolitana, situada en el lado norte de la Plaza de la Constitución, fue construida por conquistadores tras la conquista del Imperio Azteca. Volutas de nubes giran siniestramente sobre cada uno de los campanarios de la catedral."
+    },
+    {
+        "code": "04170",
+        "name": "Parque Chapultepec",
+        "text": "<b>Obligado</b> - Después de que fracases en una prueba de [willpower] mientras estés en el Parque Chapultepec: Recibe 1 punto de horror.\n[action]: <b>Explorar.</b> Realiza una prueba de [willpower] (3). Si tienes éxito, roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "El Bosque de Chapultepec, al oeste de la ciudad, es uno de sus mayores parques, un precioso monumento ecológico construido en lo que fue un bosque sagrado hace muchos siglos."
+    },
+    {
+        "code": "04171",
+        "name": "Zócalo",
+        "text": "[action] Descarta de tu mano cartas cuyo coste total combinado sea al menos de 5: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "La plaza principal del centro de Ciudad de México, que antaño fue el centro ceremonial de Tenochtitlán, se extiende ante ti. Relámpagos plateados brillan en las nubes de tormenta que hay en el cielo, y te turba ver una marea de sangre que cubre la plaza. Toda la ciudad está extrañamente desprovista de vida."
+    },
+    {
+        "code": "04172",
+        "name": "Xochimilco",
+        "text": "Mientras estés en Xochimilco, no puedes obtener recursos.\n[action] Gasta 3 recursos: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "Un barquito de madera golpea contra el lateral del canal, meciéndose suavemente en las rizadas aguas. Un enebro sobresale de una zona de agua poco profunda, doblándose ante la agradable brisa."
+    },
+    {
+        "code": "04173",
+        "name": "Coyoacán",
+        "text": "[action] Recibe 1 punto de daño o 1 punto de horror: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "Aunque no siempre ha sido parte de la Ciudad de México, Coyoacán sí ha sido una zona histórica, famosa por sus estrechas calles y plazas adoquinadas. El suelo tiembla mientras caminas por uno de los muchos senderos angostos de la aldea, y sospechas que bajo la superficie vive algo más…"
+    },
+    {
+        "code": "04174",
+        "name": "Templo Mayor",
+        "text": "<b>Obligado</b> - Después de que el Templo Mayor entre en juego: Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo. Descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Serpiente]]. Haz que ese Enemigo aparezca aquí.\n[reaction] Después de que derrotes o evites a un Enemigo [[Serpiente]] en este Lugar: Descubre 1 pista en este Lugar. Límite de grupo de una vez por fase.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04175",
+        "name": "Templo Mayor",
+        "text": "<b>Obligado</b> - Después de que el Templo Mayor entre en juego: Añade tu pila de descartes a tu mazo y barájalo. Descarta cartas de la parte superior de tu mazo hasta que sea descartada una Debilidad. Roba esa Debilidad.\n[action] Añade una Debilidad de tu pila de descartes a tu mazo y baraja éste: Descubre 2 pistas en este Lugar. Límite de grupo de una vez por ronda.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04176",
+        "name": "Templos de Tenochtitlán",
+        "text": "<b>Obligado</b> - Después de que los Templos de Tenochtitlán entren en juego: Cada investigador que esté en este Lugar recibe 1 punto de daño directo.\nMientras estés investigando los Templos de Tenochtitlán, si te quedan 3 o menos puntos de salud, los Templos de Tenochtitlán reciben -2 a velo.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04177",
+        "name": "Templos de Tenochtitlán",
+        "text": "<b>Obligado</b> - Después de que los Templos de Tenochtitlán entren en juego: Coloca 1 ficha de Perdición sobre el Enemigo más cercano.\n[action] Coloca 1 ficha de Perdición sobre un Enemigo: Descubre 2 pistas en este Lugar. Límite de grupo de una vez por ronda.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04178",
+        "name": "Colina Chapultepec",
+        "text": "<b>Obligado</b> - Después de que la Colina Chapultepec entre en juego: Cada investigador que esté en este Lugar descarta 2 cartas aleatorias de su mano.\n[action] Descarta tu mano (si tiene al menos 3 cartas): Descubre 2 pistas en este Lugar. Límite de grupo de una vez por ronda.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04179",
+        "name": "Colina Chapultepec",
+        "text": "Cada investigador que esté en la Colina Chapultepec recibe -2 [willpower].\n[reaction] Después de que robes una carta [[Maleficio]]: Descubre 1 pista en este Lugar. Límite de grupo de una vez por fase.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04180",
+        "name": "Canales de Tenochtitlán",
+        "text": "Cada Enemigo que esté en los Canales de Tenochtitlán recibe +2 a evitar.\nMientras haya un Enemigo agotado en los Canales de Tenochtitlán, éstos reciben -3 a velo.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04181",
+        "name": "Canales de Tenochtitlán",
+        "text": "<b>Obligado</b> - Después de que los Canales de Tenochtitlán entren en juego: Coloca 4 recursos sobre ellos.\nLos Canales de Tenochtitlán reciben +1 a velo por cada recurso que tengan.\n<b>Obligado</b> - Al final de la ronda: Descarta 1 recurso de los Canales de Tenochtitlán.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04182",
+        "name": "Lago Xochimilco",
+        "text": "<b>Obligado</b> - Después de que el Lago Xochimilco entre en juego: Cada investigador que esté en este Lugar pierde todas sus acciones restantes.\nMientras estés investigando el Lago Xochimilco, éste recibe +2 a velo por cada acción que te quede.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04183",
+        "name": "Lago Xochimilco",
+        "text": "<b>Obligado</b> - Después de que el Lago Xochimilco entre en juego: Cada investigador que esté en este Lugar recibe 1 punto de horror directo.\nMientras estés investigando el Lago Xochimilco, si te quedan 3 o menos puntos de cordura, el Lago Xochimilco recibe -2 a velo.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04184",
+        "name": "Arboleda sagrada",
+        "text": "<b>Obligado</b> - Después de que la Arboleda sagrada entre en juego: Cada investigador que esté en este Lugar descarta las 10 primeras cartas de su mazo.\n[action] Si no te quedan cartas en tu mazo: Descubre todas las pistas de la Arboleda sagrada.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04185",
+        "name": "Arboleda sagrada",
+        "text": "Mientras estés en la Arboleda sagrada, aumenta en 2 el coste de cada carta que juegues.\nMientras estés investigando la Arboleda sagrada, ésta recibe -1 a velo por cada Apoyo que controles.",
+        "traits": "Antiguo. Tenochtitlán."
+    },
+    {
+        "code": "04186",
+        "name": "Padma Amrita",
+        "subname": "Encantadora de sangre fría",
+        "text": "Alerta. Represalia. Cazador.\nMientras Padma Amrita esté preparada, no pueden descubrirse pistas en ningún Lugar [[Antiguo]].\n<b>Obligado</b> - Después de que Padma Amrita te ataque: Si tienes al menos 1 pista, dale la vuelta a 1 de tus pistas para mostrar su lado de perdición. Si no es así, recibe 3 puntos de horror.",
+        "traits": "Humanoide. Serpiente. Servidor. Élite."
+    },
+    {
+        "code": "04187",
+        "name": "Serpiente de Tenochtitlán",
+        "text": "Mientras la Serpiente de Tenochtitlán esté en un Lugar [[Antiguo]] que tenga pistas, obtiene Cazador.\n<b>Obligado</b> - Después de que la Serpiente de Tenochtitlán te inflija daño por su ataque: Si no estás envenenado, pon una Debilidad Envenenado puesta aparte en juego en tu zona de amenaza.",
+        "traits": "Humanoide. Monstruo. Serpiente."
+    },
+    {
+        "code": "04188",
+        "name": "Mano de la Hermandad",
+        "text": "<b>Aparición</b> - Cualquier Lugar vacío.\n<b>Obligado</b> - Después de que se descubra la última pista de un Lugar [[Antiguo]], si la Mano de la Hermandad está preparada: Coloca 1 ficha de Perdición sobre la Mano de la Hermandad.\nMientras la Mano de la Hermandad esté preparada, las capacidades [action] y [reaction] de su Lugar y de los Lugares conectados no pueden ser activadas.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "04189",
+        "name": "Ventana a otro tiempo",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Elige un Lugar [[Antiguo]], devuélvelo al mazo de Exploración. El Lugar <b><i>Época actual</i></b> que tenga debajo lo sustituye.\n- Coloca 1 ficha de Perdición sobre el plan en curso. Este efecto puede hacer que el plan en curso avance.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "04190",
+        "flavor": "Al tirar de los hilos, el tejido se deshace",
+        "name": "Desestabilización de la línea temporal",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (1). Esta prueba recibe +1 a su dificultad por cada Lugar [[Antiguo]] que haya en juego. Si fracasas, recibe 1 punto de daño y 1 punto de horror, devuelve Desestabilización de la línea temporal al mazo de Exploración y baraja éste.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "04191",
+        "flavor": "El dispositivo palpita de poder en tus manos, y el aire vibra en torno a él. ¿De verdad puede alterar el flujo del tiempo?",
+        "name": "Reliquia de las eras",
+        "subname": "Anticipando el futuro",
+        "text": "[free] Agota la Reliquia de las eras: Realiza una prueba de [willpower] o de [intellect] (4). Si tienes éxito, retira 1 ficha de Perdición del plan en curso. Si fracasas, añade 1 ficha de Perdición a la Reliquia de las eras. Máximo de un éxito por partida.",
+        "traits": "Objeto. Reliquia."
+    }
+]

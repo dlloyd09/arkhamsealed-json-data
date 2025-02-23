@@ -1,0 +1,273 @@
+[
+    {
+        "code": "06247",
+        "name": "Punto sin retorno",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la cantidad de daño que hay sobre esta carta.\n[cultist]: Revela otra ficha. Si fracasas, después de que termine esta prueba de habilidad, roba la primera carta del mazo de Encuentros.\n[tablet]: +1. El gato negro te ayuda a orientarte entre el fuego letal. Si esta ficha es revelada durante una investigación y tienes éxito, roba 1 carta.\n[elder_thing]: -3. Si fracasas por 2 o más, elige un Enemigo preparado que esté en tu Lugar o en un Lugar conectado. Ese Enemigo se mueve a tu Lugar, se enfrenta a ti y realiza un ataque inmediatamente.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad de daño que hay sobre esta carta más 1.\n[cultist]: Revela otra ficha. Si fracasas, después de que termine esta prueba de habilidad, roba la primera carta del mazo de Encuentros.\n[tablet]: 0. El gato negro te ayuda a orientarte entre el fuego letal. Si esta ficha es revelada durante una investigación y tienes éxito, roba 1 carta.\n[elder_thing]: -4. Si fracasas por 2 o más, elige un Enemigo preparado que esté en tu Lugar o en un Lugar conectado. Ese Enemigo se mueve a tu Lugar, se enfrenta a ti y realiza un ataque inmediatamente."
+    },
+    {
+        "code": "06248",
+        "name": "Un reino siniestro",
+        "flavor": "El Mundo subterráneo es un reino cavernoso, casi otro mundo en sí mismo. Su techo se encuentra a tanta distancia que perfectamente podría ser un sombrío cielo nublado. Las paredes de las cavernas están iluminadas por una tenue luz gris titilante que no tiene un origen aparente. Deambuláis por las intrincadas catacumbas en busca de un camino que seguir, pero tenéis la sensación de que os siguen.",
+        "back_name": "El camino se oscurece",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nColoca 1 ficha de Daño sobre la carta de referencia de escenario.",
+        "back_flavor": "Una repentina oleada de dolor y náuseas os invade y, por un breve instante, parece que el tejido de la realidad se estuviera desgarrando. La sensación pasa rápidamente, pero es obvio que algo no va bien."
+    },
+    {
+        "code": "06249",
+        "name": "Asediado por monstruos",
+        "text": "Consejo: La partida no acabará necesariamente cuando este plan avance… pero la estabilidad de la realidad seguirá desmoronándose.",
+        "flavor": "Mientras seguís explorando, las criaturas del Mundo subterráneo se agitan cada vez más y comienzan a perseguiros como impulsados por una fuerza invisible.",
+        "back_name": "La tejedora se acerca",
+        "back_text": "Cada investigador debe descartar 1 carta al azar de su mano o bien perder 2 recursos.\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nColoca 1 ficha de Daño sobre la carta de referencia de escenario. A continuación:\n- Si hay 5 o más fichas de Daño sobre la carta de referencia de escenario, pasa a <b>(→R2)</b>.\n- Si no es así, vuelve a darle la vuelta a este plan.",
+        "back_flavor": "Os vuelve a invadir una repentina sensación de inestabilidad cuando la realidad cambia y se retuerce a vuestro alrededor. La oleada es más intensa que antes y parece originarse en el Mar de Brea de las profundidades del Mundo subterráneo."
+    },
+    {
+        "code": "06250",
+        "name": "Entrando en el Mundo subterráneo (v. I)",
+        "text": "<b>Obligado</b> - Después de que un Enemigo que tenga 1 o más pistas sea derrotado: Toma el control de cada una de esas pistas.\n<b>Objetivo</b> - Explora esta región <i>(se te indicará cuándo debes avanzar)</i>.",
+        "flavor": "Habéis logrado llegar a las Tierras del Sueño, pero no es precisamente lo que esperabais. Estáis en el Mundo subterráneo y os costará orientaros en este siniestro lugar.",
+        "back_name": "Un apenado aliado",
+        "back_text": "Pon en juego cada Lugar [[Valle]] puesto aparte.\nBusca todas las cartas del conjunto de encuentros <i>Gules</i> y del conjunto de encuentros <i>Miedo impactante</i> (incluso si están fuera del juego). Retíralas de la partida.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y los conjuntos de encuentros <i>Terror del valle</i> y <i>Ángeles descarnados</i> y luego barájalo.",
+        "back_flavor": "Comenzáis una aterrada explicación de todo lo que os ha ocurrido. Cuando un gul oye el nombre de \"Randolph Carter\", su actitud cambia. Os pregunta qué le ha ocurrido a Randolph y le contáis el destino de su amigo. La criatura es presa de la tristeza. Se presenta como Richard Pickman, y os dice que Randolph era su amigo. Acepta dejaros pasar en paz, pero no sin advertiros de algo: están teniendo lugar extraños acontecimientos en el Mundo subterráneo. Habla de fuerzas oscuras que se extienden por el valle que hay bajo la llanura de los gules, de viles tejedoras que corretean por las paredes de las cavernas y de un terrible aullido que atraviesa todo el reino. Todo esto, os explica en su jerigonza, proviene de un solo lugar: un océano de brea que se encuentra en la capa más profunda de este reino."
+    },
+    {
+        "code": "06251",
+        "name": "Entrando en el Mundo subterráneo (v. II)",
+        "text": "<b>Obligado</b> - Después de que un Enemigo que tenga 1 o más pistas sea derrotado: Toma el control de cada una de esas pistas.\n<b>Objetivo</b> - Encuentra a Richard Upton Pickman <i>(se te indicará cuándo debes avanzar)</i>.",
+        "flavor": "Habéis logrado llegar a las Tierras del Sueño, pero no es precisamente lo que esperabais. Estáis en el Mundo subterráneo y os costará orientaros en este siniestro lugar.",
+        "back_name": "Un improbable aliado",
+        "back_text": "Elige un investigador para que tome el control del Apoyo de historia Richard Upton Pickman puesto aparte. Durante el resto del escenario, si Richard Upton Pickman abandona el juego, retíralo de la partida.\nPon en juego cada Lugar [[Valle]] puesto aparte.\nBusca todas las cartas del conjunto de encuentros <i>Miedo impactante</i> (incluso si están fuera del juego). Retíralas de la partida.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y los conjuntos de encuentros <i>Terror del valle</i> y <i>Ángeles descarnados</i> y luego barájalo.",
+        "back_flavor": "Randolph da un grito cuando reconoce al gul que se acerca. La criatura y él se dan la mano y conversan brevemente antes de que Randolph os presente:\nEste es el gul del que os hablé. Es un viejo amigo mío y se ha ofrecido a guiarnos por el Mundo subterráneo. Sin embargo, tiene funestas noticias…\nRandolph empieza a explicároslo: están teniendo lugar extraños acontecimientos en el Mundo subterráneo. Habla de fuerzas oscuras que se extienden por el valle que hay bajo la llanura de los gules, de viles tejedoras que corretean por las paredes de las cavernas y de un terrible aullido que atraviesa todo el reino. Todo esto, dice, proviene de un solo lugar: un océano de brea que se encuentra en la capa más profunda de este reino."
+    },
+    {
+        "code": "06252",
+        "name": "El descenso",
+        "text": "<b>Obligado</b> - Después de que un Enemigo que tenga 1 o más pistas sea derrotado: Toma el control de cada una de esas pistas.\n<b>Objetivo</b> - Busca el camino hacia el Mar de Brea <i>(se te indicará cuándo debes avanzar)</i>.",
+        "flavor": "El camino hacia el valle es traicionero. Tendréis que descender desde un lugar que Pickman llama \"el despeñadero de los gules\", donde las criaturas tiran los restos de sus macabras comidas. No queréis ni imaginaros lo que habrá en el fondo.",
+        "back_name": "Una forma de cruzar",
+        "back_text": "Pon en juego cada Lugar [[Profundidades]] puesto aparte.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y los conjuntos de encuentros <i>Descenso a la brea</i> y <i>Agentes de Atlach-Nacha</i> puestos aparte y luego barájalo.",
+        "back_flavor": "El agujero se va estrechando cada vez más mientras avanzáis hacia el otro lado de la pared de piedra. Cuando por fin salís, os encontráis a orillas de un enorme océano de brea negrísima. Por su superficie se extienden redes de brillante energía violeta que hacen que os embargue un incómodo temor. ¿Podrían tener relación con los horrores que vivisteis en el Hospital de Santa María? Cuando empezáis a preguntaros qué hacer a continuación, descubrís varias barcas de remo de madera negra atracadas en una cala cercana. Todas tienen una extraña insignia tallada en el casco. ¿Es la suerte o la providencia? En cualquier caso, estáis decididos a cruzar el mar y llegar hasta el origen de esta locura."
+    },
+    {
+        "code": "06253",
+        "name": "La extensión negra",
+        "text": "<b>Obligado</b> -  Después de que un Enemigo que tenga 1 o más pistas sea derrotado: Coloca esas pistas sobre este acto.\n<b>Objetivo</b> - Encuentra el origen de la distorsión <i>(se te indicará cuándo debes avanzar)</i>.",
+        "flavor": "Mientras atravesáis el Mar de Brea, comenzáis a distinguir patrones en la red sobrenatural que brilla bajo su superficie.",
+        "back_name": "Bajo el Mar de Brea",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "El miedo os atenaza el pecho mientras contempláis la densa agua oscura. Éste es el origen. Haya lo que haya bajo la superficie de este mar, contiene la respuesta a todo lo que ha ocurrido hasta el momento en el mundo de la vigilia. Tal vez incluso halléis un modo de salvar a vuestros amigos. O tal vez el océano se os trague vivos. No tenéis forma de saberlo a ciencia cierta. Apretáis los puños con fuerza y respiráis hondo una última vez. A continuación, dais un salto de fe."
+    },
+    {
+        "code": "06254",
+        "name": "Las salas de Zin",
+        "text": "Velado.",
+        "flavor": "\"…ya que ésta era la boca de las criptas de Zin, donde los vindicativos lívidos acechan a los habitantes del abismo superior que vienen a cazarlos para devorarlos.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>"
+    },
+    {
+        "code": "06254b",
+        "name": "Túneles espantosos",
+        "text": "Busca en el mazo y la pila de descartes de Encuentros un Enemigo [[Ghast]] y haz que aparezca aquí agotado y con 1 pista sobre él. Baraja el mazo de Encuentros.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Voces y siseos imposibles te persiguen a lo largo de toda esta red de oscuros túneles entrecruzados. Teniendo en cuenta la enormidad de este conjunto de cavernas, crees que la multitud de caminos podrían llevarte hasta la superficie de las Tierras del Sueño. Parece casi imposible que puedas encontrar el camino de vuelta al inicio. Sin embargo, cuando sales, no estás solo…"
+    },
+    {
+        "code": "06255",
+        "name": "La ciudad de los gugs",
+        "text": "<b>Obligado</b> - Después de que entres en La ciudad de los gugs: Dale la vuelta y resuelve el texto que tiene en el otro lado.",
+        "flavor": "\"…Salieron del laberinto de monolitos y entraron en las calles oscuras y fétidas de aquella horrenda ciudad, cuyas torres circulares de ciclópea mampostería se elevan hasta perderse de vista.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>"
+    },
+    {
+        "code": "06255b",
+        "name": "El centinela",
+        "text": "Haz aparecer el Enemigo Centinela gug puesto aparte en este Lugar, con 1 pista [per_investigator] sobre él. Realiza una prueba de [agility] (3). Si tienes éxito, el Centinela gug entra en juego agotado y sin enfrentar. Si no es así, entra en juego enfrentado a ti.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "El reino de los gugs está rodeado por una muralla colosal. En su interior, torres cilíndricas se elevan entre la niebla, sin ventanas y hechas de piedra gris, con enormes portales en su parte inferior. Una torre negra se alza suprema entre las demás hasta el mismo techo del Mundo subterráneo. No llegas muy lejos antes de ver al centinela que monta guardia en el exterior de las murallas de la ciudad: una criatura tremenda con enormes brazos hirsutos y unas obscenas fauces llenas de dientes que se abren en vertical por su cabeza."
+    },
+    {
+        "code": "06256",
+        "name": "La torre de Koth",
+        "text": "[action]: Realiza una prueba de [combat] (5) para levantar la pesada trampilla de piedra que hay en lo alto de la torre. Si tienes éxito, dale la vuelta a esta carta y resuelve el texto que tiene en el otro lado.",
+        "flavor": "Te sorprende descubrir que ninguna de las criaturas que habitan en la ciudad parece residir en el interior de esta enorme estructura en su mismo centro. Aparte del extraño cartel que hay sobre el umbral de la torre, está desnuda de todo o propósito."
+    },
+    {
+        "code": "06256b",
+        "name": "Otro camino",
+        "text": "Pon en juego, revelado, el Bosque Encantado <i>(Trampilla de piedra)</i> puesto aparte.\nAnota en el registro de campaña que <i>los investigadores encontraron una salida del Mundo subterráneo</i>.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Paso a paso, asciendes por la torre hasta llegar a la pesada trampilla de su parte superior. Cuando apartas la piedra, una columna de luz brillante entra por el agujero y te ciega. ¡La superficie! Sales a una zona llena de árboles y niebla mística. Después de tantas horas bajo tierra, la fresca brisa te parece maravillosa. Desde el bosque te observan muchos ojos curiosos. Aunque ansías quedarte a explorar esta naturaleza, sabes que tu verdadero objetivo está en las cavernas que hay bajo la superficie."
+    },
+    {
+        "code": "06257",
+        "name": "La llanura de los gules",
+        "text": "Velado.\nLos Enemigos [[Gug]] no pueden entrar en La llanura de los gules. Si un Enemigo [[Gug]] fuese a aparecer en La llanura de los gules, en lugar de eso aparece en La ciudad de los gugs.",
+        "flavor": "\"En general, los gules se mostraron respetuosos, aun cuando uno de ellos intentara pellizcarte y los demás le miraran apreciativamente evaluando su delgadez.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Central."
+    },
+    {
+        "code": "06257b",
+        "name": "Un extraño gul",
+        "text": "<b>Si los investigadores poseen menos de 3 pistas [per_investigator]:</b>\n<blockquote><i>Por mucho que lo intentéis, no lográis hacer ningún progreso con las criaturas que habitan en esta región.</i></blockquote>\nVuelve a darle la vuelta a esta carta. Regresa cuando comprendas mejor esta región. Esta carta puede volver a darse la vuelta cuando estés listo.<hr><b>Si los investigadores poseen al menos 3 pistas [per_investigator]:</b>\n<blockquote><i>Tras pasar un tiempo considerable explorando la capa superior, entendéis la naturaleza de los gules un poco más. Os reciben mejor de lo que los suyos lo han hecho en el pasado y os hablan entre gruñidos y monosílabos. Mientras sopesáis vuestras opciones, se os acerca uno de su raza que aún lleva ropa humana. A diferencia del resto, puede comunicarse con vosotros perfectamente. Tiene un cierto aire de autoridad y sabiduría y exige saber por qué habéis venido a este lugar.</i></blockquote>\nLos investigadores, como grupo, deben gastar 3 pistas [per_investigator].\nHaz avanzar el acto en curso.\nVuelve a darle la vuelta a esta carta."
+    },
+    {
+        "code": "06258",
+        "name": "El despeñadero de los gules",
+        "text": "Velado.\nLa primera Traición robada durante la fase de mitos por un investigador que esté en este Lugar gana Oleada.",
+        "flavor": "\"Finalmente, vislumbró por encima de él una cornisa que sobresalía del borde del gran despeñadero de los gules, cuya pared vertical no pudo percibir…\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Valle."
+    },
+    {
+        "code": "06258b",
+        "name": "Explorando el valle",
+        "text": "Mira las 2 primeras cartas [per_investigator] del mazo de Encuentros. Puedes descartar hasta la mitad de esas cartas. Devuelve el resto a la parte superior del mazo de Encuentros en cualquier orden.\nDurante el resto de la partida, ignora el texto de El despeñadero de los gules.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Contemplas el valle baldío para valorar las amenazas que habitan en él. Por debajo de la meseta en la que te encuentras, se extiende un bosque de obscenos hongos pálidos durante kilómetros. Más allá de él hay una gran pila de huesos, como un océano que se desborda en todas direcciones. Jurarías haber visto algo que se arrastra sobre la superficie de huesos, pero quizás no sea más que tu imaginación. Grandes y puntiagudos picos se alzan dominando el valle a lo lejos. En torno a sus cumbres vuelan negras criaturas aladas en busca de presas. No ves ni rastro de ese \"océano de brea\" que describió Pickman, aunque sí distingues una amplia caverna que se abre en una pared de piedra que hay a la derecha del valle…"
+    },
+    {
+        "code": "06259",
+        "name": "El mar de huesos",
+        "text": "<b>Obligado</b> - Después de que descubras 1 o más pistas en El mar de huesos: Dale la vuelta a esta carta y resuelve el texto que tiene en el otro lado.",
+        "flavor": "\"Nada había en torno suyo, sino tinieblas, y horror, y huesos, y silencio.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Valle."
+    },
+    {
+        "code": "06259b",
+        "name": "Hay algo abajo",
+        "text": "Si no hay ningún Túnel de dhole en este Lugar, busca en el mazo y la pila de descartes de Encuentros un Túnel de dhole y vincúlaselo a este Lugar si es posible. Baraja el mazo de Encuetros.\nSi el Dhole reptante está en juego, muévelo a este Lugar y añádele 2 pistas. Si no es así, busca en el mazo y la pila de descartes de Encuentros y en la zona de victoria el Dhole reptante y haz que aparezca en este Lugar, agotado y con 2 pistas sobre él.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Atravesar este cañón de cadáveres y restos monstruosos es trabajoso, pero lo que te hace odiar este horrible lugar son los ruidos y movimientos que hay bajo su superficie. ¿Qué tipo de monstruosidad podría extenderse por todo este océano de huesos? Encuentras la respuesta cuando encuentras un gran agujero en la quebrada. Se traga los huesos y restos de carne putrefacta como un remolino. Al llegar a la base del túnel y darte cuenta de su verdadero propósito, te recorre un escalofrío. Lo ha hecho una enorme criatura: la cosa que habita bajo el mar de huesos."
+    },
+    {
+        "code": "06260",
+        "name": "Pico de Thok",
+        "text": "[action]: Realiza una prueba de [agility] (5) para intentar escalar los traicioneros picos. Si tienes éxito, dale la vuelta a esta carta y resuelve el texto que tiene en el otro lado.\n<b>Obligado</b> - Cuando salgas de los Picos de Thok: Debes realizar una prueba de [agility] (2) para descender con seguridad. Si fracasas, recibe 1 punto de daño.",
+        "traits": "Valle. Central."
+    },
+    {
+        "code": "06260b",
+        "name": "Habitantes del valle",
+        "text": "Busca en el mazo y la pila de descartes de Encuentros un Ángel descarnado cazador y haz que aparezca en el Valle de Pnath agotado.\nCada investigador que esté en los Picos de Thok puede robar 2 cartas.\nElige cualquier Enemigo que esté en juego y coloca 2 pistas sobre él.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Escalas hasta lo más alto de los peligrosos picos para examinar la tierra que se extiende bajo ellos. Desde este punto, puedes ver los movimientos de las distintas criaturas que viven en el valle. En torno a los picos vuelan cosas negras con alas que parecen mirarte con desaprobación de algún modo pese a sus rostros vacíos y sin expresión. Sobre el peñasco que cuelga sobre el valle, los ojos de los gules observan tu progreso con curiosidad morbosa. El monte de huesos y detrito que hay bajo el despeñadero sólo alberga los movimientos y excavaciones de algo descomunal bajo su superficie. A tu izquierda, el brumoso valle se extiende durante kilómetros hasta llegar a una enorme pared de piedra. Enfrente de la pared, tan a lo lejos que apenas la distingues, ves la silueta de una ciudad en la oscuridad. Susurros incomprensibles y risas burlonas invaden tus oídos. No te atreves a seguir mirando."
+    },
+    {
+        "code": "06261",
+        "name": "Valle de Pnath",
+        "text": "Velado.\nMientras queden pistas sobre el Valle de Pnath, los investigadores que estén en el Valle de Pnath no pueden jugar cartas ni asignar cartas a pruebas de habilidad.",
+        "traits": "Valle."
+    },
+    {
+        "code": "06261b",
+        "name": "La salida",
+        "text": "<b>Si los investigadores poseen menos de 3 pistas [per_investigator]:</b>\n<blockquote><i>Por mucho que lo intentéis, no lográis encontrar ninguna salida del oscuro valle baldío.</i></blockquote>\nVuelve a darle la vuelta a esta carta. Regresa cuando comprendas mejor esta región. Esta carta puede volver a darse la vuelta cuando estés listo.<hr><b>Si los investigadores poseen al menos 3 pistas [per_investigator]:</b>\n<blockquote><i>Os aventuráis en el oscuro valle e intentáis trazar un mapa de vuestros alrededores. Con el conocimiento que habéis acumulado, sabéis que el origen de las perturbaciones del mundo subterráneo no puede estar en esta región. Debe de haber otro camino, tal vez una caverna o un túnel, que lleve del valle a un lugar que esté a mayor profundidad bajo la superficie de las Tierras del Sueño. Al acercaros a la gran pared de piedra que hay en el extremo del valle, percibís un nauseabundo olor, como a azufre y brea. Seguís el hedor hasta un gran agujero en la pared.</i></blockquote>\nLos investigadores, como grupo, deben gastar 3 pistas [per_investigator].\nHaz avanzar el acto en curso.\nVuelve a darle la vuelta a esta carta."
+    },
+    {
+        "code": "06262",
+        "name": "El Mar de Brea",
+        "text": "Velado.\nX es la cantidad de fichas de Daño que hay sobre la carta de referencia de escenario.",
+        "flavor": "En lo más profundo de la vacua extensión hay otra dimensión.\n¿Os lanzaréis a ella?",
+        "traits": "Profundidades."
+    },
+    {
+        "code": "06262b",
+        "name": "Aguas infestadas de arañas",
+        "text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo. Descarta cartas de la parte superior hasta que sea descartado un Enemigo [[Araña]]. Haz aparecer ese Enemigo aquí con 1 pista [per_investigator] sobre él (si es Multitud, coloca esas pistas sobre el Enemigo anfitrión).\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Las criaturas emergen repentinamente de las profundidades del negro océano. Sin similares en forma a las arañas, pero ahí acaba toda similitud. Sus cuerpos parecen estar hechos de la misma sustancia alquitranada que el océano, y sus ojos brillan de color carmesí en la oscura niebla que hay sobre el mar. Las arañas rodean tu barca e intentan tirar de ti para sumergirte en las profundidades."
+    },
+    {
+        "code": "06263",
+        "name": "El Mar de Brea",
+        "text": "Velado.\nX es la cantidad de fichas de Daño que hay sobre la carta de referencia de escenario.",
+        "flavor": "En lo más profundo de la vacua extensión hay otra dimensión.\n¿Os lanzaréis a ella?",
+        "traits": "Profundidades."
+    },
+    {
+        "code": "06263b",
+        "name": "Superficie en calma",
+        "text": "Mira el otro lado de otra copia de El Mar de Brea.\nVuelve a darle la vuelta a esta carta.",
+        "flavor": "Las olas del océano son regulares y lentas, como en un pozo de cieno, pero acabas por encontrar un punto en el que el océano está siniestramente en calma y donde todo es silencio. Te asomas por el borde de tu barca y examinas las profundidades. En algún lugar de la negra inmensidad está vuestro destino…"
+    },
+    {
+        "code": "06264",
+        "name": "El Mar de Brea",
+        "text": "Velado.\nX es la cantidad de fichas de Daño que hay sobre la carta de referencia de escenario.",
+        "flavor": "En lo más profundo de la vacua extensión hay otra dimensión.\n¿Os lanzaréis a ella?",
+        "traits": "Profundidades."
+    },
+    {
+        "code": "06264b",
+        "name": "Pozos encrespados",
+        "text": "Deja aparte todas las pistas de cada El Mar de Brea.\nDescarta todas las demás fichas y cartas vinculadas de cada El Mar de Brea.\nVuelve a darle la vuelta a esta carta y mezcla las posiciones de todas las copias de El Mar de Brea, de forma que no sepas cuál es cuál (los investigadores y Enemigos permanecen en su posición actual).\nDistribuye las pistas que has dejado aparte de la forma más equitativa posible entre todas las copias de El Mar de Brea.\nSe puede volver a dar la vuelta a cada El Mar de Brea mediante su palabra clave Velado.",
+        "flavor": "Aunque no hay viento en las oscuras cavernas del Mundo subterráneo, enormes torbellinos de brea atacan tu embarcación desde todos lados. Intentas mantener el control de tu barca mientras los remolinos siembran el caos."
+    },
+    {
+        "code": "06265",
+        "name": "El Mar de Brea",
+        "text": "Velado.\nX es la cantidad de fichas de Daño que hay sobre la carta de referencia de escenario.",
+        "flavor": "En lo más profundo de la vacua extensión hay otra dimensión.\n¿Os lanzaréis a ella?",
+        "traits": "Profundidades."
+    },
+    {
+        "code": "06265b",
+        "name": "El centro del mar",
+        "text": "<b>Si los investigadores poseen menos de 3 pistas [per_investigator]:</b>\n<blockquote><i>Por mucho que lo intentéis, no lográis encontrar el camino hacia el otro lado de este océano de alquitrán.</i></blockquote>\nVuelve a darle la vuelta a esta carta. Regresa cuando comprendas mejor esta región. Esta carta puede volver a darse la vuelta cuando estés listo.<hr><b>Si los investigadores poseen al menos 3 pistas [per_investigator]:</b>\n<blockquote><i>Seguís remando y os adentráis en aguas más profundas y oscuras, pero sigue sin haber rastro alguno de otra costa. Bajo la superficie del negro líquido alquitranado podéis ver una serie de destellantes estrellas, como una constelación desconocida que os llama para que sigáis. Si no supierais que no puede ser así, pensaríais que era un reflejo de cielo, pero en este oscuro reino no hay cielo. Os asomáis por el borde de vuestras barcas y estáis a punto de vomitar por la sensación de vértigo que os invade. Debe de tener cientos de kilómetros de profundidad, y está lleno de horrores que escapan a vuestra imaginación. Y aun así, sabéis lo que debéis hacer…</i></blockquote>\nLos investigadores, como grupo, deben gastar 3 pistas [per_investigator].\nVuelve a darle la vuelta a esta carta y haz avanzar el acto en curso."
+    },
+    {
+        "code": "06266",
+        "name": "Richard Upton Pickman",
+        "subname": "Gul venerable",
+        "text": "[free] Agota a Richard Upton Pickman: Elige un Enemigo [[Gul]] que esté en tu Lugar y vincúlaselo boca abajo.\n[action] Agota a Richard Upton Pickman: <b>Combatir.</b> Atacas con un valor básico de [combat] de 5. En lugar de su daño normal, este ataque inflige una cantidad de daño igual a la cantidad de cartas de Encuentro boca abajo vinculadas a Richard Upton Pickman.",
+        "traits": "Aliado. Gul. Artista."
+    },
+    {
+        "code": "06267",
+        "name": "Centinela gug",
+        "text": "El Centinela gug recibe +2 de salud [per_investigator].\n<b>Obligado</b> - Después de que el Centinela gug se prepare: Inflige 1 punto de horror a cada investigador que esté en su Lugar.",
+        "flavor": "\"Luego brillaron dos ojos rosados, apareciendo a continuación la cabeza bamboleante del gug centinela que había despertado.\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Monstruo. Gug."
+    },
+    {
+        "code": "06268",
+        "name": "Probar la sangre",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Por cada punto que te falte para tener éxito, debes (elige uno): Colocar 1 de tus pistas sobre tu Lugar, colocar 1 de tus pistas sobre el Enemigo más cercano o recibir 1 punto de daño.",
+        "flavor": "\"Carter se sintió enfermo al ver el aspecto de aquella bestia obscena y malsana…\"\n- H. P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "06269",
+        "name": "Encendido por el fuego letal",
+        "text": "<b>Revelación</b> - Cada investigador pierde 1 recurso. Cada investigador que esté en un Lugar [[Valle]] o [[Profundidades]] elige y descarta 1 carta de su mano. Cada investigador que esté en un Lugar [[Profundidades]] pierde 1 acción.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "06270",
+        "name": "Emboscada inesperada",
+        "text": "<b>Revelación</b> - Si no hay Enemigos en juego, recibe 1 punto de daño y 1 punto de horror. Si no es así, realiza una prueba de [intellect] (4) o de [agility] (4). Si fracasas, el Enemigo más cercano se prepara, se mueve de Lugar en Lugar hasta que llegue a tu Lugar y se enfrenta a ti. A continuación, si fracasaste por 3 o más, realiza un ataque inmediatamente.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "06271",
+        "name": "Dhole reptante",
+        "text": "<b>Aparición</b> - Lugar más cercano con un Túnel de dhole vinculado. Si no es así, el Dhole reptante gana Oleada, lo devuelves al mazo de Encuentros y barajas éste.\nCazador. Descomunal.\nMientras el Dhole reptante se mueva, todos los Lugares que tengan un Túnel de dhole vinculado se consideran conectados entre sí.",
+        "traits": "Monstruo. Dhole. Élite."
+    },
+    {
+        "code": "06272",
+        "name": "Túnel de dhole",
+        "text": "<b>Revelación</b> - Si el Dhole reptante está en juego, se mueve y ataca como si fuera la fase de Enemigos. Si no es así, vincula el Túnel de dhole a un Lugar que esté al menos a 2 conexiones de distancia del Túnel de dhole más cercano (o a tu Lugar si no puedes). A continuación, si el Dhole reptante está en la zona de victoria, haz que aparezca agotado en el Lugar vinculado.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "06273",
+        "name": "Araña de brea",
+        "text": "<b>Aparición</b> - Cualquier Lugar Mar de Brea (vacío si es posible).\nMultitud X. X es la cantidad de fichas de Daño que hay sobre la carta de referencia de escenario.\n<b>Obligado</b> - Cuando la Araña de brea te ataque: Inflige su daño o su horror en lugar de ambas cosas.",
+        "traits": "Monstruo. Araña."
+    },
+    {
+        "code": "06274",
+        "name": "Sombra de Atlach-Nacha",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (2). Esta prueba recibe +1 a su dificultad por cada ficha de Daño que haya sobre la carta de referencia de escenario. Si fracasas, recibe 1 punto de daño y 1 punto de horror.",
+        "flavor": "Ondas de una luz violeta brillan bajo la superficie del oscuro océano ondulante. ¿Qué produce esa perturbación?",
+        "traits": "Maldición."
+    },
+    {
+        "code": "06275",
+        "name": "Falso despertar",
+        "text": "Falso despertar comienza cada partida junto al mazo de Plan con 1 ficha de Perdición sobre él.\n[action]: Realiza una prueba de cualquier habilidad (2). Esta prueba recibe +1 a su dificultad [per_investigator]. Si tienes éxito, retira Falso despertar de la partida. Cualquier investigador puede activar esta capacidad.",
+        "traits": "Maldición."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "code": "98010",
+        "flavor": "Der Geist ist zerbrechlich, aber erst wenn wir ihn begreifen, können wir ihn beschützen.",
+        "name": "Carolyn Fern",
+        "subname": "Die Psychologin",
+        "text": "[reaction] Nachdem einer deiner Karteneffekte Horror von einem Ermittler oder von einer [[Verbündeter]]-Vorteilskarte geheilt hat: Der Spieler, der die geheilte Karte kontrolliert, erhält 1 Ressource.\n[elder_sign]-Effekt: +1. Du darfst 1 Horror von einem Ermittler oder von einer [[Verbündeter]]-Vorteilskarte an deinem Ort heilen.",
+        "traits": "Mediziner.",
+        "back_flavor": "Carolyn Ferns neueste Patientin heißt Josephine Ruggles. Die Erbin des Ruggles-Publishing-Vermögens wird von Albträumen geplagt, die hieroglyphenförmige Wunden auf ihrem Rücken zurückließen. Selbst für eine Einrichtung wie das Arkham Sanatorium ist Miss Ruggles Fall eher ungewöhnlich. Er wird aber noch seltsamer, als sie behauptet, sie habe in ihren Träumen Malachi getroffen - Carolyns ehemaligen Patienten, dessen Behandlung durch seine Ermordung ein frühzeitiges Ende gefunden hatte. Als Carolyn mit Hypnosetherapie versucht, Josephines Trauma auf den Grund zu gehen, verschlägt es sie beide an einen seltsamen Ort, den Josephine als \"die Traumlande\" bezeichnet.",
+        "back_text": "<b>Deckgröße</b>: 30.\n<b>Deckbau-Optionen</b>: Wächterkarten ([guardian]) Stufe 0-3, Neutrale Karten Stufe 0-5, Karten, die \"Horror heilen\" Stufe 0-5, bis zu 15 andere Sucher- und/oder Mystikerkarten ([seeker] und/oder [mystic]) Stufe 0-1.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Hypnosetherapie, Rationales Denken, 1 zufällige Grundschwäche.\n<b>Zusätzliche Einschränkungen</b>: Keine [[Waffe]]-Karten Stufe 1-5."
+    },
+    {
+        "code": "98011",
+        "flavor": "\"Werden wir dich wieder retten müssen?\" Der Schwanz von Foolishness zuckt hin und her. \"Vielleicht. Vielleicht rette ich euch diesmal.\"",
+        "name": "Foolishness",
+        "subname": "Törichter Kater von Ulthar",
+        "text": "Nur für das Deck von Carolyn Fern. Ersatz.\nFoolishness kommt mit 3 Horror darauf ins Spiel. Horror auf Foolishness darf geheilt werden, als ob sich der Horror auf Carolyn Fern befände. Solange Foolishness kein Horror auf sich hat, bekommst du +1 auf alle deine Fertigkeiten.",
+        "traits": "Verbündeter. Kreatur. Traumlande.",
+        "slot": "Verbündeter"
+    },
+    {
+        "code": "98012",
+        "name": "Bekämpfe den Schwarzen Wind",
+        "text": "Nur für das Deck von Carolyn Fern. Ersatz.\n<b>Enthüllung</b> - Hänge Bekämpfe den Schwarzen Wind an die aktuelle Agenda an. Carolyn Fern nimmt 1 direkten Horror.\n<b>Erzwungen</b> - Am Ende der Runde, falls eine beliebige Menge Horror einem Ermittler in dieser Runde zugewiesen wurde und er nicht geheilt wurde: Platziere 1 Verderben auf der Agenda mit dieser Verstärkung.",
+        "traits": "Aufgabe. Traumlande."
+    }
+]

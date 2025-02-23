@@ -1,0 +1,370 @@
+[
+    {
+        "code": "84001",
+        "name": "Assassinio all'Hotel Excelsior",
+        "text": "Facile / Standard\n[skull]: -X, dove X è il numero di nemici [[Ospite]] in gioco.\n[cultist]: -1. Se ci sono nemici [[Innocente]] nella galleria delle vittorie, rivela 1 altro segnalino caos.\n[tablet]: -3. Puoi collocare 1 tuo indizio sul tuo luogo per considerare invece questo segnalino come \"-1\".\n[elder_thing]: -3. Se fallisci e ci sono nemici [[Innocente]] nella galleria delle vittorie, subisci 1 orrore.",
+        "back_text": "Difficile / Esperto\n[skull]: -X, dove X è il numero di nemici [[Innocente]] in gioco.\n[cultist]: -2. Se ci sono nemici [[Innocente]] nella galleria delle vittorie, rivela 1 altro segnalino caos.\n[tablet]: -5. Puoi collocare 1 tuo indizio sul tuo luogo per considerare invece questo segnalino come \"-2\".\n[elder_thing]: -3. Se fallisci, subisci 1 orrore per ogni nemico [[Innocente]] nella galleria delle vittorie."
+    },
+    {
+        "code": "84002",
+        "flavor": "Quando riprendete conoscenza vi trovate davanti il corpo senza vita dell'uomo. La macabra scena vi fa immediatamente trasalire: il petto della vittima è stato perforato da numerose pugnalate e sul pavimento si estende una pozza di sangue. Che diavolo è successo qui? E perché non riuscite a ricordare nulla?",
+        "name": "Il Delitto",
+        "text": "Se c'è 1 solo investigatore in gioco, aumenta di 1 la soglia di destino di questa trama.",
+        "back_name": "Destare Sospetti",
+        "back_flavor": "Mentre ripercorrete mentalmente i vostri movimenti per dare un senso alla situazione, sentite bussare energicamente alla porta della suite. \"Polizia!\" urla una voce in modo perentorio. \"Ci sono stati segnalati dei disordini. Aprite!\"",
+        "back_text": "Mettete in gioco il Sergente Monroe messo da parte nell'Atrio.\nSGenerate 1 nemico Agente di Arkham messo da parte nel Corridoio del Primo Piano (generate 1 altro nemico Agente di Arkham messo da parte nell'Atrio se ci sono 3 o 4 investigatori in gioco). Poi rimescolate la pila degli scarti degli incontri e ogni altro nemico Agente di Arkham messo da parte nel mazzo degli incontri.\nL'investigatore capo pesca la debolezza \"Che Cosa Hai Fatto?\" messa da parte.\nPer ognuna delle condizioni seguenti che corrisponde al vero, collocate 1 indizio <i>(dalla riserva dei segnalini)</i> sulla Camera 225 e collocate 1 destino su 1 Agente di Arkham:\n- Non avete \"lavato via il sangue.\"\n- Non avete \"nascosto il cadavere.\"\n- Non avete \"riordinato la stanza.\""
+    },
+    {
+        "code": "84003",
+        "flavor": "Non siete gli unici interessati agli strani eventi che questa notte turbano l'Excelsior, e la polizia vi sta addosso. Non sapete ancora dire cosa sia successo ... e se possa accadere di nuovo.",
+        "name": "Indagine Speciale",
+        "text": "<b>Obbligo</b> – Dopo che un investigatore nel luogo di un nemico [[Polizia]] pronto ha scoperto 1 o più indizi in quel luogo o ha inflitto danni a un nemico [[Umanoide]]: Ogni nemico [[Polizia]] pronto in quel luogo impegna quell'investigatore e lo attacca immediatamente.",
+        "back_name": "Più di Quello Che Sembra",
+        "back_flavor": "Avete trascorso molto tempo nell'hotel, ma anche se siete sicuri che ci sia qualcosa di profondamente sbagliato non siete ancora riusciti a venire a capo della faccenda. Mentre vi aggirate per l'atrio nel tentativo di dare un senso alle informazioni che avete raccolto, venite intercettati da altri membri delle forze dell'ordine di Arkham, che appena vi vedono non esitano a estrarre le armi: \"Fermi!\" ordina l'ispettore capo. \"Siete in arresto!\"",
+        "back_text": "Non siete riusciti a risolvere il caso e a provare la vostra innocenza! <b>(→R3)</b>"
+    },
+    {
+        "code": "84004",
+        "flavor": "La vostra testa comincia a girare mentre cercate di dare un senso a questa situazione. La stanza è cosparsa di bottiglie vuote, percepite le vostre mani intorpidirsi e le ombre paiono contorcersi e strisciare attorno a voi. Siete stati drogati? O sta accadendo qualcosa di completamente diverso?",
+        "name": "Che Cosa è Successo...?",
+        "text": "[action] Spendi un totale di 1 [per_investigator] indizi: Pesca 1 carta dalla cima del mazzo delle tracce.\n<b>Obiettivo</b> – Se gli investigatori controllano un totale di 2 supporti [[Traccia]], proseguite con i capitoli.",
+        "back_name": "Da Qualche Parte Bisogna Pur Cominciare...",
+        "back_flavor": "Non è molto, ma è tutto ciò che avete. Ora l'unica vera opzione a vostra disposizione è quella di esplorare il resto dell'hotel per scoprire qualcosa di più.",
+        "back_text": "Mettete in gioco ogni luogo messo da parte.\nRimuovete dal gioco il resto del mazzo delle tracce.\nIn base a quali supporti [[Traccia]] sono in gioco, rimescolate la pila degli scarti degli incontri nel mazzo degli incontri insieme a 6 carte, come descritto di seguito:\n- Se il Congegno Alieno è in gioco, mescolate le 3 copie del Segnale Encefalico messe da parte nel mazzo degli incontri\n- Se la Chiave del Direttore è in gioco, mescolate le 3 copie della Sicurezza dell'Hotel messe da parte nel mazzo degli incontri.\n- Se il Tomo dei Rituali è in gioco, mescolate le 3 copie del Cultista dell'Enclave messe da parte nel mazzo degli incontri.\n- Se la Soluzione Sinistra è in gioco, mescolate le 3 copie della Consapevolezza Morbosa messe da parte nel mazzo degli incontri.\n- Se il Medaglione Consunto è in gioco, mescolate le 3 copie della Presenza Agghiacciante messe da parte nel mazzo degli incontri."
+    },
+    {
+        "code": "84005",
+        "flavor": "Grazie alle tracce nella suite, siete alquanto sicuri che chiunque vi abbia incastrato si trovi ancora nell'hotel... ma dove? La sensazione è che le risposte siano proprio davanti a voi...",
+        "name": "Seguire le Tracce",
+        "text": "<b>Obiettivo</b> – Cercate di saperne di più sulle vostre tracce collocando degli indizi su di esse <i>(usando le capacità su alcuni luoghi)</i>. Più indizi ci sono, meglio è. Alla fine del round, se su ogni supporto [[Traccia]] sono presenti 1 [per_investigator] o più indizi, potete proseguire con i capitoli. <i>(Suggerimento: se desiderate presentare queste prove alla polizia, cercate invece di avere 2 [per_investigator] o più indizi su ogni supporto [[Traccia]].)</i>",
+        "back_name": "La Verità",
+        "back_text": "Leggete l'interludio \"La Verità\" a pagina 10 del libretto delle regole."
+    },
+    {
+        "code": "84006",
+        "flavor": "Senti i tuoi peccati strisciarti lungo la schiena.",
+        "name": "Pugnale Insanguinato",
+        "subname": "Arma del Delitto",
+        "text": "[action]: <b>Combatti.</b> Ricevi +2 [combat] in questo attacco.\n[action] Esaurisci il Pugnale Insanguinato e subisci 1 orrore: <b>Combatti.</b> Ricevi +2 [combat] e infliggi +1 danno in questo attacco. Se questo attacco sconfigge un nemico, pesca 1 carta.",
+        "traits": "Oggetto. Arma. Mischia. Maledetto?.",
+        "slot": "Hand"
+    },
+    {
+        "code": "84007",
+        "name": "Che Cosa Hai Fatto?",
+        "text": "<b>Rivelazione</b> - Metti in gioco \"Che Cosa Hai Fatto?\" nella tua area di minaccia.\nCome costo aggiuntivo per negoziare, scarta 1 carta casuale dalla tua mano.\n[action]: Rimescola \"Che Cosa Hai Fatto?\" nel tuo mazzo.",
+        "traits": "Follia."
+    },
+    {
+        "code": "84008",
+        "name": "Sergente Monroe",
+        "subname": "Due Giorni alla Pensione",
+        "text": "Puoi assegnare al Sergente Monroe i danni e gli orrori inflitti a qualsiasi investigatore nel suo luogo, anche se il Sergente Monroe non è controllato.\n[reaction] Quando il Sergente Monroe subisce 1 o più danni e/o orrori, esauriscilo: Infliggi un pari ammontare di danni a un nemico non [[Innocente]] nel suo luogo. Qualsiasi investigatore nel luogo del Sergente Monroe per innescare questa capacità.",
+        "traits": "Alleato. Polizia.",
+        "slot": "Ally"
+    },
+    {
+        "code": "84009",
+        "name": "Agente di Arkham",
+        "text": "Sfuggente. Pattuglia (il luogo più vicino con 1 o più indizi).\n<b>Obbligo</b> – Alla fine della Fase dei Nemici: Spostate 1 indizio sull'Agente di Arkham dal suo luogo, girandolo sul suo lato destino.\n[action]: <b>Negozia.</b> Effettua una prova di [willpower] (3). Se hai successo, puoi scegliere se eludere automaticamente l'Agente di Arkham, oppure girare 1 suo destino sul suo lato destino e prenderne il controllo.",
+        "traits": "Umanoide. Polizia. Innocente."
+    },
+    {
+        "code": "84010",
+        "name": "Camera 225",
+        "subname": "Scena del Crimine",
+        "text": "[action]: Effettua una prova di [willpower] (3). Se hai successo, annota che avete \"lavato via il sangue.\"\n[action]: Effettua una prova di [combat] (3). Se hai successo, annota che avete \"nascosto il cadavere.\"\n[action]: Effettua una prova di [intellect] (3). Se hai successo, annota che avete \"riordinato la stanza.\"",
+        "traits": "Scena del Crimine.",
+        "back_flavor": "Il tappeto sul pavimento è impregnato di sangue. Il divano e il tavolino da caffè nel soggiorno sono cosparsi di vetri rotti. La finestra è aperta e attraverso le lunghe tende soffia una brezza gelida."
+    },
+    {
+        "code": "84011",
+        "name": "Balcone della Suite",
+        "text": "[action]: Scegli 1 nemico [[Umanoide]] nel Balcone della Suite ed effettua una prova di [combat] o [agility] (4). Se hai successo, subisci 1 orrore diretto e sconfiggi il nemico (se quel nemico è [[Elite]], infliggigli invece 2 danni). Questa azione non provoca attacchi di opportunità.",
+        "traits": "Scena del Crimine.",
+        "back_flavor": "Dal balcone si può godere di una splendida vista sopraelevata di Arkham. Sporgendosi oltre la ringhiera, la mente vacilla per l'altezza."
+    },
+    {
+        "code": "84012",
+        "name": "Corridoio del Primo Piano",
+        "text": "[reaction] Dopo che sei entrato in questo luogo: Puoi muoverti immediatamente fino a un luogo collegato al tuo. Se lo fai, rivela 1 segnalino caos. Se riveli un simbolo [skull], [cultist], [tablet], [elder_thing], o [auto_fail], pesca 1 carta dalla cima del mazzo degli incontri.",
+        "traits": "Area Comune.",
+        "back_flavor": "Uno stravagante tappeto copre tutto il pavimento e lungo le pareti meticolosamente pulite si affaccia una fila di porte color rosso sangue."
+    },
+    {
+        "code": "84013",
+        "name": "Atrio",
+        "text": "[action]: <b>Abbandona.</b> Fuggi dalla scena del crimine.\n<b>Obbligo</b> – Finché ci sono nemici [[Ospite]] in questo luogo, quando tenti di lasciare l'Atrio: Effettua una prova di [agility] (X), dove X è il numero di nemici [[Ospite]] in questo luogo. Se fallisci, devi spendere 1 azione aggiuntiva per lasciare l'Atrio.",
+        "traits": "Area Comune.",
+        "back_flavor": "L'atrio è un'enorme sala rivestita di raffinate piastrelle e dotata di ampie scalinate. Gli ospiti e il personale dell'albergo sembrano muoversi lungo la stanza come se fossero ipnotizzati... o forse è solo uno scherzo dell'immaginazione?"
+    },
+    {
+        "code": "84014",
+        "name": "Ristorante",
+        "text": "[action] Spendi 2 risorse: Ordini qualcosa da mangiare sopportando gli sguardi taglienti di tutti i camerieri. Alla fine del tuo turno, se ti trovi ancora nel Ristorante, puoi subire 1 orrore per curarti 3 danni. (Limite di una volta per partita.)\n[fast] Se ogni luogo in gioco è aperto e non ci sono indizi sui luoghi in gioco: Colloca 1 [per_investigator] indizi <i>(dalla riserva dei segnalini)</i> sul Ristorante.",
+        "traits": "Area Comune.",
+        "back_flavor": "Le tovaglie bianche sembrano persino troppo pulite. Uno sguardo al menu rivela delle parole totalmente incomprensibili. Poi, a una seconda occhiata, tutto sembra essere tornato normale..."
+    },
+    {
+        "code": "84015",
+        "name": "Tetto dell'Hotel",
+        "text": "[action]: Effettua una prova di [agility] (4) o [combat] (4). Se hai successo, Se hai successo, muoviti fino alla Camera 212, alla Camera 225, oppure alla Camera 245.\n[action]: Effettua una prova di [willpower] (3). Se hai successo, sposta un qualsiasi numero di indizi controllati dagli investigatori in questo luogo sul Congegno Alieno (se è in gioco).",
+        "back_flavor": "Il vento sferza il tetto piatto e aperto dell'hotel, mentre le nubi si rincorrono in cielo."
+    },
+    {
+        "code": "84016",
+        "flavor": "Sopra la scrivania, all'interno di una vasca di vetro collegata a ogni sorta di misteriose e futuristiche apparecchiature da laboratorio, è visibile un ammasso di materia inumana. Sembra che nessuno abbia mai dormito nel letto lì a fianco. Sul materasso è poggiata una valigetta ricolma di fiale, tutte piene di un liquido verde e viscoso.",
+        "name": "Camera 212",
+        "text": "[action]: Effettua una prova di [intellect] (3). Se hai successo, sposta un qualsiasi numero di indizi controllati dagli investigatori in questo luogo sulla Soluzione Sinistra (se è in gioco).",
+        "traits": "Scena del Crimine.",
+        "back_text": "La porta della Camera 212 è chiusa a chiave. Non puoi entrare nella Camera 212 dal Corridoio del Primo Piano.\nIl Corridoio del Primo Piano ottiene: \"[action]: Effettua una prova di [agility] (4) per cercare di scassinare la serratura. Se hai successo, apri la Camera 212 e muoviti immediatamente fino ad essa.\""
+    },
+    {
+        "code": "84017",
+        "flavor": "La stanza è immacolata. Sembra che nessuno vi entri da diverso tempo.",
+        "name": "Camera 245",
+        "text": "[action]: Effettua una prova di [intellect] (3). Solo la carta in cima alla tua pila degli scarti può essere investita in questa prova di abilità (se lo fai, collocala in fondo al tuo mazzo dopo che questa prova è stata risolta). Se hai successo, sposta un qualsiasi numero di indizi controllati dagli investigatori in questo luogo sul Medaglione Consunto (se è in gioco).",
+        "traits": "Scena del Crimine.",
+        "back_flavor": "Da sotto la porta della camera 245 fuoriesce un gelo mortale."
+    },
+    {
+        "code": "84018",
+        "flavor": "Il direttore dell'Excelsior è una persona ovviamente molto impegnata: nel suo ufficio sono sparsi ritagli di giornale, misteriosi documenti e chiavi di ogni sorta.",
+        "name": "Ufficio",
+        "text": "[action]: Effettua una prova di [intellect] (0). Per ogni punto di cui hai successo, puoi spostare 1 indizio controllato da un investigatore nell'Ufficio sulla Chiave del Direttore (se è in gioco).",
+        "back_text": "La porta dell'Ufficio è chiusa a chiave. Finché non controlli la chiave del Direttore, non puoi entrare nell'Ufficio.\nIl Seminterrato ottiene: \"[action]: Effettua una prova di [agility] (3) per cercare di scassinare la serratura. Se hai successo, apri l'Ufficio e muoviti immediatamente fino ad esso.\""
+    },
+    {
+        "code": "84019",
+        "name": "Seminterrato",
+        "text": "[action]: Effettua una prova di [intellect] (1). Se hai successo, muovi 1 nemico [[Umanoide]] che si trova in un qualsiasi luogo di 1 luogo verso il Seminterrato.\n[reaction] Dopo che hai sconfitto un nemico nel Seminterrato: Sposta un qualsiasi numero di indizi controllati dagli investigatori in questo luogo sul Tomo dei Rituali (se è in gioco).",
+        "traits": "Scena del Crimine.",
+        "back_flavor": "Il ronzio dei macchinari e la luce soffusa compongono uno scenario orripilante; esplorare il seminterrato non sarà semplice. In mezzo al frastuono sembra quasi di sentire l'eco dei propri passi, come se si fosse costantemente seguiti da qualcuno."
+    },
+    {
+        "code": "84020",
+        "flavor": "Il concierge ti scruta con un'espressione folle e febbrile. \"Aveva richiesto la sveglia, per caso?\"",
+        "name": "Mr. Trombly",
+        "subname": "Concierge Impazzito",
+        "text": "<b>Generazione</b> - Atrio.\nCacciatore.\n<b>Obbligo</b> – Dopo che Mr. Trombly è entrato in gioco: Risolvete immediatamente le parole chiave Cacciatore e Pattuglia su ogni altro nemico [[Staff]] in gioco.",
+        "traits": "Umanoide. Staff."
+    },
+    {
+        "code": "84021",
+        "flavor": "\"Si è smarrito? Non credo che lei possa stare qui.\" I loro occhi luccicano di malizia e le loro nocche si sbiancano nel momento in cui afferrano l'oggetto più vicino che riescono a trovare.",
+        "name": "Personale Inquietante",
+        "text": "<b>Generazione</b> – Il luogo [[Scena del Crimine]] più vicino.\n<b>Preda</b> – L'investigatore con più indizi.\nCacciatore.",
+        "traits": "Umanoide. Staff."
+    },
+    {
+        "code": "84022",
+        "name": "Ospite dell'Hotel",
+        "text": "<b>Generazione</b> – Il luogo [[Area Comune]] più vicino.\nSfuggente. Pattuglia (il luogo [[Scena del Crimine]] più vicino).\n<b>Obbligo</b> – Alla fine della Fase dei Nemici, se l'Ospite dell'Hotel si trova in un luogo [[Scena del Crimine]]: Collocate 1 destino sull'Ospite dell'Hotel.\n[action]: <b>Negozia.</b> Effettua una prova di [willpower] o [intellect] (3). Se hai successo, scarta l'Ospite dell'Hotel.",
+        "traits": "Umanoide. Ospite. Innocente."
+    },
+    {
+        "code": "84023",
+        "name": "Esalazioni Tossiche",
+        "text": "<b>Rivelazione</b> – In ordine di gioco, ogni investigatore nel tuo luogo sceglie uno dei seguenti effetti:\n- Effettua una prova di [agility] (3) per tentare di fuggire prima che il gas riempia la stanza. Se hai successo, muoviti fino a un luogo collegato al tuo. Se fallisci, subisci 2 danni.\n— Effettua una prova di [combat] (3) per tentare di trattenere il respiro. Per ogni punto di cui fallisci, subisci 1 danno.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "84024",
+        "name": "Spinto alla Follia",
+        "text": "<b>Rivelazione</b> - Se non ci sono nemici [[Umanoide]] in gioco, Spinto alla Follia ottiene Impulso. Altrimenti, assegna Spinto alla Follia al nemico [[Umanoide]] più vicino.\nIl nemico con questa sventura perde Sfuggente e riceve +1 Scontro, +1 Salute e +1 Agilità. Gli investigatori non possono negoziare con il nemico con questa sventura.\n<b>Obbligo</b> – Dopo che il nemico con questa sventura è stato eluso: Scartate Spinto alla Follia.",
+        "traits": "Maledizione."
+    },
+    {
+        "code": "84025",
+        "flavor": "Sangue chiama sangue.",
+        "name": "Mani Insanguinate",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower] (2). Aumenta di 1 la difficoltà di questa prova per ogni nemico [[Innocente]] nella galleria delle vittorie. Se fallisci, subisci 2 orrori (se ti trovi in un luogo [[Scena del Crimine]], scegli e scarta anche 1 carta dalla tua mano).",
+        "traits": "Terrore."
+    },
+    {
+        "code": "84026",
+        "name": "Prove Incriminanti",
+        "text": "<b>Rivelazione</b> - Assegna le Prove Incriminanti al luogo non [[Scena del Crimine]] più vicino.\nAumenta di 2 il valore di Oscurità del luogo con questa sventura e fagli ottenere il tratto [[Scena del Crimine]].\n[reaction] Quando indaghi con successo nel luogo con questa sventura: Invece di scoprire indizi, scarta le Prove Incriminanti.",
+        "traits": "Reperto."
+    },
+    {
+        "code": "84027",
+        "name": "Raptus Violento",
+        "text": "<b>Rivelazione</b> - Se non ci sono nemici [[Umanoide]] in gioco, cerca nel mazzo degli incontri e nella pila degli scarti degli incontri 1 nemico [[Umanoide]], pescalo e rimescola il mazzo degli incontri. Altrimenti, il nemico [[Umanoide]] più vicino si ripristina, si muove di un luogo alla volta finché non raggiunge il tuo luogo, ti impegna e ti attacca immediatamente.",
+        "traits": "Maledizione."
+    },
+    {
+        "code": "84028",
+        "flavor": "Un congegno composto da strane parti, che emette un segnale che non sembra percepibile attraverso l'udito. Il meccanismo ha l'odore delle stelle e trasmette l'ineluttabile vuoto del cielo notturno.",
+        "name": "Congegno Alieno",
+        "subname": "Macchinazioni dall'Oltre",
+        "text": "<b>Rivelazione</b> – Metti in gioco il Congegno Alieno nella tua area di gioco.\n<b>Obbligo</b> – Quando sei sconfitto: Cedi il controllo del Congegno Alieno a un altro investigatore.",
+        "traits": "Traccia. Extraterrestre."
+    },
+    {
+        "code": "84029",
+        "name": "Disturbatore Ultraterreno",
+        "subname": "Presenza da Oltre le Stelle",
+        "text": "Ritorsione.\n<b>Obbligo</b> – Quando il Disturbatore Ultraterreno sta per subire danni da un attacco: Rimuovete 1 destino dal Disturbatore Ultraterreno e riducete di 1 quei danni.\n<b>Obbligo</b> – Dopo che un investigatore è stato sconfitto: Collocate 3 destini sul Disturbatore Ultraterreno.",
+        "traits": "Mostro. Mi-Go. Elite."
+    },
+    {
+        "code": "84030",
+        "name": "Segnale Encefalico",
+        "text": "Isolamento. <b>Rivelazione</b> - Colloca 1 destino sul Disturbatore Ultraterreno (se è in gioco) ed effettua una prova di [willpower] (4). Se fallisci, scegli uno dei seguenti effetti:\n— Subisci 2 orrori.\n— Infliggi 2 danni a un investigatore oppure a un nemico [[Umanoide]] nel tuo luogo.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "84031",
+        "flavor": "Una chiave dall'aspetto anonimo, con la parola \"Ufficio\" incisa su un lato. La vittima faceva parte del personale dell'hotel? Quali diaboliche trame si sono messe in moto all'Excelsior?",
+        "name": "Chiave del Direttore",
+        "subname": "Sporca di Sangue",
+        "text": "<b>Rivelazione</b> – Metti in gioco la Chiave del Direttore nella tua area di gioco.\n<b>Obbligo</b> – Quando sei sconfitto: Cedi il controllo della Chiave del Direttore a un altro investigatore.",
+        "traits": "Traccia. Chiave."
+    },
+    {
+        "code": "84032",
+        "name": "Direttore dell'Hotel",
+        "subname": "Che il Banchetto Abbia Inizio",
+        "text": "Massiccio. Ritorsione.\nOgni nemico [[Ospite]] perde Pattuglia e ottiene Impulso.\n<b>Obbligo</b> – All'inizio della Fase dei Nemici: Collocate nella galleria delle vittorie 1 nemico [[Ospite]] nel luogo del Direttore dell'Hotel, poi collocate 2 destini sul Direttore dell'Hotel. Muovete ogni altro nemico [[Ospite]] di 1 luogo verso il Direttore dell'Hotel.",
+        "traits": "Mostro. Staff. Elite."
+    },
+    {
+        "code": "84033",
+        "flavor": "Qualunque cosa sia, non ha chiaramente più nulla di umano.",
+        "name": "Sicurezza dell'Hotel",
+        "text": "<b>Generazione</b> – Il luogo vuoto più vicino.\nCacciatore. Ritorsione.\nSe ci sono nemici Ospite in gioco, la Sicurezza dell'Hotel perde Cacciatore e ottiene \"Pattuglia (il luogo più vicino con nemici Ospite).\"",
+        "traits": "Umanoide. Mostro. Staff."
+    },
+    {
+        "code": "84034",
+        "flavor": "Un libro gigantesco dalle pagine antiche e consunte. Sfogliandole, dal libro cade un biglietto contenente un breve messaggio: \"L'Enclave ti attende di sotto.\"",
+        "name": "Tomo dei Rituali",
+        "subname": "Volume Blasfemo",
+        "text": "<b>Rivelazione</b> – Metti in gioco il Tomo dei Rituali nella tua area di gioco.\n<b>Obbligo</b> – Quando sei sconfitto: Cedi il controllo del Tomo dei Rituali a un altro investigatore.",
+        "traits": "Traccia. Tomo."
+    },
+    {
+        "code": "84035",
+        "name": "Errante Dimensionale",
+        "text": "Cacciatore.\n<b>Obbligo</b> – Dopo che l'Errante Dimensionale ti ha inflitto danni con il suo attacco: Rivela 1 segnalino caos. Se riveli un simbolo [auto_fail], ti strappa da questa dimensione; rimuovi dal gioco l'Errante Dimensionale e sei sconfitto.",
+        "traits": "Mostro. Extradimensione. Elite."
+    },
+    {
+        "code": "84036",
+        "name": "Cultista dell'Enclave",
+        "text": "<b>Generazione</b> – Seminterrato.\nCacciatore.\n<b>Obbligo</b> – Dopo che il Cultista dell'Enclave ha attaccato: Rivelate 1 segnalino caos. Se rivelate un simbolo [skull], [cultist], [tablet], [elder_thing] o [auto_fail], collocate 1 destino sulla trama attuale.",
+        "traits": "Umanoide. Cultista."
+    },
+    {
+        "code": "84037",
+        "flavor": "L'ampolla è fredda come il ghiaccio e il malsano liquido verdastro all'interno ha la consistenza dello sciroppo. Ha un vago odore di pesce e ozono. Dal collo dell'ampolla pende un'etichetta che recita: \"Test 1.\"",
+        "name": "Soluzione Sinistra",
+        "subname": "Mistura Infame",
+        "text": "<b>Rivelazione</b> – Metti in gioco la Soluzione Sinistra nella tua area di gioco.\n<b>Obbligo</b> – Quando sei sconfitto: Cedi il controllo della Soluzione Sinistra a un altro investigatore.",
+        "traits": "Traccia. Scienza."
+    },
+    {
+        "code": "84038",
+        "name": "Cervello in Vitro",
+        "text": "<b>Obbligo</b> – Alla fine della Fase degli Investigatori: Ogni investigatore nel luogo con questa sventura subisce 1 danno e 1 orrore. Ogni altro investigatore sceglie se subire 1 danno oppure 1 orrore.",
+        "traits": "Antico. Scienza."
+    },
+    {
+        "code": "84039",
+        "name": "Consapevolezza Morbosa",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower] (6). Riduci di 1 la difficoltà di questa prova per ogni luogo di distanza dalla Camera 212. Se fallisci, scegli se collocare 1 tuo indizio sul tuo luogo oppure subire 2 orrori.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "84040",
+        "flavor": "La foto sbiadita raffigura una splendida giovane donna di un'altra epoca. Un'ospite dell'hotel, forse?",
+        "name": "Medaglione Consunto",
+        "subname": "Dolorosa Visione del Passato",
+        "text": "<b>Rivelazione</b> – Metti in gioco il Medaglione Consunto nella tua area di gioco.\n<b>Obbligo</b> – Quando sei sconfitto: Cedi il controllo del Medaglione Consunto a un altro investigatore.",
+        "traits": "Traccia. Amuleto."
+    },
+    {
+        "code": "84041",
+        "name": "Spettro Vendicativo",
+        "subname": "Prima Vittima",
+        "text": "Pattuglia (Camera 245). Ritorsione.\n<b>Obbligo</b> – Quando 1 o più danni stanno per essere collocati sullo Spettro Vendicativo: Se non sono stati inflitti da un [[Incantesimo]], una [[Reliquia]], un [[Amuleto]] o una carta incontro, riducete a 1 quei danni.",
+        "traits": "Mostro. Geist. Elite."
+    },
+    {
+        "code": "84042",
+        "name": "Presenza Agghiacciante",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower] (3). Per ogni punto di cui fallisci, subisci 1 orrore. Per ogni punto di cui hai successo, puoi infliggere 1 danno a un nemico [[Geist]] nel tuo luogo. Se riveli un simbolo [elder_sign] durante questa prova, puoi infliggere 2 danni a un nemico [[Geist]] in un qualsiasi luogo.",
+        "traits": "Terrore."
+    },
+    {
+        "code": "84043",
+        "name": "Il Vero Colpevole (v. I)",
+        "text": "Il Congegno Alieno ottiene: \"[action] Se lo Spettro Vendicativo è esaurito e si trova nel tuo luogo, rimuovi 2 indizi dal Congegno Alieno: Infliggi 2 danni allo Spettro Vendicativo.\"\n<b>Obiettivo</b> – Se lo Spettro Vendicativo è sconfitto, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Paranormale",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Il lugubre lamento vi investe come un'onda di morte. Il fantasma, la figura spettrale di una donna uccisa molto tempo addietro, non ha più alcuna speranza di riposare in pace: desidera solo vendicarsi, affinché sempre più anime possano unirsi a lei nel suo eterno e irrequieto purgatorio. Avete già ucciso una volta per lei e ora, davanti al pieno potere del suo sguardo imperituro e nero come un abisso senza fine, siete pronti a farlo di nuovo. Gli ospiti e il personale dell'albergo cadono per mano vostra fino a quando non crollate sul pavimento, intrisi di sangue innocente.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Vi ritrovate a riflettere osservando il medaglione che tenete in mano, in piedi nel silenzio improvviso dell'hotel. Sembra un oggetto così semplice e modesto, eppure questo ricettacolo di oscuri eventi passati ha svolto un ruolo fondamentale nei tumulti che hanno sconvolto l'Excelsior. Lo infilate in tasca e vi voltate verso la porta, tornando a respirare con maggiore tranquillità. Provate un certo sollievo sapendo di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84044",
+        "name": "Il Vero Colpevole (v. II)",
+        "text": "La Soluzione Sinistra ottiene: \"[action] Se ti trovi nella Camera 212: Effettua una prova di [intellect] (2). Se hai successo, puoi rimuovere 2 indizi dalla Soluzione Sinistra per esaurire il Disturbatore Ultraterreno oppure infliggergli 2 danni.\"\n<b>Obiettivo</b> – Se il Disturbatore Ultraterreno è sconfitto, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Cosmica",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Quando lo stringete in mano, il congegno inizia a ronzare, a vibrare e a proiettare una luce incandescente color verde pallido. Sentite la testa che vi scoppia e una goccia di sangue colarvi dal naso. È troppo tardi: non siete riusciti a fermare la minaccia Mi-Go prima che il congegno raggiungesse il suo pieno potenziale. Ora, mentre la vostra presa sulla realtà si allenta, vi chiedete cosa il disturbatore alieno abbia in serbo per voi e per tutti coloro che si trovano nell'Excelsior. La vostra mente ora è saldamente nelle sue grinfie.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Il congegno alieno emette ancora qualche ronzio e pulsazione, prima di spegnersi definitivamente: rimane fra le vostre mani, freddo e immobile, ormai poco più di un gingillo insignificante. Riuscite a respirare un po meglio e provate un certo sollievo sapendo di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84045",
+        "name": "Il Vero Colpevole (v. III)",
+        "text": "Il Congegno Alieno ottiene: \"[action] Esaurisci il Congegno Alieno e rimuovi 2 indizi da esso: Colloca nella galleria delle vittorie 1 nemico [[Staff]] nel tuo luogo (se è [[Elite]], infliggigli invece 2 danni). Questa azione non provoca attacchi di opportunità.\"\n<b>Obiettivo</b> – Se il Direttore dell'Hotel è sconfitto, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Eterna",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>A ogni persona assimilata, il potere della creatura cresce esponenzialmente. Alcuni ospiti vi spintonano oltrepassandovi per raggiungerla, ciondolando con l'espressione vacua degli agnelli che vanno al macello. Il suono dell'entità informe che si ingozza di innocenti vi rimbomba nella testa. Cercate di farli rinsavire, ma vi ignorano completamente ... Cercate di trattenerli, ma le creature che si spacciavano per la sicurezza dell'hotel vi respingono con violenza. Cadete a terra, abbandonando ogni speranza ... Solo allora la sentite. Una singola voce, un sussurro nella vostra mente. Vi chiama. Vi persuade. Lentamente, vi alzate in piedi e iniziate a marciare verso il vostro destino.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Vi trovate nell'atrio dell'hotel, diventato improvvisamente silenzioso e apparentemente deserto. Mentre osservate i risultati del vostro operato, gettate un'occhiata alla chiave che avete in mano: un oggetto così semplice, eppure sentite ancora un brivido di terrore corrervi lungo la schiena al pensiero di ciò che un tempo lo possedeva. Provate un certo sollievo sapendo di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84046",
+        "name": "Il Vero Colpevole (v. IV)",
+        "text": "Il Tomo dei Rituali ottiene: \"[action] Rimuovi 2 indizi dal Tomo dei Rituali: <b>Combatti.</b> Usa [willpower] invece di [combat]. Se hai successo, invece di infliggere danni, rimuovi 3 destini dal nemico attaccato.\"\n<b>Obiettivo</b> – Se il Disturbatore Ultraterreno è sconfitto oppure non ci sono destini su di esso, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Cosmica",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Quando lo stringete in mano, il congegno inizia a ronzare, a vibrare e a proiettare una luce incandescente color verde pallido. Sentite la testa che vi scoppia e una goccia di sangue colarvi dal naso. È troppa tardi: non siete riusciti a fermare la minaccia Mi-Go prima che il congegno raggiungesse il suo pieno potenziale. Ora, mentre la vostra presa sulla realtà si allenta, vi chiedete cosa il disturbatore alieno abbia in serbo per voi e per tutti coloro che si trovano nell'Excelsior. La vostra mente ora è saldamente nelle sue grinfie.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Il congegno alieno emette ancora qualche ronzio e pulsazione, prima di spegnersi definitivamente: rimane fra le vostre mani, freddo e immobile, ormai poco più di un gingillo insignificante. Riuscite a respirare un po meglio e provate un certo sollievo sapendo di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84047",
+        "name": "Il Vero Colpevole (v. V)",
+        "text": "La Soluzione Sinistra ottiene: \"[action] Se lo Spettro Vendicativo si trova nel tuo luogo: Effettua una prova di [intellect] (1). Per ogni punto di cui hai successo, sposta 1 indizio dalla Soluzione Sinistra allo Spettro Vendicativo. Questa azione non provoca attacchi di opportunità.\"\n<b>Obiettivo</b> – Se lo Spettro Vendicativo è sconfitto oppure su di esso c'è un ammontare di indizi pari o superiore alla sua Salute rimanente, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Paranormale",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Il lugubre lamento vi investe come un'onda di morte. Il fantasma, la figura spettrale di una donna uccisa molto tempo addietro, non ha più alcuna speranza di riposare in pace: desidera solo vendicarsi, affinché sempre più anime possano unirsi a lei nel suo eterno e irrequieto purgatorio. Avete già ucciso una volta per lei e ora, davanti al pieno potere del suo sguardo imperituro e nero come un abisso senza fine, siete pronti a farlo di nuovo. Gli ospiti e il personale dell'albergo cadono per mano vostra fino a quando non crollate sul pavimento, intrisi di sangue innocente.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Vi ritrovate a riflettere osservando il medaglione che tenete in mano, in piedi nel silenzio improvviso dell'hotel. Sembra un oggetto così semplice e modesto, eppure questo ricettacolo di oscuri eventi passati ha svolto un ruolo fondamentale nei tumulti che hanno sconvolto l'Excelsior. Lo infilate in tasca e vi voltate verso la porta, tornando a respirare con maggiore tranquillità. Provate un certo sollievo sapendo di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84048",
+        "name": "Il Vero Colpevole (v. VI)",
+        "text": "Il Medaglione Consunto ottiene: \"[reaction] Quando il Direttore dell'Hotel sta per attaccare un investigatore nel tuo luogo, rimuovi 2 indizi dal Medaglione Consunto: Annulla quell'attacco.\"\n<b>Obiettivo</b> – Se il Direttore dell'Hotel è sconfitto, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Eterna",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>A ogni persona assimilata, il potere della creatura cresce esponenzialmente. Alcuni ospiti vi spintonano oltrepassandovi per raggiungerla, ciondolando con l'espressione vacua degli agnelli che vanno al macello. Il suono dell'entità informe che si ingozza di innocenti vi rimbomba nella testa. Cercate di farli rinsavire, ma vi ignorano completamente... Cercate di trattenerli, ma le creature che si spacciavano per la sicurezza dell'hotel vi respingono con violenza. Cadete a terra, abbandonando ogni speranza... Solo allora la sentite. Una singola voce, un sussurro nella vostra mente. Vi chiama. Vi persuade. Lentamente, vi alzate in piedi e iniziate a marciare verso il vostro destino.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Vi trovate nell'atrio dell'hotel, diventato improvvisamente silenzioso e apparentemente deserto. Mentre osservate i risultati del vostro operato, gettate un'occhiata alla chiave che avete in mano: un oggetto così semplice, eppure sentite ancora un brivido di terrore corrervi lungo la schiena al pensiero di ciò che un tempo lo possedeva. Provate un certo sollievo sapendo di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84049",
+        "name": "Il Vero Colpevole (v. VII)",
+        "text": "Ogni nemico [[Ospite]] perde <b>Vittoria 0</b>, perde il tratto [[Innocente]] e ottiene il tratto [[Cultista]].\nOgni supporto [[Traccia]] ottiene: \"[action] Se l'Errante Dimensionale si trova nel tuo luogo, rimuovi l indizio da questo supporto: <b>Eludi</b>. Eludi automaticamente l'Errante Dimensionale.\n<b>Obiettivo</b> – Se non ci sono nemici [[Cultista]] in gioco, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Ultraterrena",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Sono tutt'attorno a voi, in ogni camera, ogni sala, e le loro voci risuonano in un unico coro. Avete il loro libro, ma non ha importanza, non più: il rituale è proseguito per troppo tempo e ha accumulato troppo potere. Il tomo si incendia fra le vostre mani, la sua copertina di cuoio vi ustiona la pelle ma riuscite a mantenere saldamente la presa su di esso. Lo sentite pulsare come se all'interno delle sue pagine stesse battendo un cuore. Quando abbassate lo sguardo su di esso, vi rendete conto che è l'unico modo per sopravvivere a questo incubo; ne sfogliate le pagine, trovando quella in cui è descritto il rituale, e unite le vostre voci al coro senza fine.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Ora il libro è chiuso. Ne stringete il laccio e infilate il tomo sotto il cappotto sperando, e pregando, che possiate tenerlo al sicuro e che non venga mai più riaperto. Avete sperimentato sulla vostra pelle la follia racchiusa nelle sue pagine consumate e ora il vostro compito è evitare che finisca nelle mani sbagliate. Riuscite a respirare un po' meglio e provate un certo sollievo sapendo di avere posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84050",
+        "name": "Il Vero Colpevole (v. VIII)",
+        "text": "Ogni supporto [[Traccia]] ottiene: \"[action] Rimuovi 1 indizio da questo supporto: Cerca nel mazzo degli incontri e nella pila degli scarti degli incontri 1 nemico [[Staff]] e pescalo.\"\n[reaction] Dopo che un nemico [[Staff]] è stato sconfitto: Infliggete 1 orrore al Cervello in Vitro.\n<b>Obiettivo</b> – Se ci sono 1 [per_investigator] +2 orrori sul Cervello in Vitro, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Cerebrale",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Ovunque vi rechiate, sentite la sua coscienza penetrante farsi strada nella vostra mente. È troppo potente per potergli resisterle. Avete la sensazione che osservi ogni vostro movimento, che ascolti ogni vostro pensiero e assapori ogni vostra paura. Vi logora i nervi, come se le sue dita gelide e oscure affondassero nel vostro cervello. Posate lo sguardo sulle mani e un pensiero inquietante si fa strada nella vostra mente: percepite il vostro stesso corpo come estraneo e sentite una tetra volontà implacabile spingere da parte la vostra coscienza per far posto a questa nuova entità.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Vi trovate nell'atrio dell'albergo, diventato improvvisamente silenzioso e apparentemente vuoto. Alzate il contenitore del liquido misterioso per osservarlo controluce, cercando di comprenderne ancora una volta il contenuto: i vostri occhi guizzano da un lato all'altro nel seguire il turbine agitato della soluzione verde al suo interno e siete attraversati da un brivido al pensiero di quali altri effetti potrebbe nascondere quell'intruglio. Vi infilate in tasca la fiala, provando un certo sollievo nel sapere di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84051",
+        "name": "Il Vero Colpevole (v. IX)",
+        "text": "La Camera 212 ottiene: \"[action] Se il Tomo dei Rituali si trova in questo luogo: Effettua una prova di [willpower] (5) o [intellect] (5). Se hai successo, sposta fino a 1 [per_investigator] indizi dal Tomo dei Rituali al Cervello in Vitro.\n<b>Obiettivo</b> – Se ci sono 3 [per_investigator] o più indizi sul Cervello in Vitro, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Cerebrale",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Ovunque vi rechiate, sentite la sua coscienza penetrante farsi strada nella vostra mente. È troppo potente per potergli resisterle. Avete la sensazione che osservi ogni vostro movimento, che ascolti ogni vostro pensiero e assapori ogni vostra paura. Vi logora i nervi, come se le sue dita gelide e oscure affondassero nel vostro cervello. Posate lo sguardo sulle mani e un pensiero inquietante si fa strada nella vostra mente: percepite il vostro stesso corpo come estranea e sentite una tetra volontà implacabile spingere da parte la vostra coscienza per far posto a questa nuova entità.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Vi trovate nell'atrio dell'albergo, diventato improvvisamente silenzioso e apparentemente vuoto. Alzate il contenitore del liquido misterioso per osservarlo controluce, cercando di comprenderne ancora una volta il contenuto: i vostri occhi guizzano da un lato all'altro nel seguire il turbine agitato della soluzione verde al suo interno e siete attraversati da un brivido al pensiero di quali altri effetti potrebbe nascondere quell'intruglio. Vi infilate in tasca la fiala, provando un certo sollievo nel sapere di aver posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    },
+    {
+        "code": "84052",
+        "name": "Il Vero Colpevole (v. X)",
+        "text": "Ogni nemico [[Ospite]] perde <b>Vittoria 0</b>, perde il tratto [[Innocente]] e ottiene il tratto [[Cultista]].\nIl Seminterrato ottiene: \"[action]: Effettua una prova di [willpower] (4) o [agility] (4). Puoi rimuovere 1 indizio da un supporto [[Traccia]] nel Seminterrato per ridurre di 2 la difficoltà di questa prova. Se hai successo, rimuovi 1 destino da questa trama.\n<b>Obiettivo</b> - Se non ci sono destini su questa trama, proseguite con la trama.",
+        "back_name": "Una Pedina sulla Scacchiera Ultraterrena",
+        "back_text": "<b>Se avete proseguito con la trama a causa del raggiungimento della sua soglia di destino:</b>\n<blockquote><i>Sono tutt'attorno a voi, in ogni camera, ogni sala, e le loro voci risuonano in un unico coro. Avete il loro libro, ma non ha importanza, non più: il rituale è proseguito per troppo tempo e ha accumulato troppo potere. Il tomo si incendia fra le vostre mani, la sua copertina di cuoio vi ustiona la pelle ma riuscite a mantenere saldamente la presa su di esso. Lo sentite pulsare come se all'interno delle sue pagine stesse battendo un cuore. Quando abbassate lo sguardo su di esso, vi rendete conto che è l'unico modo per sopravvivere a questo incubo; ne sfogliate le pagine, trovando quella in cui è descritto il rituale, e unite le vostre voci al coro senza fine.</i><b>(→R2)</b></blockquote><hr><b>Se avete proseguito con la trama a causa del completamento del suo obiettivo:</b>\n<blockquote><i>Ora il libro è chiuso. Ne stringete il laccio e infilate il tomo sotto il cappotto sperando, e pregando, che possiate tenerlo al sicuro e che non venga mai più riaperto. Avete sperimentato sulla vostra pelle la follia racchiusa nelle sue pagine consumate e ora il vostro compito è evitare che finisca nelle mani sbagliate. Riuscite a respirare un po' meglio e provate un certo sollievo sapendo di avere posto fine agli strani avvenimenti dell'Excelsior, almeno per ora.</i><b>(→R1)</b></blockquote>"
+    }
+]

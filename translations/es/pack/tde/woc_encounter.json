@@ -1,0 +1,167 @@
+[
+    {
+        "code": "06333",
+        "name": "Tejedora del cosmos",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la cantidad más alta de fichas de Perdición que haya sobre un Lugar en juego.\n[cultist]: Revela otra ficha. Si fracasas y hay un Enemigo [[Primigenio]] en tu Lugar, te ataca.\n[tablet]: 0. El gato negro rompe la red con sus garras. Si tienes éxito por 2 o más, retira 1 ficha de Perdición de tu Lugar.\n[elder_thing]: -3. Si esta prueba de habilidad fracasa durante un ataque contra un Enemigo [[Araña]], coloca 1 ficha de Perdición sobre el Lugar de ese Enemigo.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad de fichas de Perdición que haya sobre los Lugares en juego.\n[cultist]: Revela otra ficha. Si fracasas y hay un Enemigo [[Primigenio]] en tu Lugar, te ataca.\n[tablet]: -1. El gato negro rompe la red con sus garras. Si tienes éxito por 2 o más, retira 1 ficha de Perdición de tu Lugar.\n[elder_thing]: -4. Si esta prueba de habilidad fracasa durante un ataque contra un Enemigo [[Araña]], coloca 1 ficha de Perdición sobre el Lugar de ese Enemigo."
+    },
+    {
+        "code": "06334",
+        "name": "El puente de redes",
+        "text": "*Este plan recibe +2 [per_investigator] a su umbral de perdición.\n<b>Obligado</b> - Cuando este plan avance: No retires perdición de los Lugares en juego.",
+        "flavor": "Esta vasta extensión de espacio es un puente entre las Tierras del Sueño y la realidad, tejido por una terrible criatura arácnida que es la causa de todas las distorsiones que habéis experimentado hasta el momento. Si no encontráis algún modo de evitar que complete este puente, abrirá un camino para que estos horrores entren en el mundo de la vigilia.",
+        "back_name": "Un soplo de aire fresco",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.",
+        "back_flavor": "En este espacio interdimensional no hay aire. Incluso en los desolados pozos del Mundo subterráneo podíais sentir el frío viento que recorría las profundidades o el cálido gas nocivo que se elevaba del Mar de Brea. Pero aquí no hay nada: ni aire, ni atmósfera ni vida alguna salvo vosotros y las arañas cuya labor está casi completada.\nMientras reflexionáis sobre cómo puede existir algo así en este terrible mundo entre los mundos, oís un sonido similar al de un tejido que se estira y se rasga. En ese momento, una ráfaga de aire brota a vuestro alrededor, llenando la enormidad del reino como polvo en el vacío. Este viento debe de venir de alguna parte, y eso sólo puede significar una cosa: los mundos empiezan a fusionarse."
+    },
+    {
+        "code": "06335",
+        "name": "Un rastro de giros",
+        "text": "*Este plan recibe +2 [per_investigator] a su umbral de perdición.\n<b>Obligado</b> - Cuando este plan avance: No retires perdición de los Lugares en juego.",
+        "flavor": "En este vacío entre las realidades no puede haber esperanza ni alegría. Sólo el incesante afán de las arañas que realizan su gran labor y que está más cerca de completarse con cada momento que pasa.",
+        "back_name": "De estrellas y redes",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.",
+        "back_flavor": "A lo lejos parpadeaba una luz entre los hilos de redes etéreas: una explosión a miles de años luz de distancia. El resplandor atraviesa en oleada todo el puente-red. Los hilos de seda reflejan la luminosidad de una nebulosa hecha añicos. El brillo os quema las pupilas, y cuando por fin se atenúa, el puente resplandece con energía cósmica. Ya casi está terminado. Pronto, el puente conectará los dos mundos, y no quedará nada más que Atlach-Nacha y su horda."
+    },
+    {
+        "code": "06336",
+        "name": "Realidades entrelazadas",
+        "text": "*Este plan recibe +2 [per_investigator] a su umbral de perdición.",
+        "flavor": "A lo lejos, a una distancia de indecibles horizontes, las estrellas titilan y arden con el poder de innumerables mundos. Los brillantes hilos de telaraña que os rodean palpitan con la misma luz.",
+        "back_name": "Choque de mundos",
+        "back_text": "<b>(→R2)</b>",
+        "back_flavor": "Se produce una repentina ráfaga de aire y un chasquido como el de un millar de huesos al colocarse a la vez. Las redes que os rodean relucen con un inmenso poder, y las corrientes de aire vienen y van el mismo ritmo. En el extremo del vacío entra la luz del sol: una luz literal al final del túnel que es el reino de Atlach-Nacha. Observáis con espanto cómo las arañas que infestan este lugar corretean una a una hacia la luz."
+    },
+    {
+        "code": "06337",
+        "name": "Viaje a través del puente",
+        "text": "Cada Lugar está conectado a cada Lugar que tenga arriba y abajo.\n<b>Objetivo</b> - Si todos los investigadores están en el Lugar inferior pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "flavor": "Ahora os dais cuenta de que ya no estáis en las Tierras del Sueño ni en el mundo de la vigilia, sino en un lugar completamente distinto: un vacío estigio en el que habita la tejedora del cosmos. Ya no sólo está en juego el destino de vuestro mundo, sino también el de las Tierras del Sueño.",
+        "back_name": "El filo de los sueños",
+        "back_text": "Lee el <b>Interludio del escenario: La reina araña</b> en la guía de campaña. A continuación, haz avanzar el acto al acto 2a - \"La tejedora del cosmos\"."
+    },
+    {
+        "code": "06338",
+        "name": "La tejedora del cosmos",
+        "text": "[action] Gasta 1 pista: Inflige 3 puntos de daño a un Enemigo [[Primigenio]] que esté en tu Lugar.\n<b>Obligado</b> - Cuando comience la fase de Mitos: Revela una ficha aleatoria de la bolsa de caos. Si su modificador es negativo, gira Atlach-Nacha X veces en el sentido de las agujas del reloj. X es el modificador negativo de la ficha.\n<b>Objetivo</b> - Si las 4 Patas de Atlach-Nacha están en la zona de victoria, haz avanzar el acto.",
+        "flavor": "Atlach-Nacha está distraída con su mecánica tarea. ¡Ahora es la vuestra!",
+        "back_name": "La ira de la reina",
+        "back_text": "Dale la vuelta a la carta central de Atlach-Nacha para mostrar su lado de Enemigo. Colócala en el Ligar que tenga más perdición.",
+        "back_flavor": "Tras cercenar las patas de la terrible araña y desbaratar las redes sobre las que se apoyaba, esperabais lograr así que el engendro se precipitara al vacío infinito. Pero cuando cae, de su abdomen brotan más patas finas y serradas con las que se agarra por poco a una plataforma cercana. Las horribles fauces que recorren en vertical su cabeza como de gusano se abren con fuerza, y de ellas sale un chirrido similar a mil uñas arañando una pizarra."
+    },
+    {
+        "code": "06339",
+        "name": "El fin del plan",
+        "text": "[action] Gasta 1 pista: Inflige 3 puntos de daño a un Enemigo [[Primigenio]] que esté en tu Lugar.\n<b>Obligado</b> - Cuando comience la fase de Mitos: Revela una ficha aleatoria de la bolsa de caos. Si su modificador es negativo, gira Atlach-Nacha X veces en el sentido de las agujas del reloj. X es el modificador negativo de la ficha.\n<b>Objetivo</b> - Si Atlach-Nacha es derrotada, haz avanzar el acto.",
+        "flavor": "Sois la última línea de defensa contra las criaturas que planean devorar vuestro mundo.",
+        "back_name": "La caída",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "La criatura se debate violentamente cuando su tela se queda hecha jirones. El resplandor de los hilos puente desaparece. A lo lejos, el despliegue cósmico de luces se apaga estrella a estrella. El chillido de dolor de la araña es ensordecedor. No estáis seguros de si sería posible matar a una criatura como ésta, pero le habéis hecho más daño destrozando el trabajo de su vida de los que le habríais hecho jamás con balas y espadas.\nA medida que los hilos tejidos de seda de araña se desbaratan, las muchas plataformas de roca suspendidas en este reino se hacen pedazos y se desploman hacia el éter infinito. Buscáis algo sobre lo que poneros a salvo o a lo que agarraros. Sin el soporte del puente-red, toda la dimensión se desmorona a vuestro alrededor.\nCon su último chillido desesperado que resuena por todo este mundo entre los mundos, Atlach-Nacha se precipita hacia la oscuridad eterna. Y vosotros no tardáis en seguirla."
+    },
+    {
+        "code": "06340",
+        "name": "La gran red",
+        "subname": "Escaleras de red",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Coloca 1 ficha de Perdición sobre él.",
+        "flavor": "Cabos de pegajosos hilos ascienden como peldaños de una escalera hacia el brillante resplandor violeta que rodea este vacío cavernoso.",
+        "back_flavor": "Largos hilos resplandecientes de una telaraña como de gasa llenan el foso infinito que hay bajo el Mar de Brea. La gran obra de las arañas casi está completada.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "06341",
+        "name": "La gran red",
+        "subname": "Red cósmica",
+        "text": "<b>Obligado</b> - Después de que entres en este Lugar: Realiza una prueba de [willpower] (3). Si fracasas, debes elegir y descartar 1 carta de tu mano por cada punto que te falte para tener éxito o bien colocar 1 ficha de perdición sobre este Lugar.",
+        "flavor": "Esta sección de la red brilla con un esplendor sobrenatural.",
+        "back_flavor": "Largos hilos resplandecientes de una telaraña como de gasa llenan el foso infinito que hay bajo el Mar de Brea. La gran obra de las arañas casi está completada.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "06342",
+        "name": "La gran red",
+        "subname": "Red enmarañada",
+        "text": "<b>Obligado</b> - Cuando acabe la fase de Investigación, si hay al menos 1 investigador en este Lugar: Coloca 1 ficha de Perdición sobre este Lugar.",
+        "flavor": "Un amasijo de gruesas redes conecta cada una de las islas que flotan en este vacío sin fondo.",
+        "back_flavor": "Largos hilos resplandecientes de una telaraña como de gasa llenan el foso infinito que hay bajo el Mar de Brea. La gran obra de las arañas casi está completada.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "06343",
+        "name": "La gran red",
+        "subname": "Prisión de capullos",
+        "text": "<b>Obligado</b> - Después de que entres en este Lugar: Realiza una prueba de [agility] (3). Si fracasas, debes perder 1 acción por cada punto que te falte para tener éxito o bien colocar 1 ficha de Perdición sobre este Lugar.",
+        "back_flavor": "Largos hilos resplandecientes de una telaraña como de gasa llenan el foso infinito que hay bajo el Mar de Brea. La gran obra de las arañas casi está completada.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "06344",
+        "name": "La gran red",
+        "subname": "Red inmensa",
+        "text": "[action] Si no está en juego el acto 1 y hay 1 pista [per_investigator] o menos sobre este Lugar: <b>Movimiento.</b> Muévete al Lugar que esté directamente enfrente de este Lugar.",
+        "back_flavor": "Largos hilos resplandecientes de una telaraña como de gasa llenan el foso infinito que hay bajo el Mar de Brea. La gran obra de las arañas casi está completada.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "06345",
+        "name": "La gran red",
+        "subname": "Isla tejida de red",
+        "text": "Como coste adicional para investigar este Lugar, debes gastar 1 acción o bien colocar 1 ficha de Perdición sobre este Lugar.",
+        "back_flavor": "Largos hilos resplandecientes de una telaraña como de gasa llenan el foso infinito que hay bajo el Mar de Brea. La gran obra de las arañas casi está completada.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "06346",
+        "name": "Atlach-Nacha",
+        "subname": "El dios araña",
+        "text": "Descomunal.\n<b>Obligado</b> - Cuando Atlach-Nacha salga de un Lugar: Si no hay investigadores en ese Lugar, coloca 1 ficha de Perdición en él. Si no es así, ataca a cada investigador que esté en ese Lugar.\n<b>Obligado</b> - Cuando fueses a evitar a Atlach-Nacha: En lugar de agotarla, elige a un investigador que esté en tu Lugar. No puede atacar al investigador elegido en esta ronda.",
+        "traits": "Primigenio. Araña. Élite."
+    },
+    {
+        "code": "06347",
+        "name": "Patas de Atlach-Nacha",
+        "text": "Descomunal.\nEste Enemigo no puede realizar ataques de oportunidad.\nX es el valor de velo del Lugar de este Enemigo.\n<b>Obligado</b> - Cuando fueses a evitar a este Enemigo: En lugar de agotarlo, elige a un investigador que esté en tu Lugar. Este Enemigo no puede atacar al investigador elegido en esta ronda.",
+        "traits": "Primigenio. Araña. Élite."
+    },
+    {
+        "code": "06348",
+        "name": "Patas de Atlach-Nacha",
+        "text": "Descomunal.\nEste Enemigo no puede realizar ataques de oportunidad.\nX es el valor de velo del Lugar de este Enemigo.\n<b>Obligado</b> - Cuando fueses a evitar a este Enemigo: En lugar de agotarlo, elige a un investigador que esté en tu Lugar. Este Enemigo no puede atacar al investigador elegido en esta ronda.",
+        "traits": "Primigenio. Araña. Élite."
+    },
+    {
+        "code": "06349",
+        "name": "Patas de Atlach-Nacha",
+        "text": "Descomunal.\nEste Enemigo no puede realizar ataques de oportunidad.\nX es el valor de velo del Lugar de este Enemigo.\n<b>Obligado</b> - Cuando fueses a evitar a este Enemigo: En lugar de agotarlo, elige a un investigador que esté en tu Lugar. Este Enemigo no puede atacar al investigador elegido en esta ronda.",
+        "traits": "Primigenio. Araña. Élite."
+    },
+    {
+        "code": "06350",
+        "name": "Patas de Atlach-Nacha",
+        "text": "Descomunal.\nEste Enemigo no puede realizar ataques de oportunidad.\nX es el valor de velo del Lugar de este Enemigo.\n<b>Obligado</b> - Cuando fueses a evitar a este Enemigo: En lugar de agotarlo, elige a un investigador que esté en tu Lugar. Este Enemigo no puede atacar al investigador elegido en esta ronda.",
+        "traits": "Primigenio. Araña. Élite."
+    },
+    {
+        "code": "06351",
+        "name": "Hilandera de redes",
+        "text": "<b>Aparición</b> - Cualquier Lugar vacío.\nIndiferente.\n<b>Obligado</b> - Al final de la ronda, si la Hilandera de redes está preparada: Coloca 1 ficha de Perdición sobre el Lugar de la Hilandera de redes.",
+        "traits": "Monstruo. Araña."
+    },
+    {
+        "code": "06352",
+        "name": "La tejedora en la oscuridad",
+        "text": "<b>Revelación</b> - Vincula esta carta al Enemigo [[Primigenio]] más cercano.\nEl Enemigo vinculado recibe +1 de daño y +1 de horror.\n[action]: Realiza una prueba de cualquier habilidad (5). Si tienes éxito, descarta La tejedora en la oscuridad.",
+        "traits": "Poder."
+    },
+    {
+        "code": "06353",
+        "name": "Atrapado en una telaraña",
+        "text": "<b>Revelación</b> - Pon Atrapado en una telaraña en juego en tu zona de amenaza.\nRecibes -1 [agility] y no puedes realizar más de una acción de movimiento en cada ronda.\n[action]: Realiza una prueba de [combat] (3). Si tienes éxito, descarta Atrapado en una telaraña.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "06354",
+        "name": "Tejido incesante",
+        "text": "<b>Revelación</b> - Elige a un Enemigo [[Araña]] que esté en juego. Si está enfrentado a un investigador, tanto ese Enemigo como todas sus cartas anfitrionas o de multitud realizan un ataque inmediatamente. Si no es así, coloca 1 ficha de perdición sobre su Lugar. Si no hay Enemigos [[Araña]] en juego, busca en el mazo y la pila de descartes de Encuentros un Enemigo [[Araña]] y róbalo. Baraja el mazo de Encuentros.",
+        "traits": "Maquinación."
+    }
+]

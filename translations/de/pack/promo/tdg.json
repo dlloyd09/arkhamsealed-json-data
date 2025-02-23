@@ -1,0 +1,25 @@
+[
+    {
+        "code": "98013",
+        "flavor": "Jungs, lasst eure Ängste an Land zurück!”",
+        "name": "Silas Marsh",
+        "subname": "Der Matrose",
+        "text": "[reaction] Nachdem du während einer Fertigkeitsprobe, die du durchführst, einen Chaosmarker enthüllt hast: Schicke eine Fertigkeitskarte, die du zu dieser Probe beigetragen hast, auf deine Hand zurück. (Nur ein Mal pro Runde.)\n[elder_sign]-Effekt: +0. Du darfst eine Fertigkeitskarte aus deinem Ablagestapel zu dieser Probe beitragen. Nachdem diese Probe beendet worden ist, schicke jene Fertigkeitskarte auf deine Hand zurück, anstatt sie abzulegen.",
+        "traits": "Herumtreiber.",
+        "back_flavor": "Silas Marsh hat schon immer den Ruf des Meeres vernommen. Er verließ schon in jungen Jahren seine Familie und seine von Ängsten überschattete Heimat Innsmouth und machte sich auf den Sieben Weltmeeren einen Namen. Nach dem Tod seiner Eltern wurde der Ruf des Meeres noch stärker. Silas hatte Träume - Albträume - von scharfen grinsenden Zähnen, von nach ihm greifenden Händen mit Schwimmhäuten und von glühenden Augen, die ihn aus den schwarzen Tiefen des Ozeans anstarrten. Keiner seiner Verwandten konnte - oder wollte - ihm die Träume erklären. Als sich die verzweifelte Bibliothekarin Abigail Foreman mit eigenen Fragen an Silas wandte, konnte er sie nicht abweisen. In ihrem uralten, mysteriösen Buch Prophesiae Profana wurde ein stellares Ereignis beschrieben, welches das Ende der Welt voraussagt. Und verziert waren diese Seiten mit einer Zeichnung von genau der Kreatur, die Silas in seinen Albträumen heimsucht …",
+        "back_text": "<b>Deckgröße</b>: 30.\n<b>Deckbau-Optionen</b>: Überlebenderkarten ([survivor]) Stufe 0-5, Neutrale Karten Stufe 0-5, [[Angeboren]]-Fertigkeitskarten Stufe 0-2.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Harpune der Gezeiten, Silas' Netz, Ruf der Sirenen, 1 zufällige Grundschwäche."
+    },
+    {
+        "code": "98014",
+        "name": "Seemännisches Können",
+        "text": "Nur für das Deck von Silas Marsh. Ersatz.\nFalls während dieser Probe ein Chaosmarker mit einem negativen Modifikator enthüllt wird, ziehe entweder 1 Karte oder Seemännisches Können erhält [wild][wild].",
+        "traits": "Angeboren. Entwickelt."
+    },
+    {
+        "code": "98015",
+        "name": "Träume aus der Tiefe",
+        "subname": "Das Tor in der Tiefe",
+        "text": "Nur für das Deck von Silas Marsh. Ersatz.\nDie Symbole dieser Fertigkeit werden von deinem Fertigkeitswert abgezogen, statt sie hinzuzufügen.\nFalls diese Probe misslingt, schicke diese Fertigkeitskarte auf deine Hand zurück.\n<b>Erzwungen</b> - Falls sich Träume aus der Tiefe am Ende deines Zuges auf deiner Hand befindet: Enthülle diese Karte und nimm 2 Schaden.",
+        "traits": "Fluch."
+    }
+]

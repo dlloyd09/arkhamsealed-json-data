@@ -1,0 +1,322 @@
+[
+    {
+        "code": "03316",
+        "name": "Penumbrosa Carcosa",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -2, o bien -4 si no te queda cordura.\n[cultist]: Revela otra ficha. Si fracasas, recibe 1 punto de horror.\n[tablet]: -3. Si fracasas y Hastur está en juego, coloca 1 pista en tu Lugar <i>(de la reserva de fichas)</i>.\n[elder_thing]: -3. Si esta ficha es revelada durante un ataque o intento de evitar contra un Enemigo [[Monstruo]] o [[Primigenio]], pierde 1 acción.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad de horror que tengas.\n[cultist]: Revela otra ficha. Si fracasas, recibe 2 puntos de horror.\n[tablet]: -5. Si fracasas y Hastur está en juego, coloca 1 pista en tu Lugar <i>(de la reserva de fichas)</i>.\n[elder_thing]: -5. Si esta ficha es revelada durante un ataque o intento de evitar contra un Enemigo [[Monstruo]] o [[Primigenio]], pierde 1 acción."
+    },
+    {
+        "code": "03317",
+        "flavor": "Y ahora, a lo lejos, sobre leguas de nubosas olas agitadas, vi la luna con perlas de rocío; y más allá las torres de Carcosa se alzaban tras la luna.\n– Robert W. Chambers, \"En la corte del dragón\", <u>El Rey de Amarillo</u>",
+        "name": "La locura se enrosca",
+        "text": "Hastur no puede ser derrotado.\n<b>Obligado</b> - Si hay al menos 3 puntos de daño[per_investigator] sobre Hastur: Haz avanzar este plan.",
+        "back_name": "¿La llave de…?",
+        "back_flavor": "Al doblar una esquina, estás a punto de chocarte con una enfermera de marcados rasgos y pelo castaño claro. Le cuentas lo ocurrido con los pacientes violentos y las cosas extrañas que has visto, pero no te escucha. Cuando le preguntas por Daniel, te informa que es amigo del Rey y que se encuentra en palacio.",
+        "back_text": "Los investigadores deben decidir (elige una opción):\n - Cualquier investigador realiza una prueba de [willpower] (4) para recuperarse. Si tiene éxito, haz avanzar el plan al plan 2a. Si fracasa, debéis elegir una opción que no hayáis elegido aún.\n - Cualquier investigador realiza una prueba de [intellect] (4) para recordar que ya habéis hecho esto antes. Si tiene éxito, haz avanzar el plan al plan 2a. Si fracasa, debéis elegir una opción que no hayáis elegido aún.\n - Esto no puede ser real. Esto no puede ser real. Esto no puede ser real. Cada investigador recibe 2 puntos de horror. Haz avanzar el plan al plan 2a.\n - Los investigadores se desmayan y se despiertan algo más tarde. Haz avanzar el plan al plan 2a y coloca 1 ficha de Perdición sobre él."
+    },
+    {
+        "code": "03318",
+        "flavor": "También pensaba en el Rey de Amarillo envuelto en los fantásticos colores de su capa harapienta y el amargo grito de Cassilda: \"¡No a nosotros no, oh Rey, no a nosotros!\"\n– Robert W. Chambers, \"La máscara\", <u>El Rey de Amarillo</u>",
+        "name": "La locura ahoga",
+        "text": "Hastur recibe +1 a combate y no puede ser derrotado.\n<b>Obligado</b> - Si hay al menos 5 puntos de daño[per_investigator] sobre Hastur: Haz avanzar este plan.",
+        "back_name": "¿La última invitada…?",
+        "back_flavor": "–Vaya, nuestra última invitada –anuncia el portero–. Señora Devine, todo el mundo aguardaba su presencia hoy. –La criatura sube reptando por el lateral del palacio. Jurarías que ya has visto antes el símbolo de amuleto. Un momento, esto no puede ser cierto–.\nBueno, pues que empiece la fiesta de verdad –ruge.",
+        "back_text": "Haz aparecer el Enemigo Bestia de Aldebarán puesto aparte en El palacio del Rey.\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo."
+    },
+    {
+        "code": "03319",
+        "flavor": "…no puedo olvidarme de Carcosa donde estrellas negras lucen en los cielos; donde las sombras de los pensamientos de los hombres se alargan en la tarde, cuando los soles gemelos se hunden en el lago Hali; y mi memoria cargará para siempre con el recuerdo de la Máscara Pálida.\n– Robert W. Chambers, \"El reparador de reputaciones\", <u>El Rey de Amarillo</u>",
+        "name": "La locura muere",
+        "text": "Hastur recibe +2 a combate.\n Hastur sólo puede ser derrotado si \"los investigadores conocen el secreto\".",
+        "back_name": "La Tierra y Carcosa",
+        "back_flavor": "El cielo cae. Volutas de nubes azotan la tierra, y las docenas de lunas del cielo se hacen pedazos. Los fragmentos de las entidades cósmicas se precipitan contra el suelo y asaltan la ciudad. El oscuro reflejo de Mont Saint-Michel que flota boca abajo sobre ti comienza a descender. La abadía se estrella contra el palacio del Rey, lanzando escombros de ébano en todas direcciones. La espantosa y sonora risa de Hastur invade tu mente. Se acabó.",
+        "back_text": "Comprueba el registro de campaña.\n - Si tienes una cantidad mayor o igual de <b>Convicciones</b> que de <b>Dudas</b>, pasa a <b>(→R4)</b>.\n - Si tienes una cantidad mayor de <b>Dudas</b> que de <b>Convicciones</b>, pasa a <b>(→R5)</b>."
+    },
+    {
+        "code": "03320",
+        "flavor": "Has abierto el camino a Carcosa para detener a quienes pretenden liberar a Hastur de su prisión de estrellas. ¡Sólo tú puedes ponerle fin a esta locura!",
+        "name": "En la Perdida Carcosa",
+        "text": "<b>Objetivo</b> - Cuando los investigadores hayan obtenido la cantidad necesaria de pistas, deben gastarlas inmediatamente y hacer avanzar el acto.",
+        "back_name": "¿Fin de la obra…?",
+        "back_flavor": "Una sombra se desliza por la pared junto a ti, y se te hace un nudo en la garganta. Al girarte, una silueta desaparece de tu vista rápidamente. O tu mente te engaña, o hay alguien más en el teatro.\nSigues la dirección de la sombra doblando una esquina cercana. En el otro extremo del pasillo te espera el hombre que lleva la máscara pálida: el Extranjero cuyos pasos llevas siguiendo varias semanas. Recuerdas que ya has estado antes aquí.\nEl teatro se disuelve a tu alrededor. El brillante resplandor de dos soles te inunda los ojos. –¿Lo recuerdas ahora?– te pregunta. Se da media vuelta y desaparece en el éter, como si te retara a que lo sigas.",
+        "back_text": "Haz aparecer el Enemigo El hombre de la máscara pálida puesto aparte en El palacio del Rey."
+    },
+    {
+        "code": "03321a",
+        "flavor": "Es hora de enfrentarte definitivamente al Extranjero y descubrir la verdad sobre su identidad de una vez por todas.",
+        "name": "En busca del Extranjero (v.I)",
+        "text": "Ningún investigador puede descubrir pistas.\nEl hombre de la máscara pálida no puede ser derrotado.\n<b>Objetivo</b> - Mientras el investigador jefe esté en el Lugar de El hombre de la máscara pálida, puede gastar [action] [action] [action] para hacer avanzar el acto."
+    },
+    {
+        "code": "03321b",
+        "name": "La máscara pálida",
+        "subname": "Dando vueltas",
+        "text": "<b>Revelación</b> - Pon La máscara pálida en juego, bajo el control del investigador jefe. Retira de la partida El hombre de máscara pálida. Haz aparecer el Enemigo Hastur [[(El Rey Andrajoso)]] puesto aparte en El palacio del Rey.\nLa máscara pálida no puede abandonar el juego.\nRecibes -2 de cordura.",
+        "traits": "Objeto. Reliquia."
+    },
+    {
+        "code": "03322a",
+        "flavor": "Es hora de enfrentarte definitivamente al Extranjero y descubrir la verdad sobre su identidad de una vez por todas.",
+        "name": "En busca del Extranjero (v.II)",
+        "text": "Ningún investigador puede descubrir pistas.\nEl hombre de la máscara pálida no puede se derrotado excepto mediante su capacidad de [action].\n<b>Objetivo</b> - Cuando El hombre de la máscara pálida fuese a ser derrotado por su capacidad [action], haz avanzar el acto.",
+        "back_name": "Prodcuto de tu imaginación",
+        "back_text": "Pon en juego el Enemigo Hastur [[(El Rey de Amarillo)]] puesto aparte junto al mazo de Acto. Durante el resto del escenario, Hastur se considera en juego, pero no está en ningún Lugar. Retira de la partida El hombre de la máscara pálida."
+    },
+    {
+        "code": "03323a",
+        "flavor": "Es hora de enfrentarte definitivamente al Extranjero y descubrir la verdad sobre su identidad de una vez por todas.",
+        "name": "En busca del Extranjero (v.III)",
+        "text": "Ningún investigador puede descubrir pistas.\nEl hombre de la máscara pálida no puede se derrotado excepto mediante daño.\n<b>Objetivo</b> - Cuando El hombre de la máscara pálida fuese a ser derrotado mediante daño, haz avanzar el acto.",
+        "back_name": "Se quita el disfraz",
+        "back_text": "Haz aparecer el Enemigo Hastur [[(Señor de Carcosa)]] puesto aparte en el Lugar de El hombre de la máscara pálida. Retira de la partida el El hombre de la máscara pálida."
+    },
+    {
+        "code": "03324",
+        "flavor": "…oí al Rey de Amarillo que me susurraba al aído: –¡Es terrible caer en las garras del Dios vivo!.\n – Robert W. Chambers, \"En la corte del dragón\", <u>El Rey de Amarillo</u>",
+        "name": "El Rey harapiento",
+        "text": "[free] Si no hay pista en tu Lugar: Retira de la partida las pistas de cada investigador. Dale la vuelta a tu Lugar y resuelve el texto del otro lado.\n<b>Objetivo</b> - Si Hastur es derrotado, haz avanzar el acto.",
+        "back_name": "Fin",
+        "back_flavor": "Un coro de gritos resuena en tu mente. Los caóticos acordes de un órgano torturan tus oídos. Caes de rodillas mientras te sangran los ojos. El reino de Carcosa se rompe en millones de pedazos y se desvanece en el vacío del espacio.\nSe cierra el telón.",
+        "back_text": "- Si la versión de Hastur que fue derrotada fue Hastur [[(El Rey Andrajoso)]], pasa a <b>(→R1)</b>.\n - Si la versión de Hastur que fue derrotada fue Hastur [[(El Rey de Amarillo)]], pasa a  <b>(→R2)</b>.\n - Si la versión de Hastur que fue derrotada fue Hastur [[(Señor de Carcosa)]], pasa a  <b>(→R3)</b>."
+    },
+    {
+        "code": "03325",
+        "flavor": "Rompen las olas neblinosas a lo largo de la costa,\nLos soles gemelos se hunden tras el lago,\nSe prolongan las sombras\nEn Carcosa.\n – Robert W. Chambers, <u>El Rey de Amarillo</u>",
+        "name": "Costas de Hali",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03325b",
+        "flavor": "Las estrellas negras cantan en el reflejo del agua con una melodía imposible y asombrosa. Pero, de algún modo, recuerdas la canción. Es como si hubiera vuelto a ti tu recuerdo vivo más temprano. Al principio, la tarareas, y en la superficie del agua aparecen ondas a medida que aumenta tu volumen. Recuerdas la letra y te unes a la canción de las estrellas, haciendo que tu voz resuene por el retorcido reino.",
+        "name": "los cantos que cantarán las Híades",
+        "text": "Inflige 1 punto de daño[per_investigator] a Hastur, agótalo y haz que deje de estar enfrentado a todos los investigadores.\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03326a",
+        "flavor": "A mi alrededor se extendía una desolada y yerma llanura, cubierta de yerbas altas y marchitas que se agitaban y silbaban bajo la brisa del otoño…\n – Ambrose Bierce, \"Un habitante de Carcosa\"",
+        "name": "Llanuras inhóspitas",
+        "text": "Mientras estés en las Llanuras inhóspitas, no puedes jugar Apoyos [[Aliado]].",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03326b",
+        "flavor": "Una repentina fisura en las nubes que hay sobre tu cabeza te permite ver el cielo por primera vez desde que llegaste a este extraño lugar. Tiene un tono naranja y está desprovisto de oscuridad, pero hay estrellas negras que brillan en él. Si la forma en que funciona la ciencia terrestre significa algo en este mundo, quizás puedas trazar un mapa de las estrellas para encontrar el camino de vuelta a casa. Encuentras un largo palo y comienzas a dibujar en la arena…",
+        "name": "Estrellas de Aldebarán",
+        "text": "Cada investigador se cura 3 puntos de horror.\nInflige 4 puntos de daño a un Enemigo en juego que no sea Hastur.\nRetira esta carta de la partida y sustitúyela por otra copia puesta de las Llanura inhóspitas (mueve todos los investigadores, Enemigos y cartas vinculadas de este Lugar a la nueva copia de las Llanuras inhóspitas). Añade pistas a esa copia de las Llanuras inhóspitas hasta que tenga una cantidad de pistas igual a su valor de pista."
+    },
+    {
+        "code": "03326c",
+        "flavor": "A mi alrededor se extendía una desolada y yerma llanura, cubierta de yerbas altas y marchitas que se agitaban y silbaban bajo la brisa del otoño…\n – Ambrose Bierce, \"Un habitante de Carcosa\"",
+        "name": "Llanuras inhóspitas",
+        "text": "Mientras estés en las Llanuras inhóspitas, no puedes jugar Apoyos [[Aliado]].",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03326d",
+        "flavor": "Este mundo no es más que un mero resto de lo que fue antaño. La gran majestuosidad de Carcosa, de la que se habla en <u>El Rey de Amarillo</u>, se ha perdido en esta expansión de desolación infinita. Ves árboles muertos y retorcidos, animales famélicos y campos baldíos allá donde miras.\nEmpiezas a buscar pruebas de lo que podría haber provocado una devastación semejante. Al otro lado del lago, ves unas oscuras y retorcidas estructuras similares a las de Carcosa. Al menos una de ellas parece tan grande y opulenta como el dominio de Hastur. Te preguntas si pudo haber tenido lugar algún conflicto entre ambas ciudades.",
+        "name": "Desolación deprimente",
+        "text": "Inflige 2 puntos de daño[per_investigator] a Hastur.\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03327a",
+        "flavor": "Estas reliquias, estos vestigios de la vanidad humana, estos monumentos de piedad y afecto me parecían tan antiguos, tan deteriorados, tan gastados, tan manchados…\n – Ambrose Bierce, \"Un habitante de Carcosa\"",
+        "name": "Ruinas de Carcosa",
+        "text": "<b>Obligado</b> - Después de que descubras la última pista restante en las Ruinas de Carcosa: Recibe 1 punto de daño.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03327b",
+        "flavor": "Encuentras a un hombre, cansado y macilento, entre las ruinas de la ciudad, –Buen señor –te dice–, estoy enfermo y perdido. Le imploro que me indique cómo llegar a Carcosa- –Le dices que crees que ahora mismo estáis en el reino de Carcosa, y cae de rodillas, preso de la desesperación–. No… ¡Eso no puede ser!\nEl hombre grita y desvaría mientras te cuenta más cosas sobre la antigua y famosa ciudad. Aunque sus palabras no tienen gran significado para ti, en lo más profundo de tu mente comencéis a entenderlo",
+        "name": "Habitante de Carcosa",
+        "text": "Cada investigador se cura 3 puntos de horror.\nRetira esta carta de la partida y sustitúyela por otra copia puesta aparte de las Ruinas de Carcosa (mueve todos los investigadores, Enemigos y cartas vinculadas de este Lugar a la nueva copia de las Ruinas de Carcosa). Añade pistas a esa copia de las Ruinas de Carcosa hasta que tenga una cantidad de pistas igual a su valor de pista."
+    },
+    {
+        "code": "03327c",
+        "flavor": "Estas reliquias, estos vestigios de la vanidad humana, estos monumentos de piedad y afecto me parecían tan antiguos, tan deteriorados, tan gastados, tan manchados…\n – Ambrose Bierce, \"Un habitante de Carcosa\"",
+        "name": "Ruinas de Carcosa",
+        "text": "<b>Obligado</b> - Después de que descubras la última pista restante en las Ruinas de Carcosa: Recibe 1 punto de daño.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03327d",
+        "flavor": "Durante tu exploración, encuentras un viejo y desmoronado edificio que sirve como refugio ideal ante el calor seco de este mundo y sus horripilantes criaturas. Por primera vez desde que entraste en este reino, te tomas unos instantes para descansar a la fresca sombra del edificio. La tranquila calma alivia tus doloridos músculos y cansada mente. Pero no puedes quedarte demasiado tiempo.",
+        "name": "Un descanso momentáneo",
+        "text": "Debes decidir (elige una opción):\n - Elige un Enemigo que esté en juego. Agota ese Enemigo y haz que deje de estar enfrentado a todos los investigadores.\n - Cúrate 5 puntos de horror.\nRetira esta carta de la partida y sustitúyela por otra copia puesta aparte de las Ruinas de Carcosa (mueve todos los investigadores, Enemigos y cartas vinculadas de este Lugar a la nueva copia de las Ruinas de Carcosa). Añade pistas a esa copia de las Ruinas de Carcosa hasta que tenga una cantidad de pistas igual a su valor de pista."
+    },
+    {
+        "code": "03327e",
+        "flavor": "Estas reliquias, estos vestigios de la vanidad humana, estos monumentos de piedad y afecto me parecían tan antiguos, tan deteriorados, tan gastados, tan manchados…\n – Ambrose Bierce, \"Un habitante de Carcosa\"",
+        "name": "Ruinas de Carcosa",
+        "text": "<b>Obligado</b> - Después de que descubras la última pista restante en las Ruinas de Carcosa: Recibe 1 punto de daño.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03327f",
+        "flavor": "En las afueras de la ciudad, encuentras un mausoleo en ruinas. Su entrada no es muy distinta a la entrada de las catacumbas de París: arcadas de piedra decoradas con huesos y cráneos burlones. En la piedra que corona la última arcada está grabado el Signo Amarillo. El estrecho y abarrotado pasadizo lleva a una cámara circular con un techo abovedado. En el centro de la cámara hay un ataúd con forma de huevo hecho de piedra, sin ninguna marca y firmemente sellado. La curiosidad te hace intentar abrir el ataúd, y necesitas emplear toda tu fuerza para lograr levantar la pesada tapa, que cae al suelo deslizándose con un sonoro golpe. En el interior, ves un rostro familiar: una mujer con un andrajoso vestido y una expresión noble y adusta",
+        "name": "El ataúd",
+        "text": "Inflige 1 punto de daño[per_investigator] a Hastur.\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03328a",
+        "flavor": "Las calles giran y se retuercen sin ningún atisbo de lógica o razón.",
+        "name": "Calles penumbrosas",
+        "text": "<b>Obligado</b> - Después de que descubras la última pista restante en las Calles penumbrosas: Pierde 1 acción.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03328b",
+        "flavor": "Te pierdes fácilmente por las estrechas y sinuosas calles de la ciudad. Las rutas que deberían llevarte de vuelta a lugares que conoces acaban llevándote a nuevas zonas de la ciudad, te resulta imposible volver sobre tus pasos. Puede que los objetos aquí no existan en tres dimensiones como en la Tierra. Los mapas convencionales ni se aproximan a mostrar la complejidad del diseño de Carcosa. Exploras las calles minuciosamente, y comienzas a componer un impactante mapa de la ciudad…",
+        "name": "Dibujando las calles",
+        "text": "Realiza una prueba de [intellect] (3). Por cada punto que te falte para tener éxito, recibe un punto de horror. Inflige 1 punto de daño[per_investigator] a Hastur independientemente de que tengas éxito o fracases.\nDespués de que termine esta prueba, dale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03328c",
+        "flavor": "Las calles giran y se retuercen sin ningún atisbo de lógica o razón.",
+        "name": "Calles penumbrosas",
+        "text": "<b>Obligado</b> - Después de que descubras la última pista restante en las Calles penumbrosas: Pierde 1 acción.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03328d",
+        "flavor": "Al doblar una esquina, ves una gran calle muy ancha. Un magnífico desfile en honor al Rey está pasando por ella, y diversos estandartes de una andrajosa tela amarilla ondean al viento.\nEntonces recuerdas la situación de una escena de la obra. Te devanas los sesos tratando de recordar lo que se supone que pasará a continuación. El desfile se ve interrumpido y atacan al séquito…",
+        "name": "El desfile del Rey",
+        "text": "Realiza una prueba de [combat] (2). Si tienes éxito, agota a Hastur y haz que deje de estar enfrentado a todos los investigadores.\nRetira esta carta de la partida y sustitúyela por otra copia puesta aparte de las Calles penumbrosas (mueve todos los investigadores, Enemigos y cartas vinculadas de este Lugar a la nueva copia de las Calles penumbrosas). Añade pistas a esa copia de las Calles penumbrosas hasta que tenga una cantidad de pistas igual a su valor de pista."
+    },
+    {
+        "code": "03328e",
+        "flavor": "Las calles giran y se retuercen sin ningún atisbo de lógica o razón.",
+        "name": "Calles penumbrosas",
+        "text": "<b>Obligado</b> - Después de que descubras la última pista restante en las Calles penumbrosas: Pierde 1 acción.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03328f",
+        "flavor": "Pasas bajo una arcada de piedra del color del ébano que une a dos torres. La inscripción que presenta está escrita en un idioma que jamás habías visto, pero que puedes entender de algún modo. Al leer la inscripción en alto, el portal de piedra centellea, y atisbas una visión alternativa de la ciudad de Carcosa. Es vibrante y cautivadora como ningún lugar que hayas visto antes. La visión se disipa poco después, y te encuentras de vuelta en las calles en ruinas.",
+        "name": "La arcada",
+        "text": "Realiza una prueba de [willpower] (1). Por cada punto que tengas por encima del valor mínimo de éxito, cada investigador se cura 1 punto de horror.\nRetira esta carta de la partida y sustitúyela por otra copia puesta aparte de las Calles penumbrosas (mueve todos los investigadores, Enemigos y cartas vinculadas de este Lugar a la nueva copia de las Calles penumbrosas). Añade pistas a esa copia de las Calles penumbrosas hasta que tenga una cantidad de pistas igual a su valor de pista."
+    },
+    {
+        "code": "03329a",
+        "flavor": "No mires arriba.",
+        "name": "Profundidades de Demhe",
+        "text": "Mientras estés en las Profundidades de Demhe, no puedes jugar cartas Rápido.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03329b",
+        "flavor": "En este reino no hay nada que tenga sentido. Las escaleras que tienes delante ascienden y descienden a la vez. Las nubosas profundidades se hunden y ascienden y oscilan, pero a la vez están inmóviles. Estás flotando en un jirón de niebla bajo las olas hundidas. Las escaleras sólo son parte de tu imaginación. Decides saltar.",
+        "name": "La altura de las profundidades",
+        "text": "Cada investigador se cura 5 puntos de horror.\nRetira esta carta de la partida y sustitúyela por otra copia puesta aparte de las Profundidades de Demhe (mueve todos los investigadores, Enemigos y cartas vinculadas de este Lugar a la nueva copia de las Profundidades de Demhe). Añade pistas a esa copia de las Profundidades de Demhe hasta que tenga una cantidad de pistas igual a su valor de pista."
+    },
+    {
+        "code": "03329c",
+        "flavor": "No mires arriba.",
+        "name": "Profundidades de Demhe",
+        "text": "Mientras estés en las Profundidades de Demhe, no puedes jugar cartas Rápido.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03329d",
+        "flavor": "Llegas ante unos escalones que parecen similares a los de la gran escalinata de palacio de la cuarta escena del primer acto de <u>El Rey de Amarillo</u>; las mismas escaleras por las que está apunto de caerse Cassilda al desmayarse tras ver por primera al Extranjero. El sonido de un grito ahogado de mujer te saca de tu ensimismamiento, y al levantar la vista, ves a Cassilda en lo alto de los escalones, con una expresión de sobrecogimiento al ver tu rostro. Corres escaleras arriba para cogerla cuando cae, sujetando su cuerpo con tus brazos, pero se disuelve en la nebulosa niebla que te rodea.",
+        "name": "Escalones de palacio",
+        "text": "Inflige 1 punto de daño[per_investigator] a Hastur, agótalo y haz que deje de estar enfrentado a todos los investigadores.\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03330",
+        "flavor": "Cayó la noche y transcurrieron las horas, pero aún seguíamos hablando quedo del Rey y la Máscara Pálida, y la medianoche sonó en los capiteles brumosos de la ciudad hundida en la niebla.\n – Robert W. Chambers, \"El Signo Amarillo\", <u>El Rey de Amarillo</u>",
+        "name": "Torres oscuras",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03330b",
+        "flavor": "Hay una mujer en un alto balcón con un andrajoso y manchado vestido amarillo. La llamas, pero no responde a nada de lo que dices. Entonces, de pronto recuerdas una escena de <u>El Rey de Amarillo</u>, en la que una mujer se lanza a las calles desde lo alto.\n¿Estás viendo el pasado? ¿El futuro?",
+        "name": "La caída",
+        "text": "Debes decidir (elige una opción):\n - [[No eres capaz de hacer lo que debe hacerse]]. Vuelve a darle la vuelta a esta carta.\n - [[Consciente de lo que debes hacer, avanzas y la empujas]]. Recibe 2 puntos de horror e inflige 2 puntos de daño[per_investigator] a Hastur. Dale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03331",
+        "flavor": "Ruego a Dios que maldiga al escritor, como el escritor maldijo al mundo con esta su hermosa, estupenda creación, terrible en su simplicidad, irresistible en su verdad…\n – Robert W. Chambers, \"El reparador de reputaciones\", <u>El Rey de Amarillo</u>",
+        "name": "El palacio del Rey",
+        "text": "No se puede dar la vuelta a El palacio del Rey si Hastur no tiene al menos 5 puntos de daño[per_investigator].",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "03331b",
+        "flavor": "Están ante el palacio del Rey. Los incesantes susurros de Hastur te llenan la mente, y te resulta difícil evitar que sus ponzoñosas palabras entren en tus pensamientos. Al ver el palacio en toda su gloria y esplendor, los recuerdos vuelven en tropel.\nEl Extranjero. El Rey. El segundo acto.\nLas puertas de palacio se abren.",
+        "name": "El fin de Hastur",
+        "text": "Recuerda que \"los investigadores conocen el secreto\".\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "03332",
+        "name": "Hastur",
+        "subname": "El Rey de Amarillo",
+        "text": "No puede ser dañado excepto por efectos de cartas de Historia.\n<b>Obligado</b> - Al comienzo de la fase de Enemigos, si Hastur está preparado: Hastur ataca a cada investigador siguiendo el orden de juego [[(independientemente de su Lugar)]]. Si el ataque de Hastur te inflige una cantidad de horror que sobrepasa tu cordura, recibes también 1 punto de daño.\n[action]: Realiza una prueba de [willpower] (X), donde X es el valor de combate de Hastur. Si tienes éxito, agota a Hastur. Cualquier investigador puede activar esta acción.",
+        "traits": "Primigenio. Élite."
+    },
+    {
+        "code": "03333",
+        "name": "Hastur",
+        "subname": "Señor de Carcosa",
+        "text": "<b>Presa</b> - Mayor cordura restante.\nCazador. Descomunal.\nSi el ataque de Hastur te inflige una cantidad de horror que sobrepasa tu cordura, recibes también 1 punto de daño.\nMientras Hastur esté siendo atacado o evitado por un investigador al que no le quede cordura, considera todas las fichas [elder_sign], \"+1,\" \"0,\" o \"-1\" que revele ese investigador como fichas [auto_fail].",
+        "traits": "Primigenio. Élite."
+    },
+    {
+        "code": "03334",
+        "name": "Hastur",
+        "subname": "El Rey Andrajoso",
+        "text": "<b>Presa</b> - Mayor cordura restante.\nCazador.\nSi el ataque de Hastur te inflige una cantidad de horror que sobrepasa tu cordura, recibes también 1 punto de daño.\nMientras Hastur esté siendo atacado o evitado por un investigador al que no le quede cordura, considera todas las fichas [elder_sign], \"+1,\" \"0,\" o \"-1\" que revele ese investigador como fichas [auto_fail].",
+        "traits": "Primigenio. Élite."
+    },
+    {
+        "code": "03335",
+        "name": "Criatura salida de Demhe",
+        "text": "<b>Aparición</b> - Profundidades de Demhe.\nDescomunal.\n<b>Obligado</b> - Cuando se le dé la vuelta al Lugar de la Criatura salida de Demhe o a un Lugar conectados, si la Criatura salida de Demhe está preparada: Ataca a cada investigador que esté en ese Lugar.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "03336",
+        "name": "Ser alado",
+        "text": "<b>Aparición</b> - Llanuras inhóspitas.\nRepresalia.\n<b>Obligado</b> - Después de que se dé la vuelta a un Lugar, si el Ser alado está preparado y no está enfrentado: Muévelo una vez hacia ese Lugar.",
+        "traits": "Monstruo. Byakhee."
+    },
+    {
+        "code": "03337",
+        "name": "Maldición funesta",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si no te queda cordura, esta prueba recibe +2 a su dificultad. Si fracasas, recibe 2 puntos de daño, o bien 4 puntos de daño si tienes una cantidad de horror mayor que el doble de tu cordura.",
+        "traits": "Maldición. Terror."
+    },
+    {
+        "code": "03338",
+        "flavor": "Pero más extraña todavía es la Perdida Carcosa.",
+        "name": "Reino de la locura",
+        "text": "<b>Revelación</b> - Descarta cartas del juego y/o de tu mano que tengan un coste de recursos impreso total de al menos X, donde X es la cantidad de horror que tiene tu investigador. Si no se descartaron cartas por este efecto, recibe 2 puntos de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "03339",
+        "name": "El último acto",
+        "text": "Oleada.\n<b>Revelación</b> - Si no te queda cordura, coloca 2 fichas de Perdición sobre el plan en curso. Este efecto puede hacer que el plan en curso avance.",
+        "traits": "Terror."
+    },
+    {
+        "code": "03340",
+        "name": "Posesión",
+        "subname": "Traicionero",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade Posesión (traicionero) a tu mano en secreto.\nSi tienes una cantidad de horror mayor que el doble de su cordura, quedas eliminado inmediatamente y <b>mueres</b>.\nPuedes asignar esta carta a una prueba de habilidad en tu Lugar. Esa prueba fracasa automáticamente.",
+        "traits": "Maleficio. Terror."
+    },
+    {
+        "code": "03341",
+        "name": "Posesión",
+        "subname": "Tortuoso",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade Posesión (tortuoso) a tu mano en secreto.\nSi tienes una cantidad de horror mayor que el doble de su cordura, quedas eliminado inmediatamente y <b>mueres</b>.\n[action] Gasta 5 recursos: Descarta Posesión (tortuoso) de tu mano.",
+        "traits": "Maleficio. Terror."
+    },
+    {
+        "code": "03342",
+        "name": "Posesión",
+        "subname": "Homicida",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade Posesión (homicida) a tu mano en secreto.\nSi tienes una cantidad de horror mayor que el doble de su cordura, quedas eliminado inmediatamente y <b>mueres</b>.\n[action] Inflige 2 puntos de daño a un investigador que esté en tu Lugar recursos: Descarta Posesión (homicida) de tu mano.",
+        "traits": "Maleficio. Terror."
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "code": "90032",
+        "name": "Siguiendo el procedimiento",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la cantidad de Enemigos [[Sectario]] que hay en la zona de victoria, hasta un máximo de 5.\n[cultist]: -2. Si hay un Enemigo [[Sectario]] enfrentado a ti, revela una ficha de Caos adicional.\n[tablet]: -3. Prepara todos los Enemigos [[Sectario]] enfrentados a ti.\n[elder_thing]: -4. Si fracasas, Roland Banks recibe 1 punto de daño.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad de Enemigos [[Sectario]] que hay en la zona de victoria más 1.\n[cultist]: -3. Si hay un Enemigo [[Sectario]] enfrentado a ti, revela una ficha de Caos adicional.\n[tablet]: -4. Prepara todos los Enemigos [[Sectario]] enfrentados a ti.\n[elder_thing]: -5. Si fracasas, Roland Banks recibe 1 punto de daño."
+    },
+    {
+        "code": "90033a",
+        "name": "Una conspiración encubierta",
+        "text": "<b>Obligado</b> - Cuando un Enemigo [[Sectario]] que no sea Debilidad fuera a ser derrotado: En vez de eso, cura daño de ese Enemigo hasta que su salud restante sea 1.\n<b>Obligado</b> - Si Roland Banks es derrotado: Pasa a <b>(→R2)</b>\n[action]: <b>Desistir</b>. No quieres saltarte el plazo, así que cierras el caso.",
+        "flavor": "El Sr. Grey es un hombre poderoso con muchos amigos. Meterle entre rejas va a ser complicado."
+    },
+    {
+        "code": "90033b",
+        "name": "Sr. Grey",
+        "subname": "Político corrupto",
+        "text": "<b>Aparición</b> - Enfrentado a Roland Banks.\nCazador. El Sr. Grey recibe +2 de salud [per_investigator].\n<b>Obligado</b> - Después de que el Sr. Grey ataque a un investigador: Ese investigador roba la primera carta del mazo de Encuentros.",
+        "flavor": "\"Consuélate sabiendo que tu muerte sirve a un fin mayor.\"",
+        "traits": "Humanoide. Sectario. Élite."
+    },
+    {
+        "code": "90034",
+        "name": "Se acerca el plazo",
+        "text": "<b>Obligado</b> - Cuando un Enemigo [[Sectario]] que no sea Debilidad fuera a ser derrotado: En vez de eso, cura daño de ese Enemigo hasta que su salud restante sea 1.\n<b>Obligado</b> - Si Roland Banks es derrotado: Pasa a <b>(→R2)</b>\n[action]: <b>Desistir</b>. No quieres saltarte el plazo, así que cierras el caso.",
+        "flavor": "Tus superiores te están presionando para que dejes la investigación. Seguramente debido a la influencia del Sr. Grey. Entretanto, él y sus secuaces están haciendo todo lo que pueden para eliminarte sigilosamente de la ecuación de una vez por todas.",
+        "back_name": "Se ha terminado el tiempo",
+        "back_text": "Retira de la partida un Enemigo [[Sectario]] que esté en la zona de victoria (el Sr. Grey si es posible).\n<b>(→R1)</b>.",
+        "back_flavor": "-No es suficiente -te reprende tu superior-. Lo siento, pero es demasiado forzado y me cuesta creérmelo. Y si no me lo creo, el tribunal tampoco lo hará. A ver, seamos serios: ¿sectas? ¿sacrificios humanos?\nAprietas los dientes y das un manotazo sobre la multitud de documentos y pruebas que has recopilado. Insistes en que está todo ahí.\n -Han pasado semanas y sigues sin tener un caso de verdad. Sólo un embrollo puramente circunstancial -te responde, tratando de desviar la conversación-. Además, el Sr. Grey es un pilar de esta comunidad. Pretender denigrarlo con estas acusaciones…\nEl tono de burla que hay en su voz lo delata. ¿Está a sueldo de Grey? ¿O algo peor? En cualquier caso, está claro que no vas a llegar a ninguna parte discutiendo. Sabes que armar un alboroto no sería positivo. Si quieres marcar la diferencia en Arkham, tendrás que agachar la cabeza y hacer las cosas a tu manera."
+    },
+    {
+        "code": "90035",
+        "name": "Capturar a los conspiradores",
+        "text": "[fast] Gasta, como grupo, 1 pista [per_investigators]: Dale la vuelta a un conspirador que esté boca abajo en tu Lugar y ponlo en juego enfrentado a ti.\n[fast] Gasta 1 recurso: Agota a un Enemigo [[Sectario]] enfrentado a ti <i>(sigue enfrentado)</i>. Solo Roland Banks puede activar esta capacidad.\n<b>Objetivo</b> - Negocia con tantos conspiradores como puedas. Si hay 10 Enemigos [[Sectario]] en la zona de victoria, haz avanzar el acto.",
+        "flavor": "La única forma de acabar con los culpables de los sacrificios es mediante pruebas en un tribunal. Tendrás que actuar con todas las de la ley.",
+        "back_name": "Conspiración descubierta",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "El Sr. Grey va de un lado a otro de su celda, mirándote con odio desde detrás de los barrotes.\n-Va a lamentar esto, agente Banks -te gruñe-. Cuando todo esto acabe, me estará suplicando clemencia.\nRecuerdas educadamente al Sr. Grey que es delito amenazar a un agente de la ley.\n-Hay cosas peores de las que asustarte antes que de alguien como usted -contesta antes de sentarse abatido en un rincón de su celda.\n El verdadero culpable está entre rejas, pero sigues sin saber qué propósito real perseguía al ayudar a los conspiradores que tramaron los asesinatos. ¿Qué podría impeler a alguien a cobrarse tantas vidas? Aún no lo sabes, pero tienes intención de averiguarlo…"
+    },
+    {
+        "code": "90036",
+        "name": "Comisaría de Arkham",
+        "text": "La Comisaría de Arkham está conectada al Barrio fluvial, al Centro y al Barrio Este y viceversa.\n[fast]: Muévete a un Lugar conectado.\n[fast] Elige un Enemigo [[Sectario]] que no sea Debilidad y que esté en este Lugar y gasta una cantidad de pistas igual a la salud restante: <b>Negociar.</b> Añade ese Enemigo a la zona de victoria.",
+        "back_text": "La Comisaría de Arkham está conectada al Barrio fluvial, al Centro y al Barrio Este y viceversa.",
+        "back_flavor": "El sheriff Engle y los demás agentes no se toman en serio tus sospechas, así que emprendes la investigación de los asesinatos por tu cuenta.",
+        "traits": "Arkham."
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "code": "02274",
+        "name": "Verso un Destino Oscuro",
+        "text": "<b>Facile / Standard</b>\n[skull] -1 (-3 se invece ti trovi in un luogo [[Alterato]]).\n[cultist] Rivela 1 altro segnalino. Annulla gli effetti e le icone di ogni carta abilità investita in questa prova.\n[tablet] -2 (-4 se invece sei alla Trama 2).\n[elder_thing] -X. Scarta 2 carte dalla cima del tuo mazzo. X è il costo stampato totale di quelle carte.",
+        "back_text": "<b>Difficile / Esperto</b>\n[skull] -2 (-5 se invece ti trovi in un luogo [[Alterato]]).\n[cultist] Rivela 1 altro segnalino. Annulla gli effetti e le icone di ogni carta abilità investita in questa prova.\n[tablet] -3 (fallisci automaticamente se invece sei alla Trama 2).\n[elder_thing] -X. Scarta 3 carte dalla cima del tuo mazzo. X è il costo stampato totale di quelle carte."
+    },
+    {
+        "code": "02275",
+        "flavor": "Man mano che vi avvicinate al Colle Guardiano, sentite declamare un antico rito in latino nell'aria notturna. È giunto il momento di agire: se non riuscite a fermare gli stregoni a Dunwich, chi può dire quali terrori scateneranno nel resto del mondo?",
+        "name": "Il Richiamo dei Grandi Antichi",
+        "back_name": "Il Mondo è Alterato",
+        "back_flavor": "Man mano che esplorate i sentieri nei pressi del Colle Guardiano, il canto che proviene dalla sommità si fa più intenso e assume tonalità ultraterrene, riverberando tra gli alberi come se fosse trasportato da un flusso invisibile.\n\nIl mondo inizia a cambiare: l'erba e gli alberi si sciolgono come zucchero in una tazza di tè, un cielo vasto e sterminato compare nella realtà davanti a voi e, nonostante ne siate terrorizzati e intimiditi, vi sentite attratti da quella vista. Il potere arcano deforma la realtà e fluisce attorno a voi, generando strane alterazioni del territorio.",
+        "back_text": "Rimescolate la pila degli scarti degli incontri nel mazzo degli incontri."
+    },
+    {
+        "code": "02276",
+        "flavor": "I Grandi Antichi erano, i Grandi Antichi sono e i Grandi Antichi saranno. Non negli spazi che conosciamo, ma fra di essi camminano sereni e primigeni, senza dimensioni a noi visibili. Yog-Sothoth conosce la Porta. Yog-Sothoth è la Porta. Yog-Sothoth è la Chiave e il Guardiano della Porta. Passato, presente e futuro sono un unica cosa in Yog-Sothoth. Sa da dove i Grandi Antichi irrompono, e sa da dove essi torneranno a irrompere. Sa dove essi hanno calpestato i campi terrestri e dove torneranno a calpestarli, e sa perché nessuno può vederli mentre camminano.",
+        "name": "Canto di Potere",
+        "back_name": "The Reward for Servitude",
+        "back_flavor": "Il canto giunge al culmine e sulla sommità del Colle Guardiano si apre uno squarcio nel cielo notturno che taglia in due le nuvole e l'aria stessa.\n\nVedete un'entità indescrivibile fatta di sfere, occhi, fauci e melma emergere dal varco. Gli stregoni invocano il suo nome quando la sua forma si riversa nel cielo e sovrasta tutta la collina: \"Iä! Iä! Yog-Sothoth! lä! lä! Yog-Sothoth!\"\n\nPrima che il loro canto di giubilo possa continuare, gli stregoni vengono soffocati dalla massa crescente e le loro voci si spengono per sempre. Con orrore, notate che la massa continua a espandersi e non accenna a fermarsi.",
+        "back_text": "<b>(→R2)</b>"
+    },
+    {
+        "code": "02277",
+        "flavor": "Un alone di vibrante energia arcana aleggia nell'aria, diffondendo un'aura di gelo che penetra fino alle ossa. L'energia turbina lungo il sentiero di vegetazione schiacciata davanti a voi e si riversa su vari altri sentieri prima di scomparire.",
+        "name": "Verso la Collina",
+        "text": "<b>Obiettivo</b> - Quando avete accumulato il numero richiesto di indizi, dovete spenderli immediatamente e proseguire con i capitoli.",
+        "back_name": "Un Sacrificio Compiuto",
+        "back_flavor": "Nel corso delle vostre ricerche lungo i sentieri tra i boschi che circondano il Colle Guardiano vi imbattete in uno spettacolo sconcertante: un gregge di pecore è stato sterminato e giace a terra in una radura isolata, ma le carcasse insanguinate delle bestie sono state disposte secondo uno strano e preciso disegno. Tappandovi il naso per proteggervi dal fetore della morte, scavalcate i corpi martoriati degli ovini fino a giungere al centro dello strano schema.\n\nAl centro della radura giace il cadavere di un uomo, sulla cui fronte è stato impresso un gioiello trasparente che è penetrato nel suo cranio: i suoi occhi sono spalancati, il suo volto è distorto in una smorfia di paura e sembra quasi supplicare pietà. Anche se sapete che non servirà a nulla controllate le pulsazioni dell'uomo, ma quando toccate la sua pelle il gioiello che porta in fronte si sbriciola in polvere e i boschi attorno a voi sembrano farsi meno cupi.",
+        "back_text": "Rimuovete tutti gli indizi da ogni luogo in gioco. La presenza arcana che celava il sentiero che sale lungo la collina è scomparsa. Aprite il Sentiero in Salita."
+    },
+    {
+        "code": "02278",
+        "flavor": "Mentre salite verso la sommità della collina, l'ambiente attorno a voi si fa sempre più strano e innaturale: l'energia arcana sembra farsi più intensa, crepita nell'aria e vi fa accapponare la pelle.",
+        "name": "Fino alla Cima (Ⅰ)",
+        "text": "Non potete collocare indizi sui luoghi non [[Alterato]].\n<b>Obiettivo</b> - Quando un investigatore entra nella Cima della Collina, proseguite con i capitoli.",
+        "back_name": "Interferire nella Trama",
+        "back_flavor": "Giunti sulla sommità del Colle Guardiano, vi ritrovate di fronte a un gruppo di abitanti di Dunwich: l'uomo al centro del cerchio di persone intona un canto in latino mentre gli altri tengono il capo chino in segno di riverenza. “Seth Bishop?” chiedete, pur sapendo già la risposta. L'uomo alza lo sguardo, confermando i vostri sospetti; gli chiedete di porre fine a questa follia, ma non ottenete risposta. Estraete il pendente con la costellazione d'argento che avete trovato sul corpo di Silas e lo porgete a Seth: “Questo è tutto ciò che abbiamo trovato di tuo fratello” urlate per farvi sentire oltre il soffio del vento. “È questo il destino che vuoi anche per te? Per tutti noi?” Gettate il pendente a terra. Turbato dalla vista del monile, l'uomo barcolla all'indietro, spalanca gli occhi e cade a terra interrompendo la formula a metà; l'altare alle sue spalle si spacca e un flusso di energia si riversa fuori dalla pietra, formando un portale che risucchia l'uomo al suo interno. Riuscite a piantare i piedi a terra e ad aggrapparvi a una roccia nelle vicinanze appena in tempo per evitare di essere risucchiati nel portale a vostra volta.",
+        "back_text": "Rimuovete dal gioco Seth Bishop messo da parte."
+    },
+    {
+        "code": "02279",
+        "flavor": "Mentre salite verso la sommità della collina, l'ambiente attorno a voi si fa sempre più strano e innaturale: l'energia arcana sembra farsi più intensa, crepita nell'aria e vi fa accapponare la pelle.",
+        "name": "Fino alla Cima (Ⅱ)",
+        "text": "Non potete collocare indizi sui luoghi non [[Alterato]].\n<b>Obiettivo</b> - Quando un investigatore entra nella Cima della Collina, proseguite con i capitoli.",
+        "back_name": "Girare la Chiave",
+        "back_flavor": "Giunti sulla sommità del Colle Guardiano, vi ritrovate di fronte a un gruppo di abitanti di Dunwich. L'uomo al centro del cerchio di persone prorompe in una folle risata: dalla descrizione che vi hanno fatto gli abitanti in precedenza, capite che si tratta di Seth Bishop. Dietro di lui, alcuni uomini e donne tengono il capo chino in segno di riverenza e intonano un canto in “È fatta”, ridacchia Bishop, “siamo riusciti là dove il Vecchio Whateley e i suoi avevano fallito!” Notate con orrore che l'uomo inizia ad agitare freneticamente lo sguardo a destra e a sinistra, come se stesse leggendo qualcosa di invisibile: “Ora vedo… Finalmente, ora vedo!” Alza le mani verso il cielo e la lastra di pietra dell'altare alle sue spalle si spacca in due, facendo fuoriuscire un flusso di energia che va a formare un portale spalancato. Seth si aggrappa a una roccia davanti a lui per evitare di essere risucchiato nel portale ma alcuni degli altri abitanti, colti di sorpresa, scompaiono al suo interno. Riuscite a piantare i piedi a terra e ad aggrapparvi a una roccia nelle vicinanze appena in tempo per evitare di essere risucchiati nel portale a vostra volta. Seth si rialza in piedi, con un'espressione di trionfo dipinta sul volto.",
+        "back_text": "Mettete in gioco Seth Bishop messo da parte nella Cima della Collina."
+    },
+    {
+        "code": "02280",
+        "flavor": "Mentre salite verso la sommità della collina, l'ambiente attorno a voi si fa sempre più strano e innaturale: l'energia arcana sembra farsi più intensa, crepita nell'aria e vi fa accapponare la pelle.",
+        "name": "Fino alla Cima (Ⅲ)",
+        "text": "Non potete collocare indizi sui luoghi non [[Alterato]].\n<b>Obiettivo</b> - Quando un investigatore entra nella Cima della Collina, proseguite con i capitoli.",
+        "back_name": "Imporre il Cambiamento",
+        "back_flavor": "Giunti sulla sommità del Colle Guardiano, vi ritrovate di fronte a un gruppo di abitanti di Dunwich. L'uomo al centro del cerchio a di persone cerca disperatamente di completare una formula in latino. “Non funziona, Seth!” esclama uno degli altri. “Che cosa facciamo?” L'uomo interrompe la sua cantilena ed estrae un coltello da calzolaio: “Il padre esige un sacrificio di sangue” dichiara, con una smorfia di follia che deforma il suo volto. Prima che possiate reagire, si taglia il polso sinistro con il coltello e cade in ginocchio, in preda all'agonia: la lastra di pietra dell'altare alle sue spalle si spacca in due, facendo fuoriuscire un flusso di energia che va a formare un portale spalancato. Seth si aggrappa a una roccia davanti a lui per evitare di essere risucchiato nel portale ma alcuni degli altri abitanti, colti di sorpresa, scompaiono al suo interno.\nRiuscite a piantare i piedi a terra e ad aggrapparvi a una roccia evitare di essere risucchiati nelle vicinanze appena in tempo per evitare di nel portale a vostra volta. Seth si rialza in piedi, ferito ma ancora in vita, con un'espressione di trionfo dipinta sul volto.",
+        "back_text": "Mettete in gioco Seth Bishop messo da parte nella Cima della Collina e collocate 1[per_investigator] danni su di esso."
+    },
+    {
+        "code": "02281",
+        "flavor": "Dalla lastra di pietra dell'altare in rovina sulla cima della collina è comparso un portale di energia arcana turbinante, che genera un flusso di energia simile a un uragano in grado di piegare gli alberi e risucchiare pietre e detriti al suo interno. L'ululato della tempesta sovrasta ogni altro suono. Anche se non sapete come, dovete trovare un modo per chiudere il portale.",
+        "name": "L'Apertura del Portale",
+        "text": "<b>Obiettivo</b> - Quando gli investigatori nella Cima della Collina spendono il totale richiesto di indizi, proseguite con i capitoli.",
+        "back_name": "Uno Sguardo sull'Abisso",
+        "back_flavor": "Non sapete come chiudere il portale turbinante che si erge davanti a voi e a ogni istante che passa il suo flusso di energia si fa più intenso: temete che l'entità evocata dagli stregoni, di qualunque cosa si tratti, stia per emergere da oltre il portale. Non avendo altro tempo da perdere, vi gettate sul tomo lasciato aperto sopra l'altare, alla disperata ricerca di una risposta.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "02282",
+        "name": "Pendici della Collina",
+        "text": "Le Pendici della Collina sono collegate a ogni Diramazione del Sentiero.\n[action]: <b>Indaga.</b> Se hai successo, invece di scoprire indizi, metti in gioco 1 Diramazione del Sentiero messa da parte casuale. (Limite di una volta per round.)\n[action]: <b>Abbandona.</b> “Questo è ben più di quanto mi fossi impegnato a fare!”",
+        "traits": "Dunwich. Colle Guardiano.",
+        "back_flavor": "Il lungo pendio del Colle Guardiano si erge davanti a voi, salendo fino alle aspre sommità della sua cima."
+    },
+    {
+        "code": "02283",
+        "name": "Sentiero in Salita",
+        "text": "Il Sentiero in Salita è collegato a ogni Sentiero Alterato.\n[action]: <b>Indaga.</b> Se hai successo, invece di scoprire indizi, metti in gioco 1 Sentiero Alterato messo da parte casuale. (Limite di una volta per round.)",
+        "traits": "Dunwich. Colle Guardiano.",
+        "back_flavor": "Quando cerchi di seguire il sentiero che sale sul fianco del Colle Guardiano, finisci in qualche modo per percorrere un circolo vizioso. Ogni volta che ti fermi per ritrovare l'orientamento, ti ritrovi di nuovo ai piedi della collina.",
+        "back_text": "Il sentiero che sale lungo il fianco della collina è occultato. Non puoi muoverti fino al Sentiero in Salita."
+    },
+    {
+        "code": "02284",
+        "flavor": "Era li che i Whateley erano soliti allestire i loro fuochi infernali e celebrare i loro rituali demoniaci…\n<cite>H.P. Lovecraft, “L'Orrore di Dunwich”</cite>",
+        "name": "Cima della Collina",
+        "text": "<b>Obbligo</b> - Quando peschi 1 carta [[Sortilegio]] in questo luogo: Subisci 1 danno.",
+        "traits": "Dunwich. Colle Guardiano.",
+        "back_flavor": "Una barriera arcana blocca il sentiero che sale fino alla sommità della collina, verso il picco.",
+        "back_text": "Come costo aggiuntivo per consentire a un investigatore di muoversi fino alla Cima della Collina, gli investigatori devono spendere un totale di 2[per_investigator] indizi (indipendentemente dal luogo in cui si trovano)."
+    },
+    {
+        "code": "02285",
+        "name": "Bosco del Massacro",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto il Bosco del Massacro, se non ti rimane alcuna azione: Subisci 2 orrori.",
+        "traits": "Dunwich. Bosco.",
+        "back_name": "Diramazione del Sentiero",
+        "back_flavor": "Un sentiero si stacca dalla pista principale e si inoltra nel fitto dei boschi che circondano il Colle Guardiano."
+    },
+    {
+        "code": "02286",
+        "flavor": "Qui non c'è nessun suono. Nessuno stormire di foglie, nessun cinguettio degli uccelli e nemmeno il soffio del vento: non si sente niente.",
+        "name": "Radura Inquietante",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto la Radura Inquietante: Per ogni azione che ti rimane, scarta 2 carte dalla cima del tuo mazzo.",
+        "traits": "Dunwich. Bosco.",
+        "back_name": "Diramazione del Sentiero",
+        "back_flavor": "Un sentiero si stacca dalla pista principale e si inoltra nel fitto dei boschi che circondano il Colle Guardiano."
+    },
+    {
+        "code": "02287",
+        "name": "Sentiero Distrutto",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto il Sentiero Distrutto: Colloca 1[per_investigator] destini su di esso.\n[action]: <b>Indaga.</b> Se hai successo, invece di scoprire indizi, rimuovi 1 destino dal Sentiero Distrutto.",
+        "traits": "Dunwich. Bosco.",
+        "back_name": "Diramazione del Sentiero",
+        "back_flavor": "Un sentiero si stacca dalla pista principale e si inoltra nel fitto dei boschi che circondano il Colle Guardiano."
+    },
+    {
+        "code": "02288",
+        "flavor": "Nonostante la temperatura dell'aria, questa sorgente è completamente ghiacciata.",
+        "name": "Sorgente Ghiacciata",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto la Sorgente Ghiacciata: Perdi le tue azioni rimanenti e termina immediatamente il tuo turno.",
+        "traits": "Dunwich. Bosco.",
+        "back_name": "Diramazione del Sentiero",
+        "back_flavor": "Un sentiero si stacca dalla pista principale e si inoltra nel fitto dei boschi che circondano il Colle Guardiano."
+    },
+    {
+        "code": "02289",
+        "name": "Varco Dimensionale",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto il Varco Dimensionale: Scarta carte dalla cima del mazzo degli incontri finché non scarti un nemico. Invece che nel suo luogo di generazione, genera quel nemico qui.",
+        "traits": "Dunwich. Bosco. Alterato.",
+        "back_name": "Sentiero Alterato",
+        "back_flavor": "Un brivido ti scende giù per la schiena quando appare evidente che il percorso sia stato alterato da uno strano potere arcano."
+    },
+    {
+        "code": "02290",
+        "name": "Squarcio sul Sentiero",
+        "text": "Obbligo - Dopo che hai aperto lo Squarcio sul Sentiero, se non ti rimane alcuna azione: Subisci 2 danni.",
+        "traits": "Dunwich. Bosco. Alterato.",
+        "back_name": "Altered Path",
+        "back_flavor": "Un brivido ti scende giù per la schiena quando appare evidente che il percorso sia stato alterato da uno strano potere arcano."
+    },
+    {
+        "code": "02291",
+        "name": "Alberi Sradicati",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto gli Alberi Sradicati, se non ti rimane alcuna azione: Scarta 5 carte dalla cima del tuo mazzo.",
+        "traits": "Dunwich. Bosco. Alterato.",
+        "back_name": "Sentiero Alterato",
+        "back_flavor": "Un brivido ti scende giù per la schiena quando appare evidente che il percorso sia stato alterato da uno strano potere arcano."
+    },
+    {
+        "code": "02292",
+        "flavor": "No… No, questo non dovrebbe essere qui! Non può essere qui!",
+        "name": "Ricordi Perduti",
+        "text": "<b>Obbligo</b> - Dopo che hai aperto i Ricordi Perduti: Per ogni azione che ti rimane, subisci 1 orrore.",
+        "traits": "Dunwich. Bosco. Alterato.",
+        "back_name": "Sentiero Alterato",
+        "back_flavor": "Un brivido ti scende giù per la schiena quando appare evidente che il percorso sia stato alterato da uno strano potere arcano."
+    },
+    {
+        "code": "02293",
+        "flavor": "“E lui dice, signorina Corey, che, mentre cercava le vacche di Seth, terrorizzato com'era, le ha trovate nel pascolo alto, vicino al Cortile delle Danze del Diavolo, in uno stato orribile. Per metà non esistevano più, e l'altra metà era quasi completamente dissanguata: sopra poi avevano dei tagli…”\n<cite>H.P. Lovecraft, “L'Orrore di Dunwich”</cite>",
+        "name": "Seth Bishop",
+        "subname": "Stregone di Dunwich",
+        "text": "Ritorsione.",
+        "traits": "Umanoide. Stregone. Elite."
+    },
+    {
+        "code": "02294",
+        "name": "Adepto della Chiave",
+        "text": "<b>Generazione</b> - Le Pendici della Collina.\n<b>Obbligo</b> - Alla fine della Fase dei Nemici, l'Adepto della Chiave si muove di 1 luogo verso la Cima della Collina. Se l'Adepto della Chiave si trova già nella Cima della Collina, scartalo e colloca invece 2 destini sulla trama attuale.",
+        "traits": "Umanoide. Stregone."
+    },
+    {
+        "code": "02295",
+        "name": "Shoggoth Impazzito",
+        "text": "<b>Generazione</b> - Il luogo [[Alterato]] più vicino.\nObbligo - Quando lo Shoggoth Impazzito attacca: Se questo attacco sta per sconfiggere un investigatore, quell'investigatore è invece ucciso.",
+        "traits": "Mostro. Shoggoth."
+    },
+    {
+        "code": "02296",
+        "name": "Riti Ululanti",
+        "text": "<b>Rivelazione</b> - Scarta 3 carte dalla cima del mazzo di ogni investigatore. Ogni investigatore in un luogo [[Alterato]] rimescola ogni debolezza nella propria pila degli scarti nel proprio mazzo.",
+        "traits": "Sortilegio."
+    },
+    {
+        "code": "02297",
+        "name": "Spazi Intermedi",
+        "text": "<b>Rivelazione</b> - Gira ogni luogo non [[Colle Guardiano]] sul suo lato chiuso e rimuovi tutti gli indizi su di esso. Ogni investigatore e ogni nemico in un luogo girato in questo modo si muove immediatamente fino al luogo [[Colle Guardiano]] più vicino. Mescola ogni luogo non [[Colle Guardiano]].",
+        "traits": "Sortilegio. Pericolo."
+    },
+    {
+        "code": "02298",
+        "name": "Vortice del Tempo",
+        "text": "<b>Rivelazione</b> - Ogni investigatore in un luogo [[Colle Guardiano]] effettua una prova di [willpower](4). Se fallisce, subisce 2 danni.",
+        "traits": "Sortilegio. Pericolo."
+    }
+]

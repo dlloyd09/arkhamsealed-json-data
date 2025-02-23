@@ -1,0 +1,374 @@
+[
+    {
+        "code": "aof",
+        "name": "Aura of Faith"
+    },
+    {
+        "code": "aon",
+        "name": "Alles oder nichts"
+    },
+    {
+        "code": "apot",
+        "name": "Ein Phantom der Wahrheit"
+    },
+    {
+        "code": "bad",
+        "name": "Böses Blut"
+    },
+    {
+        "code": "bbt",
+        "name": "Vor dem schwarzen Thron"
+    },
+    {
+        "code": "blbe",
+        "name": "Der Blob, der alles ANDERE fraß"
+    },
+    {
+        "code": "blob",
+        "name": "Der Blob, der alles fraß"
+    },
+    {
+        "code": "bob",
+        "name": "Blood of Baalshandor"
+    },
+    {
+        "code": "bota",
+        "name": "Blut auf dem Altar"
+    },
+    {
+        "code": "bsr",
+        "name": "Die schwarzen Sterne gehen auf"
+    },
+    {
+        "code": "btb",
+        "name": "Streng nach Vorschrift"
+    },
+    {
+        "code": "coh",
+        "name": "Karneval des Schreckens"
+    },
+    {
+        "code": "core",
+        "name": "Grundspiel"
+    },
+    {
+        "code": "cotr",
+        "name": "Der Fluch des Rougarou"
+    },
+    {
+        "code": "dca",
+        "name": "Finsteres Carcosa"
+    },
+    {
+        "code": "def",
+        "name": "Das Teufelsriff"
+    },
+    {
+        "code": "dre",
+        "name": "Dark Revelations"
+    },
+    {
+        "code": "dsm",
+        "name": "Die dunkle Seite des Mondes"
+    },
+    {
+        "code": "dwl",
+        "name": "Das Vermächtnis von Dunwich"
+    },
+    {
+        "code": "eoec",
+        "name": "Am Rande der Welt (Kampagnen-Erweiterung)"
+    },
+    {
+        "code": "eoep",
+        "name": "Am Rande der Welt (Ermittler-Erweiterung)"
+    },
+    {
+        "code": "eotp",
+        "name": "Widerhall aus der Vergangenheit"
+    },
+    {
+        "code": "fgg",
+        "name": "Für das große Ganze"
+    },
+    {
+        "code": "fhvc",
+        "name": "Das Fest von Hemlock Vale (Kampagnen-Erweiterung)"
+    },
+    {
+        "code": "fhvp",
+        "name": "Das Fest von Hemlock Vale (Ermittler-Erweiterung)"
+    },
+    {
+        "code": "fof",
+        "name": "Glück und Torheit"
+    },
+    {
+        "code": "guardians",
+        "name": "Wächter des Abgrunds"
+    },
+    {
+        "code": "har",
+        "name": "Harvey Walters"
+    },
+    {
+        "code": "hfa",
+        "name": "Hunting for Answers"
+    },
+    {
+        "code": "hhg",
+        "name": "Der reinste Schrecken"
+    },
+    {
+        "code": "hote",
+        "name": "Das Herz der Älteren"
+    },
+    {
+        "code": "hotel",
+        "name": "Mord im Excelsior-Hotel"
+    },
+    {
+        "code": "hoth",
+        "name": "Die Stunde der Jägerin"
+    },
+    {
+        "code": "icc",
+        "name": "In den Fängen des Chaos"
+    },
+    {
+        "code": "iotv",
+        "name": "Der Zorn der Leere"
+    },
+    {
+        "code": "itd",
+        "name": "Zu tief drin"
+    },
+    {
+        "code": "itm",
+        "name": "In den Mahlstrom hinein"
+    },
+    {
+        "code": "jac",
+        "name": "Jacqueline Fine"
+    },
+    {
+        "code": "lif",
+        "name": "Ein Licht im Nebel"
+    },
+    {
+        "code": "litas",
+        "name": "Verloren in Zeit und Raum"
+    },
+    {
+        "code": "lod",
+        "name": "In Dagons Reich"
+    },
+    {
+        "code": "lol",
+        "name": "Die Labyrinthe des Irrsinns"
+    },
+    {
+        "code": "ltr",
+        "name": "Laid to Rest"
+    },
+    {
+        "code": "mtt",
+        "name": "Machenschaften in der Zeit"
+    },
+    {
+        "code": "nat",
+        "name": "Nathaniel Cho"
+    },
+    {
+        "code": "otr",
+        "name": "Wieder auf Achse"
+    },
+    {
+        "code": "pap",
+        "name": "Pistols and Pearls"
+    },
+    {
+        "code": "pnr",
+        "name": "Kein Zurück mehr"
+    },
+    {
+        "code": "promo",
+        "name": "Promo"
+    },
+    {
+        "code": "ptc",
+        "name": "Der Pfad nach Carcosa"
+    },
+    {
+        "code": "ptr",
+        "name": "Path of the Righteous"
+    },
+    {
+        "code": "rcore",
+        "name": "Grundspiel (Neuauflage)"
+    },
+    {
+        "code": "rod",
+        "name": "Lies oder Stirb"
+    },
+    {
+        "code": "rop",
+        "name": "Relics of the Past"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Rückkehr zu: Das Vermächtnis von Dunwich"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Rückkehr zu: Die Nacht des Zeloten"
+    },
+    {
+        "code": "rtptc",
+        "name": "Rückkehr zu: Der Pfad nach Carcosa"
+    },
+    {
+        "code": "rtr",
+        "name": "Die Rote Flut"
+    },
+    {
+        "code": "rttcu",
+        "name": "Rückkehr zu: Der gebrochene Kreis"
+    },
+    {
+        "code": "rttfa",
+        "name": "Rückkehr zu: Das vergessene Zeitalter"
+    },
+    {
+        "code": "sfk",
+        "name": "Die Suche nach Kadath"
+    },
+    {
+        "code": "sha",
+        "name": "Zerstörte Zeitalter"
+    },
+    {
+        "code": "ste",
+        "name": "Stella Clark"
+    },
+    {
+        "code": "tbb",
+        "name": "Die jenseitige Grenze"
+    },
+    {
+        "code": "tcoa",
+        "name": "Die Archivstadt"
+    },
+    {
+        "code": "tcu",
+        "name": "Der gebrochene Kreis"
+    },
+    {
+        "code": "tdcc",
+        "name": "The Drowned City Campaign Expansion"
+    },
+    {
+        "code": "tdcp",
+        "name": "The Drowned City Investigator Expansion"
+    },
+    {
+        "code": "tde",
+        "name": "Die Traumfresser"
+    },
+    {
+        "code": "tdg",
+        "name": "Das Tor in der Tiefe"
+    },
+    {
+        "code": "tdor",
+        "name": "Das Klagelied der Vernunft"
+    },
+    {
+        "code": "tdoy",
+        "name": "Die Tiefen von Yoth"
+    },
+    {
+        "code": "tece",
+        "name": "Der Essex-County-Express"
+    },
+    {
+        "code": "tfa",
+        "name": "Das Vergessene Zeitalter"
+    },
+    {
+        "code": "tftbw",
+        "name": "To Fight the Black Wind"
+    },
+    {
+        "code": "tic",
+        "name": "Die Innsmouth-Verschwörung"
+    },
+    {
+        "code": "tmg",
+        "name": "The Midwinter Gala"
+    },
+    {
+        "code": "tmm",
+        "name": "Das Miskatonic-Museum"
+    },
+    {
+        "code": "tof",
+        "name": "Fäden des Schicksals"
+    },
+    {
+        "code": "tpm",
+        "name": "Die Bleiche Maske"
+    },
+    {
+        "code": "tsh",
+        "name": "Tausend Formen des Schreckens"
+    },
+    {
+        "code": "tskc",
+        "name": "Die scharlachroten Schlüssel (Kampagnen-Erweiterung)"
+    },
+    {
+        "code": "tskp",
+        "name": "Die scharlachroten Schlüssel (Ermittler-Erweiterung)"
+    },
+    {
+        "code": "tsn",
+        "name": "Der geheime Name"
+    },
+    {
+        "code": "tuo",
+        "name": "Der unaussprechliche Eid"
+    },
+    {
+        "code": "uad",
+        "name": "Einheit und Ernüchterung"
+    },
+    {
+        "code": "uau",
+        "name": "Gestaltlos und unsichtbar"
+    },
+    {
+        "code": "wda",
+        "name": "Wo das Verderben wartet"
+    },
+    {
+        "code": "wgd",
+        "name": "Wo Götter wohnen"
+    },
+    {
+        "code": "win",
+        "name": "Winifred Habbamock"
+    },
+    {
+        "code": "woc",
+        "name": "Weber des Kosmos"
+    },
+    {
+        "code": "wog",
+        "name": "Krieg der Äußeren Götter"
+    },
+    {
+        "code": "wos",
+        "name": "Der Sünde Lohn"
+    }
+]

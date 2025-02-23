@@ -1,0 +1,483 @@
+[
+    {
+        "code": "02040",
+        "flavor": "Armitage sapeva che avrebbe avuto a che fare con forze tremende ma si rendeva conto che non c'era altro modo di cancellare il caos profondo e maligno che altri avevano provocato prima di lui.\n<cite>H. P Lovecraft, “L'Orrore di Dunwich”</cite>",
+        "name": "Dott. Henry Armitage",
+        "subname": "Capo Bibliotecario",
+        "text": "[reaction] Dopo che hai pescato una carta non debolezza, scarta quella carta ed esaurisci il Dott. Henry Armitage: Ottieni 3 risorse.",
+        "traits": "Alleato. Miskatonic.",
+        "slot": "Alleato"
+    },
+    {
+        "code": "02041",
+        "name": "Attività Extracurriculare",
+        "text": "<b>Facile / Standard</b>\n[skull] -1. Se fallisci, scarta 3 carte dalla\n cima del tuo mazzo.\n[cultist] -1 (-3 se invece ci sono 10 o più carte nella tua pila degli scarti).\n[elder_thing] -X. Scarta 2 carte dalla cima del tuo mazzo. X è il costo stampato totale di quelle carte.",
+        "back_text": "<b>Difficile / Esperto</b>\n[skull] -2. Se fallisci, scarta 5 carte dalla cima del tuo mazzo.\n[cultist] -1 (-5 se invece ci sono 10 o più carte nella tua pila degli scarti).\n[elder_thing] -X. Scarta 3 carte dalla cima del tuo mazzo. X è il costo stampato totale di quelle carte."
+    },
+    {
+        "code": "02042",
+        "flavor": "Siete arrivati al campus della Miskatonic University in cerca del professor Warren Rice. Le lezioni sono finite e un misterioso silenzio aleggia nell'aria del cortile.",
+        "name": "Aule Silenziose",
+        "back_name": "Qualcosa si Muove",
+        "back_flavor": "L'università è silenziosa come una tomba. Le ombre si addensano attorno a voi mentre vi aggirate per la zona e giurereste che c'è qualcosa che vi segue a ogni passo: è solo la vostra immaginazione? O c'è veramente qualcuno (o qualcosa) che vi dà la caccia?",
+        "back_text": "Ogni investigatore con 5 o più carte nella sua pila degli scarti subisce 1 orrore (2 orrori se invece ci sono 10 o più carte nella sua pila degli scarti).\nSe avete completato Il Banco Vince Sempre, proseguite direttamente con la Trama 2b. Se Attività Extracurricolare è il primo scenario della campagna, proseguite con la Trama 2a."
+    },
+    {
+        "code": "02043",
+        "flavor": "La scomparsa del professor Rice non è l'unica cosa che non va qui all'università. Non sapete dire con certezza cosa stia accadendo, ma iniziate a pensare che Armitage avesse ragione a chiedere il vostro aiuto.",
+        "name": "Nel Cuore della Notte",
+        "text": "Mentre controllate la vostra mano durante la Fase di Gestione, il vostro limite di mano diminuisce di 3.",
+        "back_name": "Un Esperimento Andato Storto",
+        "back_flavor": "Un grido di paura echeggia nel campus e un gruppo di studenti si allontana di corsa dal lato est dell'università, dove si trova il dipartimento di Scienze. Forse questo tumulto è collegato alla scomparsa del professor Rice?",
+        "back_text": "Se il Dormitorio non è in gioco, mettetelo in gioco.\nSe l'Esperimento è in gioco, muovetelo di 1 luogo verso il Dormitorio.\nSe l'Esperimento non è in gioco, generatelo nella Facoltà di Scienze."
+    },
+    {
+        "code": "02044",
+        "flavor": "Una creatura feroce di qualche tipo è in circolazione a piede libero. Di qualunque cosa si tratti, sembra diretta verso i dormitori dell'università.",
+        "name": "La Bestia Scatenata",
+        "text": "<b>Obbligo</b> - Quando questa trama ha raggiunto la sua soglia di destino e state per proseguire con la trama: Rimuovete invece tutti i destini in gioco e muovete l'Esperimento di 1 luogo verso i Dormitori.\n<b>Obiettivo</b> - Se l'Esperimento entra nei Dormitori, proseguite con la trama.",
+        "back_name": "Troppo Tardi",
+        "back_flavor": "Prima che riusciate ad agire, sentite gridare dal lato nord del campus. Cercate di farvi strada fino alla fonte delle grida, ma la vostra vista si oscura a ogni passo. Non appena la creatura giunge davanti a voi, siete sopraffatti dall'oscurità e una forza misteriosa vi fa perdere i sensi. Tutto si fa nero mentre cadete a terra svenuti.",
+        "back_text": "Ogni investigatore subisce 3 orrori, poi <b>(→R4)</b>."
+    },
+    {
+        "code": "02045",
+        "flavor": "Il professor Rice è stato visto per l'ultima volta alcune ore fa da uno degli studenti di Armitage, nella facoltà di Studi Umanistici.",
+        "name": "Ore Piccole",
+        "back_name": "Il Capo degli Inservienti",
+        "back_flavor": "Non siete riusciti a trovare il professor Rice, ma uno degli studenti con cui avete parlato ha fatto parola di uno strano uomo che era entrato nell'ufficio di Rice. Purtroppo, la porta che conduce agli uffici della facoltà è chiusa a chiave a quest'ora di notte. Lo studente dice che il capo dei bidelli, “Jazz”, può farvi entrare, se riuscite a trovarlo.",
+        "back_text": "Rimescolate la pila degli scarti degli incontri e “Jazz” Mulligan messo da parte nel mazzo degli incontri."
+    },
+    {
+        "code": "02046",
+        "flavor": "Preoccupati per la sicurezza di Rice, vi mettete in cerca del capo degli inservienti, che può farvi entrare nelle sezioni chiuse a chiave del campus.",
+        "name": "L'Ubicazione di Rice",
+        "text": "[action] Spendi 1 indizio: Scarta 5 carte dalla cima del mazzo degli incontri (scarta invece 10 carte se c'è 1 investigatore in gioco).\n<b>Obbligo</b> - Se scartate “Jazz” Mulligan con qualsiasi effetto, risolvete la sua capacità Rivelazione.\n<b>Obiettivo</b> - Quando prendete il controllo di “Jazz” Mulligan, proseguite con i capitoli.",
+        "back_name": "L'Esperimento è Impazzito!",
+        "back_flavor": "Convincete “Jazz” che sta accadendo qualcosa di strano e che il professor Rice potrebbe essere in pericolo: l'uomo non si fida abbastanza di voi da cedervi le chiavi, ma accetta di accompagnarvi.\nImprovvisamente, sentite del trambusto provenire dalla facoltà di Scienze e uno studente che si dirige di corsa verso di voi.\n“Aiuto!” grida rabbrividendo. “C'è una specie di animale in circolazione nel laboratorio di chimica! L'ho intravisto solo per un istante, ma penso che sia diretto ai dormitori! Dovete fare qualcosa!”",
+        "back_text": "Se il Laboratorio di Chimica non è in gioco, mettetelo in gioco. Se siete alla Trama 1 o 2, generate l'Esperimento messo da parte nel Laboratorio di Chimica.\nSe avete completato II Banco Vince Sempre, mettete in gioco sotto il Laboratorio di Chimica la Mistura Alchemica messa da parte. Se Attività Extracurricolare è il primo scenario della campagna, rimuovete invece dal gioco la Mistura Alchemica messa da parte."
+    },
+    {
+        "code": "02047",
+        "flavor": "Avete solo pochi momenti per reagire. Potete avvertire gli studenti nei dormitori e scortarli in un luogo sicuro, o continuare a setacciare gli uffici della facoltà alla ricerca del professor Rice. Magari potete cercare di uccidere la bestia che minaccia il campus.",
+        "name": "La Sicurezza del Campus",
+        "text": "<b>Obiettivo</b> - Trovate e completate un obiettivo di un'altra carta incontro.",
+        "back_name": "La Morte della Bestia",
+        "back_flavor": "La creatura mostruosa lancia un terribile gemito quando soccombe alle ferite riportate e crolla a terra. Un orrendo fetore si diffonde dal suo cadavere e la sua carne inizia a ribollire e a tremolare. Il vostro sollievo si trasforma in disgusto quando il corpo della creatura inizia a rimpicciolirsi e a disgregarsi.\nPochi minuti dopo, il corpo è evaporato quasi interamente: ora resta solo una massa viscosa e il fetore è svanito. Tra i resti del corpo della creatura trovate soltanto alcune ossa: la struttura scheletrica di un canide.",
+        "back_text": "<b>(→R3).</b>"
+    },
+    {
+        "code": "02048",
+        "flavor": "Circondato da recinzioni e sbarre in ferro battuto, non puoi fare a meno di considerarti un prigioniero più che un ospite.",
+        "name": "Cortile della Miskatonic",
+        "text": "[action]: <b>Abbandona.</b> “Rice non si trova da nessuna parte…” Lasci il campus, nella speranza che Armitage ti perdoni.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Un inverno precoce ha spogliato gli alberi di tutte le foglie: i loro rami brulli si agitano quando un vento gelido soffia sul cortile deserto."
+    },
+    {
+        "code": "02049",
+        "flavor": "Senza energia, le aule dell'edificio sono immerse in una fitta oscurità. Non c'è traccia del professor Rice.",
+        "name": "Facoltà di Studi Umanistici",
+        "text": "<b>Obbligo</b> - Alla fine del tuo turno, se sei nella Facoltà di Studi Umanistici, scarta X carte dalla cima del tuo mazzo, dove X è l'ammontare di orrori che possiedi.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Il professor Rice è stato visto per l'ultima volta nella facoltà di Studi Umanistici, dove ha tenuto una lezione di latino. Dalle finestre opache della struttura consumata dalle intemperie non trapela nessuna luce e intorno a voi regnano la notte e il silenzio."
+    },
+    {
+        "code": "02050",
+        "flavor": "La Biblioteca Orne è un labirinto di scaffali polverosi e di sale fiocamente illuminate.",
+        "name": "Biblioteca Orne",
+        "text": "Devi spendere 1 azione aggiuntiva per indagare nella Biblioteca Orne.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Tre piani di sale in consunto granito grigiastro: la biblioteca assomiglia più a un reliquiario che a un luogo di studio. Alcuni gargoyle di pietra incombono in cima alle finestre ad arco e una serie di scritte in latino campeggia sopra la doppia porta di una vasta scalinata in pietra."
+    },
+    {
+        "code": "02051",
+        "name": "Comitato Studentesco",
+        "text": "<b>Obbligo</b> - Dopo che il Comitato Studentesco è stato aperto: Mettete in gioco il Dormitorio messo\n da parte.\n[action] [action]: Curati 1 danno e 1 orrore.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Anche a questa tarda ora si sente chiacchierare all'interno della sede del comitato studentesco. Forse uno degli studenti sa dove si trova il professor Rice."
+    },
+    {
+        "code": "02052",
+        "flavor": "Mentre esplorate questi vecchi edifici ben tenuti, vi chiedete se i letti siano comodi…",
+        "name": "Dormitorio",
+        "text": "<b>Obiettivo</b> - Se gli investigatori nel Dormitorio spendono un totale di 3[per_investigator] indizi, <b>(→R2)</b>.",
+        "traits": "Miskatonic.",
+        "back_flavor": "L'edificio di mattoni rossi del dormitorio ovest si intravedeva tra gli alberi…\n<cite>Graham McNeill, “I Ghoul della Miskatonic”</cite>",
+        "back_text": "La porta che conduce al Dormitorio è chiusa a chiave. Non puoi muoverti fino al Dormitorio."
+    },
+    {
+        "code": "02053",
+        "name": "Economato",
+        "text": "<b>Obbligo</b> - Dopo che l'Economato è stato aperto: Mettete in gioco gli Uffici della Facoltà messi da parte.\n<b>Obbligo</b> - Alla fine del tuo turno, se sei nell'Economato: Scarta 1 carta dalla cima del tuo mazzo.",
+        "traits": "Miskatonic.",
+        "back_flavor": "La sede dell'amministrazione è quasi del tutto ricoperta da rampicanti di edera che sembrano volerla reclamare. Il vecchio edificio si erge in una sezione isolata del campus, separato dalle frenetiche attività giornaliere degli studenti."
+    },
+    {
+        "code": "02054",
+        "name": "Uffici della Facoltà",
+        "subname": "La Notte è Ancora Giovane",
+        "text": "<b>Obbligo</b> - Dopo che gli Uffici della Facoltà sono stati aperti: Cercate nel mazzo degli incontri e nella pila degli scarti 1 nemico [[Umanoide]] e generatelo qui.\n<b>Obiettivo</b> - Se gli investigatori negli Uffici della Facoltà spendono un totale di 2[per_investigator] indizi, <b>(→R1)</b>.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Una porta chiusa a chiave in cima a una scalinata conduce al terzo piano dell'amministrazione. Oltre i vetri opachi si intravede un'ombra che si dilegua oltre il corridoio.",
+        "back_text": "La porta che conduce agli Uffici della Facoltà è chiusa a chiave. Non puoi muoverti fino agli Uffici della Facoltà."
+    },
+    {
+        "code": "02055",
+        "flavor": "Non c'è traccia del professor Rice nel suo ufficio. Anche chiamandolo per nome, le voci echeggiano nei corridoi senza ottenere risposta.",
+        "name": "Uffici della Facoltà",
+        "subname": "L'Ora è Tarda",
+        "traits": "Miskatonic.",
+        "back_flavor": "Una porta chiusa a chiave in cima a una scalinata conduce al terzo piano dell'amministrazione. Oltre i vetri opachi si intravede un'ombra che si dilegua oltre il corridoio… o forse è solo l'immaginazione?",
+        "back_text": "La porta che conduce agli Uffici della Facoltà è chiusa a chiave. Non puoi muoverti fino agli Uffici della Facoltà."
+    },
+    {
+        "code": "02056",
+        "flavor": "Una scia di melma viscosa serpeggia lungo i corridoi al pianterreno della facoltà di Scienze e scende nel seminterrato.",
+        "name": "Facoltà di Scienze",
+        "text": "<b>Obbligo</b> - Dopo che la Facoltà di Scienze è stata aperta: metti in gioco il Laboratorio di Chimica messo da parte.\n<b>Obbligo</b> - Quando fallisci una prova di [willpower] nella Facoltà di Scienze: Subisci 1 danno.",
+        "traits": "Miskatonic.",
+        "back_flavor": "La sede della facoltà di Scienze occupa il lato est del campus. Le sue finestre sono buie, ad eccezione di una ad angolo del seminterrato dove risplende una fioca luce."
+    },
+    {
+        "code": "02057",
+        "flavor": "Gli scaffali del laboratorio sono pieni di strane misture e reagenti sconosciuti. Che razza di esperimenti scientifici si fanno qua dentro?",
+        "name": "Laboratorio di Chimica",
+        "text": "[action] <b>Indaga.</b> Se hai successo, invece di scoprire indizi, prendi la Mistura Alchemica da sotto questo luogo, se possibile.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Un acre fetore proviene dal laboratorio al piano di sotto. Il silenzio che regna sull'edificio è interrotto dall'inconfondibile sibilo di un bruciatore a gas.",
+        "back_text": "La porta che conduce al Laboratorio di Chimica è chiusa a chiave. Non puoi muoverti fino al Laboratorio di Chimica."
+    },
+    {
+        "code": "02058",
+        "name": "Esperimento",
+        "subname": "Qualcosa è Andato Tremendamente Storto",
+        "text": "Massiccio.\nL'Esperimento riceve +3[per_investigator] Salute.\n<b>Obbligo</b> - Quando la Fase dei Nemici inizia: Ripristina l'Esperimento.\n<b>Obiettivo</b> - Quando l'Esperimento è sconfitto, proseguite con il Capitolo 3b.",
+        "traits": "Mostro. Abominio. Elite."
+    },
+    {
+        "code": "02059",
+        "name": "Mistura Alchemica",
+        "text": "[action]: <b>Combatti.</b> Usa [intellect] invece di [combat]. Se il nemico è l'Esperimento, infliggi +6 danni in questo attacco. Se hai successo, rimuovi dal gioco la Mistura Alchemica.",
+        "traits": "Oggetto. Scienza."
+    },
+    {
+        "code": "02060",
+        "name": "“Jazz” Mulligan",
+        "subname": "Capo degli Inservienti",
+        "text": "<b>Rivelazione</b> - Metti in gioco “Jazz” Mulligan nel tuo luogo.\nMentre “Jazz” Mulligan non è controllato da un investigatore, ottiene: “[action]: <b>Negozia.</b> Effettua una prova di [intellect] (3). Se hai successo, prendi il controllo di ‘Jazz’ Mulligan.” Mentre controlli “Jazz” Mulligan, ignora il testo di ogni luogo [[Miskatonic]] chiuso.",
+        "traits": "Alleato. Miskatonic."
+    },
+    {
+        "code": "02061",
+        "name": "Professor Warren Rice",
+        "subname": "Professore di Lingue",
+        "text": "Ricevi +1 [intellect]\n[reaction] Dopo che hai scoperto l'ultimo indizio rimasto nel tuo luogo, esaurisci il Professor Warren Rice: Pesca 1 carta.",
+        "traits": "Alleato. Miskatonic.",
+        "slot": "Alleato"
+    },
+    {
+        "code": "02062",
+        "name": "Il Banco Vince Sempre",
+        "text": "<b>Facile / Standard</b>\n[skull] -2. Puoi spendere 2 risorse per considerare invece questo segnalino come “0”.\n[cultist] -3. Se hai successo, ottieni 3 risorse.\n[tablet] -2. Se fallisci, scarta 3 risorse.",
+        "back_text": "<b>Difficile / Esperto</b>\n[skull] -3. Puoi spendere 3 risorse per considerare invece questo segnalino come “0”.\n[cultist] -3. Se fallisci, scarta 3 risorse.\n[tablet] -2. Scarta 3 risorse."
+    },
+    {
+        "code": "02063",
+        "flavor": "Vi recate nel casinò del Clover Club alla ricerca del dottor Morgan. Il club pullula di avventori a quest'ora della notte: c'è chi vuole rilassarsi e bere qualcosa e chi tenta il colpo grosso ai tavoli da gioco. Non vi sembra di notare nessun pericolo immediato.",
+        "name": "Il Clover Club",
+        "text": "Ogni nemico [[Criminale]] ottiene Sfuggente.\n<b>Obbligo</b> - Se un investigatore infligge danni a un nemico [[Criminale]]:\nProseguite immediatamente con la trama.",
+        "back_name": "Sulla Pista Giusta",
+        "back_flavor": "Le vostre domande attirano l'attenzione di alcuni uomini che, a giudicare dall'aspetto, sembrano sicari prezzolati. “Francis non vuole essere disturbato”, vi intima uno di loro. “Meglio che usciate dal locale, altrimenti vi faremo uscire noi.”",
+        "back_text": "Rimescolate la pila degli scarti degli incontri nel mazzo degli incontri.\nSe avete completato Attività Extracurricolare, proseguite direttamente con la Trama 2b. Se Il Banco Vince Sempre è il primo scenario della campagna, proseguite con la Trama 2a."
+    },
+    {
+        "code": "02064",
+        "flavor": "La maggior parte degli avventori sembra ignorare i gangster e gli sgherri che si stringono attorno a voi, ma voi non avete dubbi su cosa stia per accadere: un pestaggio in piena regola.",
+        "name": "Forza Lavoro Criminale",
+        "back_name": "Caos Improvviso",
+        "back_flavor": "Dall'esterno sentite provenire un tonfo seguito da un grido di dolore: un'orrenda mostruosità sfonda la porta d'ingresso al club, facendo crollare la scala d'accesso e travolgendo avventori e gangster indiscriminatamente.",
+        "back_text": "Generate 1 nemico casuale del set di incontri <i>Orrendi Abomini</i> messo da parte nella Sala del Clover Club. Mescolate il resto di quel set di incontri, il set di incontri <i>Paura Incombente</i> messo da parte e la pila degli scarti degli incontri nel mazzo degli incontri.\nMuovete tutti gli investigatori e i nemici non impegnati ne La Bella Luna fino alla Sala del Clover Club. Rimuovete dal gioco La Bella Luna."
+    },
+    {
+        "code": "02065",
+        "flavor": "Tra il caos e la confusione, gli strani abomini attaccano chiunque si trovi all'interno del club. Le urla echeggiano in tutta la sala e c'è sangue ovunque.",
+        "name": "Caos al Clover Club",
+        "text": "<b>Obbligo</b> - All'inizio della Fase dei Nemici: Scartate ogni nemico [[Criminale]] nello stesso luogo di un nemico [[Abominio]].",
+        "back_name": "L'Edificio Crolla",
+        "back_flavor": "Quando gli strani abomini si riversano in tutto il club e lo devastano, le fondamenta dell'edificio iniziano a tremare. Fuggite verso l'uscita, ma prima che possiate farcela il club crolla e restate sepolti dai detriti.",
+        "back_text": "<b>(→R4).</b>"
+    },
+    {
+        "code": "02066",
+        "flavor": "Dovete trovare il dottor Morgan. Il club è gremito di avventori; forse qualcuno sa dove si trova.",
+        "name": "La Fortuna del Principiante",
+        "text": "[reaction] Quando un investigatore rivela un segnalino caos, può considerare quel segnalino come un qualsiasi altro segnalino del sacchetto del caos. Se lo fa, si annota che ha “barato” (Limite di una volta in totale per round.)\n<b>Obiettivo</b> - Quando avete accumulato il numero richiesto di indizi, dovete spenderli immediatamente e proseguire con i capitoli.",
+        "back_name": "Cifre da Capogiro",
+        "back_flavor": "Dopo avere parlato con vari giocatori d'azzardo e camerieri, pare che il dottor Morgan ultimamente abbia avuto un periodo molto fortunato: invece di riscuotere tutte le sue vincite, è stato convinto a rimetterle in gioco per tentare il raddoppio. L'ultima volta che è stato visto, stava entrando in una sala sorvegliata sul retro della bisca.",
+        "back_text": "Mettete in gioco la Sala Buia messa da parte. Se siete alla Trama 1, scartate carte dalla cima del mazzo degli incontri finché non scartate un nemico [[Criminale]] e generate quel nemico nella Sala Buia."
+    },
+    {
+        "code": "02067",
+        "flavor": "Il dottor Morgan si trova da qualche parte nella sezione privata del club, dove soltanto i VIP e i gestori del club possono entrare. Se volete trovarlo, dovrete intrufolarvi di soppiatto o addirittura farvi strada con la forza.",
+        "name": "Partita Truccata",
+        "text": "<b>Obiettivo</b> - Quando gli investigatori nell'Area VIP spendono il totale richiesto di indizi, proseguite con i capitoli.",
+        "back_name": "Il Destino del Dottor Morgan",
+        "back_text": "<b>Se non avete completato Attività Extracurricolare:</b>\n<blockquote><i>Trovate il dottor Morgan impegnato a giocare a carte in una delle sale dei VIP… ma a quanto pare se la sta vedendo con due giocatori privi di sensi e le sue pupille sono dilatate, come se fosse in trance: sembra che non riesca a smettere di sorridere, ridacchiare e chiacchierare con gli altri “giocatori”.</i></blockquote>\nMettete in gioco il Dott. Francis Morgan messo da parte nell'Area VIP. Proseguite con il Capitolo 3a - “All In”.\n<hr>\n<b>Se avete completato Attività Extracurricolare:</b>\n<blockquote><i>\nLe sale dei VIP sono piene dei corpi martoriati e insanguinati degli sfortunati avventori: non sembra esserci nessuna traccia del dottor Morgan. Sentite urla e colpi di arma da fuoco provenire dall'area principale del club.</i></blockquote>\nMettete in gioco Peter Clover messo da parte nel Bar del Clover Club. Cercate nel mazzo degli incontri (o fuori dal gioco) un nemico [[Abominio]] e generatelo nel Bar del Clover Club. Proseguite con il Capitolo 3a - “Fold”."
+    },
+    {
+        "code": "02068",
+        "flavor": "Con o senza il dottor Morgan, dovete andarvene di qui alla svelta.",
+        "name": "All In",
+        "text": "Mentre il Dott. Francis Morgan non è controllato da un giocatore, ottiene “[action]: <b>Negozia.</b> Effettua una prova di [willpower] (3) per far riprendere il dottor Morgan dal suo stato catatonico. Se hai successo, colloca 1 indizio dalla riserva dei segnalini su di lui. Se sul Dott. Francis Morgan ci sono 1[per_investigator] indizi, prendine il controllo.”\n<b>Obiettivo</b> - Se ogni investigatore non sconfitto ha abbandonato, proseguite con il Capitolo 3b.",
+        "back_name": "Al Sicuro… Per Ora",
+        "back_flavor": "Fuggite dal club e fate del vostro meglio per non farvi notare mentre varie auto sopraggiungono in corsa dalla strada. Un gruppo di uomini e donne dal volto cupo si dirige di corsa verso l'entrata del ristorante per assumere il controllo della situazione: uno di loro brandisce una calibro 38 e attira la vostra attenzione, ma fortunatamente segue il resto della squadra ed entra nel club. Tirate un sospiro di sollievo…",
+        "back_text": "* Se un investigatore ha abbandonato con il Dott. Francis Morgan sotto il suo controllo, <b>(→R2).</b>\n* Altrimenti, <b>(→R1)</b>."
+    },
+    {
+        "code": "02069",
+        "flavor": "“Da bere gratis per chi mi porta fuori di qui al più presto possibile!” esclama un uomo accanto al bancone del bar.",
+        "name": "Fold",
+        "text": "Mentre Peter Clover non è controllato da un giocatore, ottiene “[action]: <b>Negozia.</b> Effettua una prova di [willpower] (3) per convincere Peter a seguirti. Se hai successo, colloca 1 indizio dalla riserva dei segnalini su di lui. Se su Peter Clover ci sono 1[per_investigator] indizi, prendine il controllo.”\n<b>Obiettivo</b> - Se ogni investigatore non sconfitto ha abbandonato, proseguite con il Capitolo 3b.",
+        "back_name": "Fuga dal Club",
+        "back_flavor": "Vi allontanate di corsa per le vie di Arkham rese viscide dalla pioggia.",
+        "back_text": "* Se un investigatore ha abbandonato con Peter Clover sotto il suo controllo, <b>(→R3)</b>.\n* Altrimenti, <b>(→R1)</b>."
+    },
+    {
+        "code": "02070",
+        "flavor": "La musica è banale e servono solo spaghetti. Per essere una copertura di un luogo di incontri clandestini, non è particolarmente creativa.",
+        "name": "La Bella Luna",
+        "text": "[action]: <b>Abbandona.</b> È andato tutto storto.",
+        "traits": "Arkham.",
+        "back_flavor": "La Bella Luna era un locale adatto a… più di un'attività."
+    },
+    {
+        "code": "02071",
+        "name": "Sala del Clover Club",
+        "text": "Mentre siete al Capitolo 1, la Sala del Clover Club ottiene:\n“[action] Scarta 1 supporto [[Alleato]] dalla tua mano: Ottieni 2 indizi dalla riserva dei segnalini. (Limite di una volta per partita.)”",
+        "traits": "Clover Club.",
+        "back_flavor": "Comodi divani in pelle, mobili in legno di mogano e un'ostentazione di magnifiche opere d'arte sono pronti ad accogliere i giocatori d'azzardo e ad adescarli verso il miraggio di una vita di lussi."
+    },
+    {
+        "code": "02072",
+        "name": "Bar del Clover Club",
+        "text": "Mentre siete al Capitolo 1, il Bar del Clover Club ottiene:\n“[action] Spendi 2 risorse: Ottieni 2 indizi dalla riserva del segnalini e pesca 2 carte. Annota che ti sei 'bevuto un drink'. (Limite di una volta per partita.)”",
+        "traits": "Clover Club.",
+        "back_flavor": "Le mensole dietro il bancone sono ricurve sotto il peso di ogni genere di liquore di contrabbando: birre di pessima qualità, liquori, costose bottiglie di vino e whisky pregiato. Se soltanto aveste una o due ore da perdere…"
+    },
+    {
+        "code": "02073",
+        "name": "Bisca del Clover Club",
+        "text": "Mentre siete al Capitolo 1, la Bisca del Clover Club ottiene:\n“[action] Spendi 2 risorse: Rivela 1 segnalino caos.\nSe è un simbolo [elder_sign], ottieni 2 indizi e 2 risorse dalla riserva dei segnalini.\nSe è un numero pari, ottieni 2 indizi dalla riserva dei segnalini. Altrimenti, non accade niente.”",
+        "traits": "Clover Club.",
+        "back_flavor": "Avvicinandosi alla bisca, il ticchettare delle fiche da poker e i mazzi di carte mescolati si alternano a esclamazioni di esultanza e di frustrazione. I pensieri sono quasi sopraffatti dalla confusione."
+    },
+    {
+        "code": "02074",
+        "flavor": "La porta si richiude con un tonfo e il silenzio pervade improvvisamente la sala. Quest'area del club è deserta, smorta e priva di calore; da un certo punto di vista, i pavimenti e le pareti immacolate sembrano più sinistre che invitanti.",
+        "name": "Sala Buia",
+        "text": "<b>Obbligo</b> - Dopo che la Sala Buia è stata aperta: Mettete in gioco le 3 copie della Porta sul Retro messe da parte.",
+        "traits": "Clover Club.",
+        "back_flavor": "Una pesante porta in legno di quercia sbarra la strada verso una sezione isolata del club. Avvicinandosi, l'aria si fa pesante e il clamore della bisca si affievolisce alle spalle."
+    },
+    {
+        "code": "02075",
+        "flavor": "Le pareti della galleria privata di Peter Clover sono decorate con opere d'arte antiche o esotiche. La brezza della sera agita le pagine consumate di un vecchio registro.",
+        "name": "Galleria d'Arte",
+        "text": "<b>Obbligo</b> - Dopo che hai fallito una prova di abilità indagando nella Galleria d'Arte: Perdi 2 risorse.",
+        "traits": "Clover Club.",
+        "back_name": "Porta sul Retro",
+        "back_flavor": "Una porta priva di segni di riconoscimento si trova in fondo a un corridoio sul retro del Clover Club."
+    },
+    {
+        "code": "02076",
+        "flavor": "L'odore amarognolo del sangue assale le narici, il pavimento è disseminato di vetri rotti e l'imbottitura dei mobili è stata fatta a pezzi. Dov'è il dottor Morgan?",
+        "name": "Area VIP",
+        "text": "Mentre sei nell'Area VIP, non puoi pescare carte né ottenere risorse durante la Fase di Gestione.",
+        "traits": "Clover Club.",
+        "back_name": "Porta sul Retro",
+        "back_flavor": "Una porta priva di segni di riconoscimento si trova in fondo a un corridoio sul retro del Clover Club."
+    },
+    {
+        "code": "02077",
+        "flavor": "Una scalinata stretta e ripida scende fino a una seconda porta priva di segni di riconoscimento che, con sorpresa, conduce fino a un vicolo sul retro de La Bella Luna. Dev'essere qui che contrabbandavano la loro “merce”.",
+        "name": "Vicolo sul Retro",
+        "text": "[action]: <b>Abbandona.</b> Da questa parte è possibile fuggire!",
+        "traits": "Clover Club.",
+        "back_name": "Porta sul Retro",
+        "back_flavor": "Una porta priva di segni di riconoscimento si trova in fondo a un corridoio sul retro del Clover Club."
+    },
+    {
+        "code": "02078",
+        "name": "Boss del Clover Club",
+        "text": "<b>Preda</b> - L'investigatore con più [intellect].\nCacciatore.\n<b>Obbligo</b> - Dopo che un investigatore nel luogo del Boss del Clover Club ha ottenuto un qualsiasi numero di indizi: Il Boss del Clover Club si ripristina, impegna quell'investigatore ed effettua un attacco immediato.",
+        "traits": "Umanoide. Criminale. Elite."
+    },
+    {
+        "code": "02079",
+        "name": "Peter Clover",
+        "subname": "Tutte le Carte in Mano",
+        "text": "<b>Obbligo</b> - All'inizio della Fase dei Nemici, se nessun investigatore controlla Peter Clover:\nInfliggete 1 danno a Peter Clover.\n[free] Esaurisci Peter Clover: Eludi automaticamente 1 nemico [[Criminale]] nel tuo luogo.",
+        "traits": "Umanoide. Criminale."
+    },
+    {
+        "code": "02080",
+        "name": "Dott. Francis Morgan",
+        "subname": "Professore di Archeologia",
+        "text": "Ricevi +1 [combat].\n[reaction] Dopo che hai sconfitto un nemico, esaurisci il Dott. Francis Morgan: Pesca 1 carta.",
+        "traits": "Alleato. Miskatonic.",
+        "slot": "Alleato"
+    },
+    {
+        "code": "02081",
+        "flavor": "Il tuo corpo è assalito da una sgradevole vampata di calore. Il tuo sguardo spento si posa sul bicchiere vuoto davanti a te.",
+        "name": "Qualcosa nel Bicchiere",
+        "text": "Impulso.\n<b>Rivelazione</b> - Ogni giocatore che si è “bevuto un drink” perde 1 azione.",
+        "traits": "Veleno. Illecito."
+    },
+    {
+        "code": "02082",
+        "flavor": "Tutti gli occhi sono puntati su di te e scrutano ogni tua mossa.",
+        "name": "Suscitare Sospetti",
+        "text": "<b>Rivelazione</b> - Colloca 1 destino su ogni nemico [[Criminale]] nel tuo luogo. Se non collochi alcun destino con questo effetto, perdi 2 risorse."
+    },
+    {
+        "code": "02083",
+        "flavor": "Queste sono visioni di cose che saranno, o che potrebbero essere? O forse si tratta di orrori già accaduti?",
+        "name": "Visioni di un Futuro Passato",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower] (5). Per ogni punto di cui fallisci, scarta 1 carta dalla cima del tuo mazzo.",
+        "traits": "Sortilegio."
+    },
+    {
+        "code": "02084",
+        "name": "Oltre il Velo",
+        "text": "Impulso.\n<b>Rivelazione</b> - Se non ci sono copie di Oltre il Velo nella tua area di minaccia, metti in gioco Oltre il Velo nella tua area di minaccia.\n<b>Obbligo</b> - Se nel tuo mazzo non ci sono carte: \nSubisci 10 danni e scarta Oltre il Velo.",
+        "traits": "Sortilegio."
+    },
+    {
+        "code": "02085",
+        "name": "Luce di Aforgomon",
+        "text": "Isolamento.\n<b>Rivelazione</b> - Assegna la Luce di Aforgomon alla trama o al capitolo attuale. (Limite di una carta per trama/capitolo). Considera tutti i danni come danni diretti e tutti gli orrori come orrori diretti.",
+        "traits": "Patto. Potere."
+    },
+    {
+        "code": "02086",
+        "flavor": "Una forza maligna ha sopraffatto le loro menti, trasformandoli in marionette senz'anima.",
+        "name": "Servitore",
+        "text": "<b>Generazione</b> - Il luogo con più indizi.\nRitorsione.",
+        "traits": "Umanoide. Mostro. Abominio."
+    },
+    {
+        "code": "02087",
+        "name": "Mago di Yog-Sothoth",
+        "text": "<b>Preda</b> - L'investigatore con meno carte in mano.\nCacciatore.\n<b>Obbligo</b> - Quando l'investigatore impegnato pesca una carta [[Patto]] o [[Sortilegio]]: Il Mago di Yog-Sothoth attacca quell'investigatore.",
+        "traits": "Umanoide. Stregone."
+    },
+    {
+        "code": "02088",
+        "name": "Terra Sconsacrata",
+        "text": "[willpower] - Metti in gioco la Terra Sconsacrata nella tua area di minaccia.\nNon puoi giocare supporti [[Alleato]]. Considera il riquadro di testo stampato di ogni supporto [[Alleato]] che controlli come se fosse vuoto.\n<b>Obbligo</b> - Alla fine del tuo turno: Effettua una prova di [willpower] (3). Se hai successo, scarta la Terra Sconsacrata.",
+        "traits": "Terrore."
+    },
+    {
+        "code": "02089",
+        "name": "Sordidi e Silenziosi",
+        "text": "<b>Rivelazione</b> - Assegna Sordidi e Silenziosi al tuo luogo.\n<b>Obbligo</b> - Alla fine del round: Ogni investigatore nel luogo con questa sventura subisce 1 orrore.\n<b>Obbligo</b> - Quando proseguite con la trama: Scartate Sordidi e Silenziosi.",
+        "traits": "Terrore."
+    },
+    {
+        "code": "02090",
+        "flavor": "Si giura che questi uccelli siano psicopompi che attendono le anime dei moribondi\n<cite>H. P. Lovecraft, “L'Orrore di Dunwich”</cite>",
+        "name": "Succiacapre",
+        "text": "Cacciatore. Sfuggente.\nOgni investigatore nel luogo del Succiacapre riceve -1 [willpower], -1 [intellect], -1 [combat] e -1 [agility].",
+        "traits": "Creatura."
+    },
+    {
+        "code": "02091",
+        "flavor": "Se riescono a catturare l'anima che fugge abbandonando il corpo, volano via all'istante emettendo una risata demoniaca…\n<cite>H. P. Lovecraft, “L'Orrore di Dunwich”</cite>",
+        "name": "In Attesa della Morte",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower] (2); per ogni danno che possiedi, aumenta di 1 la difficoltà della prova. Se fallisci, subisci 2 orrori.",
+        "traits": "Presagio."
+    },
+    {
+        "code": "02092",
+        "name": "Malasorte",
+        "text": "<b>Rivelazione</b> - Metti in gioco la Malasorte nella tua area di minaccia.\nDurante le prove di abilità, ricevi -1 al valore di abilità.\n<b>Obbligo</b> - Dopo che hai superato una prova abilità di abilità di 1 o più punti: Scarta la Malasorte.",
+        "traits": "Presagio."
+    },
+    {
+        "code": "02093",
+        "name": "Svolta del Fato",
+        "text": "<b>Rivelazione</b> - Rivela 1 segnalino caos.\nSe riveli un simbolo [elder_sign] o un numero positivo, non succede nulla.\nSe riveli un qualsiasi altro numero, subisci 1 danno.\nSe riveli un simbolo [skull], [cultist], [tablet], [elder_thing] o [auto_fail], subisci 2 orrori.",
+        "traits": "Presagio."
+    },
+    {
+        "code": "02094",
+        "name": "Servitore Volante",
+        "text": "<b>Preda</b> - L'investigatore con meno [intellect].\nCacciatore.\nMentre il Servitore Volante è attaccato usando un supporto [[Arma da Fuoco]], [[Distanza]] o [[Incantesimo]], riceve -3 Scontro.",
+        "traits": "Creatura. Mostro. Abominio."
+    },
+    {
+        "code": "02095",
+        "flavor": "Che genere di lupo può avere così tante zanne?",
+        "name": "Servitore Lupesco",
+        "text": "<b>Generazione</b> - Il luogo più lontano da te.\n<b>Preda</b> - L'investigatore con meno [agility].\nCacciatore. Ritorsione.",
+        "traits": "Creatura. Mostro. Abominio."
+    },
+    {
+        "code": "02096",
+        "name": "Bestia Mutante",
+        "text": "<b>Rivelazione</b> - Se non ci sono nemici [[Abominio]] in gioco, la Bestia Mutante ottiene Impulso. Altrimenti, scegli 1 nemico [[Abominio]]. Cura tutti i danni a quel nemico e assegnagli la Bestia Mutante.\n<b>Obbligo</b> - Quando entri nel luogo del nemico con questa sventura (o viceversa): Subisci 1 orrore.",
+        "traits": "Potere."
+    },
+    {
+        "code": "02097",
+        "flavor": "“Abbiamo qualche problema qui?”",
+        "name": "Sgherro degli O'Bannion",
+        "text": "Mentre lo Sgherro degli O'Bannion è impegnato con te, non puoi ottenere risorse.",
+        "traits": "Umanoide. Criminale. Consorzio."
+    },
+    {
+        "code": "02098",
+        "flavor": "“Ti conviene filare, amico, se non hai voglia di assaggiare un po' di cuoio e di piombo.”",
+        "name": "Gangster",
+        "text": "Ritorsione.\n<b>Obbligo</b> - Dopo che il Gangster ti ha attaccato: Perdi 1 risorsa.",
+        "traits": "Umanoide. Criminale. Consorzio."
+    },
+    {
+        "code": "02099",
+        "name": "Braccato",
+        "text": "<b>Rivelazione</b> - Se non ci sono nemici [[Criminale]] non impegnati in gioco, Braccato ottiene Impulso. Altrimenti, ogni nemico [[Criminale]] non impegnato in gioco si muove di 1 luogo verso di te. Ogni nemico [[Criminale]] che ti impegna con questo effetto effettua un attacco immediato.",
+        "traits": "Tattica."
+    },
+    {
+        "code": "02100",
+        "name": "Spinto nell'Oltre",
+        "text": "<b>Rivelazione</b> - Scegli e mescola nel tuo mazzo 1 supporto non storia che controlli, poi scarta 3 carte dalla cima del tuo mazzo. Se viene scartata una copia di quel supporto, subisci 2 orrori.",
+        "traits": "Sortilegio."
+    },
+    {
+        "code": "02101",
+        "name": "Terrore dall'Oltre",
+        "text": "Isolamento.\n<b>Rivelazione</b> - Scegli 1 tipo di carta tra abilità, evento o supporto (se questa non è la prima copia di Terrore dall'Oltre pescata in questa fase, scegli invece 2 tipi di carta). Ogni giocatore deve scartare dalla sua mano ogni carta corrispondente al tipo di carta scelto.",
+        "traits": "Sortilegio. Terrore."
+    },
+    {
+        "code": "02102",
+        "name": "Barriera Arcana",
+        "text": "<b>Rivelazione</b> - Assegna la Barriera Arcana al tuo luogo.\nCome costo aggiuntivo per muoversi da o fino al luogo con questa sventura, effettua una prova di [willpower] (4). Se hai successo, scarta la Barriera Arcana; se fallisci, scegli se annullare gli effetti del movimento oppure scartare 5 carte dalla cima del tuo mazzo.",
+        "traits": "Sortilegio. Ostacolo."
+    },
+    {
+        "code": "02103",
+        "name": "Conglomerato di Sfere",
+        "text": "<b>Preda</b> - L'investigatore con meno [willpower].\nCacciatore.\n<b>Obbligo</b> - Dopo che hai attaccato il Conglomerato di Sfere usando un supporto [[Mischia]]: Scarta quella carta.",
+        "traits": "Mostro. Abominio."
+    },
+    {
+        "code": "02104",
+        "name": "Servitore del Guardiano",
+        "text": "Preda - L'investigatore con meno [agility].\nCacciatore.\n<b>Obbligo</b> - Quando il Servitore del Guardiano ti attacca: Scarta 2 carte dalla cima del tuo mazzo.",
+        "traits": "Mostro. Abominio."
+    }
+]

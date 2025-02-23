@@ -1,0 +1,207 @@
+[
+    {
+        "code": "07123",
+        "name": "Hasta el cuello",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1 por cada Lugar al este de tu Lugar (en la misma fila).\n[cultist]: -2. Si fracasas, muévete al Lugar conectado hacia el este, ignorando todas las barreras.\n[tablet]: -3. Si fracasas, elige un Lugar conectado sin barreras entre ese Lugar y el tuyo. Coloca 1 barrera entre los 2 Lugares.\n[elder_thing]: -X. X es la cantidad de barreras que hay entre tu Lugar y todos los Lugares conectados.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2 por cada Lugar al este de tu Lugar (en la misma fila).\n[cultist]: -4. Si fracasas, muévete al Lugar conectado hacia el este, ignorando todas las barreras.\n[tablet]: -5. Si fracasas, elige un Lugar conectado sin barreras entre ese Lugar y el tuyo. Coloca 1 barrera entre los 2 Lugares.\n[elder_thing]: -X. X es el doble de la cantidad de barreras que hay entre tu Lugar y todos los Lugares conectados."
+    },
+    {
+        "code": "07124",
+        "name": "Barricadas en las calles",
+        "text": "Cada Enemigo [[Sospechoso]] pierde indiferente y no se puede negociar con él.\n<b>Obligado</b> - Cuando acabe tu turno, si estás en un Lugar completamente inundado: Recibe 1 punto de daño.",
+        "flavor": "\"En el acto tuve que cambiar todos mis planes. Me habían cortado la carretera sur, de modo que debía buscar otra salida de Innsmouth.\"\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Perseguidos por profundos",
+        "back_text": "Aumenta el nivel de inundación de todos los Lugares [[Costero]].\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todos los Enemigos Incursor del Abismo y Profundo joven puestos aparte y barájalo.",
+        "back_flavor": "La marea sigue subiendo mientras recorres las decrépitas calles. Se te hiela la sangre al oír los gritos de alguien que agoniza cerca de tu posición. En cuanto ves las criaturas que patrullan en la intersección, te ocultas en el destrozado portal de un ruinoso edificio. Sus extraños andares y la forma en que se croan sus voces te da escalofríos. Incluso después de que dejen de escucharse las pisadas de sus pies palmeados sobre la calzada, no logras deshacerte de la sensación de que te encontrarán inevitablemente."
+    },
+    {
+        "code": "07125",
+        "name": "Marea implacable",
+        "text": "Cada Enemigo [[Sospechoso]] pierde indiferente y no se puede negociar con él.\n<b>Obligado</b> - Cuando acabe tu turno, si estás en un Lugar completamente inundado: Recibe 1 punto de daño y 1 punto de horror.",
+        "flavor": "No sabían dónde me encontraba, pero no cabía duda de que su conducta obedecía a un plan general encaminado a cortarme la salida. Esto requería que se vigilasen todas las carreteras por igual…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Perseguidos por los lugareños",
+        "back_text": "Aumenta el nivel de inundación de todos los Lugares [[Centro de la ciudad]].\nHaz aparecer la Muchedumbre airada puesta aparte en la Plaza de Innsmouth: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre la Muchedumbre airada sin mirarla.",
+        "back_flavor": "Hay una muchedumbre reunida en la plaza de la ciudad. Al principio, te alegra ver rostros sin terribles facciones monstruosas: los prodigiosos ojos saltones; las grandes fauces llenas de afilados dientes serrados; las agallas, aletas y extremidades palmeadas que sugieren algo inhumano y similar a un pez. Entonces oyes una voz que se eleva sobre el barullo, y se te hiela el alma.\n-¡La hora se acerca! ¡La Orden de Dagón os lo ordena! Matad a los forasteros y a cualquiera que se interponga en nuestro camino, ¡y seréis recompensados! ¡Os transformaréis y compartiréis las riquezas de las profundidades! -grita un hombre ataviado con una túnica. La multitud celebra sus palabras con un júbilo demencial."
+    },
+    {
+        "code": "07126",
+        "name": "Calles inundadas",
+        "text": "Cada Enemigo [[Sospechoso]] pierde indiferente y no se puede negociar con él.\n<b>Obligado</b> - Cuando acabe tu turno, si estás en un Lugar completamente inundado: Recibe 1 punto de daño, 1 punto de horror y descarta 1 carta de tu mano al azar.",
+        "flavor": "Un momento después -y precedida de una insoportable tufarada de pescado- desembocó una multitud de seres torcidos y grotescos que caminaba torpemente en la misma dirección…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Cada vez más cerca",
+        "back_text": "Aumenta el nivel de inundación de todos los Lugares.\nSiguiendo el orden de juego, cada investigador roba 1 carta de Encuentro.",
+        "back_flavor": "El río Manuxet se desborda mientras la marea no deja de subir. En poco tiempo, las calles se llenan de agua. Las olas se tragan todo lo que encuentran en su camino, volcando vehículos, atravesando casas desvencijadas y cortando rutas de escape. Si esto sigue así, no quedará nada de la ciudad de Innsmouth."
+    },
+    {
+        "code": "07127",
+        "name": "La ira de las profundidades",
+        "text": "Cada Enemigo [[Sospechoso]] pierde indiferente y no se puede negociar con él.\n<b>Obligado</b> - Cuando acabe tu turno, si estás en un Lugar completamente inundado: Recibe 1 punto de daño, 1 punto de horror y descarta 2 cartas de tu mano al azar.",
+        "flavor": "Ni dando crédito al extraño relato del viejo Zadok en sus mejores detalles habría podido imaginar la realidad demoníaca y blasfema que presencié.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Tragado por el mar",
+        "back_text": "Anota en el registro de campaña que <i>Innsmouth fue consumido por la marea creciente</i>.\nCada investigador que no haya desistido queda derrotado y sufre 1 trauma físico.",
+        "back_flavor": "El agua corre enfurecida por la ciudad. Las olas atraviesan rompiendo los edificios ruinosos, consumen las calles y destruyen todos los puentes que quedaban en pie. Hasta la refinería queda reducida a escombros por el ímpetu de las aguas. En poco tiempo, Innsmouth ha desaparecido. Apenas logras escapar al airado mar."
+    },
+    {
+        "code": "07128",
+        "name": "A través del laberinto",
+        "text": "[free] Como grupo, gastad 1 pista [per_investigator] +1: Retira 1 barrera que haya entre tu Lugar y un Lugar conectado.\n<b>Objetivo</b> - ¡Llega a la Estación de ferrocarril! Si todos los investigadores supervivientes han desistido, haz avanzar el acto.",
+        "flavor": "Unas criaturas inhumanas patrullan las calles de Innsmouth, buscándote a ti y a otros de tu raza. Debes llegar al otro lado de la ciudad y huir… pero ¿y si puedes recuperar más recuerdos explorando más a fondo la ciudad de Innsmouth?",
+        "back_name": "Fuera de la ciudad",
+        "back_text": "Anota en el registro de campaña que <i>los investigadores llegaron a salvo a sus vehículos.</i>\n<b>(→R1)</b>",
+        "back_flavor": "Después de horas de huida, sigilo y ocultación, acabas llegando a la estación de ferrocarril abandonada que hay al límite occidental de Innsmouth. En cuanto ves los dos automóviles aparcados junto a las vías, echas a correr. Estás deseando dejar atrás este horrible lugar."
+    },
+    {
+        "code": "07129",
+        "name": "Orden Esotérica de Dagón",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre este Lugar sin mirarla.\n[action] [action]: <b>Negociar.</b> Realiza una prueba de [intellect] (3). Si tienes éxito, retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Algunos de los lugareños se han reunido frente a la vieja sede de la Orden de Dagón, en el lado norte de la ciudad. Sus gritos enloquecidos resuenan por las calles. Según lo que te ha contado la agente Harper, sabes que la Orden tiene algo que ver con estos extraños sucesos… pero ¿el qué?",
+        "traits": "Innsmouth. Centro de la ciudad."
+    },
+    {
+        "code": "07130",
+        "name": "Callejón del Matasanos",
+        "text": "[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (1 [per_investigator]). Si tienes éxito, retira 1 barrera que haya entre este Lugar y un Lugar conectado.\n[free] Si los investigadores, como grupo, controlan 7 llaves: <b>Negociar.</b> Lee el <b>Destello del pasado VII</b> en la guía de campaña.",
+        "back_flavor": "El Callejón del Matasanos no es para los timoratos, pero si crees que conoces los secretos de la ciudad, la fortuna favorece a los osados.",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07131",
+        "name": "Suburbios ribereños",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre este Lugar sin mirarla.\n[free] Recibe 1 punto de daño: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Los suburbios están llenos de habitantes de toda la vida, por lo que podrían ser un buen sitio para descubrir información clave sobre el estado de la ciudad.",
+        "traits": "Innsmouth. Costero. Centro de la ciudad."
+    },
+    {
+        "code": "07132",
+        "name": "La casa de Water Street",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre este Lugar sin mirarla.\n[free] Elige y descarta 1 carta de tu mano: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "La casa, destartalada y aparentemente abandonada está abierta y resulta extrañamente tentadora.",
+        "traits": "Innsmouth. Costero."
+    },
+    {
+        "code": "07133",
+        "name": "Cárcel de Innsmouth",
+        "text": "[action] Gasta 3 recursos: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.\n[free] Si controlas la llave negra: <b>Negociar.</b> Lee <b>Destello del pasado VIII</b> en la guía de campaña.",
+        "back_flavor": "La policía tiene que saber lo que está pasando, y tal vez merezca la pena hablar con uno de los presos.",
+        "traits": "Innsmouth. Centro de la ciudad."
+    },
+    {
+        "code": "07134",
+        "name": "New Church Green",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre este Lugar sin mirarla.\n[action] Si no hay pistas en este Lugar: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Comienzas a preguntarte si es posible confiar en alguien que viva Innsmouth.",
+        "traits": "Innsmouth. Centro de la ciudad."
+    },
+    {
+        "code": "07135",
+        "name": "Librería Little",
+        "text": "[action] [action] Roba la primera carta del mazo de Encuentros: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.\n[free] Si los investigadores, como grupo, controlan 5 o más llaves: <b>Negociar.</b> Lee el <b>Destello del pasado VI</b> en la guía de campaña.",
+        "back_flavor": "La librería Little dispone de una enorme colección de libros. Quizás encuentres un tomo valioso si examinas sus estanterías.",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07136",
+        "name": "Puente de Fish Street",
+        "text": "El Puente de Fish Street recibe +1 a velo por cada barrera que haya entre él y los Lugares conectados.\n[action] Añade 2 fichas [curse] a la bolsa de caos: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "El puente está que se cae, pero aun así proporciona una buena cobertura para tu huida por la ciudad.",
+        "traits": "Innsmouth. Costero. Centro de la ciudad."
+    },
+    {
+        "code": "07137",
+        "name": "Tienda de comestibles First National",
+        "text": "<b>Obligado</b> - Después de que entres es este Lugar desde un Lugar conectado: coloca 1 barrera entre ambos Lugares.\n[action]: <b>Negociar.</b> Realiza una prueba de tu habilidad más baja (2). Si tienes éxito, retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Alguien ha tapado la entrada de la tienda con una barricada, con la esperanza de mantener fuera a las criaturas que merodean por las calles. No servirá de nada, pero estaba bien pensado.",
+        "traits": "Innsmouth. Centro de la ciudad."
+    },
+    {
+        "code": "07138",
+        "name": "Puerto de Innsmouth",
+        "text": "[reaction] Después de que entres en este Lugar: Muévete a la Casa de Water Street.\n[action] [action]: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Hasta el otrora bullicioso puerto de la ciudad está desierto. La furiosa marea se ha tragado gran parte de los muelles y arrastrado varios barcos hacia el océano. Si esto sigue así, no quedará nada del puerto.",
+        "traits": "Innsmouth. Costero."
+    },
+    {
+        "code": "07139",
+        "name": "Plaza de Innsmouth",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Haz aparecer el Shoggoth de Innsmouth puesto aparte en este Lugar, agotado.\n[action]: <b>Negociar.</b> Mueve 1 barrera que haya entre este Lugar y un Lugar conectado, de forma que quede entre este Lugar y un Lugar conectado distinto.\n[free] Si los investigadores, como grupo, controlan 2 llaves o más. <b>Negociar.</b> Lee el <b>Destello del pasado V</b> en la guía de campaña.",
+        "back_flavor": "Desde tu posición, ves un autobús rojo aparcado en la plaza. Conseguir que te lleven sería una ayuda tremenda para escapar de esta ruinosa ciudad infestada. En ese momento, oyes un sonido que te paraliza proveniente de la plaza: un atronador gruñido grave que hace que te pienses dos veces si continuar.",
+        "traits": "Innsmouth. Centro de la ciudad."
+    },
+    {
+        "code": "07140",
+        "name": "Gilman House",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre este Lugar sin mirarla.\n[action]: <b>Negociar.</b> Realiza una prueba de [combat] (2) o de [agility] (2). Si tienes éxito, retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Si encuentras a alguien fiable a quien preguntar, tal vez se te abra alguna puerta. Y un huésped de fuera que se aloje en el hotel podría proporcionar una pieza vital para este rompecabezas.",
+        "traits": "Innsmouth. Centro de la ciudad."
+    },
+    {
+        "code": "07141",
+        "name": "Refinería Marsh",
+        "text": "[free] Si controlas 1 llave o más: Muévete a un Lugar conectado.\n[action] Descarta un Apoyo que controles: <b>Negociar.</b> Retira 1 barrera que haya entre este Lugar y un Lugar conectado.",
+        "back_flavor": "Después de cruzar el puente, me desvié hacia el fragor de los saltos de agua que había río abajo. Pasé junto a la refinería Marsh, de la que no salía ruido alguno ni se notaba la menor actividad. El edificio estaba situado junto al río, cerca del puente y de una confluencia de calles que debió de ser el primitivo centro comercial del pueblo…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth. Costero. Centro de la ciudad."
+    },
+    {
+        "code": "07142",
+        "name": "Estación de ferrocarril",
+        "text": "<b>Obligado</b> - Después de que entres en este Lugar, si está inundado: Realiza una prueba de [agility] (2). Si fracasas, recibe 1 punto de daño.\n[action]: <b>Desistir.</b> Huyes de la ciudad sumergida.",
+        "back_flavor": "Ya no pasa ni el ferrocarril… Hace años que se dejó abandonada la línea que lo unía con Rowley.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07143",
+        "name": "Costa desolada",
+        "text": "Los efectos de cartas no pueden colocar barreras entre la Costa desolada y los Lugares conectados.",
+        "traits": "Innsmouth. Costero.",
+        "back_flavor": "Desde aquí, aún puedes ver la salida de la caverna de marea en la que estuviste atrapado. La apertura va desapareciendo lentamente a medida que sube la marea. Te estremeces al pensar en lo que habría ocurrido si no hubieras escapado."
+    },
+    {
+        "code": "07144",
+        "name": "Shoggoth de Innsmouth",
+        "text": "Cazador. Descomunal.\nEl Shoggoth de Innsmouth recibe +2 de salud [per_investigator].\nCuando el Shoggoth de Innsmouth se mueve mediante su palabra clave Cazador, ignora todas las barreras.\n<b>Obligado</b> - Después de que el Shoggoth de Innsmouth se mueva: Retira todas las barreras por las que haya pasado.",
+        "traits": "Monstruo. Shoggoth. Élite."
+    },
+    {
+        "code": "07145",
+        "name": "Incursor del abismo",
+        "text": "Cazador.\nMientras su Lugar esté inundado, el Incursor del abismo recibe +1 a combate y +1 a evitar, o bien +2 a combate y +2 a evitar si su Lugar está totalmente inundado.\n<b>Obligado</b> - Después de que el Incursor del abismo se enfrente a ti: Realiza una prueba de [combat] (2). Si fracasas, coloca 1 barrera entre tu Lugar y el Lugar conectado al oeste.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07146",
+        "name": "Profundo desarrollado",
+        "text": "Cazador.\n<b>Revelación</b> - El Profundo desarrollado entra en juego agotado y sin enfrentar a menos que su Lugar esté totalmente inundado.\n<b>Obligado</b> - Después de que el Profundo desarrollado se enfrente a ti, si tu Lugar está inundado: Te ataca.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07147",
+        "name": "Invasión de profundos",
+        "text": "<b>Revelación</b> - Añade la pila de descartes de Encuentros al mazo de Encuentros y baraja éste. Por cada Lugar que haya al este de tu Lugar (en la misma fila), descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Profundo]] con la palabra clave Cazador y haz aparecer ese Enemigo en ese Lugar.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07148",
+        "name": "Obligados a retirarse",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si fracasas, muévete al Lugar conectado al este, ignorando todas las barreras. A continuación, coloca todas las llaves que controles en tu Lugar.",
+        "traits": "Terror."
+    },
+    {
+        "code": "07149",
+        "name": "Inundado",
+        "text": "<b>Revelación</b> - Coloca 1 barrera entre este Lugar y cada Lugar conectado que no tenga barreras entre ellos. Si este efecto no coloca ninguna barrera, Inundado obtiene Oleada.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07150",
+        "name": "Joe Sargent",
+        "subname": "Conductor de tartana",
+        "text": "Usos (3 billetes).\n<b>Obligado</b> - Cuando Joe Sargent abandone el juego: Retíralo de la partida.\n[free] Gasta 1 billete: Muévete a un Lugar conectado que no esté totalmente inundado.",
+        "traits": "Aliado. Híbrido."
+    },
+    {
+        "code": "07151",
+        "name": "Enseñanzas de la Orden",
+        "text": "Permanente.\n[fast] Agota las Enseñanzas de la Orden y elige un efecto que aún no hayas elegido durante esta campaña:\n- Retira todas las fichas [curse] de la bolsa de caos.\n- Retira una ficha de Inundación de un Lugar que no sea [[Santuario]].\n- Derrota a un Enemigo que no sea [[Élite]] que esté en tu Lugar.",
+        "traits": "Objeto. Tomo."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "code": "act",
+        "name": "Ato"
+    },
+    {
+        "code": "agenda",
+        "name": "Agenda"
+    },
+    {
+        "code": "asset",
+        "name": "Ativo"
+    },
+    {
+        "code": "enemy",
+        "name": "Inimigo"
+    },
+    {
+        "code": "enemy_location",
+        "name": "Enemy-Location"
+    },
+    {
+        "code": "event",
+        "name": "Evento"
+    },
+    {
+        "code": "investigator",
+        "name": "Investigador"
+    },
+    {
+        "code": "key",
+        "name": "Chave"
+    },
+    {
+        "code": "location",
+        "name": "Local"
+    },
+    {
+        "code": "scenario",
+        "name": "Cenário"
+    },
+    {
+        "code": "skill",
+        "name": "Perícia"
+    },
+    {
+        "code": "story",
+        "name": "História"
+    },
+    {
+        "code": "treachery",
+        "name": "Traição"
+    }
+]

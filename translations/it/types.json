@@ -1,0 +1,54 @@
+[
+    {
+        "code": "act",
+        "name": "Capitolo"
+    },
+    {
+        "code": "agenda",
+        "name": "Trama"
+    },
+    {
+        "code": "asset",
+        "name": "Supporto"
+    },
+    {
+        "code": "enemy",
+        "name": "Nemico"
+    },
+    {
+        "code": "enemy_location",
+        "name": "Nemici-Luoghi"
+    },
+    {
+        "code": "event",
+        "name": "Evento"
+    },
+    {
+        "code": "investigator",
+        "name": "Investigatore"
+    },
+    {
+        "code": "key",
+        "name": "Chiave"
+    },
+    {
+        "code": "location",
+        "name": "Luogo"
+    },
+    {
+        "code": "scenario",
+        "name": "Scenario"
+    },
+    {
+        "code": "skill",
+        "name": "Abilità"
+    },
+    {
+        "code": "story",
+        "name": "Storia"
+    },
+    {
+        "code": "treachery",
+        "name": "Sventura"
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "code": "52014",
+        "name": "Regreso a Se cierra el telón",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a Se cierra el telón</i> que se muestran aquí.\n- Crea el mazo de acto usando las seis copias del Acto 2a - \"El Extranjero\".\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Vincula esta carta al Emisario real. Obtiene el siguiente texto:\n\"Esta carta no puede ser desvinculada del Emisario Real (incluso si el Emisario real abandona el juego).\n<b>Obligado</b> - Después de que el Emisario real sea añadido a la zona de victoria: Coloca 1 recurso sobre esta carta como advertencia.\nPor cada advertencia que haya sobre esta carta, el Emisario real recibe +1 de salud [per_investigator]\"."
+    },
+    {
+        "code": "52015",
+        "flavor": "El misterioso Extranjero de <u>El Rey de Amarillo</u> podría saber algo sobre lo ocurrido durante el descanso. Debéis encontralo y enfrentaros a él si queréis descubrir la verdad.",
+        "name": "El Extranjero",
+        "text": "<b>Objetivo</b> - Cuando El hombre de la máscara pálida fuese a ser derrotado del juego, haz avanzar el acto.",
+        "back_name": "Nieblas de Alara",
+        "back_flavor": "Al encararos con el Extranjero, tenéis la impresión de que sonríe bajo su pálida máscara sin facciones -¿Dónde está todo el mundo? -le preguntáis, pero no responde-. ¿Qué está pasando? -Sigue en silencio y retrocede cuando os acercáis, hasta acabar con la espalda contra uno de los rincones de la sala. De pronto, su cuerpo se disuelve en un vórtice de niebla plateada que golpea vuestros cuerpos y os tira al suelo antes de salir volando por los aires.",
+        "back_text": "En lugar de descartar El hombre de la máscara pálida, muévelo al Vestíbulo.\nAñade una ficha 1 [cultist] y 1 ficha [tablet] a la bolsa de caos.\nColoca 1 ficha de Horror en los Bastidores. Hasta el final del escenario, el horror que haya en los Lugares representa la niebla insidiosa, y cada Lugar que tenga horror obtiene: \"<b>Obligado</b> - Cuando fueses a moverte de este Lugar: Realiza una prueba de [willpower] (3). Si fracasas, debes cancelar los efectos del movimiento o bien perder todas tus acciones restantes y terminar tu turno tras completar los efectos del movimiento\".\nDeja esta carta junto al mazo de Acto como recordatorio y haz avanzar el acto al acto 3a."
+    },
+    {
+        "code": "52016",
+        "flavor": "El misterioso Extranjero de <u>El Rey de Amarillo</u> podría saber algo sobre lo ocurrido durante el descanso. Debéis encontralo y enfrentaros a él si queréis descubrir la verdad.",
+        "name": "El Extranjero",
+        "text": "<b>Objetivo</b> - Cuando El hombre de la máscara pálida fuese a ser derrotado del juego, haz avanzar el acto.",
+        "back_name": "Bajo la ciudad",
+        "back_flavor": "Al encararos con el Extranjero, tenéis la impresión de que sonríe bajo su pálida máscara sin facciones -¿Dónde está todo el mundo? -le preguntáis, pero no responde-. ¿Qué está pasando? -Sigue en silencio y retrocede cuando os acercáis, hasta acabar con la espalda contra uno de los rincones de la sala. El suelo tiembla, y oís un estruendo cuando unas enredaderas, raíces y maleza alienígena atraviesa el techo de la estancia. Cuando os giráis de nuevo hacia el Extranjero, ha desaparecido.",
+        "back_text": "En lugar de descartar El hombre de la máscara pálida, muévelo al Vestíbulo.\nAñade una ficha 1 [cultist] y 1 ficha [elder_thing] a la bolsa de caos.\nColoca 1 ficha de Horror en el Balcón. Hasta el final del escenario, el horror que haya en los Lugares representa la vegetación enmarañadora, y cada Lugar que tenga horror obtiene: \"<b>Obligado</b> - Después de que abandones este Lugar: Realiza una prueba de [willpower] (4). Si fracasas, descarta un Apoyo <b><i>Objeto</i></b> o <b><i>Aliado</i></b> que controles, si no puedes, en lugar de eso recibe 2 puntos de daño\".\nDeja esta carta junto al mazo de Acto como recordatorio y haz avanzar el acto al acto 3a."
+    },
+    {
+        "code": "52017",
+        "flavor": "El misterioso Extranjero de <u>El Rey de Amarillo</u> podría saber algo sobre lo ocurrido durante el descanso. Debéis encontralo y enfrentaros a él si queréis descubrir la verdad.",
+        "name": "El Extranjero",
+        "text": "<b>Objetivo</b> - Cuando El hombre de la máscara pálida fuese a ser derrotado del juego, haz avanzar el acto.",
+        "back_name": "Ésta es mi respuesta",
+        "back_flavor": "Al encararos con el Extranjero, tenéis la impresión de que sonríe bajo su pálida máscara sin facciones -¿Dónde está todo el mundo? -le preguntáis, pero no responde-. ¿Qué está pasando? -Sigue en silencio y retrocede cuando os acercáis, hasta acabar con la espalda contra uno de los rincones de la sala. Luego abre la boca y de él emerge el sonido más espantoso que jamás hayas oído. Es como si el zumbido de cien langostas y el chirrido del metal oxidado ocultaran en su interior un grito de dolor y agonía aún más terrible. Cuando te recuperas, el Extranjero ya no está.",
+        "back_text": "En lugar de descartar El hombre de la máscara pálida, muévelo al Vestíbulo.\nAñade una ficha 1 [table] y 1 ficha [elder_thing] a la bolsa de caos.\nColoca 1 ficha de Horror en el Vestíbulo. Hasta el final del escenario, el horror que haya en los Lugares representa el horrendo chillido del Extranjero, y cada Lugar que tenga horror obtiene: \"<b>Obligado</b> - Después de que entres en este Lugar o termines tu turno en este Lugar: Realiza una prueba de [willpower] (2). Si fracasas, recibe 1 punto de horror. Límite de una vez por ronda.\".\nDeja esta carta junto al mazo de Acto como recordatorio y haz avanzar el acto al acto 3a."
+    },
+    {
+        "code": "52018",
+        "name": "Bar del teatro",
+        "text": "<b>Obligado</b> - Después de que reveles el Bar del teatro: Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo. Busca en el mazo de Encuentros las 2 primeras cartas Oculto y añade ambas cartas a tu mano en secreto. Baraja el mazo de encuentros.",
+        "traits": "Privado.",
+        "back_name": "Puerta del vestíbulo",
+        "back_flavor": "Una ornamentada puerta de madera lleva a una de las zonas de la parte delantera el teatro."
+    },
+    {
+        "code": "52019",
+        "name": "Sala de utilería",
+        "text": "Mientras estés investigando la Sala de utilería, recibe -1 a velo por cada punto de horror que tengas.\n<b>Obligado</b> - Después de que fracases en una prueba de habilidad al investigar la Sala de utilería: Recibe 1 punto de horror.",
+        "traits": "Privado.",
+        "back_name": "Puerta de bastidores",
+        "back_flavor": "Una sencilla puerta de madera lleva a la parte trasera del teatro, lejos de los curiosos ojos de los espectadores."
+    },
+    {
+        "code": "52020",
+        "name": "La Comtesse",
+        "subname": "Subversora de planes",
+        "text": "<b>Aparición</b> - Palcos.\nCazador.\n<b>Obligado</b> - Después de que derrotes a La Comtesse: Colócala en tu mano, como carta Oculto. Mientras La Comtesse esté en tu mano, obtiene: \"La Comtesse cuenta como 4 cartas en lugar de 1 al comprobar tu tamaño de mano. <b>Obligado</b> - Después de que descartes 1 o más cartas de tu mano durante la fase de mantenimiento; Recibe 1 punto de horror\".",
+        "traits": "Humanoide. Servidor."
+    },
+    {
+        "code": "52021",
+        "name": "Regreso a El último Rey",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a El último Rey</i> que se muestran aquí.\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Retira de la partida el Plan 1a - \"Elegantemente tarde\" y sustitúyelo por el nuevo Plan 1a - \"Más vale tarde que nunca\".\n- Retira de la partida el Enemigo original Dianne Devine <i>(Volátil y malvada)</i> y sustitúyelo por la nueva versión de Dianne Devine <i>(Ocultando un juramento inconfesable)</i>.\n- Coloca las 3 nuevas cartas \"Realidad repulsiva\" bajo la carta de referencia de escenario, junto con las 5 copias originales, para tener un total de 8.\n- Deja aparte la Traición Exhibición impactante, fuera del juego."
+    },
+    {
+        "code": "52022",
+        "flavor": "Al aparcar cerca de la mansión, os dais cuenta de que algo no va bien. Hay un rastro de sangre en los escalones del porche, y la puerta principal está hundida. Del interior de la casa llega una música amortiguada, y sus distorsionadas y discordantes notas os hacen daño a los oídos. ¿Ha llegado ya aquí la locura de <u>El Rey de Amarillo</u>?",
+        "name": "Más vale tarde que nunca",
+        "back_name": "Invitado de honor",
+        "back_flavor": "-Vaya, nuestra última invitada -anuncia el portero-. Señorita Devine, todo el mundo aguardaba su presencia hoy. -La mujer lleva un pícaro vestido y una sonrisa a juego. Juraríais que ya habéis visto antes el símbolo de su amuleto-. Bueno, pues que empiece la fiesta de verdad -declara antes de mezclarse con el resto de asistentes.",
+        "back_text": "Busca el Apoyo [[Transeúnte]] que tenga menos pistas (entre los Apoyos [[Transeúnte]] que tengan al menos 1 pista). Haz aparecer el Apoyo Dianne Devine puesto aparte en el Lugar de ese Apoyo.\nAñade al mazo de Encuentros la Traición Exhibición impactante puesta aparte y la pila de descartes de Encuentros. Luego baraja el mazo de Encuentros."
+    },
+    {
+        "code": "52023",
+        "name": "Dianne Devine",
+        "subname": "Sabe lo que tramáis",
+        "text": "<b>Presa</b> - Más pistas.\nCazador.\nDianne Devine recibe +3 de salud [per_investigator].\n<b>Obligado</b> - Después de que cualquier investigador realice una acción de negociar: Mueve a Dianne Devine una vez hacia ese investigador.",
+        "traits": "Monstruo. Sectario. Lunático. Élite."
+    },
+    {
+        "code": "52023b",
+        "flavor": "“Cómo me alegra volver a verte.” Le dice con amabilidad la mujer del vestido amarillo a uno de los demás invitados, como si fueran viejos amigos que acaban de verse por primera vez en años. La voz de Dianne es reconfortante al principio, pero tiene un trasfondo de algo distinto, de algo primario y amenazador“. Confío en que has mantenido nuestra promesa.\n No escucháis la respuesta, pero la sonrisa de Dianne se abre hasta convertirse en una mueca demencial. Su piel comienza a burbujear y a hervir como si hubiera algo escondido bajo la superficie que amenazara con salir. “Ah, ¿en serio?” Se vuelve directamente hacia vosotros, con los ojos ardiendo de furia“. ¿En serio?",
+        "name": "Realidad repulsiva",
+        "text": "Cada investigador que esté en el Lugar de Dianne Devine recibe 1 punto de horror.\nDale la vuelta a esta carta para mostrar su lado de Enemigo, sustituye con ella la versión Apoyo de Dianne Devine y retira ésta de la partida."
+    },
+    {
+        "code": "52024",
+        "name": "Invitada enloquecida",
+        "text": "Cazador.\n[action]: <b>Negociar.</b> Realiza una prueba de [intellect] (4). Si tienes éxito, logras hacerle entrar en razón por un instante; evita automáticamente a la Invitada enloquecida. Si fracasas, tus palabras caen en oídos sordos.",
+        "traits": "Humanoide. Monstruo. Lunático."
+    },
+    {
+        "code": "52024b",
+        "name": "Realidad repulsiva",
+        "text": "Si no hay ninguna Invitada de la fiesta en juego, vuelve a colocar esta carta bajo la carta de referencia de escenario y elige al azar una nueva carta de Realidad repulsiva para resolverla. De otro modo, lee lo siguiente:\n<blockquote><i>Un coro de risas se escucha de improviso a poca distancia mientras una de las invitadas baila al son de extraña música. Os dirigís hacia allí para descubrir qué es tan divertido, pero lo que encontráis no es motivo de risa en absoluto. La pareja de baile de la invitada yace desmadejada en el suelo, ensangrentada y con un enorme y terrible agujero en el pecho. La invitada gira hacia vosotros con un brillo perturbador en los ojos y una sonrisa siniestra en los labios.</i></blockquote>\nElige a una Invitada a la fiesta en juego.\nCada investigador que esté en el Lugar de esa Invitada a la fiesta recibe 1 punto de daño.\nColoca 1 ficha de Perdición sobre el plan en curso.\nDale la vuelta a esta carta para mostrar el lado de Enemigo, sustituye con ella la versión elegida de la Invitada a la fiesta y retira ésta de la partida."
+    },
+    {
+        "code": "52025",
+        "name": "Dianne Devine",
+        "subname": "Ocultando un juramento inconfesable",
+        "text": "Cada investigador que esté en el Lugar de Dianne Devine no puede descubrir ni tomar el control de pistas.\n<b>Obligado</b> - Al comienzo de la fase de Enemigos: Busca el Apoyo [[Transeúnte]] que tenga menos pistas (entre los Apoyos [[Transeúnte]] que tengan al menos 1 pista). Mueve a Dianne Devine al Lugar de ese Apoyo, si es posible.",
+        "traits": "Sectario."
+    },
+    {
+        "code": "52026",
+        "name": "Invitada a la fiesta",
+        "text": "<b>Revelación</b> - Busca el Apoyo [[Transeúnte]] que tenga más pistas y pon la Invitada a la fiesta en juego en el Lugar de ese Apoyo.\nLos investigadores no pueden negociar con los Apoyos [[Transeúnte]] que estén en el Lugar de la Invitada a la fiesta.\n[action] Gasta 2 recursos: <b>Negociar.</b> Mueve la Invitada a la fiesta a un Lugar conectado."
+    },
+    {
+        "code": "52027",
+        "name": "Exhibición impactante",
+        "text": "<b>Revelación</b> - Resuelve al azar una de las cartas Realidad repulsiva que hay bajo la carta de referencia de escenario. No puede ser cancelado.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52028",
+        "name": "Regreso a Ecos del pasado",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a Ecos del pasado</i> que se muestran aquí.\n- Elige al azar un Lugar Sociedad Histórica [[Sótano]] y retíralo de la partida sin mirar su lado revelado.\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Al poner Lugares en juego, pon en juego las 3 copias de Pasillos tranquilos junto con los 8 Lugares Sociedad Histórica restantes. Los 3 Lugares [[Sótano]] deben colocarse formando una fila bajo los 3 Lugares [[Planta baja]].\n- Deja aparte ambos Enemigos Guardián juramentado, fuera del juego.\n<hr>Durante este escenario, se aplica la siguiente regla adicional:\n\"<b>Obligado</b> - Después de que los investigadores avancen al acto 2 o al acto 3: Haz aparecer un Guardián del juramento puesto aparte en cualquier Lugar Sociedad Histórica vacío\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "52029",
+        "name": "Pasillos tranquilos",
+        "text": "El Vestíbulo de entrada está conectado a los Pasillos tranquilos.\nLos Pasillos tranquilos están conectados a todos los demás Lugares [[Sótano]].\n[action] Si todos los Lugares en juego están revelados y no hay pistas en los Lugares en juego: Coloca 1 pista [per_investigator] sobre los Pasillos tranquilos <i>(de la reserva de fichas)</i>.",
+        "traits": "Sótano.",
+        "back_flavor": "Tus pasos resuenan en el suelo de piedra mientras bajas al sótano que hay bajo la mansión.",
+        "back_text": "El Vestíbulo de entrada está conectado a los Pasillos tranquilos.\nLos Pasillos tranquilos están conectados a todos los demás Lugares [[Sótano]]."
+    },
+    {
+        "code": "52030",
+        "name": "Sociedad Histórica",
+        "subname": "Archivos polvorientos",
+        "text": "Mientras tengas al menos 1 carta Oculto en tu mano, no puedes investigar este Lugar.",
+        "traits": "Sótano.",
+        "back_flavor": "Una sencilla puerta de madera lleva a una de las salas del sótano que usa la Sociedad Histórica.",
+        "back_text": "<b>Obligado</b> - Cuando aparezca un Enemigo en este Lugar: Revela este Lugar."
+    },
+    {
+        "code": "52031",
+        "name": "Sociedad Histórica",
+        "subname": "Almacén del museo",
+        "text": "<b>Obligado</b> - Cuando investigues este Lugar, si hay al menos 1 Enemigo [[Sectario]] en juego: Este Lugar recibe -3 a velo para esta investigación. Si se revela un símbolo [skull], [cultist], [tablet], [elder_thing], o [auto_fail] durante esta prueba, mueve 1 pista de este Lugar al Enemigo [[Sectario]] más alejado de ti <i>(antes de resolver los efectos de la prueba)</i>.",
+        "traits": "Sótano.",
+        "back_flavor": "Una sencilla puerta de madera lleva a una de las salas del sótano que usa la Sociedad Histórica.",
+        "back_text": "<b>Obligado</b> - Cuando aparezca un Enemigo en este Lugar: Revela este Lugar."
+    },
+    {
+        "code": "52032",
+        "name": "Sociedad Histórica",
+        "subname": "Sala de calderas",
+        "text": "<b>Obligado</b> - Después de que descubras 1 o más pista en este Lugar: De una en una, roba esa misma cantidad de cartas de la parte superior del mazo de Encuentros.",
+        "traits": "Sótano.",
+        "back_flavor": "Una sencilla puerta de madera lleva a una de las salas del sótano que usa la Sociedad Histórica.",
+        "back_text": "<b>Obligado</b> - Cuando aparezca un Enemigo en este Lugar: Revela este Lugar."
+    },
+    {
+        "code": "52033",
+        "name": "Guardián del juramento",
+        "text": "Mientras el número de acto en curso sea mayor que el número de plan en curso, el Guardián del juramento obtiene Cazador.\n<b>Obligado</b> - Al final de la fase de Enemigos: Busca todos los investigadores cuyo Lugar comparta un [[Rasgo]] con el Lugar del Guardián del juramento. Mueve 1 pista de cada uno de esos investigadores al Guardián del juramento.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "52034",
+        "name": "Regreso a El juramento inconfesable",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a El juramento inconfesable</i> que se muestran aquí.\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Deja aparte el Enemigo Portador de la locura y la Traición Tratamiento radical, fuera del juego.\n- Al determinar qué versión del acto 2 se va a usar, no sigas las instrucciones de preparación originales. En lugar de eso, retira de la partida las versiones originales del acto 2 y comprueba el registro de campaña. Si tienes una cantidad mayor o igual de <b>Convicciones</b> que de <b>Dudas</b>, usa el nuevo acto 2 -\"Los realmente graves\" (v. III). Si tienes más <b>Dudas</b> que <b>Convicciones</b>, usa el nuevo acto 2 - \"los realmente graves\" (v. IV)."
+    },
+    {
+        "code": "52035",
+        "flavor": "Daniel está en alguna parte del sótano seguro en el que se encuentran los pacientes más peligrosos. Ahora que tienes la llave, puedes explorar esta zona del manicomio.",
+        "name": "\"Los realmente graves\" (v. III)",
+        "text": "Ignora el texto de los lados sin revelar de los Lugares [[Manicomio Arkham]].\n<b>Objetivo</b> - Encuentra el Lugar Aislamiento de pacientes donde está Daniel Chesterfield [[(Se indicará cuándo avanzar)]].",
+        "back_name": "El relato recontado",
+        "back_flavor": "Cuando entras en su celda, encuentras a Daniel hecho un ovillo en un rincón de la estancia, sollozando y meciéndose en el suelo: -Sin máscara… Sin máscara… -repite una y otra vez. Lo ayudas a ponerse en pie y le preguntas qué recuerda sobre <u>El rey de Amarillo</u>, pero te interrumpe.\n-¡Ya te lo he dicho! -exclama frenéticamente, con un brillo en los ojos, que tiene abiertos como platos-. ¿No lo recuerdas? La última vez que viniste aquí.\nSus palabras no tienen sentido. Acabas de llegar a este lugar… ¿no es así? -No, no, no… -tartamudea el hombre mientras se deja caer sobre el sucio catre que hay en un rincón de su habitación-. Nunca acabará. Nunca acabará hasta que ÉL desaparezca para siempre, ¿y nunca desaparecerá mientras estés aquí? ¡Sácame! Quiero salir—\nDaniel grita pidiendo ayuda, pero la única respuesta que se produce es la criatura que emerge de pronto debajo de su catre. Antes de que puedas reaccionar, sus tentáculos se han enroscado en torno a su cuerpo para devorarlo entero. Sus últimos gritos quedan ahogados pro la enormidad de la criatura.",
+        "back_text": "Haz aparecer el Enemigo Portador de la locura puesto aparte en el Aislamiento de pacientes <i>(Celda de Daniel)</i>. Añade la pila de descartes de Encuentros y todos los Enemigos que haya bajo el mazo de Acto al mazo de Encuentros y barájalo."
+    },
+    {
+        "code": "52036",
+        "flavor": "Daniel está en alguna parte del sótano seguro en el que se encuentran los pacientes más peligrosos. Ahora que tienes la llave, puedes explorar esta zona del manicomio.",
+        "name": "\"Los realmente graves\" (v. IV)",
+        "text": "Ignora el texto de los lados sin revelar de los Lugares [[Manicomio Arkham]].\n<b>Objetivo</b> - Encuentra el Lugar Aislamiento de pacientes donde está Daniel Chesterfield [[(Se indicará cuándo avanzar)]].",
+        "back_name": "Una y otra vez",
+        "back_flavor": "Cuando entras en la celda de Daniel, lo ves sentado en una silla, de cara a uno de los rincones de su cuarto. Está garabateando algo en la pared, con una expresión calmada. No, calmada no, sino casi desprovista totalmente de emociones. Le preguntas qué sabe sobre <u>El rey de Amarillo</u> y aunque no habla, ves su respuesta escrita en la pared: \"Ambos sabemos cómo acaba esto\". Perplejo, registras el resto de la estancia. Hay mensajes similares por la pared: \"Ya has oído hablar del juramento\", \"Se ha pagado el precio\", \"El camino se ha abierto una y otra vez\". Nada de eso tiene sentido, pero tu instinto te advierte que estos mensajes contienen más verdad que demencia. Ayudas a Daniel a ponerse en pie y tratas de sacarlo del cuarto, con la esperanza de poder hacer algo para ayudarlo.",
+        "back_text": "Elige un investigador que esté en el Aislamiento de pacientes <i>(Celda de Daniel)</i>. Pon en juego la carta Daniel Chesterfield puesta aparte, con el lado de Apoyo boca arriba, bajo el control de ese investigador. A continuación, vincúlale a Daniel Chesterfield la Traición Tratamiento radical puesta aparte.\nAñade la pila de descartes de Encuentros y todos los Enemigos que haya bajo el mazo de Acto al mazo de Encuentros y barájalo."
+    },
+    {
+        "code": "52037",
+        "name": "Portador de la locura",
+        "text": "Masivo. Cazador.\nEl Portador de la locura recibe +2 de salud [per_investigator].\n[action] Si controlas el Broche de ónice negro: <b>Negociar.</b> Le revelas el broche a la criatura. Ésta se queda paralizada, susurrando una confusa plegaria. Evita automáticamente al Portador de la locura.",
+        "traits": "Avatar. Élite."
+    },
+    {
+        "code": "52038",
+        "name": "Tratamiento radical",
+        "text": "<b>Obligado</b> - Al final de la ronda: El controlador de Daniel Chesterfield recibe 2 puntos de horror.\n[action] Si estás en la Enfermería: Realiza una prueba de [willpower] o de [intellect] (6). Si tienes éxito, desvincula Tratamiento radical y añádelo a la zona de victoria. Si controlas el Broche de ónice negro, reduce en 3 la dificultad de esta prueba."
+    },
+    {
+        "code": "52039",
+        "name": "Memoria enturbiada",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Olvidar algo que un investigador haya \"recordado\" debido a la capacidad de un Lugar. <i>(Ya no es cierto)</i>.\n- Recibir 1 punto de horror y la Memoria enturbiada obtiene Oleada.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52040",
+        "name": "Regreso a El Fantasma de la Verdad",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a El Fantasma de la Verdad</i> que se muestran aquí.\n- Elige al azar 1 de los 2 Lugares Montparnasse, 1 de los 2 Lugares Grand Guignol, 1 de los 2 Lugares Cementerio Père Lachaise…<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "…1 de los 2 Lugares Canal Saint-Martin, 1 de los 2 Lugares Notre-Dame y 1 de los 2 Lugares Jardines de Luxemburgo. Pon esos Lugares en juego. Retira de la partida las demás versiones de esos Lugares.\n- Deja aparte ambas copias de Figura en las sombras, fuera del juego.\n<hr>Durante este escenario, se aplica la siguiente regla adicional:\n\"<b>Obligado</b> - Después de que El organista entre en juego: Añade la pila de descartes de Encuentros y ambas copias de Figura en las sombras puestas aparte al mazo de Encuentros y barájalo\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "52041",
+        "name": "Montparnasse",
+        "text": "<b>Obligado</b> - Después de que descubras cualquier cantidad de pistas de Montparnasse: Descarta cartas de tu mano que tengan esa misma cantidad de iconos [willpower] entre ellas. Si no puedes, recibe 1 punto de horror.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Esta zona es conocida por sus cafeterías y bares, y suele estar frecuentada por artistas tratando de alcanzar el éxito. Puede que alguno de estos tipos creativos acabe siendo famoso algún día, pero supones que la mayoría caerá en el olvido."
+    },
+    {
+        "code": "52042",
+        "flavor": "Parece que en el teatro se está representando un espectáculo sobre la locura. Te preguntas si alguna vez se habrá representado <u>El Rey de Amarillo</u>.",
+        "name": "Grand Guignol",
+        "subname": "Teatro del gran guiñol",
+        "text": "[action] Gasta 5 recursos: Coloca 1 ficha de Perdición sobre el plan en curso, o bien retira 1 ficha de Perdición del plan en curso. Límite de grupo de una vez por partida.",
+        "traits": "París.",
+        "back_flavor": "Le Théâtre du Grand-Guignol se especializa en espectáculos de terror de naturaleza gráfica y, a veces, amoral. Es uno de los recintos más pequeños de París, y uno de los más populares."
+    },
+    {
+        "code": "52043",
+        "flavor": "Varios caminos de piedra serpentean entre las hileras de tumbas y los numerosos mausoleos. El denso y retorcido cementerio te ha atrapado en un estado de melancolía, rodeado de muerte por todas partes.",
+        "name": "Cementerio Père Lachaise",
+        "text": "<b>Obligado</b> - Después de que un Enemigo se mueva al Cementerio Père Lachaise: Recibe +1 a su valor de horror durante el resto de la ronda.",
+        "traits": "París.",
+        "back_flavor": "El Père Lachaise, tan hermoso como fantasmal, es el mayor cementerio de París y su primer cementerio jardín."
+    },
+    {
+        "code": "52044",
+        "name": "Canal Saint-Martin",
+        "text": "Mientras estés en el Canal Saint-Martin, debes usar tu [combat] en lugar de tu [agility] y viceversa.",
+        "traits": "París.",
+        "back_flavor": "Este canal subterráneo conecta el río Sena con el canal de l’Ourcq. Una vieja escalinata agrietada lleva a la entrada del canal."
+    },
+    {
+        "code": "52045",
+        "name": "Notre-Dame",
+        "text": "Cada enemigo que esté en Notre-Dame recibe +1 a combate y -1 a evitar.\n[reaction]: Después de que evites con éxito a un Enemigo en Notre-Dame por 3 o más durante tu turno: Puedes realizar una acción adicional en este turno. Límite de grupo de una vez por ronda.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "La catedral más famosa de todo París, y uno de los mejores ejemplos de la arquitectura gótica del mundo. Notre-Dame de París, \"Nuestra Señora de París\", es un icono de la ciudad. La luz atraviesa sus vidrieras de colores, y oyes que un órgano del interior emite una extraña y caótica melodía."
+    },
+    {
+        "code": "52046",
+        "name": "Jardines de Luxemburgo",
+        "text": "Después de que entres en los Jardines de Luxemburgo, si hay al menos 1 Enemigo [[Byakhee]] en juego: Revela una ficha al azar de la bolsa del caos. Si revelas un símbolo [skull], [cultist], [tablet], [elder_thing] o [auto_fail], cada Enemigo [[Byakhee]] en juego se prepara y se mueve a los Jardines de Luxemburgo.",
+        "traits": "París.",
+        "back_flavor": "Los jardines del Palacio de Luxemburgo contienen cientos de estatuas, monumentos y fuentes. Sería un relajante paseo si no hubieras llegado aquí para escapar de las criaturas aladas que chillan y surcan el oscuro cielo sobre su cabeza."
+    },
+    {
+        "code": "52047",
+        "name": "Figura en las sombras",
+        "text": "<b>Revelación</b> - Comprueba el registro de campaña.\n- Si tienes una cantidad mayor o igual de <b>Dudas</b> que de <b>Convicciones</b>, mueve a El organista 1 Lugar alejándose del investigador mñas cercano (a un Lugar que no haya investigadores si es posible).\n- Si tienes más <b>Convicciones</b> que <b>Dudas</b>, resuelve la palabra clave Cazador de El organista.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "52048",
+        "name": "Regreso a La máscara pálida",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a La máscara pálida</i> que se muestran aquí.\n- Al crear el mazo de Catacumbas, primero deja aparte la Tumba de las sombras y el Pasadizo bloqueado de forma normal.\n- A continuación, añade los 4 nuevos Lugares Catacumbas incluidos en este conjunto de encuentros a los Lugares Catacumbas restantes, y determina tu Lugar inicial de forma normal.\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Después, elige al azar 4 Lugares Catacumbas y retíralos de la partida sin mirar.\n- Crea el resto del mazo de Catacumbas de forma normal.\n<hr>Durante este escenario, se aplica la siguiente regla adicional:\n\"A efectos de la capacidad de aparición del Morador de cadáver, El hombre de la máscara pálida no cuenta como Enemigo [[Humanoide]].\nMientras esté en juego el acto 2, El hombre de la máscara pálida no puede abandonar la Tumba de sombras.\"\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "52049",
+        "name": "Pasadizo secreto",
+        "text": "[action] Si controlas el Broche de ónice negro: Colocas el broche en la cuenca del ojo del cráneo, y el pasadizo se abre. Revela el Lugar Catacumbas a la derecha del Pasadizo Secreto.\n<b>Obligado</b> - Cuando el Pasadizo secreto sea revelado: Pon las primeras Catacumbas del mazo de Catacumbas en juego a la derecha del Pasadizo secreto.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Las paredes de este ancho pasadizo están decoradas con cráneos y huesos de forma macabra.",
+        "back_text": "Como coste adicional para entrar en las Catacumbas, los investigadores que estén en tu Lugar deben gastar, como grupo, 1 pista [per_investigator]."
+    },
+    {
+        "code": "52050",
+        "name": "Montón de huesos",
+        "text": "<b>Obligado</b> -  Cuando el Montón de huesos sea revelado: Pon las 4 primeras Catacumbas del mazo de Catacumbas en juego por encima, por debajo, a la izquierda y a la derecha del Montón de huesos. Al final de la ronda en curso, busca en el mazo y la pila de descartes de Encuentros un Esqueleto deforme y haz que aparezca en el Montón de huesos.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Las paredes de este ancho pasadizo están decoradas con cráneos y huesos de forma macabra.",
+        "back_text": "Como coste adicional para entrar en las Catacumbas, los investigadores que estén en tu Lugar deben gastar, como grupo, 1 pista [per_investigator]."
+    },
+    {
+        "code": "52051",
+        "name": "Lugar de investigación",
+        "text": "[reaction] Después de que investigues con éxito el Lugar de investigación: Revela cualquier Lugar Catacumbas. Límite de grupo de una vez por partida.\n<b>Obligado</b> - Cuando el Lugar de investigación sea revelado: Pon las primeras Catacumbas del mazo de Catacumbas en juego por encima, por debajo o a la derecha de cualquier otro Lugar.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Las paredes de este ancho pasadizo están decoradas con cráneos y huesos de forma macabra.",
+        "back_text": "Como coste adicional para entrar en las Catacumbas, los investigadores que estén en tu Lugar deben gastar, como grupo, 1 pista [per_investigator]."
+    },
+    {
+        "code": "52052",
+        "name": "Mar de cráneos",
+        "text": "<b>Obligado</b> - Después de que termines tu turno en el Mar de cráneos: Debes recibir 1 punto de horror directo o buen elegir y descartar 3 cartas de tu mano.\n<b>Obligado</b> - Cuando el Mar de cráneos sea revelado: Pon las primeras Catacumbas del mazo de Catacumbas en juego por encima, por debajo o a la derecha del Lugar más alejado de Mar de cráneos y marcalo con una ficha de horror. Durante el resto de la partida, el Mar de cráneos está conectado con el Lugar marcado.",
+        "back_name": "Catacumbas",
+        "back_flavor": "Las paredes de este ancho pasadizo están decoradas con cráneos y huesos de forma macabra.",
+        "back_text": "Como coste adicional para entrar en las Catacumbas, los investigadores que estén en tu Lugar deben gastar, como grupo, 1 pista [per_investigator]."
+    },
+    {
+        "code": "52053",
+        "name": "Esqueleto deforme",
+        "text": "Cazador.\n<b>Obligado</b> - Cuando el Esqueleto deforme fuese a resolver su palabra clave Cazador: Si no hay investigadores a 2 o menos Lugares de distancia de él, en lugar de resolver su palabra clave Cazador, muévelo al Lugar Catacumbas más cercano a un investigador.\n<b>Obligado</b> - Cuando el Esqueleto deforme te ataque: Inflige su daño o su horror en lugar de ambas cosas.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "52054",
+        "name": "Regreso a Surgen estrellas negras",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a Surgen estrellas negras</i> que se muestran aquí.\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Separa todas las copias del Claustro y de la Sala del caballero en dos montones, en función del icono del conjunto de encuentros de su dorso. Un montón debe estar formado por las versiones originales del Claustro y de la Sala del caballero, mientras que el otro debe estar formado por las nuevas versiones incluidas en este conjunto de encuentros. Dale la vuelta a los montones, de modo que sólo se vea el icono del conjunto de encuentros Surgen estrellas negras. Mueve los dos montones de forma que no sepas cuál es cuál; elige uno al azar para retirarlo de la partida y usa el otro para la preparación de este escenario."
+    },
+    {
+        "code": "52055",
+        "flavor": "Un monje solitario patrulla por el pasaje cubierto, rodeándose de una oración susurrada. Lleva un gran llavero de llaves de latón colgado del cíngulo.",
+        "name": "Claustro",
+        "text": "[action] Si no hay pistas en el Claustro: <b>Negociar.</b> Realiza una prueba de [willpower] o de [intellect] (4). Si tienes éxito, recuerda que \"los investigadores han encontrado la llave de la torre\".",
+        "back_flavor": "La galería abierta del claustro suele estar restringida a los monjes y líderes religiosos del monasterio, puesto que la abadía parece abandonada, no te cuesta mucho colarte."
+    },
+    {
+        "code": "52056",
+        "flavor": "Oyes que alguien golpea una puerta cercana; se trata de uno de los monjes de la abadía, que trata de huir de la destrucción del exterior: -¡Déjenme entrar! -grita, presa del pánico-. ¡Por favor, se lo ruego!",
+        "name": "Sala del caballero",
+        "text": "[action] Si no hay pistas en la Sala del caballero: Realiza una prueba de [combat] o [agility] (3). Si tienes éxito, recuerda que \"los investigadores han encontrado un guía\".",
+        "back_flavor": "Las hileras de columnas de piedra simétricas le dan a esta sala una sensación de serena calma que contrasta con el torrente del exterior."
+    },
+    {
+        "code": "52057",
+        "name": "Mirada de Hastur",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade la Mirada de Hastur a tu mano en secreto.\n<b>Obligado</b> - Después de que se coloquen 1 o más fichas de Perdición sobre el plan \"c\": Recibe 2 puntos de horror y descarta la Mirada de Hastur de tu mano.",
+        "traits": "Power."
+    },
+    {
+        "code": "52058",
+        "name": "Agarre de Hastur",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade el Agarre de Hastur a tu mano en secreto.\n<b>Obligado</b> - Después de que se coloquen 1 o más fichas de Perdición sobre el plan \"a\": Recibe 2 puntos de daño y descarta el Agarre de Hastur de tu mano.",
+        "traits": "Power."
+    },
+    {
+        "code": "52059",
+        "name": "Regreso a Penumbrosa Carcosa",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>El camino a Carcosa</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de encuentros <i>Regreso a Penumbrosa Carcosa</i> que se muestran aquí.\n<b>(Sigue en el reverso.)</b>",
+        "traits": "Regreso.",
+        "back_text": "- Retira de la partida el Lugar original El palacio del Rey y sustitúyelo por el nuevo El palacio del Rey <i>(Dominio de Hastur)</i>. Sigue con la preparación de los Lugares de forma normal.\n- Deja aparte los siguientes Lugares nuevos, fuera del juego: Recovecos de tu propia mente, La sala del trono y Escenario del Teatro Ward.\n<hr>Durante este escenario, se aplican las siguientes reglas adicionales:\n- \"La Salud de Hastur no se puede reducir a menos de 2[per_investigator] a menos que 'los investigadores conozcan el secreto'.\"\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "52060",
+        "flavor": "Ruego a Dios que maldiga al escritor, como el escritor maldijo al mundo con esta su hermosa, estupenda creación, terrible en su simplicidad, irresistible en su verdad…\n – Robert W. Chambers, \"El reparador de reputaciones\", <u>El Rey de Amarillo</u>",
+        "name": "El palacio del Rey",
+        "subname": "Dominio de Hastur",
+        "text": "No se puede dar la vuelta a El palacio del Rey mientras Hastur tenga más de 2 de salud [per_investigator] restantes.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "52060b",
+        "flavor": "Estás ante el palacio del Rey. Los incesantes susurros de Hastur te llenan la mente, y te resulta difícil evitar que sus ponzoñosas palabras entren en tus pensamientos. Al ver el palacio en toda su gloria y esplendor, te das cuenta de su verdadera naturaleza. Ahora sabes lo que debes hacer.\nLas puertas de palacio se abren.",
+        "name": "La última batalla de Hastur",
+        "text": "Comprueba el registro de campaña:\n- Si la versión de Hastur que está en juego es Hastur <i>(The King in Yellow)</i>: Pon en juego el Lugar Recovecos de tu propia mente puesto aparte.\n- Si la versión de Hastur que está en juego es Hastur <i>(Señor de Carcosa)</i>: Pon en juego el Lugar La sala del trono puesto aparte. Mueve a Hastur a La sala del trono.\n- Si la versión de Hastur que está en juego es Hastur <i>(El Rey Andrajoso)</i>: Pon en juego el Lugar Escenario del Teatro Ward puesto aparte.\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "52061",
+        "name": "Recovecos de tu propia mente",
+        "text": "Mientras estés en los Recovecos de tu propia mente, establece el valor básico de tu [willpower] en 0.\nCada investigador que esté en los Recovecos de tu propia mente se considera como si estuviera en una copia distinta de Recovecos de tu propia mente en lo relativo a efectos de cartas de jugador y a asignar cartas a las pruebas de habilidad de cada investigador.",
+        "traits": "???."
+    },
+    {
+        "code": "52061b",
+        "flavor": "Tú inventaste todo esto, pero eso no significa que no sea real. Lo que hace que lo sea es la voluntad del escritor. El trazo de una pluma. La impresión de la tinta sobre el papel. Tienes en tu interior el poder de cambiar tu propio destino. Eres el autor de tu propia caída.",
+        "name": "El escritor",
+        "text": "Recuerda que \"los investigadores conocen el secreto\".\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "52062",
+        "name": "La sala del trono",
+        "text": "Hastur no puede abandonar La sala del trono.\nHastur no puede ser agotado.\nHastur no puede realizar ataques de oportunidad.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "52062b",
+        "flavor": "El rey y el trono son una misma cosa. Es la sede de su poder y el lugar de su descanso final.",
+        "name": "La entidad",
+        "text": "Recuerda que \"los investigadores conocen el secreto\".\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "52063",
+        "name": "Escenario del Teatro Ward",
+        "text": "Mientras Hastur se mueva, si hay un investigador en el Escenario del Teatro Ward, el Lugar de Hastur se considera conectado al Escenario del Teatro Ward.\nMientras estés en el Escenario del Teatro Ward, no puedes atacar a Hastur."
+    },
+    {
+        "code": "52063b",
+        "flavor": "El aplauso del público es atronador. Incesante. Tu corazón se llena de una alegría desbordante por el éxito.\nEl espectáculo debe continuar.",
+        "name": "La ilusión",
+        "text": "Recuerda que \"los investigadores conocen el secreto\".\nDale la vuelta a esta carta. Durante el resto de la partida, no puede volver a darse la vuelta."
+    },
+    {
+        "code": "52064",
+        "name": "Sumo Sacerdote de Hastur",
+        "text": "<b>Aparición</b> - El palacio del Rey.\n<b>Presa</b> - Más cartas en la mano.\nCazador.\n<b>Obligado</b> - Cuando el Sumo Sacerdote de Hastur te ataque, si tienes una copia de Posesión en tu mano; Revélala. El sumo sacerdote te da la bienvenida a la gran compañía del Rey. Eres eliminado y te vuelves <b>loco</b>.",
+        "traits": "Humanoide. Sectario. Élite."
+    },
+    {
+        "code": "52065",
+        "name": "Males ilusorios",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Debes añadir los Males ilusorios a tu mano en secreto o bien colocar 1 ficha de Perdición sobre el Plan en curso y descartar los Males ilusorios (este efecto puede hacer que el plan en curso avance).\n<b>Obligado</b> - Cuando fueses a tener éxito en una prueba de habilidad por 3 o más: En Lugar de eso, fracasas automáticamente. Descarta los Males ilusorios de tu mano.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "52066",
+        "name": "Paredes sangrantes",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (X). X es el valor de velo de tu Lugar. Si fracasas, pierde 1 acción y recibe 1 punto de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52067",
+        "name": "Pensamientos frágiles",
+        "text": "<b>Revelación</b> - Descarta Eventos de tu mano que tengan un coste de recursos impreso total de al menos X, donde X es el valor de velo de tu Lugar. Si no se descartaron cartas por este efecto, los Pensamientos frágiles obtienen Oleada.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52068",
+        "name": "Plaga de gusanos",
+        "text": "El Lugar de la Plaga de gusanos recibe +2 a velo.\nMientras la Plaga de gusanos esté en un Lugar que no tenga pistas, obtiene Cazador.",
+        "traits": "Criatura."
+    },
+    {
+        "code": "52069",
+        "name": "Byakhee de rapiña",
+        "text": "<b>Presa</b> - Sólo menor cordura restante.\nCazador.\nMientras esté enfrentado a un investigador al que le queden 4 puntos de cordura o menos, intercambia los valores de combate y evitar del Byakhee de rapiña.",
+        "traits": "Monstruo. Byakhee."
+    },
+    {
+        "code": "52070",
+        "name": "El signo de Hastur",
+        "text": "Peligro.\n<b>Revelación</b> - Vincula El signo de Hastur al plan en curso o bien al acto en curso.\nLímite de 1 por plan/acto.\n<b>Obligado</b> - Cada vez que un investigador reciba 1 o más puntos de horror: Recibe 1 punto de horror adicional.",
+        "traits": "Pacto. Poder."
+    },
+    {
+        "code": "52071",
+        "name": "Visiones en tu mente",
+        "subname": "Horrores",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\n<b>Obligado</b> - Cuando acabe tu turno, si no has realizado al menos 1 acción de jugar durante tu turno: Descarta esta carta de tu mano y recibe 1 punto de daño directo y un punto de horror directo.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52072",
+        "name": "Visiones en tu mente",
+        "subname": "Fracaso",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\n<b>Obligado</b> - Cuando acabe tu turno, si no has realizado al menos 1 acción de recursos durante tu turno: Descarta esta carta de tu mano y recibe 1 punto de daño directo y un punto de horror directo.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52073",
+        "name": "Visiones en tu mente",
+        "subname": "Muerte",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\n<b>Obligado</b> - Cuando acabe tu turno, si no has realizado al menos 1 acción de movimiento durante tu turno: Descarta esta carta de tu mano y recibe 1 punto de daño directo y un punto de horror directo.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52074",
+        "name": "Visiones en tu mente",
+        "subname": "Odio",
+        "text": "Peligro. Oculto.\n<b>Revelación</b> - Añade esta carta a tu mano en secreto.\n<b>Obligado</b> - Cuando acabe tu turno, si no has realizado al menos 1 acción de robar durante tu turno: Descarta esta carta de tu mano y recibe 1 punto de daño directo y un punto de horror directo.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52075",
+        "name": "Delirios enloquecedores",
+        "text": "Oleada.\n<b>Revelación</b> - Si tienes 1 o más cartas Oculto en tu mano, recibe 1 punto de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52076",
+        "name": "Voz de Tru'nembra",
+        "text": "Peligro.\n<b>Revelación</b> - Realiza una prueba de [willpower] (3). Debes elegir una opción distinta por cada punto que te falte para tener éxito:\n- Descarta 2 recursos.\n- Recibe 1 punto de horror.\n- Recibe -2 a la siguiente prueba de habilidad que realices en esta ronda.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52077",
+        "name": "Melancolía",
+        "text": "<b>Revelación</b> - Pon la Melancolía en juego en tu zona de amenaza.\nAumenta en 1 el coste de recursos de todas las cartas de tu mano.\n<b>Obligado</b> - Al final de turno: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta la Melancolía.",
+        "traits": "Terror."
+    },
+    {
+        "code": "52078",
+        "name": "Reflejo doloroso",
+        "text": "<b>Revelación</b> - Pon el Reflejo doloroso en juego en tu zona de amenaza.\n<b>Obligado</b> - Cuando juegues un Evento: Revela una ficha al azar de la bolsa de caos. Si revelas un símbolo [skull], [cultist], [tablet], [elder_thing], o [auto_fail], cancela ese evento, recibe 1 punto de horror y descarta el Reflejo doloroso.",
+        "traits": "Terror."
+    }
+]

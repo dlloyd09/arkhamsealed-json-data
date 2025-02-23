@@ -1,0 +1,224 @@
+[
+    {
+        "code": "03200",
+        "name": "El Fantasma de la Verdad",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la cantidad de perdición en juego (máx. 5).\n[cultist]: -2. Si fracasas, mueve cada [[Byakhee]] no enfrentado que esté en juego una vez hacia el investigador más cercano.\n[tablet]: -3. Cancela los efectos e iconos de todas las cartas de Habilidad asignadas a esta prueba.\n[elder_thing]: -2. Si fracasas, pierde 1 recurso por cada punto que te falte para tener éxito.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad de perdición en juego.\n[cultist]: -2. Mueve cada [[Byakhee]] no enfrentado que esté en juego una vez hacia el investigador más cercano.\n[tablet]: -4. Cancela los efectos e iconos de todas las cartas de Habilidad asignadas a esta prueba.\n[elder_thing]: -3. Si fracasas, pierde 1 recurso por cada punto que te falte para tener éxito."
+    },
+    {
+        "code": "03201",
+        "flavor": "Cuando bajas del tren en la Gare d’Orsay, el sol se está poniendo tras la silueta de los edificios de París. No puedes perder tiempo. Si Nigel Engram está en algún lugar de París, debes encontrarlo y sacarle respuestas de un modo u otro.",
+        "name": "La primera noche",
+        "text": "Mientras tengas más <b>Convicciones</b> que <b>Dudas</b>, este plan obtiene:\n\"Al comprobar el umbral de perdición, la perdición que haya en cartas que no sean este plan se resta de la perdición total en juego en lugar de sumarse.\"",
+        "back_name": "La llegada del día",
+        "back_flavor": "Los pájaros empiezan a piar con ganas. Un suave tono naranja se extiende lentamente por el cielo mientras las criaturas de la noche se repliegan en la oscuridad. Pasas la mayor parte del día descansando, y la luz diurna pasa rápidamente sin que la aproveches del todo. Antes de que hayas podido recuperarte por completo de los acontecimientos de la noche anterior, vuelve a caer la noche.",
+        "back_text": "Todos los investigadores dejan de estar enfrentados a cada Enemigo enfrentado a ellos y pueden moverse a un Lugar conectado. Mueve El organista 1 Lugar alejándose del investigador más cercano (a un Lugar en el que no haya investigadores si es posible)."
+    },
+    {
+        "code": "03202",
+        "flavor": "La ciudad se agita cuando las frías sombras envuelven las calles. Estás rodeado de peligros. Peligros de los que no puedes escapar. Peligros que te seguirán hasta los confines de la Tierra. ¿Cuándo terminará esta pesadilla viviente?",
+        "name": "La segunda noche",
+        "text": "Mientras tengas más <b>Convicciones</b> que <b>Dudas</b>, este plan obtiene:\n\"Al comprobar el umbral de perdición, la perdición que haya en cartas que no sean este plan se resta de la perdición total en juego en lugar de sumarse.\"",
+        "back_name": "Sale un sol rojo",
+        "back_flavor": "Para tu alivio, el sol vuelve a salir una vez más, asomando por el horizonte oriental y proyectando largas sombras por las calles de la ciudad. Estás completamente agotado por los sucesos de la noche. Tienes la sensación de llevar semanas sin dormir. Y puede que sea así.",
+        "back_text": "Todos los investigadores dejan de estar enfrentados a cada Enemigo enfrentado a ellos y pueden moverse a un Lugar conectado. Mueve El organista 1 Lugar alejándose del investigador más cercano (a un Lugar en el que no haya investigadores si es posible).\nComprueba el registro de campaña. Si Jordan Perry no aparece en la sección \"VIP muertos\", busca en tu colección a Jordan Perry [[(Una presencia imponente)]] y haz que aparezca en Montparnasse."
+    },
+    {
+        "code": "03203",
+        "flavor": "Cuando llega tu tercera noche en París, una determinación desesperada se agita en tu interior. Hay que acabar con este juego el gato y el ratón. De un modo u otro, esta noche será la última.",
+        "name": "La tercera noche",
+        "text": "Mientras tengas más <b>Convicciones</b> que <b>Dudas</b>, este plan obtiene:\n\"Al comprobar el umbral de perdición, la perdición que haya en cartas que no sean este plan se resta de la perdición total en juego en lugar de sumarse.\"",
+        "back_name": "Por fin llega el alba",
+        "back_flavor": "El sol se alza y disipa la oscuridad. Una cálida niebla envuelve la ciudad y tapa el cielo.",
+        "back_text": "Comprueba el registro de campaña.\n-Si tienes una cantidad mayor o igual de <b>Dudas</b> que de <b>Convicciones</b>, pasa a <b>(→R3)</b>.\n-Si tienes más <b>Convicciones</b> que <b>Dudas</b>, avanza al acto 2b."
+    },
+    {
+        "code": "03204",
+        "flavor": "Pasas junto a la iglesia de San Bernabé al salir de la estación de tren y no puedes evitar oír la música de su órgano. ¿Habrá servicio religioso a esta hora de la noche? Te maravillas ante los extraños y tempestuosos acordes durante unos instantes antes de continuar. París es una ciudad muy grande, y tienes muy pocas pistas…",
+        "name": "La conspiración parisina (v. I)",
+        "text": "<b>Objetivo</b> - Gasta la cantidad necesaria de pistas para avanzar.\n<b>Objetivo</b> - Al final de la ronda, si hay 3 o más fichas de Perdición en juego, haz avanzar el acto.",
+        "back_name": "San Bernabé",
+        "back_text": "<b>Si los investigadores gastaron pistas para avanzar</b>:\n<blockquote>[[Estás a punto de chocarte con un hombre alto, cuyo abrigo y sombrero son tan negros como pálida es su piel. Recuerdas haberlo visto por las ventanas de la iglesia de San Bernabé. Su forma de tocar el órgano te sigue obsesionando…]]</blockquote>\nHaz aparecer el Enemigo El organista puesto aparte en el Lugar del investigador jefe, con el lado [[(Envuelto en misterio)]] boca arriba. Haz avanzar el acto al acto 2a - Persiguiendo sombras.\n<b>Si no es así</b>:\n<blockquote>[[El órgano que escuchaste antes te sigue obsesionando. Allá donde vas, los tortuosos acordes se repiten una y otra vez en tu cabeza. Extrañado, le preguntas por la iglesia a una transeúnte. –¿San Bernabé?– responde con un fuerte acento –. Ese sitio no existe.\"]]</blockquote>\nCada investigador recibe 2 puntos de horror.\nHaz aparecer el Enemigo El organista puesto aparte en el Lugar más alejado de todos los investigadores, con el lado [[(Envuelto en misterio)]] boca arriba. Haz avanzar el acto al acto 2a - Persiguiendo sombras."
+    },
+    {
+        "code": "03205",
+        "flavor": "Pasas junto a la iglesia de San Bernabé al salir de la estación de tren y no puedes evitar oír la música de su órgano. ¿Habrá servicio religioso a esta hora de la noche? Te maravillas ante los extraños y tempestuosos acordes durante unos instantes antes de continuar. París es una ciudad muy grande, y tienes muy pocas pistas…",
+        "name": "La conspiración parisina (v. II)",
+        "text": "<b>Objetivo</b> - Gasta la cantidad necesaria de pistas para avanzar.\n<b>Objetivo</b> - Al final de la ronda, si hay 3 o más fichas de Perdición en juego, haz avanzar el acto.",
+        "back_name": "El mal verdadero",
+        "back_text": "<b>Si los investigadores gastaron pistas para avanzar</b>:\n<blockquote>[[El órgano que escuchaste antes te sigue obsesionando. Allá donde vas, los tortuosos acordes se repiten una y otra vez en tu cabeza. La sensación de que te están observando no deja de dar vueltas en tu mente.]]</blockquote>\nHaz aparecer el Enemigo El organista puesto aparte en el Lugar más alejado de todos los investigadores, con el lado [[(Lo desafie sin esperanza)]] boca arriba. Haz avanzar el acto al acto 2a - Acechados por las sombras.\n<hr><b>Si no es así</b>:\n<blockquote>[[Estás a punto de chocarte con un hombre alto, cuyo abrigo y sombrero es tan negros como pálida es su piel. Te echa una mirada de odio tan intensa y letal como jamás has visto. Retrocedes al verlo, y las sombras se arremolinan en torno a sus pies mientras camina hacia ti.]]</blockquote>\nCada investigador recibe 2 puntos de horror.\nHaz aparecer el Enemigo El organista puesto aparte en el Lugar más alejado de todos los investigadores, con el lado [[(Lo desafie sin esperanza)]] boca arriba. Haz avanzar el acto al acto 2a - Acechado por las sombras."
+    },
+    {
+        "code": "03206",
+        "flavor": "Los acordes que resuenan en tu mente, el hombre infernal cuya música de órgano te intriga y aterra… ¿Podría haber alguna conexión entre esta sombría presencia y <u>El Rey de Amarillo</u>?",
+        "name": "Persiguiendo sombras",
+        "text": "[reaction] Después de que ataques con éxito a El organista: un investigador que esté en tu Lugar puede colocar 1 de sus pistas sobre El organista. Límite de grupo 1 vez [per_investigator] por ronda.\n<b>Objetivo</b> - Si hay 3 pistas [per_investigator] sobre El organista, haz avanzar el acto.",
+        "back_name": "La oveja perdida",
+        "back_flavor": "Persigues a tu presa por una estrecha avenida y a través de unos pesados portones de hierro. Estás en un callejón sin salida, un patio con altas casas antiguas en todos sus lados. Cierras los portones y te vuelves hacia la sombría silueta justo cuando comienza a despuntar el alba. Rayos de luz asoman por las siluetas de los edificios, y levantas la mano para tapar el brillo del sol. A continuación, como si lo hubiera dispersado la luz de sol, la figura que perseguías se funde entre las sombras y desaparece. Registras el patio en busca del misterioso personaje, pero no hay ni rastro por ninguna parte. Cuando estás a punto de marcharte, ves una placa junto a una puerta de color marrón rojizo que se encuentra en lo alto de una empinada y estrecha escalinata y que dice: \"N. Engram\".",
+        "back_text": "Comprueba el registro de campaña.\n-Si [[los investigadores se colaron en una reunión secreta]], pasa a <b>(→R2)</b>.\n-Si no es así, pasa a <b>(→R1)</b>."
+    },
+    {
+        "code": "03207",
+        "flavor": "Sabía que cada vez que lo encontrara, el cumplimiento de su cometido y mi destino estarían más cerca. Y aún trataba de salvarme.\n–Robert W. Chambers, \"En la corte del dragón,\" <u>El Rey de Amarillo</u>",
+        "name": "Acechados por las sombras",
+        "text": "[free] Gastad, como grupo, 1 pista[per_investigator]: Coloca 1 ficha de perdición sobre el plan en curso, o bien evita automáticamente a El organista. Límite de grupo de una vez por ronda.\n<b>Objetivo</b> - Sobrevivir tres noches. [[(No avances hasta que no se te indique)]].",
+        "back_name": "El cayado del pastor",
+        "back_flavor": "Ni siquiera miras por dónde vas mientras huyes por la ciudad para ponerte a salvo. Tus pies se mueven solos. El batir de unas fuertes alas y el chillido de las criaturas que te sobrevuelan te hacen ir más rápido. Pronto te encuentras corriendo por una estrecha avenida y a través de unos pesados portones de hierro. Estás en un callejón sin salida, un patio con altas casas antiguas en todos sus lados. Te vuelves hacia la entrada y respiras con alivio al ver que el sol vuelve a salir sobre la silueta de los edificios de París. Como si lo hubiera dispersado la luz del sol, la figura que te perseguía se funde entre las sombras y desaparece. Cuando estás a punto de marcharte, ves una placa junto a una puerta de color marrón rojizo que se encuentra en lo alto de una empinada y estrecha escalinata y que dice: \"N. Engram\".",
+        "back_text": "Comprueba el registro de campaña.\n-Si [[los investigadores se colaron en una reunión secreta]], pasa a <b>(→R2)</b>.\n-Si no es así, pasa a <b>(→R1)</b>."
+    },
+    {
+        "code": "03208",
+        "name": "Montparnasse",
+        "text": "[free] Descarta una carta de tu mano: Obtén una cantidad de recursos igual a la cantidad de iconos [willpower] de la carta descartada. Límite de una vez por ronda.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Esta zona es conocida por sus cafeterías y bares, y suele estar frecuentada por artistas tratando de alcanzar el éxito. Puede que alguno de estos tipos creativos acabe siendo famoso algún día, pero supones que la mayoría caerá en el olvido."
+    },
+    {
+        "code": "03209",
+        "flavor": "La fría lluvia cae sobre la calle. Cada callejón por el que pasas es otro escondite para algo siniestro.",
+        "name": "Montmartre",
+        "text": "[action]: Revela la primera carta del mazo de cada investigador. Puedes jugar un Apoyo revelado por este efecto [[(pagando su coste)]], bajo tu control. Baraja el mazo de cada investigador. Límite de grupo una vez por ronda.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Te habían contado que este barrio era muy agradable y que tenía mucha animación, pero las calles te parecen extrañamente solitarias."
+    },
+    {
+        "code": "03210",
+        "flavor": "La fría lluvia cae sobre la calle. Cada callejón por el que pasas es otro escondite para algo siniestro.",
+        "name": "Montmartre",
+        "text": "[action] Gasta 1 recurso: Añade 1 ficha de suministro o de munición a una carta que controles. Límite de una vez por ronda.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Te habían contado que este barrio era muy agradable y que tenía mucha animación, pero las calles te parecen extrañamente solitarias."
+    },
+    {
+        "code": "03211",
+        "flavor": "Parece que en el teatro se está representando un espectáculo sobre la locura. Te preguntas si alguna vez se habrá representado <u>El Rey de Amarillo</u>.",
+        "name": "Grand Guignol",
+        "subname": "Teatro del gran guiñol",
+        "text": "<b>Obligado</b> - Después de que reveles el Grand Guignol: Debes recibir 2 puntos de horror, o bien añadir todas las cartas que no sean Debilidad de tu mano a tu mazo, barajarlo y luego robar esa misma cantidad de cartas.",
+        "traits": "París.",
+        "back_flavor": "Le Théâtre du Grand-Guignol se especializa en espectáculos de terror de naturaleza gráfica y, a veces, amoral. Es uno de los recintos más pequeños de París, y uno de los más populares."
+    },
+    {
+        "code": "03212",
+        "flavor": "Un rastro de sangre sube por la gran escalinata. Una espesa y fría niebla envuelve la sala. Tienes la inconfundible sensación de que hay algo inhumano en la ópera…",
+        "name": "Opéra Garnier",
+        "text": "Mientras estés investigando la Opéra Garnier, dobla la cantidad de iconos de habilidad de las cartas asignadas a esa prueba de habilidad.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "El Palais Garnier es una ornamentada obra maestra arquitectónica, y una de las óperas más famosas del mundo. Te parece extraño encontrar las puertas principales abiertas de par en par, y una oscura neblina surge de su umbral."
+    },
+    {
+        "code": "03213",
+        "flavor": "Un rastro de sangre sube por la gran escalinata. Una espesa y fría niebla envuelve la sala. Tienes la inconfundible sensación de que hay algo inhumano en la ópera…",
+        "name": "Opéra Garnier",
+        "text": "Mientras estés investigando la Opéra Garnier, dobla el valor básico de tu habilidad.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "El Palais Garnier es una ornamentada obra maestra arquitectónica, y una de las óperas más famosas del mundo. Te parece extraño encontrar las puertas principales abiertas de par en par, y una oscura neblina surge de su umbral."
+    },
+    {
+        "code": "03214",
+        "flavor": "Esperabas que la estación estuviese abarrotada pero se encuentra espectralmente abandonada, excepto por unos pocos pasajeros que deambulan por ella con pasos lentos y dispersos.",
+        "name": "Gare d'Orsay",
+        "text": "[action] Gasta 1 recurso: Muévete a cualquier Lugar [[Ferrocarril]].",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Construida en 1900, esta estación de tren fue la primera estación urbana del mundo que solo usaba trenes eléctricos."
+    },
+    {
+        "code": "03215",
+        "flavor": "Varios caminos de piedra serpentean entre las hileras de tumbas y los numerosos mausoleos. El denso y retorcido cementerio te ha atrapado en un estado de melancolía, rodeado de muerte por todas partes.",
+        "name": "Cementerio Père Lachaise",
+        "text": "<b>Obligado</b> - Después de que investigues con éxito en el Cementerio Père Lachaise: No puedes abandonar el Cementerio Père Lachaise hasta el final de la ronda.",
+        "traits": "París.",
+        "back_flavor": "El Père Lachaise, tan hermoso como fantasmal, es el mayor cementerio de París y su primer cementerio jardín."
+    },
+    {
+        "code": "03216",
+        "name": "Canal Saint-Martin",
+        "text": "[reaction] Después de que evites a un Enemigo en Canal Saint-Martin: Mueve ese Enemigo a un Lugar conectado. Límite de una vez por ronda.",
+        "traits": "París.",
+        "back_flavor": "Este canal subterráneo conecta el río Sena con el canal de l’Ourcq. Una vieja escalinata agrietada lleva a la entrada del canal."
+    },
+    {
+        "code": "03217",
+        "flavor": "Mientras recorres este barrio, no logras desprenderte de la sensación de ser observado. Hay algo en los tejados que se oculta cada vez que levantas la vista.",
+        "name": "Le Marais",
+        "text": "[reaction] Cuando comience tu turno, si estás en Le Marais: Roba 1 carta. Límite de grupo de una vez por ronda.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Este distrito histórico se ha vuelto menos aristocrático últimamente, pero las antiguas obras de arte arquitectónicas permanecen."
+    },
+    {
+        "code": "03218",
+        "flavor": "Mientras recorres este barrio, no logras desprenderte de la sensación de ser observado. Hay algo en los tejados que se oculta cada vez que levantas la vista.",
+        "name": "Le Marais",
+        "text": "<b>Obligado</b> - Después de que entres en Le Marais: Durante el resto de la ronda, no puedes abandonar Le Marais.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "Este distrito histórico se ha vuelto menos aristocrático últimamente, pero las antiguas obras de arte arquitectónicas permanecen."
+    },
+    {
+        "code": "03219",
+        "name": "Notre-Dame",
+        "text": "Cada enemigo que esté en Notre-Dame recibe -1 a combate y +1 a evitar.\n[action]: Realiza una prueba de [willpower] (6). Si tienes éxito, coloca 1 ficha de Perdición sobre el plan en curso, o bien retira 1 ficha de Perdición del plan en curso. Límite de grupo de una vez por partida.",
+        "traits": "París. Ferrocarril.",
+        "back_flavor": "La catedral más famosa de todo París, y uno de los mejores ejemplos de la arquitectura gótica del mundo. Notre-Dame de París, \"Nuestra Señora de París\", es un icono de la ciudad. La luz atraviesa sus vidrieras de colores, y oyes que un órgano del interior emite una extraña y caótica melodía."
+    },
+    {
+        "code": "03220",
+        "name": "Jardines de Luxemburgo",
+        "text": "Mientras un Enemigo [[Byakhee]] se mueva, si hay un investigador en los Jardines de Luxemburgo, el Lugar de ese enemigo se considera conectado a los Jardines de Luxemburgo.",
+        "traits": "París.",
+        "back_flavor": "Los jardines del Palacio de Luxemburgo contienen cientos de estatuas, monumentos y fuentes. Sería un relajante paseo si no hubieras llegado aquí para escapar de las criaturas aladas que chillan y surcan el oscuro cielo sobre su cabeza."
+    },
+    {
+        "code": "03221",
+        "flavor": "…el punto desde el cual atacaría eran sus ojos infernales. – Robert W. Chambers, \"En la corte del dragón\", <u>El Rey de Amarillo</u>",
+        "name": "El organista",
+        "subname": "Lo desafie sin esperanza",
+        "text": "Cazador. No puede ser dañado.\n<b>Obligado</b> - Después de que El organista se mueva por la palabra clave Cazador, si no está enfrentado: Resuelve su palabra clave Cazador de nuevo. El organista no puede atacar en esta fase. Límite de una vez por ronda.",
+        "traits": "Humanoide. Avatar. Élite."
+    },
+    {
+        "code": "03221b",
+        "flavor": "Avancé arrastrándome; mis pies casi se rehusaban a transportarme. – Robert W. Chambers, \"En la corte del dragón\", <u>El Rey de Amarillo</u>",
+        "name": "El organista",
+        "subname": "Envuelto en misterio",
+        "text": "Indiferente. No puede ser dañado.\n<b>Obligado</b> - Al final de la fase de Enemigos: Si El organista no está enfrentado, muévelo 1 Lugar alejándose del investigador más cercano (a un Lugar en el que no haya investigadores si es posible). Si está enfrentado, en lugar de eso haz que deje de estar enfrentado.",
+        "traits": "Humanoide. Avatar. Élite."
+    },
+    {
+        "code": "03222",
+        "flavor": "Si oyes el batir de sus correosas alas, ya es demasiado tarde.",
+        "name": "Byakhee sigiloso",
+        "text": "Cazador.\nMientras el Byakhee sigiloso esté agotado, recibe -3 a combate.",
+        "traits": "Monstruo. Byakhee."
+    },
+    {
+        "code": "03223",
+        "flavor": "Lo que implica echa a perder lo que de otro modo sería una encantadora puesta de sol.",
+        "name": "Soles gemelos",
+        "text": "<b>Revelación</b> - Realiza una prueba de [intellect] (4). Si fracasas, debes retirar 1 ficha de Perdición del plan en curso o bien recibir 1 punto de horror por cada punto que te falte para tener éxito.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "03224",
+        "name": "Destino fatal",
+        "text": "<b>Revelación</b> - Realiza una prueba de (3). Si fracasas, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo. Debes robar ese Enemigo, o bien ese Enemigo te ataca [[(desde la pila de descartes)]]. Si no es descartado ningún Enemigo, en lugar de eso recibe 1 punto de horror.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "03225",
+        "name": "Acordes tortuosos",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (5). Si fracasas, pon en juego Acordes tortuosos en tu zona de amenaza con 1 recurso sobre ellos por cada punto que te falte para tener éxito.\nCada vez que juegues una carta, aumenta en 1 el coste de esa carta y retira 1 recurso de los Acordes tortuosos.\nSi los Acordes tortuosos no tienen recursos, descártalos.",
+        "traits": "Maleficio. Terror."
+    },
+    {
+        "code": "03226",
+        "name": "Paralizado por el miedo",
+        "text": "<b>Revelación</b> - Pon Paralizado por el miedo en juego en tu zona de amenaza.\nLa primera vez que realices una de las siguientes acciones (moverte, combatir o evitar) cada ronda, te cuesta 1 acción adicional.\n<b>Obligado</b> - Al final de tu turno: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta Paralizado por el miedo.",
+        "traits": "Terror."
+    },
+    {
+        "code": "03227",
+        "name": "Alma perdida",
+        "text": "<b>Revelación</b> - Comprueba el registro de campaña.\n - Si tienes una cantidad mayor o igual de <b>Dudas</b> que de <b>Convicciones</b>, realiza una prueba de [intellect] (X), donde X es tu [willpower]. Si fracasas, recibe 2 puntos de daño.\n - Si tienes una cantidad mayor de <b>Convicciones</b> que de <b>Dudas</b>, realiza una prueba de [willpower] (X), donde X es tu [intellect]. Si fracasas, recibe 2 puntos de daño.",
+        "traits": "Locura. Pacto."
+    }
+]

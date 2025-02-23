@@ -1,0 +1,458 @@
+[
+    {
+        "code": "53016",
+        "name": "Regreso a Naturaleza salvaje",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a Naturaleza salvaje</i> que se muestran aquí.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Al crear el mazo de Exploración, incluye únicamente 1 de los 2 Lugares que tengan cada uno de los siguientes símbolos de conexión, eligiendo al azar: Luna lila, Triángulo azul, Cuadrado rojo, Corazón naranja. Retira los otros 4 Lugares [[Jungla]] de la partida sin mirarlos. No incluyas ninguna de las demás cartas de Encuentro indicadas en las instrucciones de preparación originales. (Debería haber 5 cartas en total).\n<hr>Durante este escenario, se aplican las siguientes reglas adicionales:\n\"La capacidad 'Comprueba tus suministros' del Campamento de expedición se puede usar desde cualquier Lugar.\n<b>Obligado</b> - Después de que acabe una exploración con éxito: Añade la primera carta del mazo de Encuentros al mazo de Exploración y baraja éste\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53017",
+        "name": "Regreso a La perdición de Eztli",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a La perdición de Eztli</i> que se muestran aquí.\n- Reúne las 3 cartas Víbora de foso del conjunto de encuentros <i>Serpientes</i> y ponlas aparte, fuera del juego.\n- Antes de la preparación, retira de la partida los Lugares Foso funerario, Ruinas subterráneas y Pasadizo secreto originales.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Antes de la preparación, sustituye los Lugares Entrada, Sala antigua, Gran cámara y Cámara del tiempo originales por las nuevas versiones de este conjunto de encuentros.\n- Antes de la preparación, sustituye al Enemigo Heraldo de Valusia original por el nuevo Heraldo de Valusia <i>(El durmiente regresa)</i>.\n- Al crear el mazo de Exploración, usa sólo el Pasadizo cerrado, la Cámara del mosaico, la Tumba de los antiguos, la Sala del trono, el Foso de serpientes, la Sala antigua y la Gran cámara. No incluyas ninguna de las demás cartas de Encuentro indicadas en las instrucciones de preparación originales.\n<hr>Durante este escenario, se aplica la siguiente regla adicional: \"<b>Obligado</b> - Después de que acabe la exploración con éxito: Añade la primera carta del mazo de Encuentros al mazo de Exploración y baraja éste\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53018",
+        "name": "Heraldo de Valusia",
+        "subname": "El durmiente regresa",
+        "text": "Alerta. Cazador. Represalia.\nMientras este Enemigo tenga 5 puntos de daño [per_investigator] o más, recibe +2 a combate y -2 a evitar.\n<b>Obligado</b> - Después de que acabe un ataque o intento de evitar con éxito contra este Enemigo: Coloca 1 recurso sobre é. A continuación, si hay 2 recursos [per_investigator] sobre él, se desvanece con un siniestro siseo. (Ponlo aparte, fuera del juego, pero deja todas las fichas de Daño que tenga).",
+        "traits": "Humanoide. Monstruo. Serpiente. Élite."
+    },
+    {
+        "code": "53019",
+        "name": "Entrada",
+        "subname": "Reestructurada por el tiempo",
+        "text": "[action]: <b>Desistir.</b> Has escapado… por ahora.\n[action]: Comprueba tus suministros. Si tienes antorchas, mira las 2 primeras cartas del mazo de Exploración. Descarta 1 Traición o Enemigo mirado mediante este efecto. Baraja el mazo de Exploración. Esta capacidad se puede usar en cualquier Lugar.",
+        "traits": "Antiguo. Ruinas.",
+        "back_flavor": "El sol se pone tras las ruinas del templo, bañando la piedra con una cálida luz. Los sonidos de la selva quedan muy lejos para cuando cruzáis bajo la entrada pintada. En el interior, las salas están sumidas en la oscuridad."
+    },
+    {
+        "code": "53020",
+        "name": "Pasadizo cerrado",
+        "text": "[action] Comprueba tus suministros. Si tienes la Llave de Eztli: Busca la Cámara del tiempo en el mazo de Exploración y entre todas las cartas puestas aparte y ponla en juego. Si está en juego el acto 1a, pasa directamente al acto 2a. Durante el resto de este acto, el Pasadizo cerrado está conectado a la Cámara del tiempo y viceversa. (Límite de grupo de una vez por partida).",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53021",
+        "name": "Cámara del mosaico",
+        "text": "[action] Comprueba tus suministros. Si tienes una cantimplora: La cámara acepta tu regalo de agua. Retira 1 ficha de Perdición de cualquier Lugar en juego. (Límite de grupo de una vez por partida).",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53022",
+        "name": "Tumba de los antiguos",
+        "text": "[action] Comprueba los suministros. Si un investigador que esté en la Tumba de los antiguos tiene cuerda: Muévete a un Lugar revelado que esté a un máximo de 3 conexiones de distancia. Hasta el final de la ronda, la Tumba de los antiguos se considera conectada con ese Lugar y viceversa. (Límite de grupo de una vez por ronda).",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53023",
+        "name": "Sala del trono",
+        "text": "Mientras la Sala del trono tenga perdición, se considera como si estuviera en la zona de victoria (a efectos de contar la venganza).\n[action] Si no hay pistas ni perdición en la Sala del trono: Anota un \"cetro misterioso\" en tus suministros. (Límite de grupo de una vez por partida).",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53024",
+        "name": "Foso de serpientes",
+        "text": "<b>Obligado</b> - Después de que pongas el Foso de serpientes en juego al explorar con éxito, pero antes de moverte a él: Haz aparecer 1 Enemigo Víbora de foso puesto aparte por [per_investigator] en el Foso de serpientes (hasta un máximo de 3). Comprueba los suministros. Si un investigador que esté en tu Lugar tiene prismáticos, puedes elegir no moverte al Foso de serpientes. Si no es así, debes moverte hasta él.",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53025",
+        "name": "Sala antigua",
+        "subname": "Reestructurada por el tiempo",
+        "text": "La Sala antigua entra en juego con 1 ficha de Perdición [per_investigator] sobre ella.\n[action]: Dale la vuelta a 1 ficha de Perdición de la Sala antigua para mostrar su lado de pista.\n[fast]: Comprueba tus suministros. Si tienes una brújula, dale la vuelta a 1 ficha de Perdición de la Sala antigua para mostrar su lado de pista. (Límite de grupo de una vez por ronda).",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53026",
+        "name": "Gran cámara",
+        "subname": "Reestructurada por el tiempo",
+        "text": "[action] Comprueba tus suministros. Si tienes un mapa y no hay pistas en la Gran cámara: Durante el resto de este escenario  <i>(y de su resolución)</i>, la Gran cámara pierde <b>Venganza 1</b> y obtiene <b>Victoria 1</b>. (Límite de grupo de una vez por partida).",
+        "traits": "Antiguo. Ruinas."
+    },
+    {
+        "code": "53027",
+        "flavor": "El suelo de esta cámara central presenta unos intrincados grabados y brilla de forma extraña…",
+        "name": "Cámara del tiempo",
+        "subname": "Reestructurada por el tiempo",
+        "text": "<b>Obligado</b> - Después de que la Cámara del tiempo entre en juego: Vincula el Apoyo Reliquia de las eras puesto aparte a la Cámara del tiempo. Coloca 1 ficha de Perdición en la Cámara del tiempo.",
+        "traits": "Olvidado. Ruinas."
+    },
+    {
+        "code": "53028",
+        "name": "Regreso a Los hilos del destino",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a Los hilos del destino</i> que se muestran aquí.\n- Pon aparte la carta de Apoyo Veda Whitsley.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Este conjunto de encuentros contiene un cuarto mazo de Acto \"g/h\". Ajusta el contenido del mazo de Acto \"g/h\" del siguiente modo. Los investigadores deben decidir (elige una opción):\nSi quieres encontrar la fuente mencionada en la historia del <i>Advertiser</i>, retira las siguientes cartas del mazo \"g/h\": Buscando el significado, ambas copias de La finca invadida de vegetación y 1 de las 2 copias de Buscando problemas al azar.\nSi quieres buscar la raíz del problema, retira las siguientes cartas del Acto del mazo \"g/h\": Buscando la fuente, ambas copias de Buscando problemas y 1 de las 2 copias de La finca invadida de vegetación al azar."
+    },
+    {
+        "code": "53029",
+        "flavor": "Decides dirigirte a la finca Marshall Hastings para descubrir algo más sobre los extraños sucesos mencionados en el artículo del <i>Advertiser</i>. Puede que este nuevo acontecimiento logre arrojar luz sobre tus otros problemas recientes.",
+        "name": "Buscando el significado",
+        "text": "<b>Objetivo</b> - Sólo los investigadores que estén en el Barrio Fluvial pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto."
+    },
+    {
+        "code": "53029b",
+        "flavor": "En la finca hay varios jardineros y miembros de la expedición tirados en el suelo, paralizados y en estado comatoso. ¿Qué demonios ha ocurrido aquí?",
+        "name": "La finca Hastings",
+        "text": "<b>Revelación</b> - Pon La finca Hastings en juego.\n[action] Tacha la medicina de tus suministros. Descubre todas las pistas de La finca Hastings.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "53030",
+        "flavor": "Para llegar al fondo de este nuevo acontecimiento, decides buscar a la fuente anónima del artículo del  <i>Advertiser</i>. Puede que, si te diriges a sus oficinas del Barrio Norte, puedas indagar al respecto; aunque posiblemente tengas que untar a alguien para obtener la información que necesitas.",
+        "name": "Buscando a la fuente",
+        "text": "<b>Objetivo</b> - Sólo los investigadores que estén en el Barrio Norte pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto."
+    },
+    {
+        "code": "53030b",
+        "name": "Merle Garvin",
+        "subname": "Guía poco cooperador",
+        "text": "<b>Revelación</b> - Pon a Merle Garvin en juego en la Universidad Miskatonic.\n[action]: <b>Negociar.</b> El Sr. Garvin intenta darte esquinazo. Realiza una prueba de [agility] (2). Si tienes éxito, coloca 1 pista sobre  Merle Garvin <i>(de la reserva de fichas)</i> y muévelo 1 Lugar alejándose de ti. Si fracasas, muévelo 2 Lugares alejándose de ti.",
+        "traits": "Transeúnte. Viajero."
+    },
+    {
+        "code": "53031",
+        "flavor": "Cuando llegas a la finca Hastings, la encuentras en un estado mucho más lamentable que el descrito en el artículo. La selva ha llegado a Arkham y ha invadido la mansión y el área circundante casi en su totalidad.",
+        "name": "La finca invadida de vegetación",
+        "text": "<b>Objetivo</b> - Sólo los investigadores que estén en La finca Hastings pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "back_name": "Enviado desde otro tiempo",
+        "back_flavor": "Registras la finca en busca de pistas, pero no encuentras nada que no estuviera ya descrito en el artículo del <i>Advertiser</i>. Es como si tus miedos hubieran cobrado vida: la selva te ha seguido realmente hasta Arkham. Después de tanto tiempo temiendo algo así, casi es un alivio poder enfrentarte a ello de una vez. En ese instante, un cascabeleo familiar resuena por las salas de la mansión. El terrible sonido te pone la piel de gallina. Es imposible que sea… ¿verdad?",
+        "back_text": "Busca el Heraldo de Valusia <i>(El durmiente regresa)</i> en la colección y haz que aparezca en la finca Hastings. Entra en juego con una cantidad de daño igual a la cantidad anotada entre paréntesis en el registro de campaña. Si hay 5 o menos marcar en la sección \"Furia de Yig\" del registro de campaña, entra en juego agotado.\nHaz avanzar el acto al acto 3g - \"Persecución imposible\"."
+    },
+    {
+        "code": "53032",
+        "flavor": "Cuando llegas a la finca Hastings, la encuentras en un estado mucho más lamentable que el descrito en el artículo. La selva ha llegado a Arkham y ha invadido la mansión y el área circundante casi en su totalidad.",
+        "name": "La finca invadida de vegetación",
+        "text": "<b>Objetivo</b> - Sólo los investigadores que estén en La finca Hastings pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto."
+    },
+    {
+        "code": "53032b",
+        "name": "Clinton Freeman",
+        "subname": "Debería haberse quedado en casa",
+        "text": "<b>Revelación</b> - Pon a Clinton Freeman en juego en el Restaurante de Velma. Haz avanzar el acto al acto 3g - \"Descubrir la verdad\".\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] o de [intellect] (3). Si tienes éxito, coloca 1 pista sobre Clinton Freeman <i>(de la reserva de fichas)</i> y recibe 1 punto de horror. Si fracasas, recibe 1 punto de horror por cada punto que te falte para tener éxito.",
+        "traits": "Transeúnte. Viajero."
+    },
+    {
+        "code": "53033",
+        "flavor": "Has descubierto la identidad de la fuente del <i>Advertiser</i>: un hombre llamado Merle Garvin que regresó hace poco de una expedición financiada precisamente por Marshall Hastings. La última vez que fue visto, estaba rebuscando nerviosamente en la biblioteca de la universidad, aunque nadie sabe bien por qué.",
+        "name": "Buscando problemas",
+        "text": "<b>Objetivo</b> - Si hay 1 pista [per_investigator] sobre Merle Garvin: Debes retirarlas y hacer avanzar el acto inmediatamente.",
+        "back_name": "Enviado desde otro tiempo",
+        "back_flavor": "Cuando por fin das con el Sr. Garvin y lo acorralas, está absolutamente aterrorizado; pero no de ti, sino de lago totalmente distinto.\n-Está llegando -te advierte-. No se detendrá hasta que estemos todos muertos. Por favor, ¡tienes que ayudarme! ¡tienes que ocultarme!\nAntes de poder preguntarle qué es lo que lo tiene asustado, un cascabeleo familiar responde la pregunta no pronunciada. El terrible sonido hace que se te ponga la piel de gallina. ¿Cómo puede eso estar aquí, en Arkham?",
+        "back_text": "Busca el Heraldo de Valusia <i>(El durmiente regresa)</i> en la colección y haz que aparezca en el Lugar de Merle Garvin. Entra en juego con una cantidad de daño igual a la cantidad anotada entre paréntesis en el registro de campaña. Si hay 5 o menos marcar en la sección \"Furia de Yig\" del registro de campaña, entra en juego agotado.\nHaz avanzar el acto al acto 3g - \"Persecución imposible\"."
+    },
+    {
+        "code": "53034",
+        "flavor": "Has descubierto la identidad de la fuente del <i>Advertiser</i>: un hombre llamado Merle Garvin que regresó hace poco de una expedición financiada precisamente por Marshall Hastings. La última vez que fue visto, estaba rebuscando nerviosamente en la biblioteca de la universidad, aunque nadie sabe bien por qué.",
+        "name": "Buscando problemas",
+        "text": "<b>Objetivo</b> - Si hay 1 pista [per_investigator] sobre Merle Garvin: Debes retirarlas y hacer avanzar el acto inmediatamente."
+    },
+    {
+        "code": "53034b",
+        "name": "Muelles de carga",
+        "text": "<b>Revelación</b> - Pon los Muelles de carga en juego con 4 recursos sobre ellos. Haz avanzar el acto al acto 3g - \"Descubrir la verdad\".\nMientras no haya recursos sobre los Muelles de carga, no se pueden descubrir pistas en ellos de ningún modo.\n<b>Obligado</b> - Al final de la ronda: Retira 1 recurso de los Muelles de carga.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "53035",
+        "flavor": "Estás cerca de descubrir la verdad oculta tras esta expedición. ¿Qué buscaban y por qué? ¿Tiene todo esto algo que ver con Ichtaca y los eztli?",
+        "name": "Descubrir la verdad",
+        "text": "<b>Objetivo</b> - Si hay 1 pista por [per_investigator] sobre Clinton Freeman: Debes retirarlas y hacer avanzar el acto inmediatamente.\n<b>Objetivo</b> - Si los Muelles de carga están en juego y no quedan pistas sobre ellos: Debes hacer avanzar el acto inmediatamente.",
+        "back_name": "Otra expedición",
+        "back_text": "<b>Si Clinton Freeman está en juego:</b>\n<blockquote><i>El Sr. Freeman por fin te revela la verdad: que su expedición financió parcialmente un misterioso \"filántropo\" de Ciudad de México a cambio de varias reliquias. Curiosos y preocupados, sus compañeros y él se ofrecen a ayudarte a llegar al fondo de este asunto.</i></blockquote>\nEl investigador más cercano a Clinton Freeman toma el control de Veda Whitsley puesta aparte. Retira de la partida el resto del mazo de Acto \"g/h\". Si hay otra carta de Acto en juego, sigue jugando. Si no es así, pasa a <b>(→R1)</b>.\n<hr><b>Si los Muelles de carga están en juego:</b>\n<blockquote><i>Gracias a la información del Sr. Garvin, descubres que muchos de los hallazgos de la expedición se dirigen a un destino sorprendente: un destinatario no especificado de Ciudad de México. Agradecidos por tu asistencia, varios miembros de la expedición te ofrecen ayuda.</i></blockquote>\nEl investigador más cercano a los Muelles de carga toma el control de Veda Whitsley puesta aparte. Retira de la partida el resto del mazo de Acto \"g/h\". Si hay otra carta de Acto en juego, sigue jugando. Si no es así, pasa a <b>(→R1)</b>."
+    },
+    {
+        "code": "53036",
+        "flavor": "Jamás pensaste que esta criatura fuera a seguirte hasta Arkham. O tal vez sea producto de tu imaginación. Un fantasma de tu mente. Un fragmento de tu subconsciente que te aparta de esta línea de investigación.",
+        "name": "Persecución imposible",
+        "text": "<b>Objetivo</b> - Si el Heraldo de Valusia abandona el juego, haz avanzar el acto.",
+        "back_name": "Otra expedición",
+        "back_flavor": "La cosa-serpiente se ha ido tan rápido como llegó. Sigues sin estar seguro de si realmente estaba ahí, pero parece que estás a salvo por el momento. Agradecidos por tu asistencia, varios miembros de la otra expedición te ofrecen ayuda. Queda por ver si las reliquias que encontraron tienen o no algún vínculo con los eztli. En cualquier caso, sus conocimientos serán de incalculable valor si criaturas como ésta te siguen a cada paso.",
+        "back_text": "El investigador más cercano al Heraldo de Valusia toma el control de Veda Whitsley puesta aparte.\nRetira de la partida el resto del mazo de Acto \"g/h\". Si hay otra carta de Acto en juego, sigue jugando. Si no es así, pasa a <b>(→R1)</b>."
+    },
+    {
+        "code": "53037",
+        "name": "Veda Whitsley",
+        "subname": "Botánica hábil",
+        "text": "[fast] Agota a Veda Whitsley: Mira la primera carta del mazo de Exploración o del mazo de Encuentros. Si es un Enemigo, puedes infligir 1 punto de daño a Veda Whitsley para descartarlo. Si es una Traición, puedes infligir 1 punto de horror a Veda Whitsley para descartarla. Si no es así, devuélvela a la parte superior de su mazo.",
+        "traits": "Aliado. Viajero.",
+        "slot": "Ally"
+    },
+    {
+        "code": "53038",
+        "name": "Regreso a El límite del otro lado",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a El límite del otro lado</i> que se muestran aquí.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Añade los nuevos Lugares <b>Época actual</b> a los Lugares originales del conjunto de encuentros de <i>El límite del otro lado</i>. Retira de la partida 1 de las 2 copias de cada uno de estos Lugares al azar. Pon en juego los Lugares restantes.\n- Después de la preparación, busca el nuevo Heraldo de Valusia <i>(El durmiente regresa)</i> en la colección y ponlo aparte, fuera del juego. Si el Heraldo de Valusia fuese a entrar en juego durante este escenario, usa esta versión en lugar de la original.\n- Al crear el mazo de Exploración, usa sólo los 12 Lugares [[Antiguo]] de una sola cara. No incluyas ninguna de las demás cartas de Encuentro indicadas en las instrucciones de preparación originales."
+    },
+    {
+        "code": "53039",
+        "name": "Ruinas del templo",
+        "text": "[reaction] Después de que investigues con éxito las Ruinas del templo: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de Mexico. Época actual.",
+        "back_flavor": "Aunque aún no se conoce la ubicación exacta del templo principal de Tenochtitlán, ha comenzado la excavación en busca de las ruinas de los muchos templos que antaño cubrían la zona."
+    },
+    {
+        "code": "53040",
+        "name": "Catedral Metropolitana",
+        "text": "[action] Recibe 1 punto de horror: Obtén 2 recursos.\n[action] Si tienes 10 o más recursos: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de Máxico. Época actual.",
+        "back_flavor": "La Catedral Metropolitana, situada en el lado norte de la Plaza de la Constitución, fue construida por conquistadores tras la conquista del Imperio Azteca. Volutas de nubes giran siniestramente sobre cada uno de los campanarios de la catedral."
+    },
+    {
+        "code": "53041",
+        "name": "Parque Chapultepec",
+        "text": "<b>Obligado</b> - Después de que fracases en una prueba de [agility] mientras estés en el Parque de Chapultepec: Recibe 1 punto de daño.\n[action]: <b>Explorar.</b> Realiza una prueba de [agility] (3). Si tienes éxito roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "ciudad de México. Época actual.",
+        "back_flavor": "El Bosque  de Chapultepec, al oeste de la ciudad, es uno de sus mayores parques, un precioso monumento ecológico construido en lo que fue un bosque sagrado hace muchos siglos."
+    },
+    {
+        "code": "53042",
+        "name": "Zócalo",
+        "text": "[action] Descarta de tu mano cartas que tengan al menos un total combinado de 4 iconos de habilidad: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "La plaza principal del centro de Ciudad de México, que antaño fue el centro ceremonial de Tenochtitlán, se extiende ante ti. Relámpagos plateados brillan en las nubes de tormenta que hay en el cielo, y te turba ver una marea de sangre que cubre la plaza. Toda la ciudad está extrañamente desprovista de vida."
+    },
+    {
+        "code": "53043",
+        "name": "Xochimilco",
+        "text": "[reaction] Después de que combatas o evites con éxito a un Enemigo en Xochimilco: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "Un barquito de madera golpea contra el lateral del canal, meciéndose suavemente en las rizadas aguas. Un enebro sobresale de una zona de agua poco profunda, doblándose ante la agradable brisa."
+    },
+    {
+        "code": "53044",
+        "name": "Coyoacán",
+        "text": "Mientras estés en Coyoacán, no se puede curar daño/horror de cartas que controles.\n[action] Si tienes 5 o más puntos de daño y/u horror en total en tu investigador: <b>Explorar.</b>  Roba la primera carta del mazo de Exploración. Si es un Lugar que tenga el mismo símbolo de Lugar en la esquina superior izquierda, colócalo sobre este Lugar, sustituyéndolo.",
+        "traits": "Ciudad de México. Época actual.",
+        "back_flavor": "Aunque no siempre ha sido parte de Ciudad de México, Coyoacán sí ha sido una zona histórica, famosa por sus estrechas calles y plazas adoquinadas. El suelo tiembla mientras caminas por uno de los muchos senderos angostos de la aldea, 6 sospechas que bajo la superficie vive algo más…"
+    },
+    {
+        "code": "53045",
+        "name": "Regreso a El corazón de los ancianos, primera parte",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a El corazón de los ancianos, primera parte</i> que se muestran aquí.\n- Retira de la partida el acto 1a -\"Buscando el patrón\" y sustitúyelo por el nuevo acto 1a -\"Un  patrón familiar\".\n<b>(Sigue en el reverso)</b>",
+        "back_text": "-  Al crear el mazo de Exploración, incluye únicamente 1 de los 2 Lugares que tengan cada uno de los siguientes símbolos de conexión, eligiendo al azar:\nLuna púrpura, Triángulo azul, Cuadrado rojo, Corazón naranja.\nRetira los otros 4 Lugares [[Jungla]] de la partida sin mirarlos. No incluyas ninguna de las demás cartas de Encuentros indicadas en las instrucciones de preparación originales. (Debería haber 6 cartas en total).\n<hr>Durante este escenario, se aplican las siguientes reglas adicionales:\n\"La capacidad 'Comprueba tus suministros' de la Boca de K'n-yan se puede usar desde cualquier Lugar.\n<b>Obligado</b> - Después de que acabe una exploración con éxito: Añade la primera carta del mazo de Encuentros al mazo de Exploración y baraja éste\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53046",
+        "flavor": "La entrada de la caverna está rodeada por seis columnas de piedra, y cada una de ellas tiene tallada una serie de extrañas muescas y jeroglíficos que forman un intrincado diseño. Al tocarlas, las muescas brillan con fuerza, y al girarlas, los diseños se mueven y cambian. ¿Es posible que estos patrones coincidan con los símbolos que se encuentran en otras regiones de la selva?",
+        "name": "Un patrón familiar",
+        "text": "<b>Objetivo</b> - Cuando los investigadores hayan obtenido la cantidad necesaria de pistas, deben gastarlas inmediatamente y hacer avanzar el acto."
+    },
+    {
+        "code": "53046b",
+        "name": "La serpiente alada",
+        "subname": "La furia de Yig",
+        "text": "<b>Aparición</b> - Boca de K'n-yan.\nCazador. Descomunal.\nNo puede ser derrotado. No puede realizar ataques de oportunidad.\n<b>Obligado</b> - Si hay 5 o más puntos de daño sobre este Enemigo, o después de que se coloque una ficha de columna en la Boca de K'n-yan: Cura todo el daño de este Enemigo y agótalo. No se prepara durante la fase de Mantenimiento de esta ronda.",
+        "traits": "Monstruo. Serpiente. Élite."
+    },
+    {
+        "code": "53047",
+        "name": "Serpiente emplumada",
+        "text": "X es la cantidad de fichas de columna que hay en la Boca de K'n-yan. Mientras sea 3 o más, la Serpiente emplumada obtiene Alerta y Cazador.\n[action]: <b>Evitar.</b> Comprueba tus suministros. Si tienes un cetro misterioso, evitas automáticamente a la serpiente y le ordenas que inflija su daño a otro Enemigo que esté en su Lugar.",
+        "traits": "Criatura. Serpiente."
+    },
+    {
+        "code": "53048",
+        "name": "Regreso a El corazón de los ancianos, segunda parte",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a El corazón de los ancianos, segunda parte</i> que se muestran aquí.\n- Después de la preparación, busca el nuevo Heraldo de Valusia <i>(El durmiente regresa)</i> en la colección y ponlo aparte, fuera del juego. Si el Heraldo de Valusia fuese a entrar en juego durante este escenario, usa esta versión en lugar de la original.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Al crear el mazo de Exploración, incluye únicamente 1 de los 2 Lugares que tengan cada uno de los siguientes símbolos de conexión, eligiendo al azar:\nLuna púrpura, Triángulo azul, Cuadrado rojo, Rombo verde.\nRetira los otros 4 Lugares [[Antiguo]] de la partida sin mirarlos. No incluyas ninguna de las demás cartas de Encuentros indicadas en las instrucciones de preparación originales. (Debería haber 5 cartas en total, sin contar el Descenso de Yoth puesto aparte).\n<hr>Durante este escenario, se aplican las siguientes reglas adicionales:\n\"La capacidad 'Comprueba tus suministros' de la Boca de K'n-yan se puede usar desde cualquier Lugar y descarta Enemigos además de Traiciones.\n<b>Obligado</b> - Después de que acabe una exploración con éxito: Añade la primera carta del mazo de Encuentros al mazo de Exploración y baraja éste\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53049",
+        "name": "Ruinas de K'n-yan",
+        "text": "[action][action]: Comprueba tus suministros. Si tienes una brújula, descubre 2 pistas en las Ruinas de K'n-yan. (Límite de grupo de una vez por partida).",
+        "traits": "Antiguo. Cueva. Ruinas."
+    },
+    {
+        "code": "53050",
+        "name": "Pantano subterráneo",
+        "text": "[fast] Si no hay pistas en el Pantano subterráneo: Comprueba tus suministros. Si tienes una cantimplora, coloca 1 ficha de Perdición sobre este Lugar y anota el \"pringue pegajoso\" en tus suministros. (Límite de grupo de una vez por partida).\n<b>Obligado</b> - Después de que fracases en una prueba de habilidad al investigar el Pantano subterráneo: Comprueba tus suministros. Si no tienes una navaja, pierde todas tus acciones restantes y termina tu turno.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "53051",
+        "name": "Profundidades Chthonian",
+        "text": "<b>Obligado</b> - Después de que se descubra la última pista de las Profundidades Chthonian: Comprueba los suministros. Si ningún investigador que esté en este Lugar tiene antorchas, coloca 1 ficha de Perdición sobre esta carta.",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "53052",
+        "name": "Descenso traicionero",
+        "text": "[action]: Comprueba tus suministros. Si tienes un pico, reduce el valor de velo del Descenso traicionero en 2 durante el resto del escenario. (Límite de grupo de 3 veces por partida).",
+        "traits": "Antiguo. Cueva."
+    },
+    {
+        "code": "53053",
+        "name": "Regreso a La Ciudad de los Archivos",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a La Ciudad de los Archivos</i> que se muestran aquí.\n- Pon en juego los Salones de Pnakotus <i>(Corredores sur)</i>.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Pon aparte las Salas ciclópeas y el Vivero alienígena, fuera del juego. <i>(Estos Lugares deben ponerse en juego durante el acto 1b, cuando se pongan en juego el resto de Lugares puestos aparte).</i>\n- Retira de la partida el acto 2a -\"Acceso restringido\" y sustitúyelo por el nuevo acto 2a -\"Acceso ilimitado\"."
+    },
+    {
+        "code": "53054",
+        "name": "Acceso ilimitado",
+        "text": "<b>Objetivo</b> - Si tres de las siguientes afirmaciones son ciertas, debes hacer avanzar el acto:\n- Un investigador ha \"encontrado el proceso\".\n- Un investigador ha \"diseccionado un órgano\".\n- Un investigador ha \"interrogado a un sujeto de pruebas\".\n- Un investigador ha \"averiguado que año es\".\n- Un investigador ha \"activado el dispositivo\".\n- Un investigador controla El custodio.\n- Un investigador ha \"leído acerca de la Tierra\".\n- Un investigador ha \"visto un espécimen familiar\".",
+        "back_name": "El proceso",
+        "back_flavor": "La verdad es difícil de aceptar. Nunca trajeron vuestros cuerpos a este lugar. Vuestra mente ha sido transferida al cuerpo de estas criaturas. En alguna parte, y en otro tiempo, una de las denostadas criaturas habita <i>en cada uno de vuestros cuerpos</i>.",
+        "back_text": "Ya no tienes que realizar ninguna de las siguientes tareas. Sin embargo, cuantas más hayas realizado para cuando acabe el escenario, más fácil será la transición de tu cuerpo humano, y menos probable será que el proceso falle o salga mal. <b>Cuidado</b>…\nPon en juego este acto con este lado boca arriba como recordatorio.\n- Un investigador ha \"encontrado el proceso\".\n- Un investigador ha \"diseccionado un órgano\".\n- Un investigador ha \"interrogado a un sujeto de pruebas\".\n- Un investigador ha \"averiguado que año es\".\n- Un investigador ha \"activado el dispositivo\".\n- Un investigador controla El custodio.\n- Un investigador ha \"leído acerca de la Tierra\".\n- Un investigador ha \"visto un espécimen familiar\"."
+    },
+    {
+        "code": "53055",
+        "name": "Salones de Pnakotus",
+        "subname": "Corredores sur",
+        "text": "Este Lugar está conectado a los Salones de Pnakotus <i>(Corredores este)</i> y a los Salones de Pnakotus <i>(Corredores oeste)</i>, y viceversa.\n[free] Durante tu turno, elige y descarta una carta de tu mano: Muévete a otra copia de los Salones de Pnakotus. (Límite de una vez por turno).",
+        "traits": "Antiguo. Pnakotus.",
+        "back_text": "Este Lugar está conectado a los Salones de Pnakotus <i>(Corredores este)</i> y a los Salones de Pnakotus <i>(Corredores oeste)</i>, y viceversa."
+    },
+    {
+        "code": "53056",
+        "name": "Salas ciclópeas",
+        "text": "[action]: Descarta de tu mano todas las cartas que no sean Debilidad.\n[action] Si no tienes cartas en la mano: Recuerda que has \"leído acerca de la Tierra\".\n[action][action] Si tienes menos de 5 cartas en la mano: Roba cartas hasta que tengas exactamente 5 cartas en la mano.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Por último llegué a una cripta baja, circular, que se hallaba en un maravilloso estado de conservación, y en cuyos muros se abrían arcos en todas direcciones. Los muros, al menos hasta donde alcanzaba la luz de mi linterna, mostraban gran profusión de jeroglíficos y ornamentos curvilíneos, algunos de los cuales habían sido añadidos después del periodo de mis sueños.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo.</u>"
+    },
+    {
+        "code": "53057",
+        "name": "Vivero alienígena",
+        "text": "Mientras estés en el Vivero alienígena, reduce en 2 tu tamaño de mano máximo.\n[action]: Realiza una prueba de [willpower] (1). Si tienes éxito, realiza una prueba de [agility] (2). Si tienes éxito, realiza una prueba de [intellect] (3). Si tienes éxito, recuerda que has \"visto un espécimen familiar\".",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "…la Gran Raza misma, bordeando los límites de la omnisciencia, se dedicaba a intercambiar sus espíritus con los moradores de otros planetas y a explorar sus pasados y sus futuros.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>."
+    },
+    {
+        "code": "53058",
+        "name": "Sujetos cautivos",
+        "text": "<b>Aparición</b> - Vivero alienígena.\nIndiferente. Represalia.\nSi un investigador ha \"leído acerca de la Tierra\" o \"visto un espécimen familiar\", los Sujetos cautivos pierden Indiferente y obtienen Cazador.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "53059",
+        "name": "Regreso a Las profundidades de Yoth",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a Las profundidades de Yoth</i> que se muestran aquí.\n- Después de la preparación, busca el nuevo Heraldo de Valusia  <i>(El durmiente regresa)</i> en la colección y ponlo aparte, fuera del juego. Si el Heraldo de Valusia fuese a entrar en juego durante este escenario, usa esta versión en lugar de la original.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Después de crear el mazo de Exploración durante la preparación, añade la Traición Peligros de Yoth al mazo de Exploración y baraja éste.\n<hr>Durante este escenario, se aplica la siguiente regla adicional:\n\"<b>Obligado</b> - Después de que se cree el mazo de Exploración durante el acto 1b: Busca los Peligros de Yoth en el mazo y la pila de descartes de Encuentros y en todas las zonas fuera del juego, añádelos al mazo de Exploración y baraja éste. Baraja el mazo de Encuentros si se buscó en él\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53060",
+        "name": "Peligros de Yoth",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Poner aparte los Peligros de Yoth, fuera del juego. <i>(Esta exploración fracasa)</i>.\n- Poner aparte los Peligros de Yoth, fuera del juego: recibir una cantidad de daño u horror igual al nivel de profundidad actual; y seguir explorando como si no hubieras robado los Peligros de Yoth.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "53061",
+        "name": "Regreso a Eones destrozados",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a Eones destrozados</i> que se muestran aquí.\n- Al crear el mazo de Exploración, usa sólo los 4 Lugares [[Sobrenatural]]. No incluyas ninguna de las demás cartas de Encuentro indicadas en las instrucciones de preparación originales.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Pon aparte los nuevos Lugares [[Destrozado]], fuera del juego.\n<hr>Durante este escenario, se aplica la siguiente regla adicional:\n\"<b>Obligado</b> - Después de que acabe una exploración con éxito: Añade la primera carta del mazo de Encuentros al mazo de Exploración y baraja éste\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53062",
+        "name": "Gran sala de Celeno",
+        "text": "[reaction]Después de que te muevas a la Gran sala de Celeno, coloca 1 ficha de Perdición sobre ella: Mira la primera carta del mazo de Encuentros, del mazo de Exploración o del mazo de cualquier jugador. Puedes descartar esa carta.",
+        "traits": "Sobrenatural."
+    },
+    {
+        "code": "53063",
+        "name": "Buenos Aires",
+        "text": "Buenos Aires recibe -2 a velo por cada ficha de Perdición que tenga.\n<b>Obligado</b> - Al final de la fase de Mitos: Coloca 1 ficha de Perdición en Buenos Aires.",
+        "traits": "Destrozado."
+    },
+    {
+        "code": "53064",
+        "name": "Ultima Thule",
+        "text": "<b>Obligado</b> - Después de que Ultima Thule entre en juego: Busca la ficha de Caos [elder_sign] en la bolsa de caos y séllala sobre Ultima Thule.",
+        "traits": "Destrozado."
+    },
+    {
+        "code": "53065",
+        "name": "Pasado inescrutable",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Revelar 4 fichas de Caos. Por cada símbolo [skull], [cultist], [tablet], [elder_thing] o [auto_fail] revelado, recibe 1 punto de daño y 1 punto de horror.\n- Elegir y descartar 1 carta de tu mano, añadir el Pasado inescrutable al mazo de Exploración y barajar éste. No puedes elegir esta opción si se robó el Pasado inescrutable del mazo de Exploración.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "53066",
+        "name": "Regreso a Vuelta atrás en el tiempo",
+        "text": "Realiza la preparación como se indica en la guía de campaña de <i>La era olvidada</i>, con las siguientes excepciones:\n- Al reunir los conjuntos de encuentros, reúne también los nuevos conjuntos de <i>Regreso a Vuelta atrás en el tiempo</i> que se muestran aquí.\n- Reúne las 3 cartas de Víbora de foso del conjunto de encuentros <i>Serpientes</i> y ponlas en juego.\n- Antes de la preparación, retira de la partida los Lugares Foso funerario, Ruinas subterráneas y Pasadizo secreto originales.\n<b>(Sigue en el reverso)</b>",
+        "back_text": "- Antes de la preparación, sustituye los Lugares Entrada, Sala antigua, Gran cámara y Cámara del tiempo originales por las nuevas versiones de este conjunto de encuentros.\n- Antes de la preparación, sustituye el Enemigo Heraldo de Valusia original por el nuevo Heraldo de Valusia <i>(El durmiente regresa)</i>.\n- Al crear el mazo de Exploración, usa sólo el Pasadizo cerrado, la Cámara del mosaico, la Tumba de los antiguos, la Sala del trono, el Foso de serpientes, la Sala antigua y la Gran cámara. No incluyas ninguna de las demás cartas de Encuentro indicadas en las instrucciones de preparación originales.\n<hr>Durante este escenario, se aplica la siguiente regla adicional:\n\"<b>Obligado</b> - Después de que acabe una exploración con éxito: Añade la primera carta del mazo de Encuentros al mazo de Exploración y baraja éste\".\nVincula esta carta a la carta de referencia de escenario como recordatorio."
+    },
+    {
+        "code": "53067",
+        "name": "Templo de la ribera",
+        "text": "<b>Obligado</b> - Después de que se descubra cualquier cantidad de pistas en el Templo de la ribera: Comprueba los suministros. Si ningún investigador que esté en el Templo de la ribera tiene tiza, añade al mazo de Exploración tantas cartas de la parte superior del mazo de Encuentros como investigadores haya en el Templo de la ribera.",
+        "traits": "Antiguo. Jungla."
+    },
+    {
+        "code": "53068",
+        "name": "Catarata",
+        "text": "[reaction] Cuando investigues la Catarata: Comprueba los suministros. Si un investigador que esté en la Catarata tiene cuerda, reduce el valor de velo de la Catarata en 3 para esta investigación.\n<b>Obligado</b> - Después de que fracases en una prueba de habilidad al investigar la Catarata: Descarta 1 carta al azar de tu mano.",
+        "traits": "Jungla."
+    },
+    {
+        "code": "53069",
+        "name": "Sendero de los muertos",
+        "text": "<b>Obligado</b> - Después de que investigues o explores mientras estás en el Sendero de los muertos: Comprueba los suministros. Si ningún investigador que esté en el Sendero de los muertos tiene prismáticos, recibe 1 punto de horror.",
+        "traits": "Jungla."
+    },
+    {
+        "code": "53070",
+        "name": "Bosque nublado",
+        "text": "<b>Obligado</b> - Cuando un Enemigo que esté en el Bosque nublado fuese a recibir cualquier cantidad de daño: Comprueba los suministros. Si ningún investigador que esté en el Bosque nublado tiene antorchas, cancela ese daño.",
+        "traits": "Jungla."
+    },
+    {
+        "code": "53071",
+        "name": "Acólita de la Hermandad",
+        "text": "<b>Aparición</b> - El Lugar que tenga más Enemigos [[Sectario]].\nIndiferente.\n<b>Obligado</b> - Después de que la Acólita de la Hermandad entre en juego: Coloca 1 ficha de Perdición sobre cada uno de los demás Enemigos [[Sectario]] que estén en su Lugar.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "53072",
+        "name": "Mente robada",
+        "text": "<b>Aparición</b> - Cualquier Lugar vacío.\nRepresalia.\nLa Mente robada recibe +1 a combate por cada ficha de Perdición que tenga.\n<b>Obligado</b> - Al final de la fase de Mitos: Coloca 1 ficha de Perdición sobre la Mente robada.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "53073",
+        "name": "De otro tiempo",
+        "text": "<b>Revelación</b> - Realiza una prueba de [intellect] (4). Coloca X fichas de Perdición sobre Enemigos  [[Sectario]] en juego, distribuidas de la forma más equitativamente posible. X es la cantidad de puntos que te faltaron para tener éxito. Si fracasas y no hay Enemigos [[Sectario]] en juego, en lugar de eso busca un Enemigo a [[Sectario]] en el mazo y la pila de descartes de Encuentros y róbalo (baraja el mazo de Encuentros).",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "53074",
+        "name": "Naturaleza resentida",
+        "text": "<b>Revelación</b> - Recibe 1 punto de horror y vincula Naturaleza resentida al Lugar más cercano que no tenga vinculada una copia de Naturaleza resentida.\n<b>Obligado</b> - Después de que explores con éxito en el Lugar vinculado: Añade Naturaleza resentida a la zona de victoria.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "53075",
+        "name": "Los mejores planes…",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Perder 2 acciones.\n- Añadir la primera carta del mazo de Encuentros al mazo de Exploración y barajar éste.",
+        "traits": "Equivocación."
+    },
+    {
+        "code": "53076",
+        "name": "Fusión de líneas temporales",
+        "text": "<b>Revelación</b> - Descarta las 5 primeras cartas de tu mazo. Por cada carta de tu mano que coincida con una de las cartas descartadas <i>(por nombre)</i>, descarta esa carta de tu mano y pierde 1 acción. Añade todas las Debilidades descartadas por este efecto a tu mazo y baraja éste.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "53077",
+        "name": "Tíndalos alfa",
+        "text": "Alerta. Represalia.\n<b>Obligado</b> - Después de que Tíndalos alfa te ataque: Añade a tu mazo un Apoyo que controles que no sea de historia, moviendo todo el daño y horror de ese Apoyo a tu investigador y luego baraja tu mazo. Descarta el Tíndalos alfa.\n<b>Obligado</b> - Al final de la fase de Enemigos: Descarta el Tíndalos alfa.",
+        "traits": "Monstruo. Extradimensional. Tíndalos."
+    },
+    {
+        "code": "53078",
+        "name": "Serpiente vengativa",
+        "text": "Cazador.\n<b>Obligado</b> - Después de que robes la Serpiente vengativa: Roba también todas las Serpientes vengativas de la zona de victoria.",
+        "traits": "Humanoide. Monstruo. Serpiente."
+    },
+    {
+        "code": "53079",
+        "name": "Guardián serpiente",
+        "text": "<b>Aparición</b> - Lugar más cercano que tenga al menos 1 pista.\nIndiferente.\nMientras el Guardián serpiente no esté enfrentado, su Lugar recibe +2 a velo.\nMientras haya 3 o más puntos de venganza en la zona de victoria, el Guardián serpiente pierde Indiferente y gana Cazador.",
+        "traits": "Constructo. Serpiente."
+    },
+    {
+        "code": "53080",
+        "name": "Ira de Yig",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (2). Esta prueba recibe +1 a su dificultad por cada punto de venganza que haya en la zona de victoria. Si fracasas, pon en juego en tu zona de amenaza una Debilidad Envenenado puesta aparte (si no puedes, recibe 2 puntos de daño).",
+        "traits": "Poder."
+    }
+]

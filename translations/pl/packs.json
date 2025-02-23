@@ -1,0 +1,374 @@
+[
+    {
+        "code": "aof",
+        "name": "Aura of Faith"
+    },
+    {
+        "code": "aon",
+        "name": "Wszystko albo nic"
+    },
+    {
+        "code": "apot",
+        "name": "Widmo Prawdy"
+    },
+    {
+        "code": "bad",
+        "name": "Zła krew"
+    },
+    {
+        "code": "bbt",
+        "name": "Przed Czarnym Tronem"
+    },
+    {
+        "code": "blbe",
+        "name": "The Blob That Ate Everything ELSE!"
+    },
+    {
+        "code": "blob",
+        "name": "Śluz, który pożarł wszystko"
+    },
+    {
+        "code": "bob",
+        "name": "Blood of Baalshandor"
+    },
+    {
+        "code": "bota",
+        "name": "Krew na ołtarzu"
+    },
+    {
+        "code": "bsr",
+        "name": "Noc czarnych gwiazd"
+    },
+    {
+        "code": "btb",
+        "name": "W majestacie prawa"
+    },
+    {
+        "code": "coh",
+        "name": "Karnawał koszmarów"
+    },
+    {
+        "code": "core",
+        "name": "Podstawka"
+    },
+    {
+        "code": "cotr",
+        "name": "Klątwa Rougarou"
+    },
+    {
+        "code": "dca",
+        "name": "Mgły Carcosy"
+    },
+    {
+        "code": "def",
+        "name": "Diabelska rafa"
+    },
+    {
+        "code": "dre",
+        "name": "Dark Revelations"
+    },
+    {
+        "code": "dsm",
+        "name": "Ciemna strona Księżyca"
+    },
+    {
+        "code": "dwl",
+        "name": "Dziedzictwo Dunwich"
+    },
+    {
+        "code": "eoec",
+        "name": "Na krawędzi Ziemi - Rozszerzenie kampanijne"
+    },
+    {
+        "code": "eoep",
+        "name": "Na krawędzi Ziemi - Rozszerzenie badaczy"
+    },
+    {
+        "code": "eotp",
+        "name": "Echa przeszłości"
+    },
+    {
+        "code": "fgg",
+        "name": "Dla większego dobra"
+    },
+    {
+        "code": "fhvc",
+        "name": "Uczta w Dolinie Hemlock - Rozszerzenie kampanijne"
+    },
+    {
+        "code": "fhvp",
+        "name": "Uczta w Dolinie Hemlock - Rozszerzenie badaczy"
+    },
+    {
+        "code": "fof",
+        "name": "Szczęście i szaleństwo"
+    },
+    {
+        "code": "guardians",
+        "name": "Strażnicy Otchłani"
+    },
+    {
+        "code": "har",
+        "name": "Harvey Walters"
+    },
+    {
+        "code": "hfa",
+        "name": "Hunting for Answers"
+    },
+    {
+        "code": "hhg",
+        "name": "Na wysokich obrotach"
+    },
+    {
+        "code": "hote",
+        "name": "Serce starszych"
+    },
+    {
+        "code": "hotel",
+        "name": "Morderstwo w Hotelu Excelsior"
+    },
+    {
+        "code": "hoth",
+        "name": "Hour of the Huntress"
+    },
+    {
+        "code": "icc",
+        "name": "W szponach chaosu"
+    },
+    {
+        "code": "iotv",
+        "name": "Ire of the Void"
+    },
+    {
+        "code": "itd",
+        "name": "Zbyt głęboko"
+    },
+    {
+        "code": "itm",
+        "name": "W głąb wiru"
+    },
+    {
+        "code": "jac",
+        "name": "Jacqueline Fine"
+    },
+    {
+        "code": "lif",
+        "name": "Światło pośród mgieł"
+    },
+    {
+        "code": "litas",
+        "name": "Zagubieni w czasie i przestrzeni"
+    },
+    {
+        "code": "lod",
+        "name": "Leże Dagona"
+    },
+    {
+        "code": "lol",
+        "name": "Labirynty obłędu"
+    },
+    {
+        "code": "ltr",
+        "name": "Laid to Rest"
+    },
+    {
+        "code": "mtt",
+        "name": "Machinacje w czasie"
+    },
+    {
+        "code": "nat",
+        "name": "Nathaniel Cho"
+    },
+    {
+        "code": "otr",
+        "name": "On the Road Again"
+    },
+    {
+        "code": "pap",
+        "name": "Pistols and Pearls"
+    },
+    {
+        "code": "pnr",
+        "name": "Nie ma odwrotu"
+    },
+    {
+        "code": "promo",
+        "name": "Promocyjne"
+    },
+    {
+        "code": "ptc",
+        "name": "Szlak do Carcosy"
+    },
+    {
+        "code": "ptr",
+        "name": "Path of the Righteous"
+    },
+    {
+        "code": "rcore",
+        "name": "Nowa podstawka"
+    },
+    {
+        "code": "rod",
+        "name": "Przeczytaj lub zgiń"
+    },
+    {
+        "code": "rop",
+        "name": "Relics of the Past"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Powrót Dziedzictwa Dunwich"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Powrót Nocy fanatyka"
+    },
+    {
+        "code": "rtptc",
+        "name": "Powrót Szlaku do Carcosy"
+    },
+    {
+        "code": "rtr",
+        "name": "Red Tide Rising"
+    },
+    {
+        "code": "rttcu",
+        "name": "Powrót Przerwanego kręgu"
+    },
+    {
+        "code": "rttfa",
+        "name": "Powrót Zapomnianej ery"
+    },
+    {
+        "code": "sfk",
+        "name": "Poszukiwania Kadath"
+    },
+    {
+        "code": "sha",
+        "name": "Rozbita wieczność"
+    },
+    {
+        "code": "ste",
+        "name": "Stella Clark"
+    },
+    {
+        "code": "tbb",
+        "name": "Poza granicami czasu"
+    },
+    {
+        "code": "tcoa",
+        "name": "Miasto archiwów"
+    },
+    {
+        "code": "tcu",
+        "name": "Przerwany krąg"
+    },
+    {
+        "code": "tdcc",
+        "name": "The Drowned City Campaign Expansion"
+    },
+    {
+        "code": "tdcp",
+        "name": "The Drowned City Investigator Expansion"
+    },
+    {
+        "code": "tde",
+        "name": "Pożeracze snów"
+    },
+    {
+        "code": "tdg",
+        "name": "The Deep Gate"
+    },
+    {
+        "code": "tdor",
+        "name": "The Dirge of Reason"
+    },
+    {
+        "code": "tdoy",
+        "name": "Czeluście Yoth"
+    },
+    {
+        "code": "tece",
+        "name": "Essex County Express"
+    },
+    {
+        "code": "tfa",
+        "name": "Zapomniana era"
+    },
+    {
+        "code": "tftbw",
+        "name": "To Fight the Black Wind"
+    },
+    {
+        "code": "tic",
+        "name": "Zmowa nad Innsmouth"
+    },
+    {
+        "code": "tmg",
+        "name": "The Midwinter Gala"
+    },
+    {
+        "code": "tmm",
+        "name": "Muzeum Miskatonic"
+    },
+    {
+        "code": "tof",
+        "name": "Nici losu"
+    },
+    {
+        "code": "tpm",
+        "name": "Blada Maska"
+    },
+    {
+        "code": "tsh",
+        "name": "Koszmar tysiąca wcieleń"
+    },
+    {
+        "code": "tskc",
+        "name": "Szkarłatne klucze - Rozszerzenie kampanijne"
+    },
+    {
+        "code": "tskp",
+        "name": "Szkarłatne klucze - Rozszerzenie badaczy"
+    },
+    {
+        "code": "tsn",
+        "name": "Sekretne imię"
+    },
+    {
+        "code": "tuo",
+        "name": "Nieopisywalna przysięga"
+    },
+    {
+        "code": "uad",
+        "name": "Zjednoczenie i zwątpienie"
+    },
+    {
+        "code": "uau",
+        "name": "Bezwymiarowe i niewidzialne"
+    },
+    {
+        "code": "wda",
+        "name": "Gdzie czeka zagłada"
+    },
+    {
+        "code": "wgd",
+        "name": "Gdzie mieszkają bogowie"
+    },
+    {
+        "code": "win",
+        "name": "Winifred Habbamock"
+    },
+    {
+        "code": "woc",
+        "name": "Tkaczka kosmosu"
+    },
+    {
+        "code": "wog",
+        "name": "Wojna Zewnętrznych Bogów"
+    },
+    {
+        "code": "wos",
+        "name": "Zapłata za grzechy"
+    }
+]

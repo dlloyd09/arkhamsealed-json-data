@@ -1,0 +1,26 @@
+[
+    {
+        "code": "98007",
+        "name": "Norman Withers",
+        "subname": "Der Astronom",
+        "text": "Spiele mit der obersten Karte deines Decks enthüllt.\nEin Mal pro Runde darfst du die oberste Karte deines Decks für -1 Ressourcenkosten spielen, als ob sie sich auf deiner Hand befände.\n<b>Erzwungen</b> - Nachdem eine Schwäche als oberste Karte deines Decks enthüllt wird: Ziehe sie.\n[elder_sign]-Effekt: +X. Du darfst die oberste Karte gegen eine Karte auf deiner Hand austauschen. X sind die Ressourcenkosten der obersten Karte deines Decks.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Niemand glaubt ihm, und warum auch? Wie können auf einmal sechs Sterne einfach so verschwinden und nicht wieder auftauchen? Norman Withers, Professor für Astronomie an der Miskatonic Universität, hat sich schon fast damit abgefunden, dass keiner seiner Kollegen ihn mehr ernst nimmt, als ein Protegé des berühmten Albert Einstein auf dem Campus eintrifft, um einen Vortrag zu halten. Der Gastdozent mit seinen beunruhigenden Theorien über die Krümmung der Raumzeit könnte Norman dabei helfen, das Phänomen der verschwundenen Sterne zu erklären …",
+        "back_text": "<b>Deckgröße</b>: 30.\n<b>Deckbau-Optionen</b>: Sucherkarten ([seeker]) Stufe 0, Mystikerkarten ([mystic]) Stufe 1-5, Neutrale Karten Stufe 0-5, bis zu 5 andere Mystikerkarten ([mystic]) Stufe 0.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Livre d'Eibon, Der Vorbote, 1 zufällige Grundschwäche."
+    },
+    {
+        "code": "98008",
+        "flavor": "… ein weiterer Zauberspruch, der ebenfalls phonetisch dargelegt wurde, um den „Winkel zu spalten” und um leibhaftig durch die Zeit zu wandeln.",
+        "name": "Den Winkel spalten",
+        "subname": "Der Zorn der Leere",
+        "text": "Nur für das Deck von Norman Withers. Ersatz.\n[action]: Enthülle die oberste Karte des Begegnungsdecks.\n[free] Erschöpfe Den Winkel spalten und lege die oberste Karte deines Decks ab: Lege die oberste Karte des Begegnungsdecks ab.",
+        "traits": "Zauber."
+    },
+    {
+        "code": "98009",
+        "flavor": "„Bei jenen seltenen Gelegenheiten, wenn ein Mann den Hunden entkommt, bleibt das nicht immer so. Früher oder später neigen sie dazu, ihn holen zu kommen.” - Richard Lee Byers, Der Zorn der Leere",
+        "name": "Rachsüchtiger Hund",
+        "text": "Nur für das Deck von Norman Withers. Ersatz.\n<b>Beute</b> - Norman Withers.\nSolange Rachsüchtiger Hund mit dir in einen Kampf verwickelt ist, kannst du durch Spielerkarteneffekte keine Karten ziehen oder enthüllen.",
+        "traits": "Monster. Außerdimensional. Tindalos."
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "code": "core",
+        "name": "Базовий набір"
+    },
+    {
+        "code": "dwl",
+        "name": "Спадщина Данвіча"
+    },
+    {
+        "code": "eoe",
+        "name": "На краю світу"
+    },
+    {
+        "code": "fhv",
+        "name": "The Feast of Hemlock Vale"
+    },
+    {
+        "code": "investigator",
+        "name": "Investigator Starter Decks"
+    },
+    {
+        "code": "parallel",
+        "name": "Parallel"
+    },
+    {
+        "code": "promotional",
+        "name": "Promotional"
+    },
+    {
+        "code": "ptc",
+        "name": "The Path to Carcosa"
+    },
+    {
+        "code": "return",
+        "name": "Return to..."
+    },
+    {
+        "code": "side_stories",
+        "name": "Side Stories"
+    },
+    {
+        "code": "tcu",
+        "name": "The Circle Undone"
+    },
+    {
+        "code": "tdc",
+        "name": "The Drowned City"
+    },
+    {
+        "code": "tde",
+        "name": "The Dream-Eaters"
+    },
+    {
+        "code": "tfa",
+        "name": "The Forgotten Age"
+    },
+    {
+        "code": "tic",
+        "name": "The Innsmouth Conspiracy"
+    },
+    {
+        "code": "tsk",
+        "name": "The Scarlet Keys"
+    }
+]

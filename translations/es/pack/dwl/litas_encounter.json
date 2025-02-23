@@ -1,0 +1,167 @@
+[
+    {
+        "code": "02311",
+        "name": "Perdidos en el tiempo y el espacio",
+        "text": "<b>Fácil/Normal</b>\n[skull] -1 por cada Lugar [[Extradimensional]] que haya en juego (máx. -5).\n[cultist] Revela otra ficha. Si fracasas, después de esta prueba de habilidad, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Lugar. Pon ese Lugar en juego y muévete allí.\n[tablet] -3. Si Yog-Sothoth está en juego, te ataca después de esta prueba de habilidad.\n[elder_thing] -X. X es el valor de velo de tu Lugar. Si fracasas y tu Lugar es [[Extradimensional]], descártalo.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull] -1 por cada Lugar [[Extradimensional]] que haya en juego.\n[cultist] Revela otra ficha. Después de esta prueba de habilidad, descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Lugar. Pon ese Lugar en juego y muévete allí.\n[tablet] -5. Si Yog-Sothoth está en juego, te ataca después de esta prueba de habilidad.\n[elder_thing] -X. X es el doble del valor de velo de tu Lugar. Si fracasas y tu Lugar es [[Extradimensional]], descártalo."
+    },
+    {
+        "code": "02312",
+        "flavor": "Senderos de sonido y color se extienden durante una eternidad en todas direcciones, salpicados de arquitectura imposible y repletos de vida salvaje alienígena. Las líneas que hay entre los objetos son serradas y cambiantes, y notáis la piel como si la tuvierais del revés.",
+        "name": "Todo es uno",
+        "text": "<b>Obligado</b> - Después de que seas movido a un Lugar por el efecto de una carta de Encuentro: Recibe 1 punto de horror.",
+        "back_name": "Ecos familiares",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo. A continuación, descarta cartas de la parte superior hasta que sea descartado un Lugar. El investigador jefe resuelve el efecto \"Revelación\" de ese Lugar.\n<b>Comprueba el registro de campaña. Si los investigadores no lograron salvar a los estudiantes, lee lo siguiente:</b>\n\"Una enorme criatura canina, alienígena a vuestros ojos y aun así familiar, aparece ante vosotros. La criatura se lanza hacia delante, y os preparáis para defenderos de ella, pero para vuestra sorpresa, corre a través de vosotros hacia un edificio que no estaba a vuestra espalda hace un instante: el Pabellón Derby de la Universidad Miskatonic. La criatura irrumpe por la puerta principal del edificio y oís chillidos de pánico en el interior, seguidos del crujido de huesos partiéndose y gritos de dolor.\"\nCada investigador recibe 1 punto de horror, independientemente de su Lugar."
+    },
+    {
+        "code": "02313",
+        "flavor": "Al cruzar este reino, atisbáis destellos ocasionales de realidad: escenas de viejos recuerdos, visiones más recientes de los últimos días y, a veces, incluso eventos que no recordáis que hayan ocurrido nunca…",
+        "name": "Pasado, presente y futuro",
+        "text": "<b>Obligado</b> - Después de que seas movido a un Lugar por el efecto de una carta de Encuentro: Recibe 1 punto de horror.",
+        "back_name": "El precio del fracaso",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo. A continuación, descarta cartas de la parte superior hasta que sea descartado un Lugar. El investigador jefe resuelve el efecto \"Revelación\" de ese Lugar.\n<b>Comprueba el registro de campaña. Si hay al menos un nombre en la sección \"Sacrificados a Yog-Sothoth\", lee lo siguiente:</b>\n\"Oís una voz familiar que os llama, y entráis en un edificio de forma imposible hecho de piedra agrietada. —iNo… no! —grita la voz. Corréis hacia ella, bajando por unas escaleras estrechas y empinadas. Al llegar al fondo, os encontráis en la cámara oculta de Dunwich. Veis a quienes no lograsteis salvar atados por grilletes, ensangrentados y mutilados. Una criatura con rostro de hombre está devorando un cadáver del suelo. La cabeza del cadáver se gira para miraros, y un agudo dolor os atraviesa el corazón.\"\nCada investigador realiza una prueba de [willpower] (X), donde X es la cantidad de nombres anotados en \"Sacrificados a Yog-Sothoth\". Por cada punto que le falte a un investigador para tener éxito, dicho investigador recibe 1 punto de daño."
+    },
+    {
+        "code": "02314",
+        "flavor": "A lo largo de toda esta distorsionada dimensión, da igual adónde viajéis, siempre hay una forma siniestra a lo lejos. Al principio, parece un disco, como una luna negra con muchos brazos que se retuercen. Pero a medida que pasa el tiempo, os dais cuenta de que va creciendo más y más…",
+        "name": "Abriéndose paso",
+        "text": "<b>Obligado</b> - Después de que seas movido a un Lugar por el efecto de una carta de Encuentro: Recibe 1 punto de horror.",
+        "back_name": "La Llave y el Portal",
+        "back_text": "<b>Revelación</b> - Haz aparece el Enemigo Yog-Sothoth puesto aparte en Los bordes del universo. Si Los bordes del universo no están en juego, en vez de eso, hazlo aparecer en Otra dimensión. Haz avanzar el plan al plan 4a."
+    },
+    {
+        "code": "02315",
+        "flavor": "La silueta que hay a lo lejos atraviesa las barreras de esta dimensión, y sus numerosos brazos se extienden hasta tapar todo lo que veis. Su cuerpo es como un cieno, cubierto de ojos y bocas. Os sentís insignificantes, como insectos, ante la aterradora grandiosidad de la criatura.",
+        "name": "El fin de todas las cosas",
+        "text": "<b>Obligado</b> - Después de que seas movido a un Lugar por el efecto de una carta de Encuentro: Recibe 1 punto de horror.\n<b>Obligado</b> - Si Yog-Sothoth es derrotado, <b>(→R3)</b>.",
+        "back_name": "¡Yog-Sothoth ataca!",
+        "back_flavor": "El horror extradimensional se revuelve mientras busca la grieta por la que entrasteis en esta dimensión, y al hacerlo aplasta reinos enteros que tiene aferrados.",
+        "back_text": "En el orden de juego, Yog-Sothoth ataca a cada investigador que esté en juego, independientemente del Lugar actual de Yog-Sothoth. A continuación, dale la vuelta a este plan para que vuelta a mostrar su lado \"a\"."
+    },
+    {
+        "code": "02316",
+        "flavor": "Debéis encontrar de algún modo el camino a través de este paisaje alienígena para encontrar el nexo que describía el tomo del viejo Whateley.",
+        "name": "Fuera de este mundo",
+        "text": "[action]: Descarta las 3 primeras cartas del mazo de Encuentros. Elige un Lugar descartado por este efecto y resuelve su capacidad \"Revelación\".",
+        "back_name": "El nexo de dimensiones",
+        "back_flavor": "Una luz brilla a lo lejos, y os dirigís hacia ella para investigarla. Similar a un fuego fatuo, la luz se aleja de vosotros, flotando por los extraños portales de este mundo, subiendo por escaleras serpenteantes y cruzando barreras que antes no os atrevisteis a cruzar. Ante las escasas posibilidades que tenéis de encontrar el nexo vosotros solos, seguís a la luz, con la esperanza de que os guíe en la dirección correcta.",
+        "back_text": "Pon en juego el Lugar Los bordes del universo puesto aparte."
+    },
+    {
+        "code": "02317",
+        "flavor": "Continuáis siguiendo a la esquiva luz, pero el traicionero paisaje la convierte en una presa difícil de perseguir.",
+        "name": "Hacia el otro lado",
+        "text": "[action]: Descarta las 3 primeras cartas del mazo de Encuentros. Elige un Lugar descartado por este efecto y resuelve su capacidad \"Revelación\".\n<b>Objetivo</b> - Si un investigador entra en Los bordes del universo, haz avanzar el acto.",
+        "back_name": "El límite del mundo",
+        "back_flavor": "Llegáis a un vacío negro como el carbón e imposiblemente denso, y os dais cuenta de que este lugar es donde acaba toda la realidad, toda la que es y toda la que será. En su centro, veis una grieta minúscula, suspendida fuera de vuestro alcance. Al mirar por ella, os sorprende ver la cumbre de Sentinel Hill. De algún modo, habéis llegado al otro lado de la grieta. Ahora debéis encontrar una forma de cerrarla para siempre."
+    },
+    {
+        "code": "02318",
+        "flavor": "Las piedras sobrenaturales del suelo tienen grabado una especie de sello. Al acercaros a ellas, una voz entra en vuestra mente y habla en un idioma alienígena.",
+        "name": "Cerrar la grieta",
+        "text": "[action]: Descarta las 3 primeras cartas del mazo de Encuentros. Elige un Lugar descartado por este efecto y resuelve su capacidad \"Revelación\".\n<b>Objective</b> - Solo los investigadores que esténe en Los bordes del universo pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "back_name": "Reparar el desgarro",
+        "back_flavor": "Estáis absolutamente agotados, sin tener ni idea de qué se puede hacer para cerrar la grieta. Está demasiado lejos para tocarla, y nada de lo que hacéis tiene efecto alguno. Aquí no hay nada para guiaros aparte de las voces sobrenaturales que se filtran en vuestra mente. Entonces, oís una voz familiar dentro del coro de ecos, y os sentís compelidos a repetir lo que dice —Claude ostium… —susurráis en primer lugar, y las palabras se forman en la punta de vuestra lengua. Cerráis los ojos para concentraros, y el eco se vuelve más fuerte. Cuando acaba y abrís los ojos, no veis más que un abismo azabache, y la grieta se ha desvanecido.",
+        "back_text": "Retira Los bordes del universo de la partida.\nPon en juego el Lugar Desgarro en el tiempo puesto aparte."
+    },
+    {
+        "code": "02319",
+        "flavor": "Al no ver una salida clara de esta dimensión, buscáis otro camino.",
+        "name": "Encontrar un nuevo camino",
+        "text": "[action]: Descarta las 3 primeras cartas del mazo de Encuentros. Elige un Lugar descartado por este efecto y resuelve su capacidad \"Revelación\".\n<b>Objetivo</b> - Si todos los investigadores no derrotados han desistido, haz avanzar el acto.",
+        "back_name": "La realidad os llama",
+        "back_flavor": "Descubrís un camino que os resulta familiar en cierto modo y lo seguís. Aunque vuestra tarea está completa, ahora entendéis que, al haber cerrado la grieta, puede que nunca volváis a casa. El miedo de quedar perdidos aquí para siempre os espolea a seguir, y cruzáis una arcada que da a un corredor cubierto de vegetación. Una húmeda puerta de madera os conduce a una zona defina lluvia y cielos oscuros. El cemento se convierte en gravilla, y luego en mármol, después en acero, y más tarde en hierba. Cruzáis prados imposiblemente largos y atravesáis densos bosques antes de que la fatiga haga mella en vosotros. Estáis desprovistos de toda energía, y no podéis avanzar más. Vuestro cuerpo desfallece.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "02320",
+        "name": "Otra dimensión",
+        "subname": "Sin ataduras de la realidad",
+        "text": "<b>Obligado</b> - Cuando un Lugar abandone el juego: Mueve a cada investigador y Enemigo sin enfrentar que estén en ese Lugar a Otra dimensión. No puede ser cancelado.",
+        "traits": "Sobrenatural.",
+        "back_flavor": "Miráis boquiabierto y atónitos los danzantes colores y ángulos alienígenas que os rodean. Es una locura real."
+    },
+    {
+        "code": "02321",
+        "name": "Los bordes del universo",
+        "text": "Debes tener al menos 2 pistas para moverte a Los bordes del universo.\nLos investigadores que estén en Los bordes del universo no pueden robar cartas durante la fase de Mantenimiento.",
+        "traits": "Sobrenatural.",
+        "back_flavor": "Nada podría haberos preparado para esto.\nContemplarlo es bello y terrible a la vez.",
+        "back_text": "Debes tener al menos 2 pistas para moverte a Los bordes del universo."
+    },
+    {
+        "code": "02322",
+        "name": "Desgarro en el tiempo",
+        "text": "[action] Gasta 2 pistas: <b>Desistir.</b> Encuentras un nuevo camino y esperas que te lleve a un lugar seguro.",
+        "traits": "Sobrenatural.",
+        "back_flavor": "Lo que es, lo que fue, lo que nunca será…\nLo veis todo, y todo os ve a vosotros."
+    },
+    {
+        "code": "02323",
+        "name": "Yog-Sothoth",
+        "subname": "El que Acecha más allá del Umbral",
+        "text": "Descomunal. Cazador. Represalia.\nYog-Sothoth recibe +6 de salud[per_investigator].\nYog-Sothoth no puede ser evitado y no puede realizar ataques de oportunidad.\n[reaction] Cuando Yog-Sothoth te ataque: En lugar de recibir hasta X puntos de horror, puedes descartar las X primeras cartas de tu mazo. A continuación, si no tienes cartas en tu mazo, te vuelves loco.",
+        "traits": "Primigenio. Élite."
+    },
+    {
+        "code": "02324",
+        "name": "Desgarro en el espacio",
+        "text": "Oleada.\n<b>Revelación</b> - Pon en juego el Desgarro en el espacio.\n<b>Obligado</b> - Al final de la ronda: Coloca 1 ficha de Perdición sobre el Desgarro en el espacio o bien descártalo.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "02325",
+        "name": "Cascada prismática",
+        "text": "<b>Revelación</b> - Pon la Cascada prismática en juego y descarta una carta aleatoria de tu mano.\n<b>Obligado</b> - Después de que sea retirada la última pista de la Cascada prismática: Descarta la Cascada prismática.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "02326",
+        "name": "Puente infinito",
+        "text": "<b>Revelación</b> - Pon el Puente infinito en juego y pierde 2 recursosT.\n<b>Obligado</b> - Después de que un investigador abandone el Puente infinito: Coloca 1 ficha de Perdición sobre el Puente infinito o bien descártalo.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "02327",
+        "name": "Escalones de Y'hagharl",
+        "text": "<b>Revelación</b> - Pon los Escalones de Y'hagharl en juego. A continuación, roba la primera carta [[Locura]] de tu pila de descartes.\n<b>Obligado</b> - Cuando fueses a abandonar los Escalones de Y'hagharl: Realiza una prueba de [willpower] (2). Si fracasas, añade los Escalones de Y'hagharl al mazo de Encuentros y barájalo en lugar de moverte a tu destino original.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "02328",
+        "name": "Entrada dimensional",
+        "text": "<b>Revelación</b> - Pon la Entrada dimensional en juego. A continuación, roba la primera carta [[Maleficio]] de la pila de descartes de Encuentros.\n<b>Obligado</b> - Al final de tu turno, si estás en la Entrada dimensional: Debes gastar 2 recursos, o bien añadir la Entrada dimensional al mazo de Encuentros y barajarlo.",
+        "traits": "Sobrenatural. Extradimensional."
+    },
+    {
+        "code": "02329",
+        "name": "Viajero interestelar",
+        "text": "<b>Aparición</b> - Cualquier Lugar [[Extradimensional]].\nCazador.\n<b>Obligado</b> - Cuando el Viajero interestelar entre en un Lugar: Dale la vuelta a 1 pista de ese Lugar para que muestre su lado de perdición y colócala sobre el Viajero interestelar, o bien coloca 1 ficha de Perdición sobre el Viajero interestelar si no hay pistas en ese Lugar.",
+        "traits": "Monstruo. Yithiano."
+    },
+    {
+        "code": "02330",
+        "name": "Buscador de estrellas yithiano",
+        "text": "<b>Aparición</b> - Otra dimensión.\nRepresalia.\n<b>Obligado</b> - Cuando el Buscador de estrellas yithiano ataque a un investigador que tenga más de 10 cartas en su pila de descartes: Coloca 1 ficha de Perdición sobre el Buscador de estrellas yithiano.",
+        "traits": "Monstruo. Yithiano."
+    },
+    {
+        "code": "02331",
+        "flavor": "El mundo que te rodea parece plegarse sobre sí mismo, distorisonándose, retorciéndose y doblándose.",
+        "name": "Realidad colapsada",
+        "text": "<b>Revelación</b> - Si estás en un Lugar [[Extradimensional]], descártalo y recibe 1 punto de daño. Si no es así, recibe 2 puntos de daño.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "02332",
+        "name": "Agujero de gusano",
+        "text": "<b>Revelación</b> - Discard cards from the top of the encounter deck until a location is discarded. Resolve that location's 'revelation' ability, then move to that location.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "02333",
+        "name": "Paraje vasto",
+        "text": "<b>Revelación</b> - Si no hay Lugares [[Extradimensional]] en juego, el Paraje vasto obtiene Oleada. Si no es así, realiza una prueba de [willpower] (X), donde X es la cantidad de Lugares [[Extradimensional]] que hay en juego (máx. 5). Por cada punto que te falte para tener éxito, recibe 1 punto de horror.",
+        "traits": "Terror."
+    }
+]

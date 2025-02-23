@@ -1,0 +1,26 @@
+[
+    {
+        "code": "90001",
+        "flavor": "\"Posso chiudere il libro, ma non potrò mai dimenticarne le parole.\"",
+        "name": "Daisy Walker",
+        "subname": "La Bibliotecaria",
+        "text": "Ottieni +1 [willpower] e +1 sanità mentale per ogni supporto [[Tomo]] che controlli.\n[fast]: Una alla volta, risolvi una capacità [action] su ogni supporto [[Tomo]] che controlli, ignorando il loro costo [action]. (Limite di una volta per partita.)\nEffetto di [elder_sign]: +1. Puoi prendere un supporto [[Tomo]] dagli scarti e aggiungerlo alla tua mano.",
+        "traits": "Miskatonic.",
+        "back_flavor": "Come rispettata bibliotecaria della Miskaonic Univeristy, Daisy ha sempre pensato che i libri fossero la cosa più importante della sua vita. Ha esplorato nella fantasia ciò che disprezzava nella vita: orrore, violenza, paura. Poi, si è imbattuta nella traduzione di John Dee del Necronomicon: era blasfemo, sacrilego e troppo orribile per essere vero, ma grazie ai suoi studi nelle materie oscure e occulte, Daisy sapeva che c'era più verità che finzione nelle pagine di quel libro. Fu così che iniziò a chiedersi quali altri segreti celasse la collezione privata della Biblioteca Orne...",
+        "back_text": "<b>Dimensione del Mazzo</b>: 30 carte.\n<b>Opzioni del Mazzo</b>: Carte [[Tomo]] di livello 0-5, carte Studioso ([seeker]) di livello 0-3, carte Neutrali di livello 0-5, fino a 5 altre carte Guardiano e/o Mistico ([guardian] e/o [mystic]).\n<b>Requisiti del Mazzo</b> (non considerati nella dimensione del mazzo): Borsa di Daisy, Necronomicon <i>(Traduzione di John Dee),</i> 1 debolezza base casuale."
+    },
+    {
+        "code": "90002",
+        "name": "Borsa di Daisy",
+        "text": "Solo mazzo di Daisy Walker. Avanzato.\nPossiedi 2 slot mano aggiuntivi, a cui possono essere associati solo supporti [[Tomo]].\n[reaction] Quando giochi un supporto [[Tomo]] durante il tuo turno, esaurisci la Borsa di Daisy: Quel supporto guadagna veloce.",
+        "traits": "Oggetto."
+    },
+    {
+        "code": "90003",
+        "name": "Necronomicon",
+        "subname": "Traduzione di John Dee",
+        "text": "Avanzato.\n<b>Rivelazione</b> - Metti in gioco questa carta nella tua area di minaccia e colloca 3 orrori su di essa. Finchè ci sono orrori su di esso, il Necronomicon non può uscire dal gioco.\nWConsidera i segnalini [elder_sign] che riveli come se fossero [cultist], [tablet], e [elder_thing] <i>(risolvi tutti e tre)</i>.\n[action]: Sposta 1 orrore da questa carta a Daisy Walker. Poi, se non ci sono orrori su questa carta, scartala.",
+        "traits": "Oggetto. Tomo.",
+        "slot": "Mano"
+    }
+]

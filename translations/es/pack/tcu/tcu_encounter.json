@@ -1,0 +1,507 @@
+[
+    {
+        "code": "05043",
+        "name": "Desaparición en la finca del Crepúsculo",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -3. Si fracasas y se trata de un ataque o intento de evitar, resuelve todas las capacidades Embrujado de tu Lugar.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -5. Si fracasas y se trata de un ataque o intento de evitar, resuelve todas las capacidades Embrujado de tu Lugar."
+    },
+    {
+        "code": "05044",
+        "name": "EL JUICIO • XX",
+        "text": "<b>Obligado</b> - Después de que se coloque perdición sobre cualquier carta: Cada investigador debe recibir 1 punto de daño o 1 punto de horror (o bien  2 puntos de daño o 2 puntos de horror si hay 5 o más fichas de Perdición en juego).\n<b>Obligado</b> - Cuando cualquier investigador sea derrotado, ese investigador debe hacer avanzar este plan. No retires perdición de este plan cuando avance.",
+        "flavor": "NO SE PUEDE ESCAPAR AL DESTINO.\nESCUCHA LA LLAMADA Y RENACE.",
+        "back_name": "Tu fallecimiento",
+        "back_text": "Anota el destino de tu personaje en la sección \"Personas desaparecidas\" del registro de campaña, junto al perfil del personaje. Luego vuelve a darle la vuelta a este plan.\n- Si fuiste derrotado por el ataque de El vigilante Espectral, anota que <i>el vigilante se llevó a (nombre del personaje)</i>.\n- Si fuiste derrotado por el ataque de un Enemigo [[Monstruo]], anota que <i>(nombre del personaje) fue arrebatado por los espectros</i>.\n- Si había 7 o más fichas de Perdición en juego cuando este plan avanzó y fuiste derrotado por el horror o el daño infligidos por la capacidad <b>Obligado</b> del plan 1a, anota que <i>(nombre del personaje) desapareció en la niebla</i>.\n- Si fuiste derrotado por cualquier otro efecto, anota que <i>(nombre del personaje) fue absorbido al reino Espectral</i>."
+    },
+    {
+        "code": "05045",
+        "name": "La desaparición",
+        "text": "<b>Obligado</b> - Cuando un investigador sea eliminado: Coloca todas las pistas de ese investigador sobre este acto en vez de en su Lugar.\n<b>Objetivo</b> - Descubre tantas pistas como puedas antes de tu inevitable fallecimiento.",
+        "flavor": "Algo terrible ha invadido el hogar de Josef Meiger. Durante los momentos siguientes a su llegada, te afanas por sobrevivir.",
+        "back_name": "¿…?",
+        "back_text": "Anota en el registro de campaña que <i>los investigadores están siendo cazados</i>.\nVuelve a darle la vuelta a esta carta para mostrar el acto 1a.",
+        "back_flavor": "EN EL ÉTER SE RETUERCEN LAS SOMBRAS\nEL PORTAL NOS HA HECHO DESAPARECER\nLA DESESPERACIÓN ODIA LOS CORAZONES LATIENTES\nMUERTOS O VIVOS, NO LO PODEMOS SABER\nEL TRONO NEGRO EN EL ESPACIO DESIERTO\nLA QUE FIRMÓ CONOCE EL CAMINO\nHUELE TU ALMA, CONOCE TU DESTINO\nSUS BRILLANTES OJOS SIEMBRAN DESCONCIERTO."
+    },
+    {
+        "code": "05046",
+        "name": "Gavriella Mizrah",
+        "subname": "Seguridad privada",
+        "text": "[reaction] Después de que un Enemigo te ataque, incluso si ese ataque fue cancelado: Descubre 1 pista en tu Lugar. Límite de una vez por ronda.\nEfecto [elder_sign]: +1. Cúrate 1 punto de daño y 1 punto de horror.",
+        "back_text": "<b>Preparación</b>: Comienzas la partida en las Salas victorianas. Coloca 1 punto de daño sobre El vigilante Espectral. Busca en las cartas reunidas 1 copia de El destino de todos los necios y ponla en juego en tu zona de amenaza. Comienzas con 1 recurso en lugar de 5.\n<b>Zona de juego inicial</b>:Automática del .45<i>(Básico 16)</i> con 2 fichas de munición restantes, Entrenamiento físico <i>(Básico 17)</i>.\n<b>Mano inicial</b>: Primeros auxilios <i>(Básico 19)</i>, Perro guardián <i>(Básico 21)</i>, ¡Una prueba! <i>(Básico 22)</i>, Esquivar <i>(Básico 23)</i>, Munición extra <i>(nivel 1) (Básico 26)</i>, 2 copias de Retrasar lo inevitable <i>(ECR 21)</i>.",
+        "back_flavor": "Gavriella Mizrah es una exmiembro de la Haganá que ahora trabaja en el ámbito de la seguridad privada para propietarios acaudalados. Josef Meiger, un hombre que se toma su confidencialidad muy en serio, ha contratado en exclusiva a Gavriella para que se asegure de que no hay problemas durante la celebración de esta noche. Pero ni siquiera ella está preparada para lo que se avecina.",
+        "traits": "Veterano."
+    },
+    {
+        "code": "05047",
+        "name": "Jerome Davids",
+        "subname": "El secretario de Josef",
+        "text": "[reaction] Cuando un investigador que esté en tu Lugar robe una carta de Traición del mazo de Encuentros, descarta cartas de tu mano que tengan al menos 2 iconos [intellect] en total: Cancela el efecto de revelación de esa carta. Límite de una vez por ronda.\nEfecto [elder_sign]: +1. Descubre 1 pista en tu Lugar.",
+        "back_text": "<b>Preparación</b>: Comienzas la partida en el Despacho. Busca en las cartas reunidas 1 copia de Envuelto en la niebla. Haz aparecer la Niebla del inframundo en el Despacho y vincula el Envuelto en la niebla al Despacho. Comienzas con 3 recursos en lugar de 5.\n<b>Zona de juego inicial</b>: Nada.\n<b>Mano inicial</b>: Hiperconsciencia <i>(Básico 34)</i>, La mente sobre la materia <i>(Básico 36)</i>, Siguiendo una corazonada <i>(Básico 37)</i>, Barricada <i>(Básico 38)</i>, Deducción <i>(Básico 39)</i>, Lupa <i>(nivel 1) (Básico 40)</i>, Kit de huellas dactilares <i>(ECR 24)</i>, Unir los puntos <i>(ECR 25)</i>, 2 copias de Curiosidad <i>(ECR 26)</i>.",
+        "back_flavor": "Jerome es el secretario y asistente personal de Josef Meiger. Es amigo íntimo de Josef y un importante miembro de la Logia del Crepúsculo de Plata. Ayuda a llevar las enormes finanzas del patrimonio de Meiger y gestiona el tiempo de Josef, que últimamente se ha vuelto cada vez más preciado.",
+        "traits": "Ayudante. Crepúsculo de plata."
+    },
+    {
+        "code": "05048",
+        "name": "Valentino Rivas",
+        "subname": "Filántropo acaudalado",
+        "text": "[free] Gasta 2 recursos durante una prueba de habilidad que estés realizando: Reduce la dificultad de esta prueba en 1. Límite de una vez por ronda.\nEfecto [elder_sign]: +1. Obtén 2 recursos.",
+        "back_text": "<b>Preparación</b>: Comienzas la partida en la Sala de billar. Busca en las cartas reunidas 1 copia del Sabueso en la sombra y 1 copia del Terror en la noche. Haz aparecer el Sabueso en la sombra enfrentado a ti y pon el Terror en la noche en juego junto al mazo de Plan. Comienzas con 10 recursos en lugar de 5.\n<b>Zona de juego inicial</b>: Bien conectado <i>(ECR 28)</i>.\n<b>Mano inicial</b>: Derringer del .41 <i>(Básico 47)</i>, Oportunista <i>(Básico 53)</i>, Jugar sobre seguro <i>(nivel 3) (Básico 56)</i>, 2 copias de El dinero habla <i>(ECR 29)</i>, 2 copias de Ingenio <i>(ECR 30)</i>.",
+        "back_flavor": "\"Tino\" es un acaudalado filántropo y uno de los invitados más apreciados de esta noche. Tras recibir un dinero como caído del cielo, Valentino vive una vida de lujos y recreo. Pese a su riqueza, sigue en contacto con su comunidad y le alegra destinar grandes sumas de dinero a buenas causas.",
+        "traits": "Crepúsculo de plata. Alta Sociedad."
+    },
+    {
+        "code": "05049",
+        "name": "Penny White",
+        "subname": "La ama de llaves de Josef",
+        "text": "[reaction] Después de que tengas éxito en una prueba de habilidad durante un efecto revelación: Descubre 1 pista en tu Lugar. Límite de una vez por ronda.\nEfecto [elder_sign]: +1. Si se trata de una prueba de habilidad durante un efecto de revelación, puedes realizar una acción adicional durante tu próximo turno.",
+        "back_text": "<b>Preparación</b>: Comienzas la partida en el Balcón. Busca en las cartas reunidas 1 copia de Alma en pena y 1 copia de Susurros en la oscuridad. Haz aparecer el Alma en pena enfrentada a ti y pon los Susurros en la oscuridad en juego junto al mazo de Plan. Comienzas con 2 recursos en lugar de 5.\n<b>Zona de juego inicial</b>: Fuerzas de flaqueza <i>(Básico 77)</i>, Cuchillo <i>(Básico 86)</i>, Linterna <i>(Básico 87)</i> con 2 fichas de suministros restantes.\n<b>Mano inicial</b>: Gato callejero <i>(Básico 76)</i>, ¡Qué suerte! <i>(Básico 80)</i>, Cuchillo <i>(Básico 86)</i>, Linterna <i>(Básico 87)</i>, 2 copias de Acto de desesperación <i>(ECR 37)</i>, 2 copias de Buena forma física <i>(ECR 38)</i>.",
+        "back_flavor": "Penny White es el ama de llaves de la finca Meiger. Lleva trabajando allí varios años y aunque sólo ha hablado con Josef en contadas ocasione, el carácter escrupuloso de éste la ha tenido muy ocupada. Esta noche, está encargada de mantener la mansión impecable, la comida caliente y el licor fluyendo.",
+        "traits": "Ayudante."
+    },
+    {
+        "code": "05050",
+        "name": "La hora bruja",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1. Por cada punto que te falte para tener éxito, descarta la primera carta del mazo de Encuentros.\n[tablet]: -1. Si fracasas, después de que esta prueba se resuelva, roba la carta de Traición que esté más cerca de la parte inferior de la pila de descartes de Encuentros.\n[elder_thing]: -3. Si fracasas, elige un Enemigo [[Bruja]] agotado o dañado que esté en tu Lugar o en un Lugar conectado. Prepara ese Enemigo y cúrale todo el daño.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2. Descarta de la parte superior del mazo de Encuentros una cantidad de cartas igual a la dificultad de esta prueba.\n[tablet]: -2. Si fracasas, después de que esta prueba se resuelva, roba la carta de Traición que esté más cerca de la parte inferior de la pila de descartes de Encuentros.\n[elder_thing]: -4. Si fracasas, prepara todos los Enemigos [[Bruja]] que estén en tu Lugar y en cada Lugar conectado. Cúrales todo el daño a esos Enemigos."
+    },
+    {
+        "code": "05051",
+        "name": "LA TEMPLANZA • XIV",
+        "flavor": "MANTÉN LA CALMA Y QUIZÁS LOGRES ATISBAR UN INCIERTO FUTURO.\nEL EQUILIBRIO DEL UNIVERSO HA CAMBIADO.\nERES EL FULCRO.\nSE PACIENTE, Y TODO SERÁ REVELADO.",
+        "back_name": "El rito comienza",
+        "back_text": "Descarta todas las cartas del mazo de Encuentros excepto las 5 últimas. El investigador que tenga más cartas en su zona de juego debe robar el primer Enemigo [[Bruja]] de la pila de descartes de Encuentros.",
+        "back_flavor": "La luna alcanza el cenit de su arco en el cielo nocturno. Los árboles comienzan a agitarse y retorcerse con la brisa, como si estuvieran hechos de algo distinto a la materia sólida. Docenas de aves salen volando repentinamente de las copas de los árboles, y oyes una leve melodía que surca el viento.\nUna silueta cubierta con una capa surge de la oscuridad entre la maleza, y a sus pies se forma un vórtice de energía mágica: -¿Sois los que han estado interfiriendo en nuestra obra? -se pregunta en voz alta mientras os observa con sospecha desde abajo de su gruesa capucha-. Da igual. No sois bienvenidos aquí -os amenaza-. Marchaos o afrontad las consecuencias."
+    },
+    {
+        "code": "05052",
+        "name": "La noche aúlla",
+        "text": "<b>Obligado</b> - Al final de la ronda: Coloca 1 ficha de Perdición sobre este plan por cada Enemigo [[Bruja]] que haya en el Círculo de brujas.",
+        "flavor": "A medida que se aproxima la medianoche, el bosque comienza a tomar otra forma. Una cúpula de oscuridad tapa las estrellas. El viento aumenta su intensidad, y su silbido resuena entre los árboles. Un peligroso poder se reúne en lo más profundo del bosque, atrayendo solo a los necios y a los malvados.",
+        "back_name": "Reencarnación",
+        "back_text": "Cada investigador superviviente es derrotado y debe buscar en la colección una Debilidad básica aleatoria [[Augurio]] o [[Maldición]] y añadirla a su mazo. Cada investigador que no pueda hacerlo sufre 1 trauma mental en su lugar.",
+        "back_flavor": "Una columna de relámpagos ilumina el cielo, acompañada de un ensordecedor trueno que resuena por todo el bosque. La tierra tiembla, y el viento aúlla mientras sopla a vuestro alrededor, puntuado con lo que suena como los gritos y alaridos de alguien desgarrado por la angustia y el sufrimiento. Es en ese momento cuando las flautas comienzan a tocar."
+    },
+    {
+        "code": "05053",
+        "name": "Perdidos en el bosque",
+        "text": "Los Lugares frente a ti están conectados entre sí. No puedes entrar en Lugares que estén frente a otros investigadores.\n<b>Objetivo</b> - Al final de la ronda, los investigadores, como grupo, pueden gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "flavor": "Te has despertado sin nadie más en el bosque que hay al sur de Arkham. No ves por ninguna parte a la misteriosa pitonisa. Te levantas de embarrado sendero y tratas de orientarte. Notas un peso opresivo en el aire.",
+        "back_name": "Más dentro del bosque",
+        "back_text": "Cada investigador debe elegir al azar 1 de los Lugares Bosque de Arkham puestos aparte, ponerlo en juego frente a él y moverse inmediatamente a ese Lugar (no se puede cancelar).\nCada investigador hace aparecer un Engendro cabrío puesto aparte en su Lugar (si hay 4 investigadores en la partida, en lugar de eso el investigador jefe hace aparecer el Retoño oscuro implacable puesto aparte, y cada uno de los demás investigadores hace aparecer un Engendro cabrío puesto aparte). A continuación, cada investigador realiza una prueba de [willpower] o de [agility] (3). Cada investigador que tenga éxito agota a ese Enemigo y deja de estar enfrentado a él.\nAñade una de las copias puestas aparte de la Melodía demoníaca al mazo de Encuentros y barájalo. Coloca las otras dos copias en la pila de descartes de Encuentros.",
+        "back_flavor": "Cuando la lluvia cesa, una espesa niebla cubre toda la zona. En pocos instantes, todo el bosque ha desaparecido entre la bruma. Llamas a tus compañeros, pero ninguno contesta. Vas a tientas entre la neblina, buscando cualquier cosa a la que aferrarte."
+    },
+    {
+        "code": "05054",
+        "name": "Zona de brujas",
+        "text": "Los Lugares frente a ti están conectados entre sí. No puedes entrar en Lugares que estén frente a otros investigadores.\n<b>Objetivo</b> - Si un solo investigador gasta la cantidad necesaria de pistas, haz avanzar el acto.",
+        "flavor": "Los ritos arcanos que se estén practicando en este bosque están atrayendo la atención de toda clase de bestias malignas, de tipos que jamás has visto. ¿Es aquello de lo que trataba de advertirte la pitonisa?",
+        "back_name": "Melodías extrañas",
+        "back_text": "Durante el resto de escenario, los investigadores ya pueden entrar en los Lugares que estén frente a otros investigadores.",
+        "back_flavor": "mientras rastreas el bosque en busca de respuestas, o de un camino que te lleve a casa, te encuentras atraído fuera del camino por una hipnótica melodía de flautas plateadas. Te adentras más en el húmedo y brumoso terreno boscoso, buscando el origen de la extraña música. Por fin, llegas a un neblinoso claro, en cuyo centro hay un tocón medio podrido. Sobre él reposa una vieja flauta de madera, delicadamente tallada, que te suplica en silencio que te acerques. En cuanto tocas el instrumento, la melodía que te atrajo aquí cesa, y la densa neblina que te rodea se dispersa con una repentina brisa."
+    },
+    {
+        "code": "05055",
+        "name": "Caminos hacia el crepúsculo",
+        "text": "Los Lugares frente a ti están conectados entre sí.",
+        "flavor": "Ahora que la extraña niebla se ha dispersado, puedes explorar el bosque. No logras encontrar el sendero principal que lleva de vuelta a la periferia, pero es tu oportunidad de descubrir más sobre el ritual que están realizando las brujas."
+    },
+    {
+        "code": "05055b",
+        "name": "Círculo de brujas",
+        "text": "<b>Revelación</b> - Pon en juego el Círculo de brujas en el centro de la zona de juego, de forma que no esté frente a ninguno de los investigadores. El investigador jefe hace aparecer la carta Anette Mason puesta aparte en el Círculo de brujas.\n<b>Obligado</b> - Después de que comience la fase de Enemigos: Mueve todos los Enemigos [[Bruja]] preparados y sin enfrentar una vez hacia el Círculo de brujas.",
+        "traits": "Bosque. Círculo."
+    },
+    {
+        "code": "05056",
+        "name": "Un círculo intacto",
+        "text": "Los Lugares frente a ti están conectados entre sí.\n<b>Objetivo</b> - Si Anette Mason es derrotada, haz avanzar el acto.\n<b>Objetivo</b> - Si no hay pistas en el Círculo de brujas, haz avanzar el acto.",
+        "flavor": "Llegáis a un claro en el que se ha preparado un círculo ritual. En torno a él hay varias figuras encapuchadas, sumidas en un trance e inconcientes de vuestra presencia. El ritual lo supervisa una mujer de complexión robusta que blande una larga daga ondulada cuando os ve acercaros: -¡Marchaos de este lugar de inmediato! -os ordena.",
+        "back_name": "Un círculo roto",
+        "back_text": "<b>Si es acto avanzó por derrotar a Anette Mason:</b>\n<blockquote><i>-¡Alto! -grita la líder del aquelarre con voz imperiosa y con el rostro demudado por las heridas que le habéis infligido. No sabéis si se dirige a vosotros o a las mujeres encapuchadas que os rodean, pero sea como sea, se produce un repentino silencio en el claro en el que se encuentra el círculo.</i></blockquote>\n<b>(→R1)</b>\n<hr><b>Si el acto avanzó por descubrir todas las pistas del Círculo de brujas:</b>\n<blockquote><i>Un fuerte restallido resuena por todo el bosque cuando rompéis el círculo e invertís el hechizo de las brujas. -¡No! ¡Han roto el ritual! -grita una de las brujas cuando la energía del hechizo se descontrola. Un ardiente relámpago golpea el centro del campo, levantando tierra y polvo en todas direcciones. Os lanzáis a cubierto.</i></blockquote>\n<b>(→R2)</b>"
+    },
+    {
+        "code": "05057",
+        "name": "Anette Mason",
+        "subname": "La suma sacerdotisa",
+        "text": "Represalia.\n<b>Obligado</b> - Después de que comience la fase de Enemigos: Descarta las 3 primeras cartas del mazo de Encuentros. Haz aparecer todos los Enemigos [[Bruja]] descartados por este efecto en el Lugar de Anette mason. Si no se descartó ningún Enemigo [[Bruja]] por este efecto, prepárala.",
+        "flavor": "\"Venid, hermanas. Es nuestro momento.\"",
+        "traits": "Humanoide. Bruja. Élite."
+    },
+    {
+        "code": "05058",
+        "name": "Bosque embrujado",
+        "subname": "Mina abandonada",
+        "text": "No puedes investigar este Lugar mientras tengas entre 3 y 10 recursos.\n[free]: Elige un investigador que esté en un Bosque embrujado distinto. Mueve hasta 3 de tus recursos a la reserva de recursos de ese investigador o viceversa. Límite de grupo de una vez por ronda.",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05059",
+        "name": "Bosque embrujado",
+        "subname": "Túmulos de piedras",
+        "text": "<b>Obligado</b> - Después de que se descubra cualquier cantidad de pistas de este Lugar: Cada investigador que esté en este Lugar pierde esa misma cantidad de recursos.",
+        "flavor": "¿Indican una tumba? ¿O algo más siniestro?",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05060",
+        "name": "Bosque embrujado",
+        "subname": "El árbol solitario",
+        "text": "No puedes investigar este Lugar mientras tengas entre 3 y 5 cartas.\n[free]: Elige y descarta 1 carta de tu mazo y luego un investigador que esté en un Bosque embrujado distinto roba 1 carta, o viceversa. Límite de una vez por ronda.",
+        "flavor": "Las fantasmales figuras torturadas se retuercen en su corteza, demacradas y deformadas. Contemplarlo es angustioso.",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05061",
+        "name": "Bosque embrujado",
+        "subname": "Casa en el árbol infantil",
+        "text": "<b>Obligado</b> - Cuando se descubra la última pista de este Lugar: Haz aparecer en este Lugar el primer Enemigo de la pila de descartes de Encuentros. Si no hay Enemigos en la pila de descartes de Encuentros, en vez de eso descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo y haz aparecer ese Enemigo en su Lugar.",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05062",
+        "name": "Bosque embrujado",
+        "subname": "Pozo contaminado",
+        "text": "Los investigadores que estén en otros Lugares Bosque embrujado pueden asignar 1 carta a cada prueba de habilidad realizada en este Lugar y viceversa.",
+        "flavor": "Lo único que se aferra a la vida en torno a la base de este viejo pozo son unos pocos puñados de hierba. El resto del paisaje se ha visto desprovisto de todo color.",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05063",
+        "name": "Bosque embrujado",
+        "subname": "Casa del ermitaño",
+        "text": "<b>Obligado</b> -Después de que se descubra cualquier cantidad de pistas en este Lugar: Cada investigador que esté en este Lugar debe descartar esa misma cantidad de cartas de su mano al azar.",
+        "flavor": "Aunque esta senda quedó abandonada hace muchos años, una luz sigue brillando en el ático de una de las desvencijadas casas que hay cerca.",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05064",
+        "name": "Bosque embrujado",
+        "subname": "Granero invadido de vegetación",
+        "text": "[reaction] Cuando un Enemigo fuese a aparecer en un Bosque embrujado distinto: En lugar de eso, hazlo aparecer en este Lugar. A continuación, realiza un ataque inmediatamente contra cada investigador que esté en este Lugar.",
+        "flavor": "En este granero no ha vivido nada desde hace décadas. Al menos, que tú sepas.",
+        "back_flavor": "El gélido viento aúlla a tu alrededor mientras te adentras más en el bosque encantado que hay más allá de Arkham.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05065",
+        "name": "A las puertas de la muerte",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si tu Lugar está Embrujado.\n[tablet]: -2. Si fracasas y se trata de un ataque o intento de evitar, resuelve todas las capacidades Embrujado de tu Lugar.\n[elder_thing]: -2. Si hay un Enemigo [[Espectral]] en tu Lugar, recibe 1 punto de daño.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si tu Lugar está Embrujado.\n[tablet]: -3. Si se trata de un ataque o intento de evitar, resuelve todas las capacidades Embrujado de tu Lugar.\n[elder_thing]: -4. Si hay un Enemigo [[Espectral]] en tu Lugar, recibe 1 punto de daño y 1 punto de horror."
+    },
+    {
+        "code": "05066",
+        "name": "LA JUSTICIA • XI",
+        "text": "Los Enemigos [[Crepúsculo de plata]] no pueden ser dañados o derrotados.\n<b>Obligado</b> - Cuando robes un Enemigo [[Monstruo]]: En lugar de hacerlo aparecer, ponlo aparte, fuera del juego, y coloca 1 ficha de Perdición sobre este plan. Este efecto puede hacer que este plan avance.",
+        "flavor": "SE FIEL A TI MISMO, Y BUSCA LA VERDAD EN LOS DEMÁS.\nDEBES EQUILIBRAR LA BALANZA.\nSE TE PEDIRÁN CUENTAS POR TUS ACCIONES.",
+        "back_name": "Arrastrado a las sombras",
+        "back_text": "Si los investigadores, como grupo, no poseen 3 pistas [per_investigator], pierden todas sus pistas.\nSi los investigadores, como grupo, poseen al menos 3 pistas [per_investigator], deben gastar 3 pistas [per_investigator] y hacer aparecer el Enemigo Josef Meiger puesto aparte en el Lugar más alejado de todos los investigadores que no sea el Vestíbulo de entrada.\nAbre la guía de campaña y pasa al <b>Interludio I: Rastro de los perdidos</b>.\nCuando este interludio haya sido resuelto, retira todas las pistas de todos los Lugares de juego y haz avanzar el acto al acto 1b.",
+        "back_flavor": "Habéis descubierto algunas pruebas relativas a las desapariciones, pero la verdad no ha sido desvelada aún."
+    },
+    {
+        "code": "05067",
+        "name": "Por el umbral",
+        "text": "Cada Enemigo [[Crepúsculo de plata]] obtiene <b>Victoria 0</b>, y cuenta como un investigador a efectos de determinar dónde se mueven los Enemigos Cazador durante la fase de Enemigos.\n<b>Obligado</b> - Después del paso \"Los Enemigos Cazador se mueven\" de la fase de Enemigos: Cada Enemigo [[Espectral]] preparado inflige su valor de daño a cada Enemigo [[Humanoide]] que esté en su Lugar.",
+        "flavor": "¿Tiene esto algo que ver con las cuatro personas desaparecidas? Y si es así, ¿qué supone eso para vuestra supervivencia?",
+        "back_name": "Huye si puedes",
+        "back_text": "- Si los investigadores están en el acto 2, quedan atrapados en el Reino espectral. <b>(→R3)</b>\n- Si los investigadores están en el acto 3, apenas logran escapar con vida. Cada investigador que no haya desistido queda derrotado y sufre 1 trauma físico.",
+        "back_flavor": "La niebla se sigue filtrando por las paredes y cimientos del edificio, llenando las salas de la mansión. En el interior de la niebla, nunca olvidaréis los rostros que gritan y el retorcido tormento de los espíritus atrapados en ella. Su agonía se propaga por los pasillos y perfora vuestras mentes. Os veis abrumados por un acceso de locura. Debéis escapar antes de que también vosotros os perdáis para siempre. Antes de que os deis cuenta, estáis corriendo hacia la salida."
+    },
+    {
+        "code": "05068",
+        "name": "Planes ocultos",
+        "text": "<b>Objetivo</b> - Encuentra información sobre las desapariciones descubriendo tantas pistas como puedas. <i> No hagas avanzar el acto hasta que se te indique hacerlo. (Consejo: puede que merezca la pena investigar la última ubicación conocida de las personas desaparecidas.)</i>",
+        "flavor": "Cuando os aproximáis al patio de la finca Meiger, un hombre con traje elegante comprueba vuestras invitaciones en la puerta. Dentro, los invitados se relacionan y charlan unos con otros, pero la mayoría de conversaciones son forzadas y tensas. Una silenciosa tensión atenaza la mansión, y no estáis seguros del motivo.",
+        "back_name": "La muerte se acerca",
+        "back_text": "Mueve a las Salas victorianas todos los investigadores y Enemigos que estén en el Vestíbulo de entrada en este momento.\nPor cada Lugar que haya en juego, busca la versión [[Espectral]] puesta aparte de ese Lugar para que lo sustituya <i>(yodas las fichas y cartas que estuvieran en el Lugar anterior ahora se consideran que están en el nuevo Lugar)</i>. Si hay un investigador en ese Lugar, revélalo.\nSiguiendo el orden de juego, cada investigador hace aparecer en su Lugar uno de los Enemigos [[Monstruo]] puestos aparte, hasta que se hayan hecho aparecer todos los Enemigos [[Monstruo]] puestos aparte.\nHaz aparecer el Enemigo El vigilante especial puesto aparte en el Vestíbulo de entrada. Añade el resto del conjunto de encuentros <i>El vigilante</i>, el conjunto de encuentros <i>El reino de la muerte</i> y la pila de descartes de Encuentros al mazo de Encuentros y barájalo.",
+        "back_flavor": "Antes de que podáis seguir investigando, el edificio queda sumido repentinamente en una gélida oscuridad. Todas las luces parpadean y se apagan de golpe. Una densa niebla sobrenatural comienza a introducirse en los pasillos, pudriendo todo lo que toca."
+    },
+    {
+        "code": "05069",
+        "name": "El reino espectral",
+        "flavor": "Todo ha cambiado en un abrir y cerrar de ojos. Un repentino silencio opresivo llena las salas de la mansión de Josef Meiger. El ruido de las conversaciones banales que provenía de la sala de banquetes ha desaparecido, junto con el chinchín de las copas y las risas de los distraídos invitados. Toda la gente que había en la casa ha desaparecido sin el menor rastro, exceptuándoos a vosotros y a algunas personas más. Lo único que queda es la oscura niebla… y los seres que habitan en ella.",
+        "back_name": "Una forma de escapar",
+        "back_text": "La niebla que bloqueaba la huida retrocede. Revela el Vestíbulo de entrada.\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.",
+        "back_flavor": "Encontráis el cadáver de una de las demás personas atrapadas aquí; suponéis que es un miembro de la Logia del Crepúsculo de Plata, aunque la túnica de color azul y plata que lleva puesta sugiere algo más esotérico. Sus ajadas manos sostienen con fuerza un pequeño tomo que lleva la insignia de la Logia. Al hojearlo, os sorprende encontrar todo tipo de información sobre la niebla y las criaturas con las que os habéis encontrado, incluido un hechizo para \"liberar las cadenas de la muerte\" y escapar de la niebla. ¿Cuánto tiempo lleva aquí este hombre, estudiando este reino? Sea como sea, al menos ahora tenéis una forma de salir…"
+    },
+    {
+        "code": "05070",
+        "name": "Huida de la jaula",
+        "text": "<b>Obligado</b> - Al final de la ronda: Cada Enemigo [[Crepúsculo de plata]] que esté en el Vestíbulo de entrada huye; colócalo bajo el Vestíbulo de entrada, fuera del juego. Mueve una vez hacia el vestíbulo de entrada todos los Enemigos [[Crepúsculo de plata]] preparados que tengan la palabra clave Indiferente.\n<b>Objetivo</b> - Si todos los investigadores no derrotados han desistido, haz avanzar el acto.",
+        "flavor": "Ahora que la niebla se ha retirado, quizás logréis escapar con vida… pero ¿qué pasa con Josef Meiger y los demás miembros de la Logia que se quedaron atrás? ¿Deberíais quedaros para aseguraros de que huyan o escapar vosotros mientras tengáis la oportunidad?",
+        "back_name": "Vivos… por ahora",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "Venir a este sitio fue un terrible error. Teníais la esperanza de descubrir pruebas acerca de las desapariciones sucedidas en la finca, pero no de convertiros en nuevas víctimas. Mientras atravesáis el vestíbulo y las pesadas puertas de la entrada principal de la mansión, queréis poner tanta tierra de por medio como podáis entre vosotros y la finca Meiger. Por desgracia, el plan descarrila rápidamente…"
+    },
+    {
+        "code": "05071",
+        "name": "Vestíbulo de entrada",
+        "text": "[action]: <b>Desistir.</b> \"Supongo que al final esas desapariciones no eran nada.\"",
+        "flavor": "La mayor parte de la mansión está vetada a aquellos invitados que no sean miembros de la Logia del Crepúsculo de Plata. Pero vuestra investigación tiene prioridad, así que esperáis el momento apropiado para escabulliros…",
+        "back_flavor": "Está claro que, cualesquiera que sean los negocios que se trae entre manos Josef Meiger, le va muy bien. Una suave alfombra roja recorre el opulento pasillo, flanqueada por estatuillas de mármol y marfil. Sobre vuestras cabezas, una resplandeciente lámpara de araña emite una brillante luz sobre los pulidos suelos y escaleras de madera."
+    },
+    {
+        "code": "05072",
+        "name": "Salas victorianas",
+        "text": "[action]: Vas buscando problemas. Descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado un Enemigo [[Crepúsculo de plata]]. Haz aparecer ese Enemigo en las Salas victorianas. A continuación, obtén 2 pistas <i>(de la reserva de fichas)</i>. Límite de grupo una vez por partida.",
+        "back_flavor": "Hasta los pasillos de esta mansión son lujosos, decorados con gruesas alfombras, extraños cuadros y estatuas imposibles hechas de chatarra. Los rayos del sol brillan a través de las cortinas mientras éste se pone sobre Arkham en el exterior."
+    },
+    {
+        "code": "05073",
+        "name": "Sala de trofeos",
+        "text": "[action]: Pasas algo de tiempo codeándote con los demás invitados. Obtén 2 recursos o bien gasta 2 recursos para obtener 1 pista <i>(de la reserva de fichas)</i>. Límite de una vez por ronda.",
+        "flavor": "Los paneles de la pared de esta sala están adornados con cabezas de animales colgadas, junto con otros artefactos de la colección de Josef. En la estancia predominan varios sillones repletos de cosas y dispuestos en torno a una mesa baja que tiene un decantador de brandi de cristal.",
+        "back_flavor": "Dos cabezas de ciervo colgadas de la pared flanquean esta puerta, y casi parece que estuvieran vigilando la entrada."
+    },
+    {
+        "code": "05074",
+        "name": "Sala de billar",
+        "text": "[action]: Realiza una prueba de [agility] (3) para competir con los demás invitados. Si tienes éxito, obtén 1 pista <i>(de la reserva de fichas)</i>. Límite de una vez por ronda.",
+        "flavor": "En el centro de esta sala hay una lujosa y pulida mesa de billar rodeada de humo de cigarrillo e iluminada por dos lámparas ornamentadas. Varios invitados se relajan en torno a la mesa, jugando o charlando entre sí de manera informal.",
+        "back_flavor": "Desde fuera de esta sala, oyes el característico sonido de las bolas de billar golpeándose entre sí, junto con risas y conversaciones."
+    },
+    {
+        "code": "05075",
+        "name": "Dormitorio principal",
+        "text": "<b>Obligado</b> - Cuando acabe la ronda, si hay al menos 1 investigador en el Dormitorio principal: Coloca 1 ficha de Perdición sobre el Enemigo [[Crepúsculo de plata]] más cercano.",
+        "flavor": "No hay ninguna duda: éste debe ser el dormitorio de Josef Meiger. El centro de la sala lo ocupa una enorme cama con dosel, cuyos postes están tallados con todo detalle. No ves rastro alguno de que haya una Sra. Meiger.",
+        "back_flavor": "Esta gran puerta está tan bien pulida y no tiene ninguna marca. Se encuentra en un rincón del pasillo de arriba, fuera de la vista de invitados y ojos curiosos."
+    },
+    {
+        "code": "05076",
+        "name": "Balcón",
+        "text": "[action] Descarta cartas de tu mano que tengan un total de 3 iconos [intellect]: <b>Negociar.</b> El invitado que hay aquí sabe más sobre la Logia del Crepúsculo de Plata de lo que quiere admitir. Obtén 2 pistas <i>(de la reserva de fichas)</i>. Límite de grupo una vez por partida.",
+        "back_flavor": "Una puerta de cristal abierta lleva al balcón que hay fuera del dormitorio principal de la finca."
+    },
+    {
+        "code": "05077",
+        "name": "Despacho",
+        "text": "Todos los Enemigos [[Crepúsculo de plata]] que estén en el Despacho pierden Indiferente.\n<b>Obligado</b> - Si revelas un símbolo [skull], [cultist], [tablet], [elder_thing], o [auto_fail] al investigar el Despacho: Coloca 1 ficha de Perdición sobre el Enemigo [[Crepúsculo de plata]] más cercano.",
+        "flavor": "El despacho de Josef no sólo es un lugar de trabajo, sino también un despliegue de su riqueza y poder",
+        "back_text": "Todos los Enemigos [[Crepúsculo de plata]] que estén en el Despacho pierden Indiferente.",
+        "back_flavor": "En lo más alto de una empinada escalera que lleva al segundo piso de la mansión, lejos del bullicio de la fiesta que hay abajo, se encuentra una solitaria puerta de roble que protege los secretos más privados del Sr. Meiger."
+    },
+    {
+        "code": "05078",
+        "name": "Vestíbulo de entrada",
+        "text": "[action]: <b>Desistir.</b> Atraviesas la puerta principal de la mansión y huyes del reino espectral, dejando a su suerte el resto de supervivientes.",
+        "flavor": "La oscura niebla comienza a retroceder, y el vestíbulo que da entrada a la mansión de Josef recupera lentamente su estado original a medida que la neblina se disipa.",
+        "back_text": "El Vestíbulo de entrada está bloqueado por un muro de niebla espectral. No puedes entrar en el Vestíbulo de entrada. Los Enemigos [[Crepúsculo de plata]] no pueden aparecer en el Vestíbulo de entrada.",
+        "back_flavor": "Un muro de oscura niebla bloquea la huida y hace que todo lo que toca se pudra. Manos fantasmales te agarran desde la niebla, tratando desesperadamente de arrastrarte al interior. Sospechas que, si trataras de cruzar la niebla, no saldrías con vida.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05079",
+        "name": "Salas victorianas",
+        "text": "<b>Embrujado</b> - Pierde 1 acción.",
+        "flavor": "Un silencio fantasmal llena las gélidas salas muertas. Los muchos cuadros que adornan las paredes están desvaídos hasta quedar irreconocibles, y las estatuillas de metal que flanquean los pasillos están completamente oxidadas.",
+        "back_flavor": "Los cálidos rayos que iluminaban estas salas se han convertido en rayos de fría y gris luz de luna que brillan a través de las motas de polvo y volutas de oscura niebla que flotan en el ambiente.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05080",
+        "name": "Sala de trofeos",
+        "text": "<b>Embrujado</b> - Pierde 2 recursos. Recibe 1 punto de horror por cada recurso que no puedas perder por este efecto.",
+        "flavor": "Los paneles de madera de las paredes de esta sala están adornados con cabezas de animales putrefactos, y lo que antes hacía ostentación de poder y supremacía ahora es un macabro despliegue de muerte y descomposición. No puedes evitar tener la sensación de que sus vacuos ojos te atraviesan mientras exploras la sala.",
+        "back_flavor": "Dos cabezas de ciervo podridas y colgadas de la pared flanquean esta puerta. Te miran con ojos muertos y vacíos.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05081",
+        "name": "Sala de billar",
+        "text": "<b>Embrujado</b> - Debes descartar un Apoyo que controles o bien recibir 1 punto de daño.",
+        "flavor": "La calidez y las risas de la sala de juegos han quedado sustituidas por una sensación de quedo temor. Zarcillos de niebla negra reptan desde debajo de la caída mesa de billar, retorciéndose y recorriendo el suelo con un baile informe.",
+        "back_flavor": "Desde el exterior de esta sala, oyes el crujir de la madera vieja y el sonido de débiles pasos por el suelo.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05082",
+        "name": "Dormitorio principal",
+        "text": "<b>Embrujado</b> - Coloca 1 de tus pistas sobre el Dormitorio principal.",
+        "flavor": "Zarcillos de niebla negra han invadido todos los rincones de esta sala desde la puerta abierta del balcón, haciendo que los muebles se pudran y hagan pedazos. Hasta el último trozo de madera y cristal queda destrozado y deformado. Nada permanece intacto.",
+        "back_flavor": "Esta puerta sin marcas, vieja y medio podrida, está en un tranquilo rincón del pasillo del piso superior. Una densa niebla oscura se filtra bajo la puerta y flota en torno a tus pies.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05083",
+        "name": "Balcón",
+        "text": "<b>Embrujado</b> - Cada una de tus cartas que tenga salud recibe 1 punto de daño directo.",
+        "flavor": "Nubes de oscura niebla se ciernen sobre French Hill. Siluetas espectrales rodean el balcón, gimiendo y retorciéndose en su tormento.",
+        "back_flavor": "Una puerta de cristal rota lleva al balcón que hay fuera del dormitorio principal de la finca.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05084",
+        "name": "Despacho",
+        "text": "<b>Embrujado</b> - Elige y descarta una carta de tu mano.",
+        "flavor": "Una densa y opresiva neblina llena lo que antes era un impresionante despacho. Los paneles de madera de las paredes están recorridos de grietas, y las librerías que rodean el escritorio de Josef se comban bajo el peso de los putrefactos libros.",
+        "back_flavor": "La solitaria puerta que hay al final de la escalera del segundo piso se ha podrido como si hubieran pasado siglos. El roble que antaño estaba tan pulido ahora está manchado y deforme. Podría venirse abajo en cualquier momento.",
+        "traits": "Espectral."
+    },
+    {
+        "code": "05085",
+        "name": "Josef Meiger",
+        "subname": "Anfitrión de la Logia",
+        "text": "Represalia.\n[action] Si ningún otro Enemigo [[Crepúsculo de plata]] tiene perdición: <b>Negociar.</b> Realiza una prueba de [intellect] (4) para convencer a Josef de que esto no es obra tuya. Si fracasas,  Josef Meiger te ataca. Si tienes éxito, dale la vuelta a esta carta y resuelve su texto.",
+        "flavor": "\"DNo provoques a una bestia que no comprendes.\"",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata. Élite."
+    },
+    {
+        "code": "05085b",
+        "name": "El plan de Josef",
+        "text": "Retira toda la perdición de esta carta.\nDurante el resto de la partida, no se puede colocar perdición sobre los Enemigos [[Crepúsculo de plata]], y Josef Meiger obtiene Indiferente.\nVuelve a darle la vuelta a esta carta a su lado de Enemigo y haz que deje de estar enfrentada a todos los investigadores.",
+        "flavor": "Josef baja el arma y te estudia durante un instante: -Puede que estés diciendo la verdad. Pero si eso es cierto… -Sopesa la situación y luego enfunda el arma y mira su reloj de bolsillo-. En cualquier caso, tenemos poco tiempo. Si mis cálculos son correctos, la anomalía retrocederá pronto. Debemos estar fuera de la mansión antes de que eso ocurra o nos quedaremos atrapados aquí.\nLe preguntas cómo sabe todo esto, pero se limita a sacudir la cabeza: -No es el momento. Pregúntemelo de nuevo si salimos vivos de aquí."
+    },
+    {
+        "code": "05086",
+        "name": "El vigilante espectral",
+        "subname": "Eres su presa",
+        "text": "Alerta. Cazador.\n<b>Obligado</b> -Cuando El vigilante espectral sea derrotado: En lugar de descartarlo, cúrale todo el daño, haz que deje de estar enfrentado a todos los investigadores y agótalo. No se recupera durante la fase de Mantenimiento de esta ronda.",
+        "flavor": "No se puede escapar del destino.",
+        "traits": "Primigenio. Espectral. Élite."
+    },
+    {
+        "code": "05087",
+        "name": "Agarre del vigilante",
+        "text": "<b>Revelación</b> - Cúrale 3 puntos de daño a El vigilante espectral. Prepara a El vigilante espectral. Se mueve, se enfrenta y ataca como si fuese la fase de Enemigos. Durante la resolución de este efecto, El vigilante espectral obtiene: \"<b>Presa</b> - Tú.\"",
+        "traits": "Poder. Espectral."
+    },
+    {
+        "code": "05088",
+        "name": "Flautista de Azathoth",
+        "text": "<b>Presa</b> - Menor cordura restante.\nAlerta. Cazador. Represalia.\n<b>Obligado</b> - Cuando acabe la fase de Enemigos: El Flautista de Azathoth ataca a cada investigador con el que no esté enfrentado y que esté en su Lugar <i>(independientemente de que esté preparado o agotado)</i>.",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "05089",
+        "name": "Melodía demoníaca",
+        "text": "Oleada.\n<b>Revelación</b> - Si el Flautista de Azathoth está en juego, inflige 1 punto de horror a cada investigador que esté en su Lugar y en cada Lugar conectado. Si no es así, pon la Melodía demoníaca en juego junto al mazo de Plan.\nSi hay 3 copias de la Melodía demoníaca en juego, descártalas y haz aparecer el Flautista de Azathoth enfrentado a su presa <i>(desde cualquier zona fuera del juego)</i>.",
+        "traits": "Poder. Terror."
+    },
+    {
+        "code": "05090",
+        "name": "Iniciada del aquelarre",
+        "text": "<b>Revelación</b> - Descarta las 2 primeras cartas del mazo de Encuentros. Si este efecto hace que el mazo de Encuentros se quede sin cartas, roba la primera carta [[Maleficio]] de la pila de descartes de Encuentros.",
+        "flavor": "Los cultos secretos a los que se entregaban esas hechiceras guardaban y transmitían frecuentemente secretos sorprendentes desde antiguas… olvidadas épocas… — H. P. Lovecraft, <u>Los Sueños de la Casa de la Bruja</u>",
+        "traits": "Humanoide. Bruja."
+    },
+    {
+        "code": "05091",
+        "name": "Sacerdotisa del aquelarre",
+        "text": "Represalia.\nLa Sacerdotisa del aquelarre recibe +1 a combate y +1 a evitar por cada Enemigo [[Bruja]] que haya en la pila de descartes de Encuentros (hasta un máximo de +3 a combate y +3 a evitar).\n<b>Obligado</b> - Cuando el mazo de Encuentros se quede sin cartas: La Sacerdotisa del aquelarre se prepara y ataca a cada investigador que esté en su Lugar.",
+        "traits": "Humanoide. Bruja."
+    },
+    {
+        "code": "05092",
+        "name": "Voces diabólicas",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Por cada punto que te falte para tener éxito, descarta 1 carta aleatoria de tu mano. Por cada carta que no puedas descartar, recibe 1 punto de horror o 1 punto de daño. Esta prueba recibe +1 a su dificultad por cada copia de Voces diabólicas que haya en la pila de descartes de Encuentros.",
+        "flavor": "Los alaridos y risotadas infernales repiquetean sin cesar en tu mente.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "05093",
+        "name": "Devastado",
+        "text": "<b>Revelación</b> - Pon Devastado en juego en tu zona de amenaza.\nRecibes -1 a cada una de tus habilidades durante la primera prueba de habilidad que realices en cada ronda.\n[action]: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta Devastado. Si hay un Enemigo [[Bruja]] agotado en tu Lugar, esta prueba tiene éxito automáticamente.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "05094",
+        "name": "Endemoniado",
+        "text": "<b>Revelación</b> - Pon Endemoniado en juego en tu zona de amenaza.\nNo puedes activar capacidades [action] en cartas que controles.\n[action]: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta Endemoniado. Si hay un Enemigo [[Bruja]] agotado en tu Lugar, esta prueba tiene éxito automáticamente.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "05095",
+        "name": "Neófito de la Logia",
+        "text": "<b>Revelación</b> - Cualquier Lugar vacío.\nIndiferente.\n<b>Obligado</b> - Después de que el Neófito de la Logia entre en juego: Coloca 1 ficha de Perdición sobre él.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (2). Si tienes éxito, retira toda la perdición del Neófito de la Logia.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05096",
+        "name": "Guardián de secretos",
+        "text": "<b>Revelación</b> - Cualquier Lugar vacío.\nIndiferente. Represalia.\n<b>Obligado</b> - Cuando acabe la fase de Mitos: Coloca 1 ficha de Perdición sobre el Guardián de secretos.\n[action]: <b>Negociar.</b> Realiza una prueba de [intellect] (3). Si tienes éxito, retira toda la perdición del Guardián de secretos.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05097",
+        "name": "Misterios de la Logia",
+        "text": "<b>Revelación</b> - Coloca 1 ficha de Perdición sobre el Enemigo [[Sectario]] más cercano. A continuación, aumenta en 2 la dificultad para combatir, evitar o negociar con ese Enemigo hasta el final de la ronda. Si no se colocó perdición por este efecto, Misterios de la Logia obtiene Oleada.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "05098",
+        "name": "Pasado maligno",
+        "text": "<b>Revelación</b> - Pon el Pasado maligno en juego en tu zona de amenaza si no hay ninguna copia de él en tu zona de amenaza (si la hay, en lugar de eso descarta el Pasado maligno y obtiene Oleada).\n<b>Obligado</b> - Cuando el mazo de Encuentros se quede sin cartas: Recibe 2 puntos de horror y realiza una prueba de [willpower] (3). Si tienes éxito, descarta el Pasado maligno.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "05099",
+        "name": "Siglos de secretos",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (5). Por cada punto que te falte para tener éxito, descarta la primera carta del mazo de Encuentros. Si este efecto descarta una Traición [[Maldición]], inflige 1 punto de daño directo a tu investigador y a cada uno de tus Apoyos [[Aliado]].",
+        "flavor": "Puede que sea mejor no conocer nunca estos misterios.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "05100",
+        "name": "Niebla del inframundo",
+        "text": "<b>Presa</b> - El investigador que esté en el Lugar que tenga más pistas.\nIndiferente. Cazador.\nEl Lugar de la Niebla del inframundo obtiene: \"<b>Embrujado</b> - La Niebla del inframundo te ataca.\"",
+        "flavor": "Apelamos a los muertos, pero ¿de verdad queremos verlos?",
+        "traits": "Monstruo. Espectral."
+    },
+    {
+        "code": "05101",
+        "name": "Sabueso de sombra",
+        "text": "<b>Presa</b> - Menor [agility].\nCazador. Represalia.\n<b>Obligado</b> - Después de que el Sabueso de sombra te ataque: Resuelve cada capacidad Embrujado que haya en tu Lugar.",
+        "flavor": "La niebla espectral se une hasta tomar una incorpórea forma canina. Unos hambrientos ojos brillan desde la oscuridad.",
+        "traits": "Monstruo. Espectral."
+    },
+    {
+        "code": "05102",
+        "name": "Susurros en la oscuridad",
+        "text": "<b>Revelación</b> - Pon los Susurros en la oscuridad en juego junto al mazo de Plan.\nCada Lugar obtiene: \"<b>Embrujado</b> - Recibe 1 punto de horror.\"\n<b>Obligado</b> - Cuando acabe la ronda: Descarta los Susurros en la oscuridad.",
+        "flavor": "Calla, niño. Pronto acabará todo.",
+        "traits": "Augurio. Espectral."
+    },
+    {
+        "code": "05103",
+        "name": "Alma en pena",
+        "text": "Cazador.\n<b>Obligado</b> - Cuando el Alma en pena sea derrotada mediante daño (excepto el daño de un [[Hechizo]] o [[Reliquia]]): En lugar de descartarla, vincúlala a su Lugar. El Lugar vinculado obtiene: \"<b>Embrujado</b> - Haz aparecer el Alma en pena en este Lugar.\".",
+        "traits": "Monstruo. Geist. Espectral."
+    },
+    {
+        "code": "05104",
+        "name": "Espíritus atrapados",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (3). Recibe 1 punto de daño por cada punto que te falte para tener éxito. Si tu Lugar está Embrujado, como coste adicional para que un investigador asigne 1 o más cartas a esta prueba de habilidad, debe resolver todas las capacidades Embrujado de este Lugar.",
+        "traits": "Terror. Espectral."
+    },
+    {
+        "code": "05105",
+        "name": "Reino de tormento",
+        "text": "<b>Revelación</b> - Pon el Reino de tormento en juego en tu zona de amenaza.\n<b>Obligado</b> - Cuando comience tu turno: Resuelve todas las capacidades Embrujado de tu Lugar.\n<b>Obligado</b> - Cuando acabe tu turno: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta el Reino de tormento.",
+        "traits": "Terror. Espectral."
+    },
+    {
+        "code": "05106",
+        "name": "Formas en la niebla",
+        "text": "Oleada.\n<b>Revelación</b> - Resuelve todas las capacidades Embrujado de tu Lugar.",
+		"flavor": "\"¿Eso es…? No, no puede ser. Es sólo mi imaginación. Claro que sí.\"",
+        "traits": "Terror. Espectral."
+    },
+    {
+        "code": "05107",
+        "name": "Terror en la noche",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (4). Si fracasas, pon el Terror en la noche en juego junto al mazo de Plan. Si fracasas por 3 o más, el Terror en la noche obtiene Oleada.\nSi hay 3 copias del Terror en la noche junto al mazo de Plan, descártalas y cada investigador recibe 3 puntos de horror.",
+        "traits": "Terror. Espectral."
+    },
+    {
+        "code": "05108",
+        "name": "El destino de todos los necios",
+        "text": "Peligro.\n<b>Revelación</b> - Debes decidir (elige una opción):\n- Si no hay otra copia de El destino de todos los necios en juego, pon El destino de todos los necios en juego en tu zona de amenaza.\n- Un investigador que tenga otra copia de El destino de todos los necios en su zona de amenaza recibe 2 puntos de daño directo.\n- Coloca 1 ficha de Perdición sobre otra copia de El destino de todos los necios.",
+        "traits": "Augurio. Espectral."
+    }
+]

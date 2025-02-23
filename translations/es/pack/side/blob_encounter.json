@@ -1,0 +1,375 @@
+[
+    {
+        "code": "85001",
+        "name": "La masa que lo devoraba todo",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1 por cada 5 cartas que haya devorado el Sujeto 8L-08.\n[cultist]: -2. Si esta ficha es revelada durante un ataque contra un Enemigo, ese Enemigo obtiene Represalia para este ataque.\n[tablet]: -3. Después de que termine esta prueba de habilidad, el Sujeto 8L-08 devora todas las cartas que fueran asignadas a la prueba.\n[elder_thing]: -5. Elige hasta 5 cartas de tu mano. El Sujeto 8L-08 devora todas esas cartas. Recibes +1 a tu valor de habilidad para esta prueba por cada carta devorada de este modo.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -1 por cada 3 cartas que haya devorado el Sujeto 8L-08.\n[cultist]: -3. Si esta ficha es revelada durante un ataque contra un Enemigo, ese Enemigo obtiene Represalia para este ataque.\n[tablet]: -4. Después de que termine esta prueba de habilidad, el Sujeto 8L-08 devora todas las cartas que fueran asignadas a la prueba.\n[elder_thing]: -7. Elige hasta 7 cartas de tu mano. El Sujeto 8L-08 devora todas esas cartas. Recibes +1 a tu valor de habilidad para esta prueba por cada carta devorada de este modo."
+    },
+    {
+        "code": "85002",
+        "name": "La anomalía se extiende",
+        "text": "Cada Lugar está conectado a cada Lugar adyacente a él <i>(ortogonalmente)</i>.",
+        "flavor": "Estabais en la ciudad de Blackwater cuando ocurrió el evento del impacto. Investigasteis el asunto durante varios días, hasta que apareció la anomalía y se desató el caos. La huida ya no es una opción, pues la cuarentena sigue instaurada y se aplica de forma estricta. La única forma de salir de aquí es encontrando una forma de acabar con la anormalía… si es que es posible hacerlo.",
+        "back_name": "Grietas en la Tierra",
+        "back_text": "Elige 2 Lugares [[Encenagado]] que no sean El cráter y que no tengan una copia del Corazón vulnerable. El Sujeto 8L-08 devoras ambos Lugares, junto con todas las cartas que no sean [[Cieno]] que estén en esos Lugares (los Enemigos [[Cieno]] se descartan en lugar de ser devorados).\nAñade al mazo de Encuentros la pila de descartes de Encuentros, 1 copia puesta aparte del Cieno cúbico y una copia puesta aparte de Cieno aferrador y barájalo.",
+        "back_flavor": "Una línea de un brillante cieno surca el subsuelo desde el centro del cráter. Aparecen grietas en el suelo por toda la ciudad, como tentáculos que se extienden para aferrar Blackwater. Es como si la criatura se arraigase en la tierra al crecer. ¿Logrará el mundo librarse de ella realmente?"
+    },
+    {
+        "code": "85003",
+        "name": "La anomalía crece",
+        "text": "Cada Lugar está conectado a cada Lugar adyacente a él <i>(ortogonalmente)</i>.",
+        "flavor": "La criatura del interior del meteorito sigue digiriendo la ciudad de Blackwater. Al segundo día, casi toda la ciudad está cubierta de un vibrante moco verde. El ácido corroe lentamente los edificios, las calles y hasta el suelo. ¿Cesará alguna vez?",
+        "back_name": "Crecimiento desatado",
+        "back_text": "Elige 2 Lugares [[Encenagado]] que no sean El cráter y que no tengan una copia del Corazón vulnerable. El Sujeto 8L-08 devoras ambos Lugares, junto con todas las cartas que no sean [[Cieno]] que estén en esos Lugares (los Enemigos [[Cieno]] se descartan en lugar de ser devorados).\nAñade al mazo de Encuentros la pila de descartes de Encuentros, las 2 copias puestas aparte del Espectro de cieno y luego barájalo.",
+        "back_flavor": "Mientras la anomalía se extiende por la ciudad, las grietas de la tierra se vuelven más prominentes. En mitad de la noche, un terrible sonido similar a los rugidos de un estómago retumba bajo el suelo. Del interior de las grietas comienza a brotar cieno verde que inunda la ciudad. Está claro que no hay cuarentena en el mundo que pueda contener a esta criatura. Si no la detenéis aquí, acabará propagándose por todo el mundo."
+    },
+    {
+        "code": "85004",
+        "name": "La anomalía consume",
+        "text": "Cada Lugar está conectado a cada Lugar adyacente a él <i>(ortogonalmente)</i>.",
+        "flavor": "Al tercer día, la anomalía amenaza con sobrepasar la zona de cuarentena. El ácido del interior de su cuerpo no sólo devora criaturas, objetos y edificios, sino que también es capaz de consumir pensamientos, conceptos, emociones y otros aspectos de la realidad. Ahora os dais cuenta de que la criatura no solo amenaza las vidas de toda la humanidad, sino el mismo tejido de la existencia.",
+        "back_name": "La mada lo devoró todo",
+        "back_text": "El sujeto 8L-08 devora todas las cartas en juego y fuera del juego, todas las cartas de tu colección y todas las cartas que existen, han existido y existirán. <b>(→R1)</b>"
+    },
+    {
+        "code": "85005",
+        "name": "Exponer la anomalía",
+        "text": "*Este acto tiene un umbral de pistas global <i>(consulta la página 6 de las reglas para ver más detalles)</i>. Solo contribuyen para este umbral de pistas global las pistas que haya sobre este acto entre todos los grupos.\n[free] Coloca hasta 3 de tus pistas  sobre este acto. Límite de una vez por ronda.\n<b>Objetivo</b> - Al comienzo de la ronda, si se ha alcanzado el umbral de pistas global, debes hacer avanzar el acto. El organizador del evento anunciará que se ha alcanzado el umbral. <i>(Cuidado, al hacer avanzar el acto, quedará expuesto el punto débil de la anomalía. Prepárate para para luchar.)</i>.",
+        "back_name": "Está expuesto!",
+        "back_text": "<b>Si es la primera vez que se ha hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>Habéis visto el verdadero corazón de la anomalía. Se encuentra bajo la superficie del cieno, palpitando con unpoder invisible y guiando con hambre alienígena su miríada de formas. Sospecháis que este órgano, sea lo que sea, guarda el secreto para destruir la anomalía de una vez por todas.</i></blockquote>\n<hr><b>Independientemente de cuántas veces se haya hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>Tras horas de investigación, creéis que habéis localizado el corazón de la criatura. Debido al modo en el que se desplaza por la superficie de su inmenso cuerpo, sabéis que no se quedará mucho tiempo en su ubicación actual. Y luego tendréis que volver a encontrarlo…</i></blockquote>\nElige cualquier Lugar [[Encenagado]]. Haz aparecer el Enemigo Corazón vulnerable puesto aparte en el Lugar elegido."
+    },
+    {
+        "code": "85006",
+        "name": "Exponer la anomalía",
+        "text": "<b>Objetivo</b> - Al comienzo de la ronda, los investigadores, como grupo, pueden gastar la cantidad necesaria de pistas para hacer avanzar el acto. <i>(Cuidado, al hacer avanzar el acto, quedará expuesto el punto débil de la anomalía. Prepárate para para luchar.)</i>.",
+        "back_name": "Está expuesto!",
+        "back_text": "<b>Si es la primera vez que se ha hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>Habéis visto el verdadero corazón de la anomalía. Se encuentra bajo la superficie del cieno, palpitando con unpoder invisible y guiando con hambre alienígena su miríada de formas. Sospecháis que este órgano, sea lo que sea, guarda el secreto para destruir la anomalía de una vez por todas.</i></blockquote><hr><b>Independientemente de cuántas veces se haya hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>Tras horas de investigación, creéis que habéis localizado el corazón de la criatura. Debido al modo en el que se desplaza por la superficie de su inmenso cuerpo, sabéis que no se quedará mucho tiempo en su ubicación actual. Y luego tendréis que volver a encontrarlo…</i></blockquote>\nElige cualquier Lugar [[Encenagado]]. Haz aparecer el Enemigo Corazón vulnerable puesto aparte en el Lugar elegido."
+    },
+    {
+        "code": "85007",
+        "name": "Fisiología extraterrestre",
+        "text": "<b>Obligado</b> - Después de que se coloque cualquier cantidad de daño sobre el Corazón vulnerable: Coloca también el doble de esa cantidad de daño sobre el Sujeto 8L-08.\n[free] Mientras un investigador que esté en tu Lugar esté atacando al Corazón vulnerable, gasta 1 pista: Ese investigador recibe +2 [combat] para este ataque.\n<b>Objetivo</b> - Al final de la ronda debes hacer avanzar el acto.",
+        "flavor": "El corazón de la criatura ha quedado expuesto.¡Ahora es la vuestra!",
+        "back_name": "Lluvia de cieno",
+        "back_text": "Retira todo el daño del Corazón vulnerable y ponlo aparte, fuera del juego. La cantidad de daño que se retire del Corazón vulnerable de esta forma es X.\n<hr><b>Si X es al menos 1, lee lo siguiente:</b>\n<blockquote><i>A vuestro alrededor, la anomalía vacila durante un instante. A continuación, hace brotar por los aires un inmenso géiser de ira y odio. Os agacháis para protegeros mientras pegotes de cieno impactan contra el suelo por toda la ciudad, dividiéndose en masas conscientes.</i></blockquote>\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo, a continuación, descarta cartas de la parte superior del mazo de Encuentros hasta que sean descartados Enemigos [[Excrecencia]] con un total de salud de X. De uno en uno, y en orden aleatorio, haz aparecer cada uno de etos Enemigos en Lugares [[Encenagado]] distintos.",
+        "back_flavor": "Pocos minutos despues de quedar expuesto, el palpitante corazón se retira de nuevo al interior del enorme cuerpo de la criatura. Tendréis que esperar a que vuelva a aparecer para poder dañarlo una vez más."
+    },
+    {
+        "code": "85008",
+        "name": "La perdición de Blackwater",
+        "text": "Todos los Enemigos [[Cieno]] obtienen Represalia y pierden la palabra clave <b>Masa X</b>.\n<b>Objetivo</b> - Al final de la ronda, debes hacer avanzar el acto. <i>(El escenario no termina cuando avance este acto.)</i>",
+        "flavor": "Aunque por fin hayáis logrado dañar a la criatura directamente, habéis hecho que se divida aún más.",
+        "back_name": "Un momento de respiro",
+        "back_text": "<b>Si es la primera vez que se ha hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>Durante vuestra lucha, una presencia alienígena ha observado vuestros progresos con curiosidad. Ahora bajan desde la órbita para poner en marcha su plan.</i></blockquote>\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todos los Enemigos Dron Mi-Go puestos aparte. Luego baraja el mazo de Encuentros.\n<hr><b>Independientemente de cuántas veces se haya hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>A medida que pasan las horas, el cieno va volviendo a filtrarse en el suelo y se queda inerte de nuevo.</i></blockquote>\nColoca 1 pista [per_investigator] sobre cada Lugar [[Encenagado]] revelado, como máximo hasta su valor de pista.\nRoba la carta de Historia puesta aparte que eligió el organizador del evento y resuelve el lado que tiene el rasgo [[Part 1]].\nReinicia el mazo de Acto al acto 1a."
+    },
+    {
+        "code": "85009",
+        "name": "La perdición de Blackwater",
+        "text": "Todos los Enemigos [[Cieno]] obtienen Represalia y pierden la palabra clave <b>Masa X</b>.\n<b>Objetivo</b> - Al final de la ronda, debes hacer avanzar el acto. <i>(El escenario no termina cuando avance este acto.)</i>",
+        "flavor": "Aunque por fin hayáis logrado dañar a la criatura directamente, habéis hecho que se divida aún más.",
+        "back_name": "Un momento de respiro",
+        "back_text": "<b>Si es la primera vez que se ha hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>Durante vuestra lucha, una presencia alienígena ha observado vuestros progresos con curiosidad. Ahora bajan desde la órbita para poner en marcha su plan.</i></blockquote>\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todos los Enemigos Dron Mi-Go puestos aparte. Luego baraja el mazo de Encuentros.\n<hr><b>Independientemente de cuántas veces se haya hecho avanzar este acto, lee lo siguiente:</b>\n<blockquote><i>A medida que pasan las horas, el cieno va volviendo a filtrarse en el suelo y se queda inerte de nuevo.</i></blockquote>\nColoca 1 pista [per_investigator] sobre cada Lugar [[Encenagado]] revelado, como máximo hasta su valor de pista.\nEl investigador jefe elige al azar una carta de Historia puesta aparte, la roba y resuelve el lado que tiene el rasgo [[Part 1]].\nReinicia el mazo de Acto al acto 1a."
+    },
+    {
+        "code": "85010",
+        "name": "El cráter",
+        "text": "[action] Gasta 1 contramedida: Inflige 3 puntos de daño al Sujeto 8L-08 o a un Enemigo [[Excrecencia]] que esté en cualquier Lugar.\n<b>Obligado</b> - Al final de la ronda: Cada investigador que esté en El cráter recibe 1 punto de daño.",
+        "flavor": "La ennegrecida tierra está cubierta de casquillos de bala, pero no hay cuerpos por ninguna parte. Un leve zumbido resuena en el aire.",
+        "back_flavor": "El lugar del impacto es una granja baldía en el centro de la zona de cuarentena. Cerca hay una destartalada finca que está prácticamente consumida por pegotes de cieno verde. Del centro del cráter, donde se encuentra el meteorito alienígena, brota huno. Un tenue brillo verde sale de su interior, presagiando que algo no va bien.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85011",
+        "name": "Lugar de investigación",
+        "text": "[action] Gasta 2 pistas: Obtén 1 contramedida.\n[action] Gasta 1 contramedida: Coloca 2 pistas sobre el Lugar de investigación<i>(de la reserva de fichas)</i>.",
+        "back_flavor": "Este claro en el bosque es el sitio en el que el equipo de investigación de la Universidad Miskatonic empezó a estudiar el meteorito y su impacto. Ahora sólo queda un puñado de científicos, apiñados dentro de sus tiendas blancas y afanándose en silencio por encontrar una forma de evitar que la anomalía siga extendiéndose."
+    },
+    {
+        "code": "85012",
+        "name": "CG temporal",
+        "text": "[action] Gasta 1 contramedida: Elige un efecto…\n- Cúrate 3 puntos de daño.\n- Cúrate 3 puntos de horror.\n- Obtén 5 recursos.\n- Roba 3 cartas.",
+        "back_flavor": "Al principio, muy poca gente tenía permiso para acercarse a este campamento militar. Hay una gran tienda negra montada en el centro del campo, con vistas al resto de Blackwater. En el exterior hay aparcados camiones militares, aunque el campamento en sí carece extrañamente de soldados. Ojalá la situación no haya quedado completamente fuera de control, aunque sospechas que es así."
+    },
+    {
+        "code": "85013",
+        "name": "Montículo fúngico",
+        "text": "[action] Gasta 1 contramedida: Elige un Enemigo [[Mi-Go]] que esté en cualquier Lugar y realiza una prueba de [intellect] (0). Por cada punto que tengas por encima del valor mínimo de éxito, inflige 1 punto de daño al Enemigo elegido (hasta un máximo de 5).",
+        "flavor": "El montículo está cubierto de un denso hongo morado cuyos zarcillos carnosos se introducen en el suelo y en los árboles de alrededor. ¿Qué demonios es esa cosa?",
+        "back_flavor": "Unas siniestras esporas alienígenas flotan por toda esta zona del bosque. Según lo que cuentan los testigos, este montículo de extraños hongos morados no apareció hasta después del impacto del meteorito. Aunque no ves que tenga que haber una conexión necesariamente, tampoco crees en las coincidencias."
+    },
+    {
+        "code": "85014",
+        "name": "Cloacas",
+        "text": "[action]: Realiza una prueba de [intellect] (1). Si tienes éxito, muévete a un Lugar que esté a un máximo de X conexiones de distancia de las Cloacas, donde X es la cantidad de puntos que tengas por encima del valor mínimo de éxito.",
+        "flavor": "Estas cloacas se entrecruzan por todo Blackwater. Aunque no es un trayecto agradable, puedes emplear estos pasadizos para moverte sin problemas de una zona de la ciudad a otra.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85015",
+        "name": "Puente",
+        "text": "[free]: Elige un Enemigo [[Excrecencia]] agotado que esté en el Puente y realiza una prueba de [intellect] (X), donde X es el valor de evitar de ese Enemigo. Si tienes éxito, derrota el Enemigo elegido. Máximo de un éxito por partida.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85016",
+        "name": "Torre de agua",
+        "text": "[action] Si no hay pistas sobre la Torre de agua: Realiza una prueba [intellect] (3) para encontrar el punto débil de la estructura. Si tienes éxito, inflige 3 puntos de daño a cada Enemigo [[Cieno]] que esté en la Torre de agua y en cada Lugar conectado. Máximo de un éxito por partida.",
+        "flavor": "Esta torre de agua vieja y oxidada ha visto días mejores.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85017",
+        "name": "Iglesia",
+        "text": "[action] Si no hay pistas en la Iglesia: Elige un Enemigo [[Cieno]] que esté en la Iglesia o en un Lugar conectado. Mueve el Enemigo elegido a un Lugar alejándose de la Iglesia y evítalo automáticamente. Límite de grupo de una vez por partida.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85018",
+        "name": "Lecho de lago cenagoso",
+        "text": "<b>Obligado</b> - Después de que aparezca un Enemigo [[Excrecencia]] en el Lecho de lago cenagoso: Coloca 1 pista sobre Lecho de lago cenagoso. Ese Enemigo no puede recibir daño esta ronda.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85019",
+        "name": "Calles moqueadas",
+        "text": "<b>Obligado</b> - Después de que descubras cualquier cantidad de pistas de las Calles moqueadas: Revela esa misma cantidad de fichas de la bolsa de caos al azar. Por cada ficha [skull] o [auto_fail] revelada por este efecto, recibe 1 punto de daño o 1 punto de horror.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85020",
+        "name": "Tierras de labranza secas",
+        "text": "Mientras estés en las Tierras de labranza secas, no puedes ganar recursos.\n<b>Obligado</b> - Después de que termines tu turno en las Tierras de labranza secas: Pierde 1 recurso.",
+        "back_name": "Zona de cuarentena",
+        "back_flavor": "Hay muy pocas zonas de Blackwater que no se hayan visto afectadas por la anomalía.",
+        "traits": "Encenagado."
+    },
+    {
+        "code": "85021",
+        "name": "Rescatar a la química",
+        "text": "<b>Revelación</b> - Haz aparecer el Raptor Mi-Go puesto aparte en el Montículo fúngico. Pon en juego el Apoyo Química de la universidad puesto aparte en el Lugar más alejado de todos los investigadores. Pon esta carta en juego junto al mazo de Acto.\n<b>Obligado</b> - Después de que un investigador que controle a la Química de la universidad entre en el CG temporal: Recuerda que \"la química fue salvada\". Dale la vuelta a esta carta.\n<b>Obligado</b> - Si la Química de la universidad es derrotada o devorada: Recuerda que \"la fórmula no fue completada\". Dale la vuelta a esta carta.",
+        "flavor": "Cuando apareció a anomalía, lo primero que hicieron los investigadores fue intentar encontrar una forma de disolver el cieno que compone su cuerpo. Una de las químicas estaba a punto de descubrirlo, pero desapareció hace poco. La última vez que fue vista, estaba intentando reunir muestras en una parte peligrosa de la zona de cuarentena. Si lográis llegar hasta ella, tal vez podáis ayudarla.",
+        "back_text": "<b>Lee esto sólo si \"la fórmula no fue completada\":</b>\nRetira de la partida el Raptor Mi-Go, la Química de la universidad y esta carta. Cada investigador recibe 1 punto de horror. Pierde 1 contramedida.\n<hr><b>Lee esto sólo si \"la química está a salvo\":</b>\n<blockquote><i>La química te da las gracias por ayudarla y te entrega el preparado en el que trabajaba su equipo: Un disolvente universal que puede disolverlo prácticamente todo.</i></blockquote>\nPon en juego bajo el control de cualquier investigador el Apoyo de historia Disolvente universal puesto aparte. Retira la Química de la universidad de la partida. Añade el Raptor Mi-Go y esta carta a la zona de victoria. Inflige 3 puntos de daño a cualquier Enemigo [[Cieno]] que haya en juego.",
+        "traits": "Parte 1."
+    },
+    {
+        "code": "85022",
+        "name": "Recuperar la muestra",
+        "text": "<b>Revelación</b> - Haz aparecer el Cosechador Mi-Go puesto aparte en el Montículo fúngico. Pon en juego el Apoyo Muestra de meteorito puesto aparte en El cráter. Pon esta carta en juego junto al mazo de Acto.\n<b>Obligado</b> - Después de que un investigador que controle a una Muestra de meteorito entre en el Lugar de investigación: Recuerda que \"la muestra fue recuperada\". Dale la vuelta a esta carta.\n<b>Obligado</b> - Si la Muestra de meteorito está vinculada al Cosechador Mi-Go y éste está en el Montículo fúngico: Recuerda que \"la muestra se perdió\". Dale la vuelta a esta carta.",
+        "flavor": "Tras la aparición de la criatura del interior del meteorito, ha quedado claro que nuestra comprensión del universo a escala cósmica es deficiente como poco. La anomalía desafía todas las leyes de la biología, por lo que es imposible comprenderla, y mucho menos destruirla. Tal vez si recuperáis una muestra del meteorito, los investigadores puedan estudiarla para descubrir algo más.",
+        "back_text": "<b>Lee esto sólo si \"la muestra se perdió\":</b>\nRetira de la partida el Cosechador Mi-Go, la Muestra del meteorito y esta carta. Pierde 2 contramedidas.\n<hr><b>Lee esto sólo si  \"la muestra fue recuperada\":</b>\n<blockquote><i>Los pocos investigadores que quedan someten el fragmento de meteorito a todo tipo de pruebas. Pero antes de que puedan llegar a ninguna conclusión, una segunda criatura sale de su interior. El pánico invade el puesto de investigación, pero ya que la criatura no ataca a nadie, esperas y observas atentamente. Empieza a seguirte por todas partes, arrastrándose por el suelo como un patito perdido.</i></blockquote>\nPon en juego bajo el control de cualquier investigador el Apoyo de historia Vástago de cieno mascota puesto aparte. Retira Muetra del meteorito de la partida. Añade el Cosechador Mi-Go y esta carta a la zona de victoria. Obtén 2 contramedidas.",
+        "traits": "Parte 1."
+    },
+    {
+        "code": "85023",
+        "name": "Expulsar a los Mi-Go",
+        "text": "<b>Revelación</b> - Haz aparecer el General Mi-Go puesto aparte en el Montículo fúngico. Coloca 1 pista [per_investigator] en el Montículo fúngico. Pon esta carta en juego junto al mazo de Acto.\n<b>Obligado</b> - Si el General Mi-Go es derrotado, o si no hay pistas en el Montículo fúngico: Recuerda que \"los Mi-Go fueron expulsados\". Dale la vuelta a esta carta.\n<b>Obligado</b> - Si hay 4 o más pistas [per_investigator] en el Montículo fúngico: Recuerda que \"han robado el secreto del cieno\". Dale la vuelta a esta carta.",
+        "flavor": "Llegan noticias de supervivientes de toda la ciudad que hablan de otra fuerza de criaturas que llegan desde arriba y se llevan pegotes de cieno por todo Blackwater. ¿Qué son estas otras criaturas alienígenas y cuál es su objetivo?",
+        "back_text": "<b>Lee esto sólo si \"han robado el secreto del cieno\":</b>\nRetira de la partida el General Mi-Go y esta carta. Hasta el final de la partida, cada Dron Mi-Go recibe +2 de salud y +2 a evitar. Coloca esta carta junto a la carta de referencia de escenario como recordatorio.<hr><b>Lee esto sólo si \"los Mi-Go fueron expulsados\":</b>\n<blockquote><i>El general alienígena huye mientras emite unos sonidos antinaturales. Se le desacopla la extraña arma de su brazo y cae al suelo frente a ti mientras él vuela hacia el espacio.</i></blockquote>\nPon en juego bajo el control de cualquier investigador el Apoyo de historia Arma Mi-Go puesto aparte. Añade el General Mi-Go y esta carta a la zona de victoria. Busca todas las copias del Dron Mi-Go en el mazo y la pila de descartes de Encuentros y en todas las zonas de juego y retíralas de la partida. Obtén 1 contramedida.",
+        "traits": "Parte 1."
+    },
+    {
+        "code": "85024",
+        "name": "Desactivar los explosivos",
+        "text": "<b>Revelación</b> - Haz aparecer el Entrometido Mi-Go puesto aparte en el Montículo fúngico. Pon en juego junto al mazo de Acto esta carta y el Apoyo de El plan de los militares puesto aparte, con 5 fichas de Daño sobre él. Coloca 1 ficha de Horror sobre 1 Lugar [[Encenagado]] [per_investigator] distinto (lo más alejados posible del cráter). Las fichas de horror de los Lugares representan explosivos.\n<b>Obligado</b> - Si no hay explosivos entre los Lugares en juego: Recuerda que \"los explosivos han sido desactivados\". Dale la vuelta a esta carta.\n<b>Obligado</b> - Si El plan de los militares no tiene fichas de Daño: Recuerda que \"los explosivos han detonado\". Dale la vuelta a esta carta.",
+        "flavor": "Os aborda un oficial militar que os dice que los militares tienen planeado destruir la anomalía cn explosivos. -Intenté explicarles por qué no funcionaría, pero el general es demasiado obstinado como para escucharme -os cuenta-. Los explosivos tienen un temporizador. Si detonan, lo único que harán será dividir aún más la criatura y hacer que sea todavía más difícil de destruir. Que les den a las órdenes, ¡debemos detenerlos!",
+        "back_text": "<b>Lee esto sólo si \"los explosivos han detonado\":</b>\nRetira de la partida el Entrometido Mi-Go, El plan de los militares y esta carta. Retira todos los explosivos de los Lugares. Cada investigador y cada Apoyo [[Aliado]] que esté en uno de esos Lugares recibe 3 puntos de daño directo. Cura 5 puntos de daño al Sujeto 8L-08.\n<hr><b>Lee esto sólo si \"los explosivos han sido desactivados\":</b>n<blockquote><i>-Gracias por ayudarme -dice el oficial tras completar el trabajo-. Me aseguraré de que nuestras fuerzas restantes sepan que las tácticas convencionales no sirven de nada contra la criatura. ¿Hay algún otro modo en el que podamos ser de utilidad?</i></blockquote>\nPon en juego bajo el control de cualquier investigador el Apoyo de historia Tte. Wilson Stewart. Retira El plan de los militares de la partida. Añade el Entrometido Mi-Go y esta carta a la zona de victoria. Cada investigador se cura 1 punto de horror. Obtén 1 contramedida.",
+        "traits": "Parte 1."
+    },
+    {
+        "code": "85025",
+        "name": "Química de la universidad",
+        "text": "[action]: <b>Negociar.</b> Realiza una prueba de [willpower] o de [intellect] (3). Si tienes éxito, coloca 1 recurso <i>(de la reserva de fichas)</i> sobre la Química de la universidad. A continuación, si hay 1 recurso [per_investigator] sobre ella, toma su control.",
+        "traits": "Transeúnte. Miskatonic."
+    },
+    {
+        "code": "85026",
+        "name": "Muestra del meteorito",
+        "text": "Si no está controlada ni vinculada, vincula la Muestra del meteorito a su Lugar. Si está vinculada a un Lugar que no tenga pistas, la Mueatra del meteorito obtiene: \"[action]: Realiza una prueba de [willpower] o de [agility] (6). Si tienes éxito, desvincula la Muestra del meteorito y toma su control\".",
+        "traits": "Objeto."
+    },
+    {
+        "code": "85027",
+        "name": "General Mi-Go",
+        "text": "Cazador.\n<b>Obligado</b> - Después de que el General Mi-Go te ataque: Mueve 1 de tus pistas al Montículo fúngico.",
+        "traits": "Monstruo. Servidor. Mi-Go. Élite."
+    },
+    {
+        "code": "85028",
+        "name": "El plan de los militares",
+        "text": "Las fichas de horror que hay en los Lugares representan explosivos.\nCada Lugar que tenga explosivos obtiene: \"[action]: Realiza una prueba de [intellect] o [agility] (3). Si tienes éxito, retira la ficha de horror de este Lugar.\"\n<b>Obligado</b> - Al final de la ronda: Retira 1 punto de daño de esta carta."
+    },
+    {
+        "code": "85029",
+        "name": "Disolvente universal",
+        "text": "Usos (4 suministros).\n[action] Gasta 1 suministro: Realiza una prueba de [intellect] (1). Si tienes éxito, descarta una Traición [[Obstáculo]] que esté en tu Lugar.\n[action] Gasta 1 suministro: Elige un Enemigo que no sea [[Élite]] que esté en tu Lugar y realiza una prueba de [intellect] (X), donde X es la salud restante de ese Enemigo más 1. Si tienes éxito, ese Enemigo queda derrotado. Esto no provoca ataques de oportunidad.",
+        "traits": "Objeto. Ciencia."
+    },
+    {
+        "code": "85030",
+        "name": "Vástago de cieno mascota",
+        "text": "[fast] Derrota a un Enemigo que no sea [[Élite]] que esté en tu Lugar y tenga 2 o menos puntos de salud restantes. A continuación, cura todo el daño del Vástago de cieno mascota, coloca 1 recurso sobre él y revela X fichas de Caos, donde X es la cantidad de recursos que tenga. Si se revela un símbolo [auto_fail], quedas derrotado y sufres 1 trauma físico.",
+        "flavor": "AVISO: NO DAR DE COMER AL VÁSTAGO DE CIENO BAJO NINGUNA CIRCUNSTANCIA",
+        "traits": "Aliado. Monstruo. Cieno."
+    },
+    {
+        "code": "85031",
+        "name": "Arma Mi-Go",
+        "text": "Usos (3 municiones).\n[action] Gasta 1 munición: <b>Combatir.</b> El dispositivo dispara una descarga de energía entrópica. Recibes +2 [combat] e infliges +1 de daño para este ataque. Si tienes éxito y el enemigo no es derrotado, muévelo 1 Lugar alejándose de ti. Si tienes éxito por 3 o más, inflige +1 de daño y mueve el Enemigo 1 Lugar adicional alejándose de ti.",
+        "traits": "Arma. Ciencia.",
+        "slot": "Mano"
+    },
+    {
+        "code": "85032",
+        "name": "Tte. Wilson Stewart",
+        "subname": "Genio logístico",
+        "text": "[fast] Agota al Tte. Wilson Stewart: Descarta una carta de tu mano o de la parte superior de tu mazo. A continuación por cada...\n...icono [willpower] que haya en esa carta, recibes +1 para tu próxima prueba en esta ronda.\n...icono [intellect] que haya en esa carta, roba 1 carta.\n...icono [combat] que haya en esa carta, cúrale 1 punto de daño o de horror.\n...icono [agility] que haya en esa carta, obtén 1 recurso.",
+        "traits": "Aliado. Agencia. Veterano.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "85033",
+        "name": "Dron Mi-Go",
+        "text": "<b>Aparición</b> - El Lugar que tenga más pistas (que no sea el Montículo fúngico).\nOleada.\n<b>Obligado</b> - Al comienzo de la fase de Enemigos, si el Dron Mi-Go está preparado: Mueve 1 pista del Lugar del Dron Mi-Go al Montículo fúngico.",
+        "traits": "Monstruo. Mi-Go."
+    },
+    {
+        "code": "85034",
+        "name": "Cosechador Mi-Go",
+        "text": "Mientras el Cosechador Mi-Go esté preparado, obtiene:\n\"<b>Obligado</b> - Al comienzo de la fase de Enemigos: Si la Muestra del meteorito está vinculada al Cosechador Mi-Go, muévelo una vez hacia el Montículo fúngico. Si no es así, mueve el Cosechador Mi-Go una vez hacia el Lugar de la Muestra del meteorito. A continuación, si está en el mismo Lugar que la Muestra del meteorito, vincúlale la Muestra del meteorito\".",
+        "traits": "Monstruo. Mi-Go. Élite."
+    },
+    {
+        "code": "85035",
+        "name": "Entrometido Mi-Go",
+        "text": "Mientras el Entrometido Mi-Go esté preparado, obtiene:\n\"<b>Obligado</b> - Al comienzo de la fase de Enemigos: Si Entrometido Mi-Go está en un Lugar con explosivos, retira 1 punto de daño de El plan de los militares. Si no es así, mueve el Entrometido Mi-Go una vez hacia el Lugar con explosivos más cercano\".",
+        "traits": "Monstruo. Mi-Go. Élite."
+    },
+    {
+        "code": "85036",
+        "name": "Raptor Mi-Go",
+        "text": "Mientras el Raptor Mi-Go esté preparado, obtiene:\n\"<b>Obligado</b> - Al comienzo de la fase de Enemigos: Si Raptor Mi-Go está en el Lugar de la Química de la universidad, inflige 1 punto de daño directo a la Química de la universidad. Si no es así, mueve el Raptor Mi-Go una vez hacia el Lugar de la Química de la universidad\".",
+        "traits": "Monstruo. Mi-Go. Élite."
+    },
+    {
+        "code": "85037",
+        "name": "Sujeto 8L-08",
+        "subname": "Anomalía Extraespacial",
+        "text": "*El Sujeto 8L-08 tiene una cantidad de salud común <i>(consulta las reglas para ver más detalles).\nSi el Sujeto 8L-08 es derrotado, pasa a <b>(→R2)</b>.",
+        "traits": "Monstruo. Cieno. Élite."
+    },
+    {
+        "code": "85038",
+        "name": "Sujeto 8L-08",
+        "subname": "Anomalía Extraespacial",
+        "text": "El Sujeto 8L-08 recibe +15 de salud.\nSi el Sujeto 8L-08 es derrotado, pasa a <b>(→R2)</b>.",
+        "traits": "Monstruo. Cieno. Élite."
+    },
+    {
+        "code": "85039",
+        "name": "Vástago de cieno",
+        "text": "<b>Aparición</b> - Cualquier Lugar [[Encenagado]] vacío.\n<b>Masa 1.</b>",
+        "flavor": "Informe del sujeto: 8L-08-b\n1846 horas - Se ha recuperado una muestra del sujeto (8L-08-b) para su estudio. El sujeto parece compartir las mismas cualidades fisiológicas que 8L-08, pero actúa con consciencia propia. Los niveles de pH observados en el sujeto son similares a los de 8L-08… (el informe continúa en la página siguiente)/nInforme del incidente: 8L-08-b, continuación\n…no sabemos a ciencia cierta si 8L-08-b posee una forma de inteligencia primitiva o mente colmena con 8L-08. El sujeto parece reaccionar a los estímulos externos con independencia del anfitrión, pero actúa según los mismos criterios que 8L-08. ¿Objetivos o instintos similares? Es necesario seguir estudiándolo. (el informe continúa en la página siguiente)/nInforme del incidente: 8L-08-b y c, continuación\nEl sujeto 8L-08-b consumió 310 g de material orgánico y parece haberse dividido (¿mitosis?) en una segunda masa (8L-08-c a partir de ahora). Cada sujeto exhibe un comportamiento similar; ¿se comunican entre sí?\nInforme del incidente: 8L-08-b/c/d/e, continuación\n2124 horas - Los sujetos han escapado de su contención. El laboratorio está en peligro-",
+        "traits": "Monstruo. Cieno. Excrecencia."
+    },
+    {
+        "code": "85040",
+        "name": "Cieno aferrador",
+        "text": "<b>Aparición</b> - El Lugar [[Encenagado]] más cercano.\nCazador.\n<b>Obligado</b> -Después de que realices un ataque contra el Cieno aferrador usando una carta [[Cuerpo a cuerpo]]: El sujeto 8L-08 devora esta carta.\n<b>Masa 3.</b>",
+        "traits": "Monstruo. Cieno. Excrecencia."
+    },
+    {
+        "code": "85041",
+        "name": "Cieno cúbico",
+        "text": "<b>Revelación</b> - Intenta evitar inmediatamente al Cieno cúbico <i>(sin gastar una acción)</i>. Si fracasas, haz aparecer el Cieno cúbico enfrentado a ti, y te ataca. Si tienes éxito, haz aparecer el Cieno cúbico en tu Lugar agotado y sin enfrentar.\n<b>Masa 2.</b>",
+        "traits": "Monstruo. Cieno. Excrecencia."
+    },
+    {
+        "code": "85042",
+        "name": "Espectro de cieno",
+        "text": "<b>Aparición</b> - El Lugar [[Encenagado]] más alejado.\nAlerta. Cazador. Represalia.\n<b>Masa 5.</b>",
+        "traits": "Monstruo. Cieno. Excrecencia."
+    },
+    {
+        "code": "85043",
+        "name": "Corazón vulnerable",
+        "text": "Descomunal. Represalia.\nX es la cantidad de daño que hay sobre el Corazón vulnerable.\nEl Corazón vulnerable no puede ser evitado y no puede realizar ataques de oportunidad.\nEl Corazón vulnerable no puede tener más de 15 puntos de daño sobre él. Todo el daño sobrante es cancelado.",
+        "traits": "Monstruo. Cieno. Elite."
+    },
+    {
+        "code": "85044",
+        "name": "Ácido de la realidad",
+        "text": "<b>Revelación</b> - El sujeto 8L-08 devora un aspecto de la realidad aleatorio. Revela 2 fichas de Caos aleatorias de la bolsa de caos y consulta las páginas 16-19 de las reglas para determinar lo que es devorado. <i>Si la combinación de fichas de Caos revelada no aparece en la lista, o si el aspecto indicado no puede ser devorado, revela 2 nuevas fichas de Caos y vuelve a consultar la tabla</i>",
+        "traits": "Poder."
+    },
+    {
+        "code": "85045",
+        "name": "Cieno devorador",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (4). Si fracasas, elige un Apoyo [[Aliado]] u [[Objeto]] que controles. El sujeto 8L-08 devora ese Apoyo. Si no puedes, recibe 2 puntos de daño en vez de eso.",
+        "flavor": "No puedes evitar apartar la vista cuando el cieno engulle su cuerpo de forma casi instantánea.",
+        "traits": "Ataque."
+    },
+    {
+        "code": "85046",
+        "name": "Cieno corrosivo",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (4). Por cada punto que te falte para tener éxito, el sujeto 8L-08 devora uno de tus recursos o una carta aleatoria de tu mano.",
+        "flavor": "\"¿Qué se ha comido todo el equipo del laboratorio? Pero espera, ¿cómo salió de la cámara de aislamiento? ¿Qué le ha pasado al Dr. Roberts…?\"\n\"¡Se lo ha comido TODO!\"",
+        "traits": "Ataque."
+    },
+    {
+        "code": "85047",
+        "name": "Fauces consumidoras",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (3). Recibe 1 punto de daño por cada punto que te falte para tener éxito. El sujeto 8L-08 devora todas las cartas derrotadas por este efecto.",
+        "flavor": "Unas fauces de moco se cierran en torno a ti y te envuelven en ácido alienígena.",
+        "traits": "Ataque."
+    },
+    {
+        "code": "85048",
+        "name": "Ola de cieno",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Recibe 1 punto de daño por cada punto que te falte para tener éxito. El sujeto 8L-08 devora todas las cartas derrotadas por este efecto.",
+        "flavor": "Un moco verde inunda la calle de repente, devorando todo lo que toca.",
+        "traits": "Ataque."
+    },
+    {
+        "code": "85049",
+        "name": "Diseminación cáustica",
+        "text": "<b>Revelación</b> - Pon la Diseminación cáustica en juego junto al mazo de Plan.\n<b>Obligado</b> - Al final de la ronda: Cada investigador que esté en un Lugar [[Encenagado]] recibe 1 punto de daño y 1 punto de horror. El sujeto 8L-08 devora todas las cartas derrotadas por este efecto. Descarta la Diseminación cáustica. Máximo de una vez por ronda.",
+        "traits": "Cieno. Riesgo."
+    },
+    {
+        "code": "85050",
+        "name": "Pies pegajosos",
+        "text": "<b>Revelación</b> - Vincula esta carta al Lugar [[Encenagado]] más cercano.\nComo coste adicional para entrar o salir del Lugar vinculado, un investigador debe gastar una acción.\n[action] Gasta 1 contramedida: Descarta Pies pegajosos.",
+        "flavor": "\"¡Me acababa de comprar esos zapatos!\"",
+        "traits": "Cieno. Obstáculo."
+    },
+    {
+        "code": "85051",
+        "name": "Replicación",
+        "text": "<b>Revelación</b> - Busca el Enemigo [[Excrecencia]] que tenga más daño. Descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartado otro Enemigo [[Excrecencia]] que tenga una cantidad de salud igual o menor. Haz aparecer ese Enemigo en el mismo Lugar y luego distribuye el daño que hay en ambos Enemigos de forma que la salud restante de ambos sea lo más igual posible. Si no se ha hecho aparecer ningún Enemigo por este efecto. Replicación obtiene Oleada.",
+        "traits": "Poder."
+    },
+    {
+        "code": "85052",
+        "name": "\"¡Me ha atrapado!\"",
+        "text": "<b>Revelación</b> - Pon \"¡Me ha atrapado!\" en juego en tu zona de amenaza.\n<b>Obligado</b> - Al final de la ronda: Coloca 1 recurso sobre \"¡Me ha atrapado!\". A continuación, si hay 6 o más recursos sobre la carta, el sujeto 8L-08 te devora.\n[action] Si estás en el Lugar de investigación, gasta 1 contramedida: Descarta \"¡Me ha atrapado!\".",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "85053",
+        "name": "Cadena alimentaria alienígena",
+        "text": "<b>Revelación</b> - Si no hay ningún Enemigo [[Excrecencia]] en juego, la Cadena alimentaria alienígena obtiene Oleada. Si no es así, vincula esta carta al Enemigo [[Excrecencia]] con menos salud restante y cúralo por completo.\nEl Enemigo vinculado recibe +1 a combate, +1 a evitar y obtiene Cazador.",
+        "traits": "Cieno. Poder."
+    }
+]

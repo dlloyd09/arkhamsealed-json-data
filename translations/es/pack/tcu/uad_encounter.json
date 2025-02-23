@@ -1,0 +1,290 @@
+[
+    {
+        "code": "05238",
+        "name": "Unión y desilusión",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -2. Si se trata de una prueba de habilidad durante una acción <b>Círculo</b>, revela otra ficha.\n[cultist]: -3. Si no tienes daño, recibe 1 punto de daño. Si no tienes horror, recibe 1 punto de horror.\n[tablet]: -3. Si fracasas, un Enemigo [[Espectral]] que esté en tu Lugar te ataca <i>(incluso si está agotado)</i>.\n[elder_thing]: -3. Si se trata de una prueba de habilidad durante una acción <b>Círculo</b> y fracasas, resuelve todas las capacidades Embrujado de tu Lugar.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -3. Si se trata de una prueba de habilidad durante una acción <b>Círculo</b>, revela otra ficha.\n[cultist]: -4. Si no tienes daño, recibe 1 punto de daño. Si no tienes horror, recibe 1 punto de horror.\n[tablet]: -4. Si fracasas, un Enemigo [[Espectral]] que esté en tu Lugar te ataca <i>(incluso si está agotado)</i>.</i>\n[elder_thing]: -4. Si se trata de una prueba de habilidad durante una acción <b>Círculo</b> y fracasas, resuelve todas las capacidades Embrujado de tu Lugar."
+    },
+    {
+        "code": "05239",
+        "name": "Los Amantes· VI",
+        "flavor": "ESTÁS EN UNA ENCRUCIJADA.\nREFLEXIONA SOBRE LAS ELECCIONES QUE HAS TOMADO.\nTE VERÁS ENFRENTADO A UN TERRIBLE DILEMA.",
+        "back_name": "Almas robadas",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.<hr>\n<b>Comprueba la sección \"Personas desaparecidas\" del registro de campaña. Si <i>\"el vigilante se llevó\"</i> al menos 1 personaje, lee lo siguiente:</b>\n<blockquote><i>Más allá de la niebla espectral, un terrible grito resuena por el bosque. Se escucha lejos, como a través de un panel de cristal, pero es lo suficientemente claro como para que sepáis que es real.</i></blockquote>\nPor cada personaje que <i>el vigilante se llevó</i>, coloca 1 recurso sobre El vigilante espectral como alma robada (incluso si El vigilante espectral se encuentra fuera del juego en este momento).\nHasta el final del escenario, El vigilante espectral obtiene el siguiente texto: \"por cada alma robada que haya sobre El vigilante espectral, éste recibe +1 a combate y +1  [per_investigator] de salud.\". Deja esta carta junto al mazo de Plan como recordatorio y haz avanzar el plan al 2a.",
+        "back_flavor": "La niebla tapa la luna y hacer que el bosque quede sumido en la oscuridad. Una bandada de aves sale volando de repente de las copas de los árboles"
+    },
+    {
+        "code": "05240",
+        "name": "Encrucijada del destino",
+        "flavor": "Mientras continuáis por el bosque, veis que la oscura niebla que ha invadido la isla empieza a alejarse de la orilla, en dirección al centro de la isla, donde el faro de energía espectral sigue alzándose hacia el cielo.",
+        "back_name": "Se alza un vencedor",
+        "back_text": "Cada investigador superviviente queda derrotado y sufre 1 trauma físico.\n<b>(→R5)</b>",
+        "back_flavor": "Un potente vendaval recorre la isla desde su centro, y la columna espectral que marca el lugar del ritual de la Logia explota de repente. Docenas de espectros y formas fantasmales sobrevuelan las copas de los árboles y cruzan el bosque. Nunca olvidaréis sus aullidos, como cientos de gritos de muerte que suenan a la vez.\nCon una última oleada de poder, el obelisco de piedra del centro de la isla se hace pedazos. Los árboles se doblan por la tremenda fuerza que se desata, y os veis arrojados al suelo. Todo se vuelve negro."
+    },
+    {
+        "code": "05241",
+        "name": "La isla ignota",
+        "flavor": "La neblinosa orilla de la Isla ignota es árida e inhospitalaria. No veis ni un alma cuando os acercáis a la isla, excepto la inquisitiva mirada de los fantasmales pájaros que os observan desde los árboles. A lo lejos, la columna de energía espectral se eleva hacia las nubes, con un vórtice de niebla sobrenatural formando una espiral a su alrededor.",
+        "back_name": "La niebla regresa",
+        "back_text": "Cada investigador debe elegir al azar 1 de los Lugares Isla ignota puestos aparte, ponerlo en juego frente a sí y moverse inmediatamente a ese Lugar (no puede ser cancelado). Si <i>los investigadores se han puesto de parte del aquelarre</i>, el brasero de cada uno de esos lugares ya está encendido. Coloca una ficha de recursos sobre cada uno de esos Lugares para indicarlo.\nBaraja todas las cartas de Historia que haya bajo la carta de referencia de escenario y reparte 1 al azar a cada investigador hasta haber repartido todas. Siguiendo el orden de juego, resuelve todas las cartas de Historia repartidas.",
+        "back_flavor": "Os adentráis cada vez más en el bosque lleno de maleza, mientras una tímida voz de vuestra cabeza os implora que huyáis de este lugar y no volváis nunca. La oscura niebla se vuelve tan densa que apenas veis nada. Gritáis llamando a vuestros compañeros, pero no hay respuesta, sólo el ruido de las ramas de los árboles al mecerse y el latido de vuestros corazones palpitando con fuerza."
+    },
+    {
+        "code": "05242",
+        "name": "Almas condenadas",
+        "text": "Ningún investigador puede abandonar el Lugar que tiene frente a sí.",
+        "flavor": "La trampa urdida por la Logia del Crepúsculo de Plata ha atraído la atención del reino espectral y de sus habitantes. De un modo u otro, quienes estaban atrapados en la niebla acabarán aquí.",
+        "back_name": "Desde las profundidades",
+        "back_text": "Haz aparecer El vigilante espectral en el Río Miskatonic.\nAñade le mazo de Encuentros la pila de descartes de Encuentros y todas las copias puestas aparte del Agarre del vigilante y de la Mirada del vigilante y luego barájalo.\nDevuelve al centro de la zona de juego el Lugar que hay frente a cada investigador. Los investigadores ya pueden abandonar su Lugar.\nPon en juego el Lugar La trampa de espíritus puesto aparte. Si <i>los investigadores se han puesto de parte del aquelarre</i>, el brasero de La trampa de espíritus ya está encendido. Coloca una ficha de Recursos sobre ella para indicarlo.",
+        "back_flavor": "No pasa mucho tiempo antes de que llegue la resucitada.\nSurge de las profundidades del río Miskatonic, impertérrita ante el agua o la niebla. Al sentir el miedo y la sangre, flota lamentablemente hacia la isla con un brazo extendido. Su mirada provoca desaliento. Su agarre provoca la muerte."
+    },
+    {
+        "code": "05243",
+        "name": "Más allá de la niebla (v. I)",
+        "text": "[free] Durante una acción <b>Círculo</b>, gasta 1 pista: Reduce en 2 la dificultad de esta prueba de habilidad.\n<b>Objetivo</b> - Si todos los Lugares Isla ignota en juego están revelados y sus braseros encendidos, haz avanzar el acto.",
+        "flavor": "Estáis cerca del lugar del ritual de atadura. Debéis encender los braseros para encontrar el camino. Después, lo único que quedará por hacer es atraer al vigilante a la trampa y atarlo allí.",
+        "back_name": "Contra las brujas",
+        "back_text": "Revela el Lugar La trampa de espíritus. Mueve a La trampa de espíritus a cada investigador que esté en un Lugar Isla ignota.\nComprueba el registro de campaña. Si <i>las brujas lanzaron su hechizo</i>, haz aparecer en La trampa de espíritus la carta Anette Mason puesta aparte. Si <i>los investigadores rompieron el hechizo de las brujas</i>, haz aparecer La trampa de los espíritus 1 Iniciada del aquelarre puesta aparte, o bien 2 si hay 3 o 4 investigadores en la partida.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todos los Enemigos [[Bruja]] puestos aparte restantes. Luego baraja el mazo de Encuentros.",
+        "back_flavor": "Tras casi una hora buscando entre la densa niebla, por fin llegáis al lugar del ritual de la Logia, que se encuentra sumido en el caos. Los miembros de la Logia del Crepúsculo de Plata, ataviados con túnicas de color azul y plata, están combatiendo a las brujas.\n-¡Completad el ritual! -os ordena Carl Sanford desde el otro lado del claro-. ¡Es el único modo!\nAnette vuelve su atención hacia vosotros, asombrada y furibunda: -¡Otra vez vosotros! Os advertí que no tendría piedad si nos encontrábamos por segunda vez -dice antes de dirigirse a su aquelarre-. ¡Hermanas! No debemos permitir que interfieran esta vez. ¡No dejéis que su círculo se cierre!"
+    },
+    {
+        "code": "05244",
+        "name": "Más allá de la niebla (v. II)",
+        "text": "[free] Durante una acción <b>Círculo</b>, gasta 1 pista: Reduce en 2 la dificultad de esta prueba de habilidad.\n<b>Objetivo</b> - Si todos los Lugares Isla ignota en juego están revelados y sus braseros apagados, haz avanzar el acto.",
+        "flavor": "Estáis cerca del lugar del ritual de atadura. Los braseros ya están encendidos para activar la trampa. Tendréis que apagarlos todos para romper el círculo.",
+        "back_name": "La lealtad hay que ganársela",
+        "back_text": "Revela el Lugar La trampa de espíritus. Mueve a La trampa de espíritus a cada investigador que esté en un Lugar Isla ignota.\nRetira todas las fichas [cultist] de la bolsa de caos <i>(incluso si se encuentran selladas en cartas que estén en juego)</i> durante el resto de campaña.",
+        "back_flavor": "Tras casi una hora buscando entre la densa niebla, por fin llegáis al lugar del ritual de la Logia, que se encuentra sumido en el caos. Los miembros de la Logia del Crepúsculo de Plata, ataviados con túnicas de color azul y plata, están combatiendo a las brujas.\n-¡El ritual está casi completado! -os grita Carl Sanford desde el otro lado del claro-. ¡Traed aquí a la resucitada y acabad con esto!\nEs ahora o nunca. Fulmináis al hombre con la mirada y tiráis al suelo los braseros apagados que habéis ido extinguiendo por el camino, rompiendo así las delicadas protecciones que tenían. La oscura niebla invade el lugar inmediatamente, y ávidas siluetas descienden desde ella sobre los desafortunados miembros de la Logia.\n-¡Traidores! -grita uno. Intentáis ignorar sus gritos de agonía mientras avanzáis hacia el centro del claro."
+    },
+    {
+        "code": "05245",
+        "name": "Más allá de la niebla (v. III)",
+        "text": "[free] Durante una acción <b>Círculo</b>, gasta 1 pista: Reduce en 2 la dificultad de esta prueba de habilidad.\n<b>Objetivo</b> - Si todos los Lugares Isla ignota en juego están revelados y sus braseros apagados, haz avanzar el acto.",
+        "flavor": "Estáis cerca del lugar del ritual de atadura. Los braseros ya están encendidos para activar la trampa. Tendréis que apagarlos todos para romper el círculo.",
+        "back_name": "Intenciones reales",
+        "back_text": "Revela el Lugar La trampa de espíritus. Mueve a La trampa de espíritus a cada investigador que esté en un Lugar Isla ignota.\nHaz que aparezca en La trampa de espíritus el Enemigo Neófito de la Logia puesto aparte, o bien 2 si hay 3 o 4 investigadores en la partida. Añade al mazo de Encuentros la pila de descartes de Encuentros y el resto del conjunto <i>Logia del Crepúsculo de Plata</i> puesto aparte. Luego baraja el mazo de Encuentros.\nComprueba el registro de campaña. Si <i>Josef está sano y salvo</i>, haz que aparezca en La trampa de espíritus el Enemigo Josef Meiger puesto aparte. Los investigadores no pueden <b>negociar</b> con Josef Meiger durante el resto de la partida.",
+        "back_flavor": "Tras casi una hora buscando entre la densa niebla, por fin llegáis al lugar del ritual de la Logia, que se encuentra sumido en el caos. Los miembros de la Logia del Crepúsculo de Plata, ataviados con túnicas de color azul y plata, están combatiendo a las brujas.\n-¡El ritual está casi completado! -os grita Carl Sanford desde el otro lado del claro-. ¡Traed aquí a la resucitada y acabad con esto!\nFulmináis al hombre con la mirada y os negáis: -Así que al fin mostráis vuestras intenciones reales. Ya había pensado que sería así. Los matones de la Logia se vuelven contra vosotros sin dudarlo."
+    },
+    {
+        "code": "05246",
+        "name": "Más allá de la niebla (v. IV)",
+        "text": "[free] Durante una acción <b>Círculo</b>, gasta 1 pista: Reduce en 2 la dificultad de esta prueba de habilidad.\n<b>Objetivo</b> - Si todos los Lugares Isla ignota en juego están revelados y sus braseros apagados, haz avanzar el acto.",
+        "flavor": "Estáis cerca del lugar del ritual de atadura. Los braseros ya están encendidos para activar la trampa. Tendréis que apagarlos todos para romper el círculo.",
+        "back_name": "Contra la Logia",
+        "back_text": "Revela el Lugar La trampa de espíritus. Mueve a La trampa de espíritus a cada investigador que esté en un Lugar Isla ignota.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y el resto del conjunto <i>Logia del Crepúsculo de Plata</i> puesto aparte y luego barájalo.\nComprueba el registro de campaña. Si <i>Josef está sano y salvo</i>, haz que aparezca en La trampa de espíritus el Enemigo Josef Meiger puesto aparte. Los investigadores no pueden <b>negociar</b> con Josef Meiger durante el resto de la partida.",
+        "back_flavor": "Tras casi una hora buscando entre la densa niebla, por fin llegáis al lugar del ritual de la Logia, que se encuentra sumido en el caos. Los miembros de la Logia del Crepúsculo de Plata, ataviados con túnicas de color azul y plata, están combatiendo a las brujas.\n-¡El ritual está casi completado! -os grita Carl Sanford desde el otro lado del claro-. ¡Traed aquí a la resucitada y acabad con esto!\nFulmináis al hombre con la mirada y os negáis. Parece sorprendido por un instante, pero luego gruñe: -Así que estáis de su parte a fin de cuentas. Qué decepción -Y volviéndose hacia su círculo interno, les ordena-: ¡Matadlos! ¡Que no interfieran!"
+    },
+    {
+        "code": "05247",
+        "name": "El rito de atadura",
+        "text": "[free] Durante una acción <b>Círculo</b>, gasta 1 pista: Reduce en 2 la dificultad de esta prueba de habilidad.\n<b>Objetivo</b> - Si El vigilante espectral es derrotado en La trampa de espíritus mientras el brasero de ese Lugar está encendido, haz avanzar el acto.",
+        "flavor": "En el centro del claro se alza la trampa espectral: una columna de energía fantasmal que gira en torno a un obelisco de piedra. Cientos de rostros espectrales y un conglomerado de carne y miembros podridos se entrecruzan en su interior, presentando un repugnante despliegue de muerte y desesperación. Frente a la columna hay un brasero apagado, esperando a que hagáis algo.",
+        "back_name": "Desilusión",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "El vigilante aúlla de agonía mientras la corona de sombras que rodea su forma es extraída, exponiendo su verdadera forma. Junto con los miembros de la Logia, rodeáis el alma destrozada para evitar que escape."
+    },
+    {
+        "code": "05248",
+        "name": "El rito roto",
+        "text": "[free] Durante una acción <b>Círculo</b>, gasta 1 pista: Reduce en 2 la dificultad de esta prueba de habilidad.\n<b>Objetivo</b> - Si El vigilante espectral es derrotado en La trampa de espíritus mientras el brasero de ese Lugar está apagado, haz avanzar el acto.",
+        "flavor": "En el centro del claro se alza la trampa espectral: una columna de energía fantasmal que gira en torno a un obelisco de piedra. Cientos de rostros espectrales y un conglomerado de carne y miembros podridos se entrecruzan en su interior, presentando un repugnante despliegue de muerte y desesperación. Frente a la columna hay un brasero de plata, con su llama azul oscilando al viento.",
+        "back_name": "Unión",
+        "back_text": "<b>(→R4)</b>",
+        "back_flavor": "Cuando la llama azul del brasero es extinguida, la energía que rodea el círculo se disipa. La corona de sombras que hay en torno a la silueta del vigilante es liberada, y la verdadera forma de la criatura rodea la columna central."
+    },
+    {
+        "code": "05249",
+        "name": "Río Miskatonic",
+        "text": "[action]: <b>Desistir.</b> Llevas la barca de remos de vuelta a la orilla del río Miskatonic, dejando atrás la misteriosa isla.",
+        "flavor": "Pese a la urgencia de la misión, estáis remando tranquilamente, como si no quisierais perturbar el río.",
+        "back_flavor": "La barca se mece suavemente con la corriente del agua. El río es oscuro y profundo, y os preguntáis de repente cuántos cuerpos yacerán olvidados en su lecho, sin que vuelvan a ser descubiertos jamás.",
+        "traits": "Río"
+    },
+    {
+        "code": "05250",
+        "name": "Orilla intimidatoria",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [willpower] o de [intellect] (3) para encontrar el brasero junto al sendero boscoso. Si tienes éxito, puedes encender o apagar el brasero.\n<b>Embrujado</b> - Debes perder 1 acción o bien perder 2 recursos.",
+        "back_flavor": "Al llegar a la orilla de la isla, una bandada de aves parlotea desde las copas de los árboles, regañándoos por vuestra intrusión. Aun así, seguís adelante e ignoráis las muchas advertencias e indicadores de que deberíais daros media vuelta.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05251",
+        "name": "Isla ignota",
+        "subname": "Piedras verticales",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [willpower]+[intellect] (10) para examinar el brasero que hay delante de la piedra vertical. Si tienes éxito, puedes encender o apagar el brasero.\n<b>Embrujado</b> - Hasta el final de la ronda, aumenta en 2 la dificultad de todas las pruebas de habilidad durante acciones <b>Círculo</b>.",
+        "back_text": "La niebla espectral bloquea el camino. Comprueba el registro de campaña.\n- Si <i>los investigadores se han puesto de parte de la Logia</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté encendido.\n- Si <i>los investigadores se han puesto de parte del aquelarre</i> ,no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté apagado.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05252",
+        "name": "Isla ignota",
+        "subname": "Claro neblinoso",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [willpower]+[agility] (11) para atravesar la niebla que rodea el brasero. Si tienes éxito, puedes encender o apagar el brasero.\n<b>Embrujado</b> - Debes colocar 1 ficha de Perdición sobre este Lugar o bien recibir 1 punto de daño y 1 punto de horror.",
+        "back_text": "La niebla espectral bloquea el camino. Comprueba el registro de campaña.\n- Si <i>los investigadores se han puesto de parte de la Logia</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté encendido.\n- Si <i>los investigadores se han puesto de parte del aquelarre</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté apagado.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05253",
+        "name": "Isla ignota",
+        "subname": "Bosque desolado",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [willpower]+[combat] (11) para despejar el camino por el bosque. Si tienes éxito, puedes encender o apagar el brasero.\n<b>Embrujado</b> - Debes buscar un Chotacabras en el mazo y la pila de descartes de Encuentros y hacer que aparezca en este Lugar o bien el Chotacabras más cercano te ataca.",
+        "back_text": "La niebla espectral bloquea el camino. Comprueba el registro de campaña.\n- Si <i>los investigadores se han puesto de parte de la Logia</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté encendido.\n- Si <i>los investigadores se han puesto de parte del aquelarre</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté apagado.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05254",
+        "name": "Isla ignota",
+        "subname": "Escalones cubiertos de musgo",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [combat]+[agility] (10) para explorarlo los musgosos escalones. Si tienes éxito, puedes encender o apagar el brasero que hay en lo alto.\n<b>Embrujado</b> - Tu siguiente acción en esta ronda cuesta 1 acción adicional.",
+        "back_text": "La niebla espectral bloquea el camino. Comprueba el registro de campaña.\n- Si <i>los investigadores se han puesto de parte de la Logia</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté encendido.\n- Si <i>los investigadores se han puesto de parte del aquelarre</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté apagado.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05255",
+        "name": "Isla ignota",
+        "subname": "Manantial embrujado",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [intellect]+[agility] (9) para llegar al brasero del centro del manantial. Si tienes éxito, puedes encender o apagar el brasero.\n<b>Embrujado</b> - Debes descartar un Apoyo que controles o bien recibir 1 punto de daño.",
+        "back_text": "La niebla espectral bloquea el camino. Comprueba el registro de campaña.\n- Si <i>los investigadores se han puesto de parte de la Logia</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté encendido.\n- Si <i>los investigadores se han puesto de parte del aquelarre</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté apagado.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05256",
+        "name": "Isla ignota",
+        "subname": "Sauce decrépito",
+        "text": "[action]: <b>Círculo.</b> Realiza una prueba de [intellect]+[combat] (9) para encontrar el brasero dentro del descompuesto árbol. Si tienes éxito, puedes encender o apagar el brasero.\n<b>Embrujado</b> - Elige y descarta 1 carta de tu mano.",
+        "back_text": "La niebla espectral bloquea el camino. Comprueba el registro de campaña.\n- Si <i>los investigadores se han puesto de parte de la Logia</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté encendido.\n- Si <i>los investigadores se han puesto de parte del aquelarre</i>, no puedes entrar en este Lugar a menos que el brasero de la Orilla intimidatoria esté apagado.",
+        "traits": "Bosque."
+    },
+    {
+        "code": "05257",
+        "name": "La trampa de espíritus",
+        "text": "Mientras El vigilante espectral esté en La trampa de espíritus, obtiene Represalia.\n[action]: <b>Círculo.</b> Realiza una prueba de [willpower]+[intellect]+[combat]+[agility] (20) para completar el ritual o desbaratarlo. Si tienes éxito, puedes encender o apagar el brasero de este Lugar.\n<b>Embrujado</b> - Recibe 1 punto de daño y 1 punto de horror.",
+        "back_text": "El camino que lleva al lugar del ritual está oculto por la niebla espectral. No puedes entrar en La trampa de espíritus.",
+        "back_flavor": "Sobre los árboles, se alza la columna de niebla fantasmal, cubriendo el cielo con rostros espectrales y desesperadas manos en forma de garras. Os estáis acercando…",
+        "traits": "Bosque. Espectral."
+    },
+    {
+        "code": "05258",
+        "name": "Gavriella Mizrah",
+        "subname": "No caeré tan fácilmente",
+        "text": "Recibes +1 [combat].\n[reaction] Después de que un Enemigo te ataque, incluso si ese ataque fue cancelado, agota a Gavriella Mizrah: Descubre 1 pista en tu Lugar.",
+        "traits": "Aliado. Veterano.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "05259",
+        "name": "Jerome Davids",
+        "subname": "Desbordado por los acontecimientos",
+        "text": "Recibes +1 [intellect].\n[reaction] Cuando un investigador que esté en tu Lugar robe una carta de Traición del mazo de Encuentros, agota a Jerome Davids y descarta cartas de tu mano que tengan al menos 2 iconos [intellect]: Cancela el efecto de revelación de esa carta.",
+        "traits": "Aliado. Ayudante.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "05260",
+        "name": "Penny White",
+        "subname": "La pesadilla ha acabado",
+        "text": "Recibes +1 [willpower].\n[reaction] Después de que tengas éxito en una prueba de habilidad durante un efecto de revelación, agota a Penny White: Descubre 1 pista en tu Lugar.",
+        "traits": "Aliado. Ayudante.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "05261",
+        "name": "Valentino Rivas",
+        "subname": "Sí que habéis tardado",
+        "text": "Recibes +1 [agility].\n[free] Durante una prueba de habilidad que estés realizando, gasta 2 recursos y agota a Valentino Rivas: Reduce en 1 la dificultad de esta prueba.",
+        "traits": "Aliado. Alta sociedad.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "05262",
+        "name": "Gavriella's Fate",
+        "text": "<b>Comprueba la sección \"Personas desaparecidas\" del registro de campaña. Si <i>Gavriella desapareció en la niebla</i> y si <i>los investigadores están tras la pista de Gavriella</i>:</b>\n<blockquote><i>Gavriella sale a trompicones de la niebla, con los ojos inyectados en sangre y la voz ronca: -¿Dónde estoy? ¿Quiénes sois?</i></blockquote>\nToma el control del Apoyo Gavriella Mizrah puesto aparte. Durante el resto de este escenario, no ocupa espacio de aliado. Anota que <i>Gavriella está viva</i> junto al perfil de Gavriella Mizrah.<hr><b>Si <i>Gavriella fue arrebatada por espectros</i>:</b>\nDale la vuelta a esta carta para mostrar su lado de Enemigo y haz que aparezca en tu Lugar. Si <i>los investigadores están tras la pista de Gavriella</i>, haz que aparezca agotada y sin enfrentar. Si no es así, aparece enfrentada a ti.<hr><b>Si no es así:</b>\n<blockquote><i>Encuentras el arma de Gavriella, rota y descompuesta, tirada en la hierba. No ves ningún rastro de ella.</i></blockquote>"
+    },
+    {
+        "code": "05262b",
+        "name": "Gavriella Mizrah",
+        "subname": "Eres el siguiente",
+        "text": "Alerta. Cazador.\n<b>Obligado</b> - Después de que ataque con éxito Gavriella Mizrah, si está preparada: Recibe 1 punto de horror.",
+        "traits": "Humanoide. Geist. Espectral. Élite."
+    },
+    {
+        "code": "05263",
+        "name": "El destino de Jerome",
+        "text": "<b>Comprueba la sección \"Personas desaparecidas\" del registro de campaña. Si <i>Jerome desapareció en la niebla</i> y si <i>los investigadores están tras la pista de Jerome</i>:</b>\n<blockquote><i>Jerome sale de la niebla a rastras y lo ayudáis a levantarse.\n-Dios mío… la niebla… -susurra-. Está todo conectado… Está todo conectado…</i></blockquote>\nToma el control del Apoyo Jerome Davids puesto aparte. Durante el resto de este escenario, no ocupa espacio de aliado. Anota que <i>Jerome está vivo</i> junto al perfil de Jerome Davids.<hr><b>Si <i>Jerome fue arrebatado por espectros</i>:</b>\nDale la vuelta a esta carta para mostrar su lado de Enemigo y haz que aparezca en tu Lugar. Si <i>los investigadores están tras la pista de Jerome</i>, haz que aparezca agotada y sin enfrentar. Si no es así, aparece enfrentada a ti.<hr><b>Si no es así:</b>\n<blockquote><i>Encontráis en el suelo un trozo de papel del cuadernillo de notas de Jerome. Sólo dice: \"AYUDA\".</i></blockquote>"
+    },
+    {
+        "code": "05263b",
+        "name": "Jerome Davids",
+        "subname": "Ávido de respuestas",
+        "text": "Cazador.\n<b>Obligado</b> - Después de que Jerome Davids se enfrente a ti: Elige y descarta 2 cartas de tu mano.",
+        "traits": "Humanoide. Geist. Espectral. Élite."
+    },
+    {
+        "code": "05264",
+        "name": "El destino de Penny",
+        "text": "<b>Comprueba la sección \"Personas desaparecidas\" del registro de campaña. Si <i>Penny desapareció en la niebla</i> y si <i>los investigadores están tras la pista de Penny</i>:</b>\n<blockquote><i>Penny está a punto de chocar contigo cuando sale corriendo de la niebla. Le tiembla todo el cuerpo de pánico mientras la sujetas: -¿Estás vivo? -solloza-. ¿Se ha acabado por fin esta pesadilla?</i></blockquote>\nToma el control del Apoyo Penny White puesto aparte. Durante el resto de este escenario, no ocupa espacio de aliado. Anota que <i>Penny está viva</i> junto al perfil de Penny White.<hr><b>Si <i>Penny fue arrebatada por espectros</i>:</b>\nDale la vuelta a esta carta para mostrar su lado de Enemigo y haz que aparezca en tu Lugar. Si <i>los investigadores están tras la pista de Penny</i>, haz que aparezca agotada y sin enfrentar. Si no es así, aparece enfrentada a ti.<hr><b>Si no es así:</b>\n<blockquote><i>Encontráis el delantal de Penny tirado en el suelo y cubierto de sangre. No hay más rastro de ella.</i></blockquote>"
+    },
+    {
+        "code": "05264b",
+        "name": "Penny White",
+        "subname": "Perdida trágica",
+        "text": "Cazador.\n<b>Obligado</b> - Después de que esquives con éxito a Penny White: Recibe 1 punto de daño.",
+        "traits": "Humanoide. Geist. Espectral. Élite."
+    },
+    {
+        "code": "05265",
+        "name": "El destino de Valentino",
+        "text": "<b>Comprueba la sección \"Personas desaparecidas\" del registro de campaña. Si <i>Valentino desapareció en la niebla</i> y si <i>los investigadores están tras la pista de Valentino</i>:</b>\n<blockquote><i>Valentino sale cojeando de la niebla y se apoya en un árbol cercano. Suelta una risilla al verte: -Así que por fin ha llegado la caballería, ¿eh?</i></blockquote>\nToma el control del Apoyo Valentino Rivas puesto aparte. Durante el resto de este escenario, no ocupa espacio de aliado. Anota que <i>Valentino está vivo</i> junto al perfil de Valentino Rivas.<hr><b>Si <i>Valentino fue arrebatado por espectros</i>:</b>\nDale la vuelta a esta carta para mostrar su lado de Enemigo y haz que aparezca en tu Lugar. Si <i>los investigadores están tras la pista de Valentino</i>, haz que aparezca agotada y sin enfrentar. Si no es así, aparece enfrentada a ti.<hr><b>Si no es así:</b>\n<blockquote><i>El bastón de Valentino está en el barro, casi partido por la mitad. Tiene el asa manchada de sangre seca.</i></blockquote>"
+    },
+    {
+        "code": "05265b",
+        "name": "Valentino Rivas",
+        "subname": "hecho pedazos",
+        "text": "Cazador. Represalia.\n<b>Obligado</b> -  Después de que Valentino Rivas se enfrente a ti: Pierde 2 recursos.",
+        "traits": "Humanoide. Geist. Espectral. Élite."
+    },
+    {
+        "code": "05266",
+        "name": "Chotacabras",
+        "text": "Indiferente. Cazador.\nCada investigador que esté en el mismo Lugar que el Chotacabras recibe -1 [willpower], -1 [intellect], -1 [combat] y -1 [agility].",
+        "flavor": "Afirman que tales pájaros son psicopompos que están al acecho de las almas de los muertos…\n – H. P. Lovecraft, \"El Horror de Dunwich\"",
+        "traits": "Criatura."
+    },
+    {
+        "code": "05267",
+        "name": "Cuervo espectral",
+        "text": "<b>Presa</b> - Menor [intellect].\nAlerta. Cazador. Represalia.\n<b>Obligado</b> - Después de que el Cuervo espectral se enfrente a ti: Debes resolver todas las capacidades Embrujado de tu Lugar o bien el Cuervo espectral recibe +2 a combatir y +2 a evitar hasta el final de la fase de investigación.",
+        "traits": "Criatura. Espectral."
+    },
+    {
+        "code": "05268",
+        "name": "Ávidos de muerte",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (2). Aumenta la dificultad de esta prueba en 1 por cada punto de daño que tengas. Si fracasas, recibe 2 puntos de horror.",
+        "flavor": "Si consiguen atrapar el alma fugitiva en el momento en que abandona el cuerpo se ponen a revolotear al instante y prorrumpen en diabólicas risotadas…\n – H. P. Lovecraft, \"El Horror de Dunwich\"",
+        "traits": "Augurio."
+    },
+    {
+        "code": "05269",
+        "name": "Canción del psicopompo",
+        "text": "Oleada. Peligro.\n<b>Revelación</b> - Añade la Canción del psicopompo a la zona de amenaza de cualquier investigador.\n<b>Obligado</b> - Cuando fueses a recibir 1 o más puntos de daño: Recibe 2 puntos de daño adicionales y descarta la Canción del psicopompo.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "05270",
+        "name": "La muerte se acerca",
+        "text": "Oleada. Peligro.\n<b>Revelación</b> - Añade La muerte se acerca a la zona de amenaza de cualquier investigador.\n<b>Obligado</b> - Cuando fueses a recibir 1 o más puntos de horror: Recibe 2 puntos de horror adicionales y descarta La muerte se acerca.",
+        "traits": "Terror."
+    },
+    {
+        "code": "05271",
+        "name": "Marcado para morir",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (2). Aumenta la dificultad de esta prueba en 1 por cada punto de horror que tengas. Si fracasas, recibe 2 puntos de daño.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "05272",
+        "name": "Mirada de vigilante",
+        "text": "<b>Revelación</b> - Cada investigador realiza una prueba de [willpower] (5). Cada investigador que fracase debe resolver la capacidad Embrujado de su Lugar o bien la capacidad Embrujado del Lugar de El vigilante espectral.",
+        "traits": "Maldición."
+    }
+]

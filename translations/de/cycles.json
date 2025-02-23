@@ -1,0 +1,66 @@
+[
+    {
+        "code": "core",
+        "name": "Grundspiel"
+    },
+    {
+        "code": "dwl",
+        "name": "Das Vermächtnis von Dunwich"
+    },
+    {
+        "code": "eoe",
+        "name": "Am Rande der Welt"
+    },
+    {
+        "code": "fhv",
+        "name": "Das Fest von Hemlock Vale"
+    },
+    {
+        "code": "investigator",
+        "name": "Einsteigerdecks"
+    },
+    {
+        "code": "parallel",
+        "name": "Parallel"
+    },
+    {
+        "code": "promotional",
+        "name": "Promos"
+    },
+    {
+        "code": "ptc",
+        "name": "Der Pfad nach Carcosa"
+    },
+    {
+        "code": "return",
+        "name": "Rückkehr zu…"
+    },
+    {
+        "code": "side_stories",
+        "name": "Nebengeschichten"
+    },
+    {
+        "code": "tcu",
+        "name": "Der gebrochene Kreis"
+    },
+    {
+        "code": "tdc",
+        "name": "The Drowned City"
+    },
+    {
+        "code": "tde",
+        "name": "Die Traumfresser"
+    },
+    {
+        "code": "tfa",
+        "name": "Das vergessene Zeitalter"
+    },
+    {
+        "code": "tic",
+        "name": "Die Innsmouth-Verschwörung"
+    },
+    {
+        "code": "tsk",
+        "name": "Die scharlachroten Schlüssel"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "code": "06168",
+        "name": "Mil formas de horror",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si estás en un Lugar [[Cementerio]].\n[cultist]: Revela otra ficha. Si fracasas y Lo innombrable está en juego, te ataca (independientemente de su Lugar actual).\n[tablet]: +2. El gato negro provoca una distracción. Si esta prueba tiene éxito, elige y evita un Enemigo en cualquier Lugar que tenga un valor de combate de X o menos, donde X es la cantidad de puntos que tengas por encima del valor mínimo de éxito.\n[elder_thing]: -2. Si fracasas, debes colocar 1 de tus pistas sobre tu Lugar o bien recibir 1 punto de daño.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si estás en un Lugar [[Cementerio]].\n[cultist]: Revela otra ficha. Si fracasas y Lo innombrable está en juego, te ataca (independientemente de su Lugar actual).\n[tablet]: +1. El gato negro provoca una distracción. Si esta prueba tiene éxito, elige y evita un Enemigo en cualquier Lugar que tenga un valor de combate de X o menos, donde X es la cantidad de puntos que tengas por encima del valor mínimo de éxito.\n[elder_thing]: -3. Si fracasas, debes colocar 1 de tus pistas sobre tu Lugar o bien recibir 1 punto de daño."
+    },
+    {
+        "code": "06169a",
+        "name": "La casa sin nombre",
+        "flavor": "La casa que Randolph llama \"Lo innombrable\" no parece gran cosa. El destartalado edificio del siglo XVII lleva décadas abandonado y se encuentra en muy mal estado. La puerta está arañada y agujereada, la mayoría de los cristales están hechos añicos y las ratas corretean por los cimientos."
+    },
+    {
+        "code": "06169b",
+        "name": "Lo innombrable",
+        "subname": "La abominación definitiva",
+        "text": "<b>Aparición</b> - Ático o Pasillo del piso de arriba.\nIndiferente. Cazador. No puede ser derrotado.\nPor cada una de las siguientes condiciones que se cumpla. Lo innombrable recibe -1 a combate y -1 a evitar (los investigadores han \"encontrado un espejo agrietado\", \"estudiado un retrato profanado\", o \"descubierto que faltan huesos\").",
+        "traits": "Monstruo. Abominación. Élite."
+    },
+    {
+        "code": "06170",
+        "name": "La cosa sin nombre",
+        "text": "Cada Avalancha de ratas obtiene Multitud 1.\n<b>Obligado</b> - Al comienzo de tu turno, si Lo innombrable está preparado y en tu Lugar: Realiza una prueba de [willpower] (2). Si fracasas, te ataca <i>(incluso si no está enfrentado)</i>.",
+        "flavor": "Habéis sentido una presencia maligna que acecha por aquí desde que llegasteis. La entidad desafía toda descripción. Unas veces aparece informe; otras, adopta multitud de rasgos y formas. A veces lográis distinguir un aspecto concreto, ya sea un ojo, un cuerno o una mancha, pero desaparece en cuanto intentáis fijaros más.",
+        "back_name": "Se vuelve más osada",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.",
+        "back_flavor": "El tiempo se agota. La entidad, que antes parecía conformarse con acechar y observaros desde lejos, ahora rebosa poder y os persigue con incansable ferocidad. Se retuerce y golpea y parece estar en todas partes a la vez. Debéis daros prisa y enfrentaros a vuestros miedos o nunca encontraréis la entrada a las Tierras del Sueño."
+    },
+    {
+        "code": "06171",
+        "name": "Lo muerto sin nombre",
+        "text": "Cada Avalancha de ratas obtiene Multitud 2.\nLo innombrable pierde Indiferente y obtiene Descomunal.\n<b>Obligado</b> - Al comienzo de tu turno, si Lo innombrable está preparado y en tu Lugar: Realiza una prueba de [willpower] (2). Si fracasas, te ataca <i>(incluso si no está enfrentado)</i>.",
+        "flavor": "\"Se formó un vórtice de viento helado y devastador, y luego hubo un tableteo de ladrillos y cascotes sueltos; pero, misericordiosamente, me desvanecí antes de comprender lo que ocurría.\"\n– H. P. Lovecraft, \"Lo Innombrable\"",
+        "back_name": "Es Real",
+        "back_text": "<b>(→R2)</b>",
+        "back_flavor": "Para vuestra sorpresa, el sonido más terrible, el que grabará a fuego en vuestra memoria los acontecimientos de esta noche, no son los abatidos y sonoros gritos de la innombrable monstruosidad, ni el crujido como el papal de los cadáveres resecos al ser devorados en el cementerio. Es el simple rechinar de una celosía.\nRandolph se queda rígido y pálido. Os dais cuenta de lo que significa en cuanto menciona el sonido. Todos los marcos de las ventanas de la casa se cayeron hace mucho; todas excepto una. La ventana del ático mantuvo oculta la maldita oscuridad demoníaca: la cosa sin nombre. Os llama."
+    },
+    {
+        "code": "06172",
+        "name": "Registrando lo innombrable",
+        "text": "<b>Objetivo</b> - Explora la casa para encontrar una entrada a las Tierras del Sueño <i>(busca y completa un objetivo de otra carta escenario para avanzar)</i>.",
+        "flavor": "Seguís sin estar seguros de lo que debéis encontrar exactamente dentro de la vieja casa, pero Randolph insiste en que debéis buscar la \"llave\". Parece que no tenéis otra elección que registrar la casa y ver qué aparece.",
+        "back_name": "Hacia las profundidades",
+        "back_text": "Deja Lo innombrable aparte. Conserva todas las fichas y cartas vinculadas.\nRetira cada Lugar de la partida (o colócalo en la zona de victoria si tiene <b>Victoria X</b> y no tiene pistas). Los investigadores no quedan derrotados durante este proceso <i>(El resto de Enemigos y cartas vinculadas que haya en esos Lugares son descartados)</i>.\nBaraja los Lugares Escaleras misteriosas puestos aparte y por 5 de ellos en juego formando una línea vertical. Retira de la partida el Lugar Escaleras misteriosas restante.\nColoca a todos los investigadores y el Enemigo Lo innombrable puesto aparte en el Lugar Escaleras misteriosas que esté en la parte de arriba de la fila, revelándolo.\nBusca en el mazo y la pila de descartes de Encuentros las dos copias de la Puerta Cerrada con llave y las dos copias de Secretos en el ático y retíralas de la partida.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todas las copias puestas aparte del Descenso infinito y luego barájalo.",
+        "back_flavor": "La tumba da a una escalera que se extiende bajo tierra antes de desaparecer en la oscuridad."
+    },
+    {
+        "code": "06173",
+        "name": "Las escaleras infinitas",
+        "text": "Mientras el Lugar Escaleras misteriosas de la parte inferior de la fila esté revelado, obtiene: \"[action]: <b>Desistir.</b>\"\n<b>Objetivo</b> - Llega al pie de las escaleras. Si todos los investigadores han desistido, haz avanzar el acto.",
+        "flavor": "Los peldaños parecen bajar eternamente. Cada vez que pensáis que estáis llegando al final, dobláis otra esquina y veis cientos más.",
+        "back_name": "Entrada por la fuerza",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "Los gritos desesperanzados de la criatura innombrable, sea lo que sea o haya sido, llegan desde muy arriba y resuenan por la caverna antinatural.\n-Aquí no puede alcanzarnos -dice Randolph con un suspiro de alivio. Ha sido un descenso angustioso, pero por fin estáis a salvo de la cosa indescriptible. Aun así, la seguridad es transitoria. La escalera se retuerce bajo vosotros sin que veáis el fin. Las ventanas que hay en la pared de piedra de la torre dan a un paisaje infinito de riscos pedregosos y picos baldíos, tenuemente iluminados por una luz gris fosforescente. Seguís a muchos kilómetros por encima de este mundo subterráneo, ¿y quién sabe qué horrores encontraréis cuando lleguéis?\n-Esto es sólo el principio -os advierte Randolph-. Ya no hay vuelta atrás. ¿Estáis listos para continuar?"
+    },
+    {
+        "code": "06174",
+        "name": "Camposanto",
+        "text": "Cada Enemigo [[Gul]] robado aparece en el Camposanto en Lugar de en su Lugar normal.\n[free] Los investigadores que estén en el Camposanto gastan, como grupo, 1 pista [per_investigator]: Recuerda que los investigadores han \"descubierto que faltan huesos\".",
+        "back_flavor": "\"Mirando hacia el sauce gigantesco del cementerio, cuyo tronco casi había hundido la antigua y casi ilegible losa, y había hecho un comentario fantástico sobre el alimento espectral e incalificable que sus colosales raíces succionaban sin duda de aquella tierra vetusta y macabra…”\n- H. P. Lovecraft, \"Lo Innombrable\"",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06175",
+        "name": "Entrada",
+        "text": "[free] Los investigadores que estén en la Entrada gastan, como grupo, 1 pista [per_investigator]: Revela el Pasillo del piso de arriba.\n[free] Si Lo innombrable tiene 1 punto de daño [per_investigator] o más sobre él: De la criatura brota humo que lleva hacia una tumba cercana al centro del cementerio del exterior. Pon en juego el Lugar Tumba anónima puesto aparte.",
+        "back_name": "Porche delantero",
+        "back_flavor": "\"Me gustaría ver la casa, Carter. ¿Dónde está? Tanto si tiene cristales como si no, quisiera echarle una ojeada. Y también a la tumba donde pusiste aquellos huesos, la otra sepultura sin inscripción… todo eso debe de ser un poco terrible.\"\n- H. P. Lovecraft, \"El Innombrable\""
+    },
+    {
+        "code": "06176",
+        "name": "Estudio",
+        "text": "[reaction] Después de que investigues con éxito el Estudio, descarta 1 carta de tu mano: Descubre una pista adicional en este Lugar.\n[free] Los investigadores que estén en el Estudio gastan, como grupo, 1 pista [per_investigator]: Recuerda que los investigadores han \"estudiado un retrato profanado\".",
+        "back_name": "Puerta del piso de abajo",
+        "back_flavor": "La puerta antes no estaba abierta. Sólo te diste la vuelta un momento, pero pensabas haber visto algo. Pero ¿el qué exactamente? ¿Un borrón? ¿Una silueta?"
+    },
+    {
+        "code": "06177",
+        "name": "Salita",
+        "text": "Por cada investigador que esté en la Salita, ésta recibe +1 a velo.\n[free] Si El innombrable tiene 2 puntos de daño [per_investigator] o más sobre él: El espejo resplandece de forma antinatural, revelando un destello de plata. Recuerda que los investigadores han \"recuperado una extraña llave\".",
+        "back_name": "Puerta del piso de abajo",
+        "back_flavor": "La puerta antes no estaba abierta. Sólo te diste la vuelta un momento, pero pensabas haber visto algo. Pero ¿el qué exactamente? ¿Un borrón? ¿Una silueta?"
+    },
+    {
+        "code": "06178",
+        "name": "Pasillo del piso de arriba",
+        "text": "[free] Los investigadores que estén en el Pasillo del piso de arriba gastan, como grupo, 1 pista [per_investigator]: Pon en juego el Lugar Ático puesto aparte.",
+        "back_text": "Una presencia maloliente te impide subir al piso de arriba. No puedes entrar en el Pasillo del piso de arriba.",
+        "back_flavor": "\"¡Allí! Como ves, sólo estaba intentando seguir mi progreso. ¡Esos pequeños destellos son ojos! ¡Tienen que serlo! Algo me estaba observando.\"– Annie VanderMeer Mitsoda, <u>Los investigadores de Arkham Horror</u>"
+    },
+    {
+        "code": "06179",
+        "name": "Biblioteca",
+        "text": "Como coste adicional para investigar la Biblioteca debes perder 1 acción o bien recibir 1 punto de horror.\n[free] Los investigadores que estén en la Biblioteca gastan, como grupo, 1 pista [per_investigator]: Leéis una anotación de un extraño diario sobre una de las tumbas del camposanto del exterior. Pon en juego el Lugar Tumba anónima puesto aparte.",
+        "back_name": "Puerta del piso de arriba",
+        "back_flavor": "Algo araña la madera desde el otro lado. ¿Ratas? ¿Tu imaginación? No, algo distinto. Algo antinatural."
+    },
+    {
+        "code": "06180",
+        "name": "Dormitorio",
+        "text": "[action] [action]: Descarta todas las cartas Traición que no sean Debilidad de tu zona de amenaza.\n[free] Los investigadores que estén en el Dormitorio gastan, como grupo, 1 pista [per_nvestigator]: Recuerda que los investigadores han \"encontrado un espejo agrietado\".",
+        "back_name": "Puerta del piso de arriba",
+        "back_flavor": "Algo araña la madera desde el otro lado. ¿Ratas? ¿Tu imaginación? No, algo distinto. Algo antinatural."
+    },
+    {
+        "code": "06181",
+        "name": "Ático",
+        "text": "[free] Los investigadores que estén en el Ático gasta, como grupo, 1 pista [per_investigator]: Muy dentro de una pila de huesos monstruosos, ves un destello de plata. Recuerda que los investigadores han \"recuperado una extraña llave\".",
+        "back_flavor": "\"Nadie abrió la puerta que daba acceso a la escalera del ático, sino que dejaron la casa como estaba, pavorosa y desierta. Cuando se oían ruidos en ella, la gente murmuraba y se estremecía, confiando en que se fuese bastante sólido el cerrojo de la puerta del ático.\"\n– H. P. Lovecraft, \"El Innombrable\""
+    },
+    {
+        "code": "06182",
+        "name": "Tumba anónima",
+        "text": "<b>Objetivo</b> - Al final de la ronda, si todos los investigadores no derrotados están en la Tumba anónima y los investigadores han \"recuperado una extraña llave\", haz avanzar el acto.",
+        "back_flavor": "\"…de la tumba salía un rugido jadeante y un aleteo, y mi fantasía se valía de ellos para poblar la oscuridad con legiones de seres semejantes a los deformes condenados de Milton.\"\n– H. P. Lovecraft, \"El Innombrable\"",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06183",
+        "name": "Escaleras misteriosas",
+        "text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.\n<b>Obligado</b> - Después de que entres en este Lugar: Pierde 1 acción.",
+        "back_text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.",
+        "back_flavor": "\"Tan gastados y estrechos eran los peldaños, y tan resbaladizos por el légamo interior de la tierra, que el viajero no sabía si de un momento a otro perdería pie y se precipitaría en aparatosa caída hasta el fondo del pozo…\"\n- H.P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06184",
+        "name": "Escaleras misteriosas",
+        "text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.\nMientras haya pistas sobre este Lugar, los investigadores que estén en este Lugar no pueden moverse ni desistir.",
+        "back_text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.",
+        "back_flavor": "\"Tan gastados y estrechos eran los peldaños, y tan resbaladizos por el légamo interior de la tierra, que el viajero no sabía si de un momento a otro perdería pie y se precipitaría en aparatosa caída hasta el fondo del pozo…\"\n- H.P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06185",
+        "name": "Escaleras misteriosas",
+        "text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.\nMientras haya un Enemigo preparado en este Lugar, los investigadores que estén en este Lugar no pueden moverse ni desistir.\n<b>Obligado</b> - Cuando este Lugar sea revelado: Busca un Enemigo [[Gul]] en el mazo y la pila de descartes de Encuentros y haz que aparezca en este Lugar. Baraja el mazo de Encuentros.",
+        "back_text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.",
+        "back_flavor": "\"Tan gastados y estrechos eran los peldaños, y tan resbaladizos por el légamo interior de la tierra, que el viajero no sabía si de un momento a otro perdería pie y se precipitaría en aparatosa caída hasta el fondo del pozo…\"\n- H.P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06186",
+        "name": "Escaleras misteriosas",
+        "text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.\n<b>Obligado</b> - Cuando este Lugar sea revelado: Coloca 1 recurso [per_investigator] sobre él. Mientras haya recursos sobre este Lugar, los investigadores que estén en este Lugar no pueden moverse ni desistir.\n[action]: Realiza una prueba de tu habilidad más baja (2). Si tienes éxito, descarta 1 recurso de este Lugar.",
+        "back_text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.",
+        "back_flavor": "\"Tan gastados y estrechos eran los peldaños, y tan resbaladizos por el légamo interior de la tierra, que el viajero no sabía si de un momento a otro perdería pie y se precipitaría en aparatosa caída hasta el fondo del pozo…\"\n- H.P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06187",
+        "name": "Escaleras misteriosas",
+        "text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.\n<b>Obligado</b> - Cuando este Lugar sea revelado: Mueve Lo innombrable a él.\nMientras El innombrable esté en este Lugar y tenga menos de 1 de daño [per_investigator], los investigadores que estén ene este Lugar no pueden moverse ni desistir.",
+        "back_text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.",
+        "back_flavor": "\"Tan gastados y estrechos eran los peldaños, y tan resbaladizos por el légamo interior de la tierra, que el viajero no sabía si de un momento a otro perdería pie y se precipitaría en aparatosa caída hasta el fondo del pozo…\"\n- H.P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06188",
+        "name": "Escaleras misteriosas",
+        "text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.\nComo coste adicional para moverse o desistir en este Lugar, debes descartar 1 o más cartas de tu mano que tengan al menos 2 iconos de habilidad iguales entre ellas.",
+        "back_text": "Las Escaleras misteriosas están conectadas a los Lugares que tienen arriba y abajo.",
+        "back_flavor": "\"Tan gastados y estrechos eran los peldaños, y tan resbaladizos por el légamo interior de la tierra, que el viajero no sabía si de un momento a otro perdería pie y se precipitaría en aparatosa caída hasta el fondo del pozo…\"\n- H.P. Lovecraft, <u>La búsqueda en sueños de la ignota Kadath</u>",
+        "traits": "Cementerio."
+    },
+    {
+        "code": "06189",
+        "name": "La llave de plata",
+        "subname": "Llave del Portal de los Sueños",
+        "text": "[reaction] Cuando fueses a recibir horror, agota La llave de plata: Cancela 1 punto de ese horror.",
+        "flavor": "\"En el interior, un pergamino descolorido envolvía una enorme llave de plata deslustrada, labrada con misteriosos arabescos; pero no había allí explicación legible de ninguna clase.\"\n- H.P. Lovecraft, \"La llave de plata\"",
+        "traits": "Objeto. Amuleto. Reliquia.",
+        "slot": "Accesorio"
+    },
+    {
+        "code": "06190",
+        "name": "Descenso infinito",
+        "text": "<b>Revelación</b> - Mueve cada investigador y Enemigo que estén en el Lugar superior de la fila al Lugar que esté debajo de ése. Dale la vuelta al Lugar superior para mostrar su lado sin revelar, descarta todas la fichas y cartas vinculadas que tenga y colócalo por debajo del Lugar inferior de la fila. Mezcla las posiciones de todos los Lugares sin revelar para que no puedas saber cuál es cuál. Añade esta carta a la zona de victoria.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "06191",
+        "name": "Aparición indescriptible",
+        "text": "<b>Revelación</b> - Pon Aparición indescriptible en juego en tu zona de amenaza.\nRecibes -1 a cada una de tus habilidades mientras Lo innombrable esté en tu Lugar.\n[action] [action]: Descarta la Aparición indescriptible.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "06192",
+        "name": "Ojos brillantes",
+        "text": "<b>Revelación</b> - Pon Ojos brillantes en juego en tu zona de amenaza.\n<b>Obligado</b> - Al final de la ronda: Recibe 1 punto de horror por cada carta que haya en tu zona de amenaza, hasta un máximo de 3 puntos de horror. Descarta Ojos brillantes.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06193",
+        "name": "Recuerdos engañosos",
+        "text": "<b>Revelación</b> - Pon los Recuerdos engañosos en juego en tu zona de amenaza.\n<b>Obligado</b> - Después de que otra carta entre en tu zona de amenaza: Elige y descarta 1 carta de tu mano.\n[action]: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta los Recuerdos engañosos.",
+        "traits": "Terror."
+    },
+    {
+        "code": "06194",
+        "name": "Secretos en el ático",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si fracasas, recibe 1 punto de horror y pon los Secretos en el ático en juego junto al mazo de Plan.\nNo se pueden activar capacidades [free] de los Lugares.\n<b>Obligado</b> - Al final de la ronda: Descarta 1 copia de los Secretos en el ático del juego. Máximo una vez por ronda",
+        "traits": "Maquinación."
+    }
+]

@@ -1,0 +1,263 @@
+[
+    {
+        "code": "81001",
+        "name": "La Maledizione del Rougarou",
+        "text": "<b>Facile / Standard</b>\n[skull]: -2 (-4 se invece ti trovi in un luogo [[Bayou]]).\n[cultist]: -2. Se il Rougarou si trova nel tuo luogo, rivela 1 altro segnalino.\n[tablet]: Rivela 1 altro segnalino. Se fallisci, non puoi muoverti fino alla fine del round.\n[elder_thing]: -4. Se il Rougarou si trova nel tuo luogo, ti attacca.",
+        "back_text": "<b>Difficile / Esperto</b>\n[skull]: -3 (-6 se invece ti trovi in un luogo [[Bayou]]).\n[cultist]: -3. Se il Rougarou si trova nel tuo luogo, rivela 1 altro segnalino.\n[tablet]: Rivela 1 altro segnalino. Se fallisci, non puoi muoverti fino alla fine del round.\n[elder_thing]: -4. Se il Rougarou si trova nel tuo luogo o in un luogo collegato al tuo, ti attacca."
+    },
+    {
+        "code": "81002",
+        "flavor": "Non appena giunti a New Orleans, date inizio alle vostre indagini. Interrogate gli abitanti del posto riguardo le recenti morti ma, come sospettavate, in molti sanno a malapena qualcosa sugli incidenti. I pochi testimoni oculari fanno tutti la stessa descrizione della creatura: corporatura slanciata ma muscolosa, lunghe braccia e un aspetto che ricorda quello di un lupo.\nUn inizio promettente… ma se ci fosse anche solo un fondo di verità nelle dicerie che parlano di questa “maledizione”, dovrete parlarne con Madame Esprit in persona.",
+        "name": "Una Creatura nel Bayou",
+        "back_name": "Il Cielo si Oscura",
+        "back_flavor": "Una violenta tempesta si abbatte sulle vostre ricerche. Nubi nere di pioggia conquistano il cielo, appesantendo l'aria di umidità. Vi ricordate che tutte le recenti uccisioni sono avvenute durante la notte, sotto una coltre di nuvole scure. Un brivido vi attraversa la schiena e non potete fare a meno di pensare che le prossime vittime potreste essere voi.",
+        "back_text": "Rimescolate la pila degli scarti degli incontri nel mazzo degli incontri.\nSe il Rougarou è in gioco, trovate il luogo non [[Bayou]] con meno indizi. Muovete il Rougarou di un luogo alla volta finché non entra in quel luogo. Proseguite con la Trama 2a.\nSe il Rougarou non è in gioco, proseguite con la Trama 2a e collocate 1 destino su di essa."
+    },
+    {
+        "code": "81003",
+        "flavor": "Attorno a voi, l'intero bayou sta banchettando. Appena oltre il limitare del bosco potete sentire il suono della carne strappata e delle fauci che scattano, mentre leggere gocce di pioggia increspano la superficie dell'acqua. Non riuscite a capire esattamente da dove provengano quei suoni. Forse è la tetra atmosfera del bayou stesso.",
+        "name": "Il Rougarou si Nutre",
+        "back_name": "La Decima Notte",
+        "back_flavor": "All'improvviso un rombo di tuono esplode violentemente e lo scoppio assordante riverbera nei timpani fino a causarvi dolore. La vista si sdoppia, un fastidioso conato comincia a salirvi in gola. Un ululato solitario risponde al richiamo del cielo, riecheggiando per tutto il bayou. Vi sforzate per uscire dal terreno fangoso e ritrovare il senso dell'orientamento. Non riuscite a scrollarvi di dosso la sensazione che il tempo stia per scadere.",
+        "back_text": "Rimescolate ogni copia della Caccia Aperta dalla pila degli scarti degli incontri nel mazzo degli incontri.\nSe il Rougarou è in gioco, trovate il luogo non [[Bayou]] con meno indizi. Muovete il Rougarou di un luogo alla volta finché non entra in quel luogo. Proseguite con la Trama 3a.\nSe il Rougarou non è in gioco, proseguite con la Trama 3a e collocate 1 destino su di essa."
+    },
+    {
+        "code": "81004",
+        "flavor": "Dal pantano trapelano filamenti melmosi che avvolgono le radici degli alberi e cercano di afferrarvi quando vi passate accanto. L'aria è appesantita da un caldo malsano. Sotto l'opprimente cielo nero e la nebbia maleodorante, vi sentite come sprofondare sempre più a fondo nel bayou…",
+        "name": "La Maledizione di Diffonde",
+        "text": "<b>Obbligo</b> - Alla fine della Fase degli Investigatori, se il Rougarou non è impegnato con alcun investigatore: Collocate 1 destino su questa trama.",
+        "back_name": "Vittime della Maledizione",
+        "back_flavor": "Un urlo acuto riecheggia in tutto il bayou, seguito dal sinistro ululato del maledetto Rougarou. Di una cosa siete certi: la bestia ha di nuovo fatto scorrere del sangue.",
+        "back_text": "<hr>\n<b>Il portatore della debolezza Maledizione del Rougarou legge a voce alta il brano seguente:</b><blockquote>Senti qualcosa gocciolarti lungo la mano e, quando abbassi lo sguardo, ti sorprendi a vedere le tue nocche lacere e insanguinate. Vicino a te c'è la corteccia spaccata di un albero, sporca di sangue anch'essa. Lentamente, la rabbia che provi per aver fallito svanisce quando capisci che quel sangue è il tuo.</blockquote>\n<b>(→R1)</b>.\n<hr>\n<b>Se nessun investigatore ha ottenuto la Maledizione del Rougarou:</b>\n<b>(→R1)</b>."
+    },
+    {
+        "code": "81005",
+        "flavor": "Secondo il vostro contatto, Madame Esprit è una sacerdotessa voodoo che vive nel profondo del bayou. Gli abitanti del posto si tengono alla larga dal suo capanno isolato. Dopotutto, il bayou può essere un luogo pericoloso, anche tralasciando la recente ondata di feroci uccisioni.",
+        "name": "Alla Ricerca di Madame Esprit",
+        "text": "<b>Obiettivo</b> - Quando gli investigatori in un luogo [[Bayou]] spendono il totale richiesto di indizi, proseguite con i capitoli.",
+        "back_name": "Comprendere la Maledizione",
+        "back_flavor": "Trovare il capanno di Madame Esprit non è un'impresa semplice, ma riuscite infine a scorgere la sua baracca decrepita in mezzo alla nebbia. Quando entrate, la donna vi accoglie, per nulla sorpresa dalla vostra intrusione. Sostiene che un tempo il Rougarou fosse un uomo, condannato ad assumere la forma di un grande lupo da un'entità nota come “Shub-Niggurath”; ritiene inoltre di poter spezzare la maledizione del Rougarou che affligge il bayou, ma solo se la creatura verrà eliminata.",
+        "back_text": "Mettete in gioco Madame Esprit messa da parte in un luogo [[Bayou]]. Mettete in gioco ogni altro luogo messo da parte. Mettete in gioco il nemico Rougarou in un qualsiasi luogo non [[Bayou]].\nMescolate la pila degli scarti degli incontri e ogni carta incontro dal set di incontri <i>La Maledizione del Rougarou</i> nel mazzo degli incontri.\n<hr>\n<b>L'investigatore capo legge a voce alta il brano seguente:</b>\n<blockquote><i>Una volta fuori dalla capanna di Madame Esprit, vieni pervaso da un tremendo malessere che ti costringe a inginocchiarti.</i></blockquote>\nL'investigatore capo mette in gioco la debolezza Maledizione del Rougarou messa da parte nella sua area di minaccia."
+    },
+    {
+        "code": "81006",
+        "flavor": "Il Rougarou si trova da qualche parte nel vasto bayou. Dovrete rintracciarlo ed eliminarlo, o la maledizione della bestia consumerà anche voi.",
+        "name": "A Caccia del Rougarou",
+        "text": "<b>Obbligo</b> - Dopo che il Rougarou ha lasciato un luogo: Collocate 1 indizio dalla riserva dei segnalini su quel luogo.\n<b>Obiettivo</b> - “Dobbiamo eliminare la bestia!” Se il Rougarou è sconfitto: <b>(→R2)</b>..\n<b>Obiettivo</b> - “Forse c'è un altro modo…”\nFinché un investigatore è impegnato con il Rougarou, quell'investigatore può scegliere di proseguire con i capitoli. (Limite di una volta per fase.)",
+        "back_name": "Domare il Rougarou",
+        "back_flavor": "Quando viene messo alle strette, il Rougarou urla e attacca come una bestia inferocita. Se davvero c'è ancora un briciolo di umanità in quella creatura, è seppellita sotto una coltre di rabbia e sete di sangue provocate dalla maledizione.",
+        "back_text": "Se tutti i requisiti seguenti sono soddisfatti, <b>(→R3)</b>. Altrimenti, girate questo capitolo sul lato \"a\".\n* “Dobbiamo scoprire maggiori informazioni sulla maledizione.” Gli investigatori possiedono un totale di 4[per_investigator] indizi.\n* “Dobbiamo tenerlo sotto controllo.” Il Rougarou ha una carta [[Trappola]] assegnata ad esso.\n* “Dobbiamo difenderci.” Il Rougarou possiede 1[per_investigator] o più danni.\n* “Dobbiamo calmarlo.” Gli investigatori hanno \"trovato un'antica pietra vincolante\" oppure hanno \"trovato una bambola misteriosa\"."
+    },
+    {
+        "code": "81007",
+        "name": "Rive Maledette",
+        "text": "[action]: Subisci 1 danno. Ricevi +2 al tuo valore di abilità nella prossima prova di abilità che effettui in questo turno.\n<b>Obbligo</b> - Quando lasci le Rive Maledette: Scegli e scarta 1 carta abilità dalla tua mano.",
+        "traits": "New Orleans. Bayou.",
+        "back_flavor": "Nubi nere e tempestose incombono su chi vaga per questi luoghi, osservando pazientemente i visitatori che attraversano a fatica il bayou. Le nuvole si agitano nel cielo notturno, oscurando le stelle."
+    },
+    {
+        "code": "81008",
+        "flavor": "Una pista di sangue e carni mutilate conduce fino a qui. Questo non ha l'aria di essere un giardino qualunque.",
+        "name": "Garden District",
+        "text": "Effettua una prova di [agility](7) per cercare di irrompere in una serra vicina e dare un'occhiata in giro. Se hai successo, annota che gli investigatori hanno \"trovato una bambola misteriosa\".",
+        "traits": "New Orleans.",
+        "back_name": "New Orleans",
+        "back_flavor": "Nonostante l'ora tarda, la città è ancora piena di vita. I locali di musica jazz e i bar clandestini sono i padroni della notte, ma le indagini conducono altrove…"
+    },
+    {
+        "code": "81009",
+        "flavor": "Solo ora gli abitanti stanno cominciando a stabilirsi dove un tempo non c'era che una palude selvaggia. Tuttavia, la verità è che certi mali strisciano troppo a fondo perché possano essere esorcizzati tanto facilmente.",
+        "name": "Broadmoor",
+        "text": "[action]: <b>Abbandona.</b> “Non possiamo fare nulla per catturare la bestia!” Ti metti al sicuro, lasciando la creatura in libertà.",
+        "traits": "New Orleans.",
+        "back_name": "New Orleans",
+        "back_flavor": "Nonostante l'ora tarda, la città è ancora piena di vita. I locali di musica jazz e i bar clandestini sono i padroni della notte, ma le indagini conducono altrove…"
+    },
+    {
+        "code": "81010",
+        "name": "Acque Salmastre",
+        "text": "Finché ti trovi nelle Acque Salmastre, non puoi giocare supporti.\n[action]: Scarta 2 supporti dalla tua mano e/o dal gioco: Effettua una prova di [agility](3) per guadare le acque scure e recuperare una rete da pesca abbandonata. Se hai successo, prendi il controllo del supporto Rete da Pesca messo da parte.",
+        "traits": "Sponda del Fiume. Bayou.",
+        "back_flavor": "Il terribile tanfo di pesce morto è nauseante. Chiunque volesse attraversare queste acque poco profonde farebbe meglio a trattenere il fiato."
+    },
+    {
+        "code": "81011",
+        "flavor": "Le foglie che svolazzano, sospinte dal vento freddo, spezzano l'immobilità del parco. Il luogo sembra inspiegabilmente abbandonato: chiunque avrebbe avuto la sensazione di non essere il benvenuto.",
+        "name": "Audubon Park",
+        "text": "<b>Obbligo</b> - Quando eludi un nemico nell'Audubon Park: Scarta 1 carta casuale dalla tua mano.",
+        "traits": "Sponda del Fiume.",
+        "back_name": "Sponda del Fiume",
+        "back_flavor": "Persino a quest'ora della notte si possono sentire i suoni delle campane e le urla sui moli, mentre gli scaricatori di porto svolgono le loro attività."
+    },
+    {
+        "code": "81012",
+        "name": "Fauborg Marigny",
+        "text": "Finché ti trovi nel Faubourg Marigny, riduci di 1 il costo di ogni supporto che giochi.\n[action]: <b>Abbandona.</b> “Non possiamo fare nulla per catturare la bestia!” Ti metti al sicuro, lasciando la creatura in libertà.",
+        "traits": "Sponda del Fiume.",
+        "back_name": "Sponda del Fiume",
+        "back_flavor": "Persino a quest'ora della notte si possono sentire i suoni delle campane e le urla sui moli, mentre gli scaricatori di porto svolgono le loro attività."
+    },
+    {
+        "code": "81013",
+        "name": "Palude Dimenticata",
+        "text": "<b>Obbligo</b> - Quando lasci la Palude Dimenticata: Perdi 2 risorse.",
+        "traits": "Selva. Bayou.",
+        "back_flavor": "I fitti rampicanti e le paludose acque nere hanno un aspetto inquietante al punto da far salire il cuore in gola. Chiunque sentirebbe la mancanza delle comodità della propria casa, eppure bisogna andare avanti."
+    },
+    {
+        "code": "81014",
+        "name": "Capanno del Cacciatore",
+        "text": "Finché ti trovi nel Capanno del Cacciatore, non puoi ottenere risorse.\n[action] Spendi 5 risorse: Effettua una prova di [intellect](3) per convincere un vecchio cacciatore a venderti la sua ultima trappola per orsi. Se hai successo, prendi il controllo del supporto Trappola per Orsi messo da parte.",
+        "traits": "Selva.",
+        "back_name": "Selva",
+        "back_flavor": "Dopo ore trascorse a barcamenarsi fra la nebbia impenetrabile e la fitta vegetazione, ci si ritrova inevitabilmente con gli indumenti appiccicati addosso, a scacciare quella che sembra essere la centesima zanzara."
+    },
+    {
+        "code": "81015",
+        "flavor": "Questa zona è coperta di piante contorte sulle quali crescono delle bacche dall'aspetto inusuale. Sembrano assolutamente deliziose…",
+        "name": "Sottobosco Contorto",
+        "text": "[action]: Ottieni 2 risorse e subisci 1 orrore.",
+        "traits": "Selva.",
+        "back_name": "Selva",
+        "back_flavor": "Dopo ore trascorse a barcamenarsi fra la nebbia impenetrabile e la fitta vegetazione, ci si ritrova inevitabilmente con gli indumenti appiccicati addosso, a scacciare quella che sembra essere la centesima zanzara."
+    },
+    {
+        "code": "81016",
+        "name": "Palude Maleodorante",
+        "text": "Finché ti trovi nella Palude Maleodorante, non puoi curare né annullare orrori.\n[action] Subisci fino a 3 orrori: Effettua una prova di [willpower](7) per frugare nel cimitero di ossa. Per ogni orrore subito come parte del costo di questa capacità, ricevi +1[willpower] in questa prova. Se hai successo, annota che gli investigatori hanno “trovato un'antica pietra vincolante”.",
+        "traits": "Sconsacrato. Bayou.",
+        "back_flavor": "Questa palude putrida è pervasa da un tanfo di morte e decomposizione. É difficile immaginare da cosa possano essere abitate queste acque, tanto sono lorde di marciume e putrefazione."
+    },
+    {
+        "code": "81017",
+        "flavor": "Una macabra esibizione accoglie i visitatori che si addentrano fin nel profondo del bayou, dove dimorano la magia nera e i rituali occulti.",
+        "name": "Terreni Rituali",
+        "text": "<b>Obbligo</b> - Dopo che hai terminato il tuo turno nei Terreni Rituali: Pesca 1 carta e subisci 1 orrore.",
+        "traits": "Sconsacrato.",
+        "back_name": "Terra Sconsacrata",
+        "back_flavor": "Iä! lä! Shub-Niggurath!\nQue tous les démons volent de cet endroit!\nIl mondo è la tua preda, la tua sete di sangue non conosce fine…"
+    },
+    {
+        "code": "81018",
+        "flavor": "Questi tumuli di pietra sono stati piazzati qui secoli fa, ma nessuno ne conosce lo scopo.",
+        "name": "Tumuli Incolti",
+        "text": "[action] Spendi 2 risorse: Curati 2 orrori. (Limite di una volta per partita.)",
+        "traits": "Sconsacrato.",
+        "back_name": "Terra Sconsacrata",
+        "back_flavor": "Iä! lä! Shub-Niggurath!\nQue tous les démons volent de cet endroit!\nIl mondo è la tua preda, la tua sete di sangue non conosce fine…"
+    },
+    {
+        "code": "81019",
+        "name": "Madame Esprit",
+        "subname": "Bokor Pericolosa",
+        "text": "[action] Esaurisci Madame Esprit e infliggile 1 orrore: Curati 2 danni oppure ottieni 2 risorse. Qualsiasi investigatore nel luogo di Madame Esprit può attivare questa capacità.",
+        "traits": "Alleato. Stregone.",
+        "slot": "Ally"
+    },
+    {
+        "code": "81020",
+        "name": "Trappola per Orsi",
+        "text": "[fast]: Assegna la Trappola per Orsi al tuo luogo.\n<b>Obbligo</b> - Dopo che il Rougarou è entrato nel luogo con questo supporto: Assegnate la Trappola per Orsi al Rougarou.\nIl nemico con questo supporto riceve -1 Scontro e -1 Agilità.",
+        "traits": "Trappola."
+    },
+    {
+        "code": "81021",
+        "name": "Rete da Pesca",
+        "text": "[fast]: Se il Rougarou è esaurito e si trova nel tuo luogo: Assegna la Rete da Pesca al Rougarou. Il nemico con questo supporto perde Ritorsione.",
+        "traits": "Trappola."
+    },
+    {
+        "code": "81022",
+        "flavor": "Erano i predatori più pericolosi anche prima che la maledizione si diffondesse.",
+        "name": "Alligatore Palustre",
+        "text": "<b>Preda</b> - L'investigatore con meno [agility].\nFinché l'Alligatore Palustre si trova in un luogo [[Bayou]], riceve +2 Scontro e +2 Agilità.",
+        "traits": "Creatura."
+    },
+    {
+        "code": "81023",
+        "name": "Sanguisuga di Palude",
+        "text": "<b>Generazione</b> - Un qualsiasi luogo [[Bayou]].\nLa Sanguisuga di Palude non può essere elusa.\n<b>Obbligo</b> - Quando la Sanguisuga di Palude entra in un luogo non [[Bayou]]: Scartatela.",
+        "traits": "Creatura."
+    },
+    {
+        "code": "81024",
+        "name": "Palude Maledetta",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower](3). Se ti trovi in un luogo [[Bayou]], non puoi investire carte in questa prova di abilità. Per ogni punto di cui fallisci, subisci 1 danno.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "81025",
+        "name": "Nebbia Spettrale",
+        "text": "<b>Rivelazione</b> - Assegna la Nebbia Spettrale a un luogo [[Bayou]]. Limite di 1 per luogo.\nAumenta di 1 la difficoltà di ogni prova di abilità effettuata nel luogo con questa sventura.\n[action]: Effettua una prova di [intellect](2) per disperdere la fonte della nebbia. Se hai successo, scarta la Nebbia Spettrale.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "81026",
+        "name": "Trascinato a Fondo",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [agility](3). Se fallisci, metti in gioco Trascinato a Fondo nella tua area di minaccia.\n<b>Obbligo</b> - Quando lasci il tuo luogo attuale: Subisci 2 danni e scarta Trascinato a Fondo.\n<b>Obbligo</b> - Alla fine del tuo turno: Effettua una prova di [agility](3). Se hai successo, scarta Trascinato a Fondo.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "81027",
+        "flavor": "Nel profondo del pantano ci sono pericoli impossibili perfino da immaginare.",
+        "name": "Increspature sull'Acqua",
+        "text": "<b>Rivelazione</b> - Effettua una prova di [willpower](3).\nSe ti trovi in un luogo [[Bayou]], non puoi investire carte in questa prova di abilità. Per ogni punto di cui fallisci, subisci 1 orrore.",
+        "traits": "Terrore."
+    },
+    {
+        "code": "81028",
+        "name": "Rougarou",
+        "subname": "Anima Maledetta",
+        "text": "Sfuggente. Ritorsione.\nCome costo aggiuntivo per farti impegnare il Rougarou, gli investigatori devono spendere un totale di 1 indizio (di 2 indizi se invece ci sono 3 o 4 investigatori in gioco).\n<b>Obbligo</b> - Dopo che il Rougarou ha subito 1[per_investigator] danni durante una singola fase: Trovate il luogo più lontano da tutti gli investigatori. Muovete il Rougarou di un luogo alla volta finché non entra in quel luogo.",
+        "traits": "Mostro. Creatura. Elite."
+    },
+    {
+        "code": "81029",
+        "flavor": "Senti lo stomaco contrarsi e i primi terrificanti morsi della fame.",
+        "name": "Maledizione del Rougarou",
+        "text": "<b>Rivelazione</b> - Metti in gioco la Maledizione del Rougarou nella tua area di minaccia.\n<b>Obbligo</b> - Alla fine del tuo turno, se non hai inflitto danni in questo turno: Subisci 1 orrore.",
+        "traits": "Maledizione."
+    },
+    {
+        "code": "81030",
+        "name": "Trasformazione Mostruosa",
+        "text": "Veloce.\nRegola a 2 il tuo valore base di [willpower] e di [intellect].\nRegola a 5 il tuo valore base di [combat] e di [agility].\n[action] Esaurisci la Trasformazione Mostruosa: <b>Combatti.</b> Infliggi +1 danno in questo attacco.",
+        "traits": "Talento."
+    },
+    {
+        "code": "81031",
+        "name": "Dhole Melmoso",
+        "text": "<b>Generazione</b> - Un qualsiasi luogo non [[Bayou]].\n<b>Preda</b> - L'investigatore con meno Salute rimanente.\nCacciatore.\n<b>Obbligo</b> - Quando il Dhole Melmoso entra in un luogo: Ogni investigatore in quel luogo subisce 1 orrore.",
+        "traits": "Mostro. Dhole."
+    },
+    {
+        "code": "81032",
+        "flavor": "Uno schianto assordante accompagnato dall'eco di un ruggito fa gelare il sangue nelle vene.",
+        "name": "Gug Palustre",
+        "text": "<b>Generazione</b> - Un qualsiasi luogo [[Bayou]].\nCacciatore.",
+        "traits": "Mostro. Gug."
+    },
+    {
+        "code": "81033",
+        "name": "Cucciolo Oscuro Guardiano",
+        "text": "<b>Generazione</b> - Un qualsiasi luogo [[Bayou]].\n<b>Obbligo</b> - Quando 1 o più indizi stanno per essere collocati sul luogo del Cucciolo Oscuro Guardiano: Collocate invece quegli indizi sul Cucciolo Oscuro Guardiano.\n<b>Obbligo</b> - Quando il Cucciolo Oscuro Guardiano è sconfitto: Spostate tutti gli indizi dal Cucciolo Oscuro Guardiano al suo luogo.",
+        "traits": "Mostro. Cucciolo Oscuro."
+    },
+    {
+        "code": "81034",
+        "flavor": "Un terrificante ululato perfora i timpani. Il Rougarou è a caccia.",
+        "name": "Caccia Aperta",
+        "text": "Impulso.\n<b>Rivelazione</b> - Trova il luogo non [[Bayou]] con meno indizi. Muovi il Rougarou di un luogo alla volta finché non entra in quel luogo."
+    },
+    {
+        "code": "81035",
+        "flavor": "Spinto dalla fame, gli interessa solo il suo prossimo pasto.",
+        "name": "Bestia del Bayou",
+        "text": "<b>Rivelazione</b> - Il Rougarou attacca immediatamente ogni investigatore nel suo luogo e in ogni luogo collegato al suo. Se non effettua alcun attacco con questo effetto, colloca 1 destino sulla trama attuale."
+    },
+    {
+        "code": "81036",
+        "name": "Sete di Sangue Insaziabile",
+        "text": "<b>Rivelazione</b> - Assegna la Sete di Sangue Insaziabile al Rougarou.\nIl Rougarou riceve +1 Scontro, +1 al valore di Danno, +1 al valore di Orrore e non può essere eluso.\n<b>Obbligo</b> - Dopo che il Rougarou ha subito danni: Scartate la Sete di Sangue Insaziabile."
+    }
+]

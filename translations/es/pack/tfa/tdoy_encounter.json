@@ -1,0 +1,195 @@
+[
+    {
+        "code": "04277",
+        "name": "Las profundidades de Yoth",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es el nivel de profundidad actual.\n[tablet]: Revela otra ficha. Si fracasas, cada Enemigo [[Serpiente]] en tu Lugar o en un Lugar conectado se cura 2 puntos de daño.\n[cultist]: Revela otra ficha. Si fracasas, coloca 1 pista en tu Lugar <i>(de la reserva de fichas)</i>.\n[elder_thing]: -2. Si hay 3 o más puntos de venganza en la zona de victoria, en lugar de eso fracasas automáticamente esta prueba.\n<span style=\"font-weight: bold;text-align: center\" >Profundidad actual:</span>",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es el nivel de profundidad actual. Si fracasas, recibe 1 punto de horror.\n[tablet]: Revela otra ficha. Si fracasas, cada Enemigo [[Serpiente]] en tu Lugar o en un Lugar conectado se cura 2 puntos de daño.\n[cultist]: Revela otra ficha. Si fracasas, coloca 1 pista en tu Lugar <i>(de la reserva de fichas)</i>.\n[elder_thing]: -4. Si hay 3 o más puntos de venganza en la zona de victoria, en lugar de eso fracasas automáticamente esta prueba.\n<span style=\"font-weight: bold;text-align: center\" >Profundidad actual:</span>"
+    },
+    {
+        "code": "04278",
+        "flavor": "Lenta y cautelosamente, comenzáis el descenso hacia las cavernas de roja luz de Yoth. Todo está tranquilo, y en los túneles que os rodean sólo oís el crujir de la piedra y el sonido de vuestras pisadas.",
+        "name": "Comienza el descenso",
+        "back_name": "Ciudad de los malditos",
+        "back_flavor": "Las ruinas de las serpientes son antiguas, decrépitas y desprovistas de vida. Casi todas sus estructuras se han derrumbado, pero quedan rastros de sus grandes ciudades, junto con estatuas e ídolos de sus dioses. Este reino debió de haber sido abandonado hace mucho tiempo.",
+        "back_text": "Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad."
+    },
+    {
+        "code": "04279",
+        "flavor": "De los túneles que os rodean comienzan a surgir siseos. Ojos de serpiente os miran siniestramente desde la oscuridad mientras tratáis de evitar toparos con las criaturas que permanecen en este reino. Recorréis estrechos túneles y os ocultáis tras paredes rotas y columnas medio caídas.",
+        "name": "Descenso horrendo",
+        "back_name": "Fuente de veneno",
+        "back_flavor": "Pasáis por un claro de tierra agrietada que antaño pudo haber sido una plaza. En el centro de la misma se yerguen los restos medio derruidos de una fuente de piedra, totalmente seca. En el fondo de su pilón hay un pegote de un cieno negro de consistencia melosa.",
+        "back_text": "Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.\nComprueba tus suministros. Si un investigador tiene una cantimplora, ese investigador debe decidir:\n- <i>Esto podría ser útil</i>. Recuerda que los investigadores han \"recogido un extraño líquido\".\n- <i>No pienso acercarme a eso</i>. No sufres efectos adversos."
+    },
+    {
+        "code": "04280",
+        "flavor": "Ahora estáis convencidos de ello: estas cavernas no tienen fin. Deben de abarcar toda la capa subterránea de la Tierra. ¿Llegaréis alguna vez al Nexo? ¿Lograréis volver a casa?",
+        "name": "Cavernas sin fin",
+        "back_name": "En las profundidades de la Tierra",
+        "back_flavor": "El camino de delante está bloqueado por un repentino risco de roca. Empezáis a buscar una forma de rodearlo cuando de repente, oís siseos y chillidos a vuestra espalda, y la zona queda bañada de una ígnea luz anaranjada. Las serpientes se aproximan; ¡uno de vosotros debe trepar para ponerse a salvo y ayudar a subir a los demás!",
+        "back_text": "Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.\nEl investigador jefe elige a un investigador para que sea el explorador del grupo. Ese investigador comprueba sus suministros\nSi el explorador tiene cuerda, logra trepar fácilmente y los investigadores no sufren efectos adversos.\nSi el explorador no tiene cuerda, debe realizar una prueba de [combat] o de [agility] (5). Si el investigador que realiza la prueba fracasa, logra subir, pero sufre un trauma físico por el agotamiento de la escalada."
+    },
+    {
+        "code": "04281",
+        "flavor": "Las cavernas han dejado de estar en silencio. Los gritos airados y el cascabeleo de las serpientes os rodean por todas partes, apremiándoos a seguir adelante. El antinatural brillo rojo de la caverna se vuelve más intenso. Bajo esta luz roja, las ciudades de Yoth adoptan otro aspecto: ya no son una fuerte de conocimientos ocultos, sino un lugar de animadversión molesto por vuestra presencia.",
+        "name": "Ciudad de sangre",
+        "back_name": "La persecución del durmiente",
+        "back_flavor": "El estridente ruido de cascabeles de serpientes surge de pronto por toda la caverna. Habéis entrado en un territorio en el que la humanidad nunca debía entrar. La ensordecedora alarma os perfora los tímpanos y hace que os sangren los oídos. Vuestros sentidos están abrumados, y os cubrís las orejas en vano. No podéis oír vuestros propios pensamientos. Finalmente, la advertencia acaba, y os queda el incontrolable impulso de huir. Sin embargo, sabéis que si huis ahora, vuestras acciones pondrían en peligro a toda la humanidad. Valerosa o neciamente, seguís adelante.",
+        "back_text": "Si el heraldo de Valusia está puesto aparte, muévelo a la zona de persecución.\nBusca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad."
+    },
+    {
+        "code": "04282",
+        "flavor": "Las serpientes han despertado algo mucho más grande y letal que nada contra lo que os hayáis enfrentado en este viaje. Pálidos, sudorosos y aterrados, os apresuráis a buscar una salida… cualquier salida.",
+        "name": "Una furia que hace temblar la Tierra",
+        "text": "<b>Obligado</b> - Después de que se coloque la tercera ficha de Perdición sobre este plan: Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.",
+        "back_name": "Yig emerge",
+        "back_text": "Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.\n<hr><b>Si Yig está puesto aparte:</b><blockquote><i>El suelo tiembla con cada paso que da la descomunal criatura. Aplasta la piedra bajo sus poderosos pies, atravesando las paredes con sus escamosas garras. Clava en vosotros sus ojos llenos de odio, desencajando la mandíbula en una cruel demostración de hambre.</i></blockquote>\nHaz aparecer a Yig en el Lugar que los investigadores comenzaron en este nivel de profundidad."
+    },
+    {
+        "code": "04283",
+        "flavor": "Cuanto mayor es la profundidad de vuestro descenso, más brillante y penetrante se vuelve el brillo rojo de las cavernas. Si no supierais que no es así, pensaríais que estáis bajando a las mismísimas profundidades del infierno.",
+        "name": "Las profundidades rojas",
+        "text": "<b>Obligado</b> - Después de que se coloque cualquier cantidad de perdición sobre este plan: Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.",
+        "back_name": "El mordisco final de las serpientes",
+        "back_flavor": "Nada puede detener a los ciudadanos de Yoth. Brotan de lugares ocultos por todas partes, siseando siniestras maldiciones. Las cuevas están sumidas en el caos, y las serpientes se aproximan.",
+        "back_text": "Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.\nHasta el final del escenario, el plan en curso obtiene:\"<b>Obligado</b> - Después de que se coloque cualquier cantidad de perdición sobre el plan en curso: Busca el Enemigo que esté en persecución y tenga el mayor valor de evitar y haz que aparezca en el Lugar en el que los investigadores comenzaron en este nivel de profundidad.\".\nColoca esta carta en la zona de persecución con este lado boca arriba como recordatorio."
+    },
+    {
+        "code": "04284",
+        "flavor": "Nunca deberíais haber venido aquí.",
+        "name": "VENGANZA",
+        "text": "<b>Obligado</b> - Al final del paso \"Comprobar el umbral de perdición\" de la fase de mitos: Siguiendo el orden de juego, los investigadores deben robar 1 carta de Encuentro adicional por cada ficha de Perdición que haya en juego.\n<b>Objetivo</b> - Si todos los investigadores son derrotados, haz avanzar el plan.",
+        "back_name": "El abismo",
+        "back_flavor": "Las serpientes os persiguen incesantemente por los túneles y ciudades en ruinas de Yoth, sin daros cuartel, sin descanso, sin posibilidad de escapar. No tenéis ninguna esperanza de esconderos ante sus agudos sentidos, ni podéis seguir corriendo mucho más tiempo. Desesperados por encontrar un modo de eludirlos, el que sea, corréis hacia un abismo cercano. Un estrecho puente cruza el vacío. Bajo él, un negro abismo sin fondo devora la roja luz de Yoth.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "04285",
+        "flavor": "La duda y el horror crecieron en mí mientras continuaba el descenso por la escalera, que parecía no tener fin. ¿La cosa no se detendría nunca?\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Viaje hacia el nexo",
+        "text": "[action] Si no hay pistas en tu Lugar: <b>Explorar.</b> Roba la primera carta del mazo de Exploración. Si es un Lugar conectado, ponlo en juego y muévete a él.\n<b>Objetivo</b> - Al final de la ronda, si los investigadores que estén en los Escalones de Yoth poseen la cantidad necesaria de pistas, pueden hacer avanzar el acto. <i>Cuidado: cualquier investigador que no esté en los Escalones de Yoth será derrotado.</i>",
+        "back_name": "Un nivel más",
+        "back_text": "Añade 1 recurso al nivel de profundidad actual. Si el nivel de profundidad actual es 5 o más y estás jugando en modo campaña, pasa a <b>(→R2)</b>.\nSi no es así, realiza los siguientes pasos:\n-Cada investigador que no esté en los Escalones de Yoth se queda atrás y es derrotado. Cada investigador superviviente pierde todas sus pistas.\nMueve todos los Enemigos en juego a la zona de persecución.\nRetira toda la perdición de los Lugares en juego. Pon aparte todos los Lugares en juego y del mazo de Exploración, fuera del juego. Los investigadores no quedan derrotados durante este proceso.\nRoba un Lugar puesto aparte aleatorio que no sean los Escalones de Yoth, ponlo en juego y coloca todos los investigadores supervivientes en ese Lugar.\nCrea un nuevo mazo de Exploración formad por los Escalones de Yoth y otros 4 Lugares puestos aparte aleatorios. Baraja el mazo de Exploración.\nVuelve a darle la vuelta a este acto. Llega tan abajo como puedas…"
+    },
+    {
+        "code": "04286",
+        "flavor": "Un sinuoso pasadizo cruza el abismo y lleva a unos estrechos y empinados escalones bañados por el rojo de las profundidades.",
+        "name": "Escalones de Yoth",
+        "text": "[reaction] Al añadir recursos al nivel de profundidad actual, si los investigadores que están en los Escalones de Yoth poseen, como grupo, 5 pistas [per_investigator], un investigador que esté en los escalones de Yoth tacha la cuerda de sus suministros: Añade 1 recurso adicional al nivel de profundidad actual. Máximo de una vez por partida.",
+        "traits": "Antiguo. Olvidado. Yoth."
+    },
+    {
+        "code": "04287",
+        "flavor": "Todo esto se conocía por los contados manuscritos y grabados hallados en las cámaras de Zin, bajo la enorme ciudad en ruinas de Yoth.\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Ciudad de las serpientes",
+        "text": "Mientras la Ciudad de las serpientes no tenga pistas, se considera como si estuviera en la zona de victoria (a efectos de contar la venganza).",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04288",
+        "flavor": "Se había construido a imitación de ciertos templos representados en las cámaras de Zin, para albergar un terrible ídolo-sapo negro…\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Salón de la herejía",
+        "text": "Mientras haya un investigador en el Salón de la herejía, éste se considera como si estuviera en la zona de victoria (a efectos de contar la venganza).",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04289",
+        "flavor": "Un paso en falso…",
+        "name": "Precipicio derruido",
+        "text": "<b>Obligado</b> - Cuando intentes explorar mientras estás en el Precipicio derruido: Realiza una prueba de [willpower] (4). Si fracasas, realiza una prueba de [agility] (3). Si fracasas, realiza una prueba de [combat] (2). Si fracasas, te precipitas y mueres. <i>Si tienes éxito en cualquiera de estas pruebas, exploras de forma normal.</i>",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04290",
+        "flavor": "Ella, o su principal elemento ancestral, se encontraron por primera vez en estado salvaje entre las ciclópeas ruinas del desierto mundo de Yoth, bañado por una luz roja y cuya ubicación se encontraba bajo un mundo bañado de luz azul de K’n-yan.\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Cavernas de Yoth",
+        "text": "<b>Obligado</b> - Después de que las Cavernas de Yoth entren en juego: Coloca sobre ellas una cantidad de pistas igual al nivel de profundidad actual.",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04291",
+        "name": "Cambio bifurcado",
+        "text": "<b>Obligado</b> - Cuando explores mientras estés en el Camino bifurcado, comprueba tus suministros. Si tienes un mapa: Sigue robando cartas del mazo de Exploración hasta que hayas robado 2 Lugares conectados si es posible. Pon ambos Lugares en juego y elige 1 para moverte a él.",
+        "traits": "Antiguo. Cueva. Yoth."
+	},
+    {
+        "code": "04292",
+        "flavor": "Otra cosa que ponía en peligro el estatus de Zamacona en Tsath era su persistente curiosidad en cuanto el abismo definitivo de N’kai, bajo el mundo bañado de luz roja de Yoth…\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Puente sobre N'kai",
+        "text": "El Puente sobre N'kai recibe +1 a verlo por cada punto de venganza que haya en la zona de victoria.",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04293",
+        "flavor": "Los accesos subterráneos a K’n-yan, o los que se recordaban, estaban bien bloqueados o celosamente guardados, y todos los que trataban de traspasarlos se consideraban como peligrosos espías y enemigos.\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Pasadizo roto",
+        "text": "<b>Obligado</b> - Cuando explores mientras estés en el Pasadizo roto, comprueba tus suministros. Si no tienes un pico. Coloca 1 ficha de Perdición sobre el Pasadizo roto.",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04294",
+        "flavor": "Anteriormente, varias razas de ellos habían habitado todo el mundo subterráneo, que se extendía hasta insondables abismos y que, además de la región bañada de luz azul, incluía una región bañada de luz roja llamada Yoth, en la que los arqueólogos encontraron reliquias de una raza aún más antigua y no humana.\n– H. P. Lovecraft y Zealia Bishop, <u>El túmulo</u>",
+        "name": "Lugar abandonado",
+        "text": "X es e nivel de profundidad actual.",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04295",
+        "name": "Cañon brillante",
+        "text": "<b>Obligado</b> - Después de que entres en el Cañón brillante, si estás envenenado: Recibe 1 punto de daño.\n[action]: Comprueba tus suministros. Si tienes prismáticos, descubre 2 pistas en el Cañón brillante. Límite de grupo de una vez por cada nivel de profundidad.",
+        "traits": "Antiguo. Cueva. Yoth."
+    },
+    {
+        "code": "04296",
+        "name": "Yig",
+        "subname": "El Padre de las Serpientes",
+        "text": "Cazador. Descomunal.<br/>Yig recibe +6 de salud [per_investigator] health.\nYig no puede ser dañado mientras haya otro Enemigo [[Serpiente]] preparado en su Lugar.\nCada uno de los demás Enemigos [[Serpiente]] que estén en el Lugar de Yig obtiene Alerta y Represalia.",
+        "traits": "Primigenio. Serpiente. Élite."
+    },
+    {
+        "code": "04297",
+        "name": "Guardián del foso",
+        "text": "<b>Aparición</b> - Si Yig está en juego, haz aparecer el Guardián del foso en el Lugar de Yig. Si no es asi, coloca el Guardián del foso en la zona de persecución.\nCazador.",
+        "traits": "Humanoide. Monstruo. Serpiente."
+    },
+    {
+        "code": "04298",
+        "name": "Devorador de las profundidades",
+        "text": "<b>Aparición</b> - Pon en juego un Lugar puesto aparte aleatorio y haz aparecer el Devorador de las profundidades allí.\nCazador. Descomunal.\nX es el nivel de profundidad actual.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "04299",
+        "name": "Hijos de Valusia",
+        "text": "<b>Revelación</b> - Pon los Hijos de Valusia en juego junto al mazo de plan.\nCada Enemigo [[Serpiente]] recibe +1 a combate y +1 a evitar.\n<b>Obligado</b> - Al final de la ronda: Descarta 1 copia de los Hijos de Valusia del juego. Máximo de una vez por ronda.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "04300",
+        "flavor": "Hay algo en el negro reino de más abajo. Algo encerrado. Algo peor que todo lo que has visto hasta ahora, algo que llena de terror desatado incluso a las criaturas serpiente.",
+        "name": "Sombra sin luz",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (1). Esta prueba recibe +X a su dificultad, donde  X es el nivel de profundidad actual. Si fracasas, recibe 2 puntos de daño.",
+        "traits": "Terror."
+    },
+    {
+        "code": "04301",
+        "flavor": "Aún quedan muchas cosas en la Tierra que no entendemos. Podemos dar gracias por ello.",
+        "name": "Batofobia",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (1). Esta prueba recibe +X a la dificultad, donde X es el nivel de profundidad actual. Si fracasas, recibe 2 puntos de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "04302",
+        "name": "Cólera de las serpientes",
+        "text": "<b>Revelación</b> - Si no hay Enemigos [[Serpiente]] en persecución, Cólera de las serpientes obtiene Oleada. Si no es así, busca el Enemigo [[Serpiente]] en persecución que tenga el mayor valor de combate y haz que aparezca enfrentado a ti. Si se hace aparecer un Enemigo por este efecto, realiza una prueba de [agility] (X), donde X es el valor de combate de ese Enemigo. Si fracasas, ese Enemigo te ataca inmediatamente.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "04303",
+        "flavor": "Tras pasar tanto tiempo con la reliquia y descubrir más sobre sus creadores, ahora entiendes por qué se creó. La perdición de la Gran Raza de Yith estaba escrita en el tiempo… pero podía ser sorteada.",
+        "name": "Reliquia de las eras",
+        "subname": "Recuperar el pasado",
+        "text": "[free] Agota la Reliquia de las eras: Realiza una prueba de [willpower] o de [intellect] (4). Si tienes éxito, retira 1 ficha de Perdición de cualquier carta en juego. Máximo de un éxito por partida.",
+        "traits": "Objeto. Reliquia."
+    }
+]

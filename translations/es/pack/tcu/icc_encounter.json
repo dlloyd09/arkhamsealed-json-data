@@ -1,0 +1,222 @@
+[
+    {
+        "code": "05284",
+        "name": "En las garras del caos",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la cantidad total de fichas de Perdición y brechas que haya en tu Lugar.\n[cultist]: Revela otra ficha. Si hay menos de 3 brechas en tu Lugar, coloca 1 brecha en tu Lugar.\n[tablet]: -2. Por cada punto que te falte para tener éxito, retira 1 brecha del acto en curso.\n[elder_thing]: -3. Si fracasas, coloca 1 brecha sobre un Lugar aleatorio.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es 1 más que la cantidad total de fichas de Perdición y brechas que haya en tu Lugar.\n[cultist]: Revela otra ficha. Si hay menos de 3 brechas en tu Lugar, coloca 1 brecha en tu Lugar.\n[tablet]: -3. Por cada punto que te falte para tener éxito, retira 1 brecha del acto en curso.\n[elder_thing]: -4. Si fracasas, coloca 1 brecha sobre un Lugar aleatorio."
+    },
+    {
+        "code": "05285",
+        "name": "El Carro · VII",
+        "text": "<b>Obligado</b> - Cuando fuese a colocarse perdición sobre este plan: En lugar de eso, coloca 1 brecha sobre una cantidad de Lugares aleatorios distintos igual al número de investigadores más 1.\n<b>Obligado</b> - Cuando fuese a colocarse una brecha sobre un Lugar que tenga 3 brechas. En lugar de eso, resuelve una <b>incursión</b> en ese Lugar.",
+        "flavor": "LA CONQUISTA HA EMPEZADO.\nTODOS TEMBLARÁN ANTE LA HUESTE DEL CAOS.\nRÍNDETE O MUERE.",
+        "back_name": "El ensalmo final",
+        "back_text": "Comprueba el registro de campaña.\n- Si <i>Anette Mason está poseída por el mal</i>, <b>(→R3)</b>.\n- Si <i>Carl Sanford posee los secretos del universo</i>, <b>(→R4)</b>.",
+        "back_flavor": "Las estrellas desaparecen del cielo nocturno cuando las fauces del vacío se tragan el horizonte. El apagado ritmo de unos tambores enloquecedores y el agudo gemido de flautas sobrenaturales flota en el vacío."
+    },
+    {
+        "code": "05286a",
+        "name": "Conocimiento oscuro (v. I)",
+        "text": "[free] Retira 3 brechas de este acto: Coloca 1 pista sobre un Lugar aleatorio.\n<b>Objetivo</b> - Cuando los investigadores hayan reunido la cantidad necesaria de pistas, deben gastarlas inmediatamente y hacer avanzar el acto. Cuando este acto avance, mueve al siguiente acto todas las brechas que haya sobre él.",
+        "flavor": "El estado de la ciudad sigue empeorando. Las brechas en la realidad han comenzado a desgarrar el tejido de la Tierra, y una tenue melodía de flautas disonantes se escucha por las calles."
+    },
+    {
+        "code": "05286b",
+        "name": "Anette Mason",
+        "subname": "Mal reencarnado",
+        "text": "<b>Aparición</b> - Colina del Ahorcado.\nAlerta. Cazador.\nAnette Mason recibe -2 de salud por cada pista controlada por un investigador.\n<b>Obligado</b> - Después de que se coloquen 1 o más brechas sobre el Lugar de Anette Mason: Cada investigador debe recibir 1 punto de daño o 1 punto de horror.",
+        "traits": "Humanoide. Bruja. Servidor. Élite."
+    },
+    {
+        "code": "05287",
+        "name": "Más allá de la tumba",
+        "text": "[free] Retira 3 brechas de este acto: Coloca 1 pista sobre un Lugar aleatorio.\n<b>Objetivo</b> - Si Anette Mason es derrotada, haz avanzar el acto.",
+        "flavor": "Esta pesadilla no acabará hasta que detengáis a su instigadora: Anette Mason y el espíritu que la posee. El mundo se está haciendo pedazos a vuestro alrededor, y el aquelarre está acelerando el fin.",
+        "back_name": "Los vivos y los muertos",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "De alguna forma y pese a todo lo que teníais en contra, habéis logrado derrotar al espíritu que atormenta a Anette Mason. La mujer se desmaya y cae al suelo, pero la resucitada que hay en su interior la obliga a abrir los ojos y mueve su cuerpo como una marioneta de forma espeluznante.\n-¡Necios! -brama la voz ronca e incorpórea de Keziah a través de los labios de Anette mientras se levanta-. No sois más que insectos. He visto la verdad. He visto el rostro del propio Caos, y pronto seréis parte de él. Vamos, venid o uníos a mí; ¡arrodillaos ante el trono negro y sed uno con el universo!\nOs estremecéis cuando esas palabras llegan a vuestros oídos. Nada de lo que dice tiene sentido para vosotros, pero veis que sus intenciones son siniestras y malvadas.\n-Deja este lugar -logra decir uno de vosotros tras reunir la suficiente fuerza de voluntad-. Vuelve al más allá del que te invocaron y no regreses nunca."
+    },
+    {
+        "code": "05288a",
+        "name": "Conocimiento oscuro (v. II)",
+        "text": "[free] Retira 3 brechas de este acto: Coloca 1 pista sobre un Lugar aleatorio.\n<b>Objetivo</b> - Cuando los investigadores hayan reunido la cantidad necesaria de pistas, deben gastarlas inmediatamente y hacer avanzar el acto. Cuando este acto avance, mueve al siguiente acto todas las brechas que haya sobre él.",
+        "flavor": "El estado de la ciudad sigue empeorando. Las brechas en la realidad han comenzado a desgarrar el tejido de la Tierra, y una tenue melodía de flautas disonantes se escucha por las calles."
+    },
+    {
+        "code": "05288b",
+        "name": "Carl Sanford",
+        "subname": "Fanático inmortal",
+        "text": "<b>Aparición</b> - Logia del Crepúsculo de Plata.\nCazador. Represalia.\nCarl Sanford recibe -2 de salud por cada pista controlada por un investigador.\n<b>Obligado</b> - Después de que se retiren cualquier número de brechas del acto en curso: Coloca 1 de ellas en el Lugar de Carl Sanford.",
+        "traits": "Humanoide. Crepúsculo de plata. Élite."
+    },
+    {
+        "code": "05289",
+        "name": "Nuevo orden mundial",
+        "text": "[free] Retira 3 brechas de este acto: Coloca 1 pista sobre un Lugar aleatorio.\n<b>Objetivo</b> - Si Carl Sanford es derrotado, haz avanzar el acto.",
+        "flavor": "Esta pesadilla no acabará hasta que derrootéis a sus instigadores: Carl Sanford y la Orden del Crepúsculo de Plata. Pese a que el mundo se está haciendo pedazos a vuestro alrededor, la secta parece empeñada en seguir con su plan hasta el amargo final.",
+        "back_name": "De dioses y mortales",
+        "back_text": "<b>(→R2)</b>",
+        "back_flavor": "Mediante la fuerza y el ingenio, habéis logrado derrotar a Carl Sanford en su propio juego. El poder que estaba manipulando recorre su cuerpo de forma dolorosa. -Imbéciles -escupe-, ¿qué pensáis que habéis logrado? Podríamos haber sido inmortales. ¿No lo entendéis? ¡Podríamos haber sido dioses!\nLe cuesta mantenerse en pie, pues su fuerza se desvanece a medida que pierde el control sobre su poder.\n- ¿A qué coste? -contestáis mientras miráis lo que tenéis delante-. Nos habrías convertido en esclavos, no en dioses. Esclavos de tu codicia y del poder de la Orden. Más vale seguir siendo mortales que sometidos a ti.\n-Entonces moriremos todos -responde Carl amargamente-. Podríamos haber sido celestiales. En lugar de eso, nos extinguiremos. Espero que estéis satisfechos."
+    },
+    {
+        "code": "05290",
+        "name": "French Hill",
+        "text": "[action] Elige y descarta una carta de tu mano: Mueve 1 brecha de French Hill al acto en curso, +1 brecha adicional por cada icono [willpower] que haya sobre esa carta.",
+        "back_flavor": "French Hill es uno de los barrios más ricos e históricos de Arkham, y sus muchas mansiones y fincas albergan muchas viejas fortunas… y muchos más secretos.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05291",
+        "name": "French Hill",
+        "text": "[action]: Realiza una prueba de [willpower] (2). Por cada punto que tengas por encima del valor mínimo de éxito, mueve 1 brecha de French Hill al acto en curso.",
+        "back_flavor": "French Hill es uno de los barrios más ricos e históricos de Arkham, y sus muchas mansiones y fincas albergan muchas viejas fortunas… y muchos más secretos.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05292",
+        "name": "Barrio Fluvial",
+        "text": "[action] Elige y descarta una carta de tu mano: Mueve 1 brecha del Barrio Fluvial al acto en curso, +1 brecha adicional por cada icono [intellect] que haya sobre esa carta.",
+        "back_flavor": "Durante las últimas semanas, los almacenes y muelles del Barrio Fluvial se han visto envueltos por la niebla gris, haciendo que un distrito ya de por sí tranquilo parezca aún más vacío y desolado.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05293",
+        "name": "Barrio Fluvial",
+        "text": "[action]: Realiza una prueba de [intellect] (2). Por cada punto que tengas por encima del valor mínimo de éxito, mueve 1 brecha del Barrio Fluvial al acto en curso.",
+        "back_flavor": "Durante las últimas semanas, los almacenes y muelles del Barrio Fluvial se han visto envueltos por la niebla gris, haciendo que un distrito ya de por sí tranquilo parezca aún más vacío y desolado.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05294",
+        "name": "Barrio Sur",
+        "text": "[free]: Descarta las 3 primeras cartas del mazo de Encuentros y mueve 1 brecha del Barrio Sur al acto en curso. Elige una Traición [[Poder]] descartada por este efecto y resuelve su capacidad Revelación si es posible.",
+        "back_flavor": "Si no supierais que no es así, pensaríais que el Barrio Sur es una ciudad fantasma. Todos los residentes se han refugiado en sus casas, encerrándose a cal y canto. La única luz que veis parece venir de la iglesia católica que hay al sur.",
+        "traits": "Arkham. Central."
+    },
+    {
+        "code": "05295",
+        "name": "Barrio Sur",
+        "text": "[free] Elige y descarta cualquier número de cartas de tu mano: Por cada carta descartada de este modo, mueve 1 brecha del Barrio Sur al acto en curso.",
+        "back_flavor": "Si no supierais que no es así, pensaríais que el Barrio Sur es una ciudad fantasma. Todos los residentes se han refugiado en sus casas, encerrándose a cal y canto. La única luz que veis parece venir de la iglesia católica que hay al sur.",
+        "traits": "Arkham. Central."
+    },
+    {
+        "code": "05296",
+        "name": "Periferia",
+        "text": "[action] Elige y descarta una carta de tu mano: Mueve 1 brecha de la Periferia al acto en curso, +1 brecha adicional por cada icono [agility] que haya sobre esa carta.",
+        "back_flavor": "Aunque suele ser un barrio seguro, las calles adoquinadas de la Periferia tienen un ambiente muy distinto esta noche. Volutas de niebla salen del bosque que bordea la ciudad, extendiéndose sobre el arroyo del Ahorcado y reptando por las calles.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05297",
+        "name": "Periferia",
+        "text": "[action]: Realiza una prueba de [agility] (2).  Por cada punto que tengas por encima del valor mínimo de éxito, mueve 1 brecha de la Periferia al acto en curso.",
+        "back_flavor": "Aunque suele ser un barrio seguro, las calles adoquinadas de la Periferia tienen un ambiente muy distinto esta noche. Volutas de niebla salen del bosque que bordea la ciudad, extendiéndose sobre el arroyo del Ahorcado y reptando por las calles.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05298",
+        "name": "Iglesia del sur",
+        "text": "[action]: Roba la primera carta del mazo de Encuentros. A continuación, mueve todas las brechas de la Iglesia del sur al acto en curso.\n[action]: <b>Desistir.</b> Te escondes para pasar la noche.",
+        "flavor": "Hay muchos ciudadanos temerosos sentados en los bancos de madera de la iglesia, rezando y susurrando entre ellos.",
+        "back_flavor": "El enorme edificio de estilo románico se alza sobre el resto de la Periferia, y se ve luz a través de sus vidrieras. El padre Michael siempre tiene la iglesia abierta a todas horas, y esta noche no es una excepción pese a los extraños sucesos que plagan la ciudad.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05299",
+        "name": "Iglesia del sur",
+        "text": "[action] Descarta del juego un Apoyo que controles: Mueve todas las brechas de la Iglesia del sur al acto en curso.\n[action]: <b>Desistir.</b> Te escondes para pasar la noche.",
+        "flavor": "Hay muchos ciudadanos temerosos sentados en los bancos de madera de la iglesia, rezando y susurrando entre ellos.",
+        "back_flavor": "El enorme edificio de estilo románico se alza sobre el resto de la Periferia, y se ve luz a través de sus vidrieras. El padre Michael siempre tiene la iglesia abierta a todas horas, y esta noche no es una excepción pese a los extraños sucesos que plagan la ciudad.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05300",
+        "name": "Distrito comercial",
+        "text": "[action] Descarta las 5, 10, o 15 cartas de tu mazo: Por cada 5 cartas descartadas de esta manera, mueve 1 brecha del Distrito comercial al acto en curso. Roba todas las Debilidades descartadas de este modo.",
+        "back_flavor": "El Distrito comercial es el centro mercantil de Arkham y suele tener mucha actividad a cualquier hora. Pero esta noche, los estibadores y marineros se han esfumado, dejándoos con una sensación de inquietud. La niebla que hay sobre las oscuras aguas del río Miskatonic parece adoptar formas antinaturales mientras la observáis desde lejos.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05301",
+        "name": "Distrito comercial",
+        "text": "[free] Gasta 2 recursos: Mueve 1 brecha del Distrito comercial al acto en curso.",
+        "back_flavor": "El Distrito comercial es el centro mercantil de Arkham y suele tener mucha actividad a cualquier hora. Pero esta noche, los estibadores y marineros se han esfumado, dejándoos con una sensación de inquietud. La niebla que hay sobre las oscuras aguas del río Miskatonic parece adoptar formas antinaturales mientras la observáis desde lejos.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05302",
+        "name": "Colina del Ahorcado",
+        "subname": "Donde todo acaba",
+        "text": "[action]: Busca en el mazo y la pila de descartes de Encuentros un Enemigo [[Bruja]] y róbalo. A continuación, mueve todas las brechas de la Colina del Ahorcado al acto en curso. Baraja el mazo de Encuentros.",
+        "back_flavor": "Al acercaros una vez más a la Colina del Ahorcado, un torrente de espíritus asciende hacia el cielo desde el cementerio que hay en ella. Los espíritus aúllan de tormento mientras rodean la ciudad, y sus gritos se convierten en una música propia.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05303",
+        "name": "Logia del Crepúsculo de Plata",
+        "subname": "Envuelta en misterio",
+        "text": "[free] Recibe 1 punto de horror: Mueve 1 brecha de la Logia del Crepúsculo de Plata al acto en curso.",
+        "back_flavor": "Al acercaros a la mansión de la Logia una vez más, la encontráis oscura y vacía. Parece que sus miembros siguen tratando de pasar desapercibidos, al menos por el momento.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05304",
+        "name": "Colina del Ahorcado",
+        "subname": "Envuelta en misterio",
+        "text": "[free] Recibe 1 punto de daño: Mueve 1 brecha de la Colina del Ahorcado al acto en curso.",
+        "back_flavor": "Al acercaros a la Colina del Ahorcado una vez más, la encontráis desprovista de toda actividad, ya sea de los vivos o de otra cosa. Parece que el aquelarre ha dejado este lugar, al menos por el momento.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05305",
+        "name": "Logia del Crepúsculo de Plata",
+        "subname": "Donde todo acaba",
+        "text": "[action]: Busca en el mazo y la pila de descartes de Encuentros un Enemigo[[Crepúsculo de plata]] y róbalo. A continuación, mueve todas las brechas de la Logia del Crepúsculo de Plata al acto en curso. Baraja el mazo de Encuentros.",
+        "back_flavor": "Al acercaros a la mansión de la Logia una vez más, veis brillar la luz tras sus ventanas. Oís un tenue cántico que viene del exterior.",
+        "traits": "Arkham."
+    },
+    {
+        "code": "05306",
+        "name": "Caos manifiesto",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Coloca 1 brecha sobre X Lugares aleatorios distintos, donde X es la cantidad de puntos que te faltaron para tener éxito.",
+        "flavor": "Contemplas el rostro del verdadero caos. Todo lo que has conocido… Todo lo que has amado… Todo es insignificante en comparación.",
+        "traits": "Poder."
+    },
+    {
+        "code": "05307",
+        "name": "Portal primordial",
+        "text": "<b>Revelación</b> - Vincula esta carta a un Lugar aleatorio. Coloca brechas sobre el Lugar vinculado hasta que haya exactamente 3 brechas sobre él.\nConsidera el cuadro de texto de reglas impreso del Lugar vinculado como si estuviera en blanco (excepto los [[Rasgos]]).\n[action]: Realiza una prueba de [intellect] o de [willpower] (4) para cerrar el portal. Si tienes éxito, descarta el Portal primordial.",
+        "traits": "Poder."
+    },
+    {
+        "code": "05308",
+        "name": "Terror desatado",
+        "text": "<b>Revelación</b> - Si no hay brecha en tu Lugar, coloca 1 brecha sobre tu Lugar. Debes recibir X puntos de daño u horror, divididos como quieras. X es la cantidad total de perdición y brechas que hay en tu Lugar.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "05309",
+        "name": "Sicario de la Logia",
+        "text": "<b>Aparición</b> - Más brechas (o Logia del Crepúsculo de Plata si no hay Lugares en juego que tengan brechas).\nRepresalia.\nConsidera el cuadro de texto de reglas impreso del Lugar del Sicario de la Logia como si estuviera en blanco (excepto los [[Rasgos]]).",
+        "traits": "Humanoide. Sectario. Crepúsculo de Plata."
+    },
+    {
+        "code": "05310",
+        "name": "Secretos del más allá",
+        "text": "<b>Revelación</b> - Busca un Enemigo [[Sectario]] en juego con más perdición. Por cada ficha de Perdición que tenga ese Enemigo, coloca 1 brecha en el Lugar de ese Enemigo. Si no se colocaron brechas por este efecto. Secretos del más allá obtiene Oleada.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "05311",
+        "name": "Testigo del Caos",
+        "text": "<b>Aparición</b> - Menos brechas.\nCazador.\n<b>Obligado</b> - Después de que la Testigo del Caos entre en un Lugar: Coloca 1 brecha sobre ese Lugar.",
+        "traits": "Humanoide. Bruja."
+    },
+    {
+        "code": "05312",
+        "name": "Trabajo y afán",
+        "text": "Peligro.\n<b>Revelación</b> - Debes (elige una opción):\n- Resolver la capacidad Revelación de la primera Traición [[Poder]] de la pila de descartes de Encuentros.\n- Resolver una <b>incursión</b> en tu Lugar.",
+        "traits": "Maleficio."
+    }
+]

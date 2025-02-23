@@ -1,0 +1,482 @@
+[
+    {
+        "code": "07041",
+        "name": "El pozo de la desesperación",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -2 si tu Lugar está parcialmente inundado; o bien -3 si tu Lugar está totalmente inundado.\n[cultist]: -2. Si fracasas y tu Lugar está inundado, recibe 1 punto de daño.\n[tablet]: -2. Si fracasas y controlas una llave, recibe 1 punto de horror.\n[elder_thing]: -3. Si fracasas y La amalgama está en las profundidades, ponla en juego enfrentada a ti.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -3 si tu Lugar está parcialmente inundado; o bien -4 si tu Lugar está totalmente inundado.\n[cultist]: -2. Si tu Lugar está inundado, recibe 1 punto de daño.\n[tablet]: -2. Si controlas una llave, recibe 1 punto de horror.\n[elder_thing]: -3. Si La amalgama está en las profundidades, ponla en juego enfrentada a ti."
+    },
+    {
+        "code": "07042",
+        "name": "Despertar",
+        "text": "<b>Obligado</b> - Cuando comience tu turno, si estás en un Lugar completamente inundado, tratas de conseguir aire: Cuando termine tu turno, si no has entrado en un Lugar sin inundar o parcialmente inundado durante tu turno, recibe 5 puntos de daño directo.",
+        "flavor": "Hay un salmón muerto en el suelo, y su escamosa piel apenas está empezando a pudrirse. Las algas que ves y el agua que gotea de las paredes te dicen que esta caverna estuvo sumergida no hace mucho. ¿Cuánto tiempo tienes antes de que llegue la marea alta?",
+        "back_name": "Comienza la inundación",
+        "back_text": "Aumenta el nivel de todos los Lugares revelados.\nHasta el final de la partida, cada vez que un Lugar sea revelado, aumenta su nivel de inundación.\nDeja esta carta junto al mazo de Acto como recordatorio y haz avanzar el plan al plan 2a.",
+        "back_flavor": "Tus peores miedos se están haciendo realidad. Los charcos de agua que apenas te llegaban a los tobillos están creciendo y juntándose. Te afanas por encontrar un terreno elevado, pero tu esfuerzo es en vano. En cuestión de minutos, el nivel del agua ha llegado hasta tus rodillas y no parece que vaya a parar."
+    },
+    {
+        "code": "07043",
+        "name": "El agua sube",
+        "text": "<b>Obligado</b> - Cuando comience tu turno, si estás en un Lugar completamente inundado, tratas de conseguir aire: Cuando termine tu turno, si no has entrado en un Lugar sin inundar o parcialmente inundado durante tu turno, recibe 5 puntos de daño directo.",
+        "flavor": "Cada movimiento que realizas va acompañado del fuerte ruido del agua que desplazas a tu alrededor. Si la marea sigue subiendo, la caverna quedará totalmente sumergida en cuestión de horas.",
+        "back_name": "Marea alta",
+        "back_text": "Todos los Lugares revelados quedan totalmente inundados.\nHasta el final de la partida, cada vez que un Lugar sea revelado, se inunda totalmente.\nDeja esta carta junto al mazo de Acto como recordatorio (sustituyendo el plan 1b) y haz avanzar el plan al plan 2a.",
+        "back_flavor": "Entras en pánico mientras el agua sigue subiendo en el interior de la caverna. En poco tiempo, estás nadando en lugar de andando por el suelo de la caverna inundada. Muchos de los túneles están totalmente sumergidos. Si no te das prisa en salir de aquí, no habrá ningún lugar seguro en el que recuperar el aliento."
+    },
+    {
+        "code": "07044",
+        "name": "Sacrificio para las profundidades",
+        "text": "<b>Obligado</b> - Cuando comience tu turno, si estás en un Lugar completamente inundado, tratas de conseguir aire: Cuando termine tu turno, si no has entrado en un Lugar sin inundar o parcialmente inundado durante tu turno, recibe 5 puntos de daño directo.",
+        "flavor": "Exceptuando unas rocas elevadas, todo el sistema de cavernas está sumergido en agua marina. Tienes que encontrar una salida enseguida…",
+        "back_name": "Sin aire",
+        "back_text": "Cada investigador superviviente queda derrotado y recibe 1 trauma físico.",
+        "back_flavor": "Se te encogen los pulmones. El corazón te martillea en el pecho. Cuando llega la marea, la corriente te hunde aún más bajo la superficie de la gélida agua. Todo se vuelve oscura mientras luchas por encontrar aire."
+    },
+    {
+        "code": "07045",
+        "name": "El pozo",
+        "flavor": "Te has despertado en una caverna anegada, con la mente desprovista de sus recuerdos… y no estás solo. Lo que quiera que viva en esta caverna no puede ser amistoso. Tienes que salir de este lugar y volver a la civilización.",
+        "back_name": "Reconocimiento",
+        "back_text": "Haz aparecer el Enemigo La amalgama puesto aparte enfrentado con el investigador jefe.\nAñade al mazo de Encuentros la pila de descartes de Encuentros y todas las copias puestas aparte de Sentido ciego y de Desde las profundidades y luego barájalo.\nBaraja todos los Lugares Túnel de marea puestos aparte para formar el mazo de Túneles de marea (incluyendo los Lugares puestos aparte Altar de Dagón, Sala de ídolos y Salida sellada). Pon Lugares de la parte superior del mazo de Túneles de marea en juego por debajo, a la izquierda y a la derecha de cada Lugar revelado.\nLee el <b>Destello del pasado I</b> en la guía de campaña.",
+        "back_flavor": "Encuentras un camino que se adentra en este extraño sistema de cuevas, pero antes de que puedas seguirlo para ver adónde lleva, el sonido del chapoteo del agua hace que se te acelere el corazón. Cuando te vuelves en dirección al sonido, lo que ves está a punto de provocarte un desmayo. Es un enorme híbrido de muchos rostros y formas, unos humanos y otros acuáticos, pero todos deformes y repulsivos. A medida que la cosa se acerca, tus ojos se encuentran con la mirada congelada de uno de los rostros de su cuerpo, y te das cuenta de que lo reconoces.."
+    },
+    {
+        "code": "07046",
+        "name": "La huida",
+        "text": "<b>Obligado</b> - Después de que un Lugar sea revelado: Pon Lugares de la parte superior del mazo de Túneles de marea en juego por debajo, a la izquierda y a la derecha de ese Lugar.\n<b>Objetivo</b> - Debe de haber una salida por alguna parte. Si cada investigador superviviente ha desistido, haz avanzar el acto.",
+        "flavor": "¿Qué demonios es este lugar y por qué te han atrapado aquí? Tienes que encontrar una salida, pero tal vez haya más recuerdos tuyos escondidos en este pozo…",
+        "back_name": "A la costa",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "El túnel continúa sin que veas su final. Te duelen los pulmones. Has contenido el aliento mucho más tiempo de que habrías creído posible. Durante un instante, te preguntas si deberías dar media vuelta, pero a estas alturas toda la caverna debe de estar totalmente sumergida. E incluso si no lo estuviera, tienes escasas esperanzas de sobrevivir mucho tiempo a las criaturas que moran en su interior. No, no es posible retroceder. Tu única opción es continuar."
+    },
+    {
+        "code": "07047",
+        "name": "Sala desconocida",
+        "text": "<b>Obligado</b> - Después de que la Sala desconocida sea revelada: Elige al azar 1 de las llaves boca abajo puesta aparte y colócala sobre la Sala desconocida sin mirarla.",
+        "back_flavor": "Ante ti se abren tres túneles envueltos en la oscuridad. Un repugnante olor como el del pescado podrido impregna los túneles.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07048",
+        "name": "Pozo cubierto de huesos",
+        "text": "Por cada llave controlada por un investigador que esté en el Pozo cubierto de huesos, éste recibe -1 a velo.\n[free] Si no hay pistas en el Pozo cubierto de huesos y controlas la llave amarilla: Ves una extraña articulación cerca de lo que sería un abdomen del esqueleto que encaja con la forma de la llave amarilla. Lee el <b>Destello del pasado II</b> en la guía de campaña.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07049",
+        "name": "Cementerio de peces",
+        "text": "<b>Obligado</b> - Después de que termines tu turno en el Cementerio de peces, si no controlas una llave: Recebe 1 punto de horror.\n[free] Si no hay pistas en el Cementerio de peces y controlas la llave roja: Dentro de un montón de entrañas de pez medio podridas, encuentras una extraña figurilla en la que encaja perfectamente la llave roja. Lee el <b>Destello del pasado III</b> en la guía de campaña.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07050",
+        "name": "Altar de Dagón",
+        "text": "[action] Si los investigadores que están en el Altar de Dagón controlan la llave azul o tres o más llaves que no sean al azul, pueden gastar, como grupo, 2 pistas [per_investigator]: Toma el control de la llave verde puesta aparte.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07051",
+        "name": "Sala de ídolos",
+        "text": "<b>Obligado</b> - Después de que la Sala de ídolos sea revelada: Coloca sobre ella la llave azul puesta aparte.\n[free] Si no hay pistas en la Sala de ídolos y controlas la llave morada: La llave morada abre la puerta de piedra que hay en el extremo más alejado de la sala, revelando un altar con dos estatuas familiares, una de mármol blanco y la otra de ónice. Lee el <b>Destello del pasado IV</b> en la guía de campaña.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07052",
+        "name": "Salida sellada",
+        "text": "[action] Si un investigador que esté en la Salida sellada controla la llave verde: <b>Desistir.</b> Abres la rejilla y nadas por el túnel hacia la libertad. Cuando desistas, devuelve todas tus pistas a la reserva de fichas y coloca todas tus llaves sobre este Lugar.\n<b>Obligado</b> - La Salida sellada entra en juego totalmente inundada.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07053",
+        "name": "La amalgama",
+        "text": "Cazador.\n[reaction] Después de que evites con éxito a La amalgama por 2 o más: Toma el control de 1 llave que haya sobre ella.\n<b>Obligado</b> - Después de que La amalgama se enfrente a tu, si controlas una llave: Coloca 1 de tus llaves sobre ella o bien te ataca.\n<b>Obligado</b> - Cuando La amalgama sea derrotada: Colócala en las profundidades.",
+        "traits": "Monstruo. Abominación. Profundo. Élite."
+    },
+    {
+        "code": "07054",
+        "name": "Sentido ciego",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (3). Si fracasas y La amalgama…\n- …está en juego, se prepara, se mueve directamente a tu Lugar, se enfrenta a ti y realiza un ataque inmediatamanete.\n- …está en las profundidades, ponla en juego enfrentada a ti. Realiza un ataque inmediatamente.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07055",
+        "name": "Desde las profundidades",
+        "text": "<b>Revelación</b> - Si La amalgama está en las profundidades, ponla en juego enfrentada a ti. Si no es así, coloca La amalgama en las profundidades y Desde las profundidades obtiene Oleada.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07056",
+        "name": "La desaparición de Elina Harper",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es el número del plan en curso.\n[cultist]: -2. Si fracasas, coloca 1 ficha de Perdición sobre el Enemigo más cercano.\n[tablet]: -3. Si fracasas, recibe 1 punto de horror.\n[elder_thing]: -4. Si fracasas, coloca 1 de tus pistas sobre tu Lugar.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es el número del plan en curso más 1.\n[cultist]: -2. Coloca 1 ficha de Perdición sobre el Enemigo más cercano, o bien 2 fichas de Perdición si fracasaste.\n[tablet]: -3. Recibe 1 punto de horror, o bien 1 punto de horror y 1 punto de daño si fracasaste.\n[elder_thing]: -4. Coloca 1 de tus pistas sobre tu Lugar, o bien 2 pistas si fracasaste."
+    },
+    {
+        "code": "07057",
+        "name": "Decrépita descomposición",
+        "text": "<b>Obligado</b> - Si un Enemigo [[Sospechoso]] que no sea el/la secuestrador/a es derrotado mediante daño: Toma el control de todas las pistas que haya sobre ese Enemigo. Anota en el registro de campaña <i>(nombre del Enemigo) quiere sangre</i>.",
+        "flavor": "El disimulo y el misterio parecían generales en esta extraña ciudad de silencio y muerte. Por otra parte, no podía sustraerme a la sensación de que en todo momento me vigilaban unos ojos ocultos, taimados y fijos que no parpadeaban jamás. – H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Seguidos",
+        "back_text": "Añade la pila de descartes de Encuentros, el Ser alado y los dos Ángeles descarnados cazadores puestos aparte al mazo de Encuentros y luego barájalo.\n<hr><b>Si hay <i>una decisión de no separarse</i> anotada en la sección \"Recuerdos recuperados\" del registro de campaña:</b>\n<blockquote><i>Tras varios días de investigación, te reúnes con el agente Dawson para darle novedades. Te muestra una figurilla de esmeralda que representa una especie de monstruosidad acuática y que tiene en el centro un trozo de ámbar con forma de corazón. Después de los días que has pasado investigando este siniestro lugar, la criatura te resulta extrañamente familiar.\n-Me alegra haberlo reclutado para este caso -dice Dawson-. A cada hora que pasa tiene menos pinta de ser una cosa de la mafia. Será mejor que no nos separemos a partir de ahora.</i></blockquote>Elige un investigador para que tome el control del Apoyo de historia Thomas Dawson puesto aparte. Durante el resto de este escenario, no ocupa espacio de aliado.",
+        "back_flavor": "La ciudad de Innsmouth se vuelve más hostil cada día que pasa. Los lugareños están al tanto de tu presencia, y puede que incluso sepan el motivo de tu visita."
+    },
+    {
+        "code": "07058",
+        "name": "Sospecha creciente",
+        "text": "<b>Obligado</b> - Si un Enemigo [[Sospechoso]] que no sea el/la secuestrador/a es derrotado mediante daño: Toma el control de todas las pistas que haya sobre ese Enemigo. Anota en el registro de campaña <i>(nombre del Enemigo) quiere sangre</i>.\n<i>(Consejo: Si no formulas una acusación antes de que avance este plan, ¡se te acabará el tiempo!)</i>",
+        "flavor": "No tenía idea de cómo habían organizado exactamente la persecución ni qué motivos tenían para perseguirme.\n– H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Expulsados",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "Cuando vuelve a caer la noche en la ciudad de Innsmouth, vuelves a tu habitación del hotel y descubres que la han registrado a fondo. Han destrozado tu equipaje y tirado su contenido por todas partes. Gran parte de tu equipo ha desaparecido. En la pared han escrito una advertencia con pintura negra:\nLOS INTRUSOS SE AHOGAN EN LAS PROFUNDIDADES\nTal vez deberías tratar de no llamar la atención por un tiempo…"
+    },
+    {
+        "code": "07059",
+        "name": "Persecución frenética",
+        "text": "<b>Obligado</b> - Si un Enemigo [[Sospechoso]] que no sea el/la secuestrador/a es derrotado mediante daño: Toma el control de todas las pistas que haya sobre ese Enemigo. Anota en el registro de campaña <i>(nombre del Enemigo) quiere sangre</i>.",
+        "flavor": "Mi carrera terminó antes de llegar a la primera esquina, porque en ese momento oí a mi izquierda el rumor inequívoco de una persecución en toda regla: pasos enérgicos, gritos guturales, ruido de motores…\n– H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_name": "Expulsados",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "Cuando vuelve a caer la noche en la ciudad de Innsmouth, vuelves a tu habitación del hotel y descubres que la han registrado a fondo. Han destrozado tu equipaje y tirado su contenido por todas partes. Gran parte de tu equipo ha desaparecido. En la pared han escrito una advertencia con pintura negra:\nLOS INTRUSOS SE AHOGAN EN LAS PROFUNDIDADES\nTal vez deberías tratar de no llamar la atención por un tiempo…"
+    },
+    {
+        "code": "07060",
+        "name": "La búsqueda de la agente Harper",
+        "text": "[free] Los investigadores, como grupo, gastan X [per_investigator]: <b>Negociar.</b> Revela las X primeras cartas del mazo de Indicios (hasta un máximo de 3) y roba 1 de ellas. Devuelve el resto al mazo de Indicios, junto con la primera carta del mazo de Encuentros, y barájalo. Límite de grupo de una vez por ronda.\n<b>Objetivo</b> - Puedes hacer avanzar el acto al final de cualquier ronda.<i>(Consejo: Tendrás que formular una acusación cuando hagas avanzar el acto. Hazlo cuando creas que has descubierto al secuestrador de la agente Harper y su paradero o hayas reducido la lista lo suficiente)</i>.",
+        "flavor": "La mañana siguiente, el agente Dawson y tú os separáis para buscar a su agente desaparecida…",
+        "back_name": "La acusación",
+        "back_text": "Lee el <b>Interludio del escenario: La acusación</b> en la guía de campaña.",
+        "back_flavor": "Ha llegado el momento de dar un paso al frente. Has seguido los pasos de la agente Harper hasta donde has podido, y has descubierto muchas cosas sobre Innsmouth y sus ciudadanos. Tal vez esta información te permita descubrir dónde está Harper. Pero si no actúas con celeridad y decisión, el secuestrador descubrirá que le sigues las pista. Solo tienes una oportunidad de acertar. Una oportunidad de encontrar a Harper y sorprender a su secuestrador. Si te equivocas, volverás a la casilla de salida… o algo peor."
+    },
+    {
+        "code": "07061",
+        "flavor": "Todas las evidencias llevan aquí. ¡Debes rescatar a la agente Harper a toda costa!",
+        "name": "El rescate",
+        "text": "El/La secuestrador/a pierde Indiferente, recibe +1 de salud [per_investigator] y no se puede negociar con él o ella.\n<b>Objetivo</b> - Si el/la secuestrador/a está en la zona de victoria o bien no hay pistas en el Lugar de Elina Harper, haz avanzar el acto (si hay 2 o más investigadores en la partida, en vez de eso deben cumplirse ambas condiciones).",
+        "back_name": "¡La encontré!",
+        "back_text": "Si el/la secuestrador/a era:\n- Brian Burnham, pasa a <b>(→R2)</b>.\n- Othera Gilman, pasa a <b>(→R3)</b>.\n- Joyce Little, pasa a <b>(→R4)</b>.\n- Barnabas Marsh, pasa a <b>(→R5)</b>.\n- Zadok Allen, pasa a <b>(→R6)</b>.\n- Robert Friendly, pasa a <b>(→R7)</b>.",
+        "back_flavor": "La agente Harper te dedica una cálida sonrisa de alivio cuando desatas las ligaduras y la ayudas a ponerse en pie-\n-No sé quién es usted, pero gracias. Eso sí, que conste que tenía la situación bajo control -se ríe de su propia broma. Pese a su situación, la agente se comporta con la confianza de alguien que ya se ha encontrado en una situación mortal. Te presentas y le dices que te habían contratado para ayudar a encontrarla-. Entonces me alegro mucho de que esté aquí. Llegó justo a tiempo. Y ahora, si no le importa, tengo asuntos pendientes con esta persona -dice con voz indignada-. ¿Me acompaña?"
+    },
+    {
+        "code": "07062a",
+        "name": "Buscando a la agente Harper",
+        "text": "<b><u>Posibles sospechosos</u></b>\nBrian Burnham\nOthera Gilman\nJoyce Little\nBarnabas Marsh\nZadok Allen\nRobert Friendly\n<b><u>Posibles escondites</u></b>\nCárcel de Innsmouth\nSuburbios ribereños\nCallejón del Matasanos\nLa casa de Water Street\nOrden Esotérica de Dagón\nNew Church Green"
+    },
+    {
+        "code": "07062b",
+        "name": "Muchedumbre airada",
+        "text": "Cazador. Descomunal. Represalia.\nLa Muchedumbre airada obtiene +4 de salud [per_investigator].\nLa Muchedumbre airada no puede realizar ataques de oportunidad.",
+        "traits": "Humanoide. Élite."
+    },
+    {
+        "code": "07063",
+        "name": "Refinería Marsh",
+        "text": "[action] [action] Roba 4 cartas. Límite de una vez por partida.",
+		"flavor": "Sin embargo, esa refinería fue un buen negocio en sus tiempos, y el viejo Marsh, el dueño, debe ser más rico que Creso.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_flavor": "La refinería Marsh le pareció bastante rara… Se trata de una vieja fábrica situada a orillas del Manuxet, en su desembocadura. Lo que contó estaba de acuerdo con lo que yo sabía ya. Libros mal llevados, ninguna cuenta clara, y el negocio no se veía por ninguna parte. Además, ha habido siempre cierto misterio sobre la forma como los Marsh obtienen el oro que refinan.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07064",
+        "name": "Gilman House",
+        "text": "[action] Cúrate 2 puntos de daño o 2 puntos de horror (o cualquier combinación de ellos). Límite de una vez por partida.",
+		"flavor": "Algunas de las ventanas de Gilman House estaban débilmente iluminadas, e incluso me pareció oír ruido en su interior.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_flavor": "Si hay un hotel en Innsmouth, se llama Gilman House, pero me parece que no es gran cosa. Yo le aconsejaría que no se quedara.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07065",
+        "name": "Plaza de Innsmounth",
+        "text": "[action] <b>Desistir.</b> Decides no llamar la atención por un tiempo.\n[free] Gasta 2 recursos: <b>Movimiento.</b> Muévete a un Lugar [[Innsmouth]] conectado.",
+		"flavor": "Evidentemente, se trataba del centro comercial de Innsmouth.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_flavor": "A un lado, la plaza daba a un solar pedregoso tras el cual se extendía el río. Al otro extremo había un semicírculo de edificios de ladrillo con tejados oblicuos que seguramente databan de 1800. De allí se abrían varias calles en abanico. Por la noche, habida cuenta de la escasez de farolas, estas calles tendrían una iluminación bastante pobre…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07066",
+        "name": "Puerto de Innsmouth",
+        "text": "<b>Obligado</b> - Después de que investigues con éxito por 3 o más: Mira la primera carta del mazo de Indicios. A continuación, baraja el mazo de Indicios. Límite de una vez por ronda.",
+		"flavor": "¡Pero intente pescar usted en este sitio y verá lo que tardan en echarlo!\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_flavor": "El puerto, invadido por los bancos de arena, estaba protegido por un antiguo espigón de piedra, sobre el que se distinguían las menudas figuras de algunos pescadores sentados. En la punta del espigón se veían los cimientos circulares de un faro derruido. En el puerto se había formado una lengua de arena sobre la cual había unas chozas miserables, algunos botes amarrados y unas cuantas nasas diseminadas.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07067",
+        "name": "Tienda de comestibles First National",
+        "text": "[Action]: Busca entre las 6 primeras cartas de tu mazo una carta [[Objeto]] y añádela a tu mano. Baraja tu mazo. Límite de una vez por partida.",
+        "back_flavor": "Después de pensarlo un rato, decidí empezar mis indagaciones en la tienda de comestibles. Tratándose de una sucursal, era probable que sus dependientes no fueran de Innsmouth.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07068",
+        "name": "Puente de Fish Street",
+        "text": "[Action] [Action]: Obtén 4 recursos. Límite de una vez por partida.",
+		"flavor": "El otro puente, el de Fish Street, estaba en ruinas según el plano.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "back_flavor": "En Fish Street estaba todo tan desierto como en la arteria principal, aunque ofrecía un aspecto diferente. Había muchos almacenes, construidos de piedra y ladrillo, que todavía se conservaban en buen estado.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07069",
+        "name": "Librería Little",
+        "text": "<b>Obligado</b> - Después de que fracases en una prueba de habilidad al investigar la Librería Little: Añade la primera carta del mazo de Encuentros al mazo de Indicios y baraja éste.",
+        "back_flavor": "La librería Little es un escaso oasis de calidez en la desoladora ciudad, con un angosto laberinto de estanterías llenas a rebosar de libros.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth."
+    },
+    {
+        "code": "07070",
+        "name": "Orden Esotérica de Dagón",
+        "text": "<b>Revelación</b> - Pon la Orden Esotérica de Dagón en juego.\n<b>Obligado</b> - Después de que sea descubierta la última pista de la Orden Esotérica de Dagón: Retira de la partida la primera carta de del mazo de Indicios (sin mirarla). ",
+		"flavor": "Se trataba, pues, de la antigua logia masónica, actualmente consagrada a un culto desagradable.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth. Escondite."
+    },
+    {
+        "code": "07071",
+        "name": "Callejón de Matasanos",
+        "text": "<b>Revelación</b> - Pon el Callejón de Matasanos en juego.\nCada Enemigo [[Humanoide]] que esté en el Callejón de Matasanos recibe +2 a combate y +2 a evitar. ",
+		"flavor": "Sería conveniente que no llamara demasiado la atención por aquellas inmediaciones…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth. Escondite."
+    },
+    {
+        "code": "07072",
+        "name": "Suburbios ribereños",
+        "text": "<b>Revelación</b> - Pon los Suburbios ribereños en juego.\n.Los Suburbios ribereños reciben -2 a verlo por cada ficha de Perdición que tengan.\n<b>Obligado</b> - Después de que fracases en una prueba de habilidad al investigar los Suburbios ribereños: Coloca 1 ficha de Perdición sobre ellos.",
+        "traits": "Innsmouth. Escondite."
+    },
+    {
+        "code": "07073",
+        "name": "La casa de Water Street",
+        "text": "<b>Revelación</b> - Pon La casa de Water Street en juego.\n<b>Obligado</b> - Después de que investigues con éxito La casa de Water Street por 3 o más: Roba la primera carta del mazo de Encuentros o bien añade esa carta al mazo de Indicios y baraja éste.",
+		"flavor": "No se veía un alma, a excepción de los escasos pescadores…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth. Escondite."
+    },
+    {
+        "code": "07074",
+        "name": "Cárcel de Innsmouth",
+        "text": "<b>Revelación</b> - Pon la Cárcel de Innsmouth en juego.\n<b>Obligado</b> - Cuando derrotes a un Enemigo en la Cárcel de Innsmouth: En lugar de descartar ese Enemigo, añádelo al mazo de Indicios y baraja éste.",
+        "traits": "Innsmouth. Escondite."
+    },
+    {
+        "code": "07075",
+        "name": "New Church Green",
+        "text": "<b>Revelación</b> - Pon New Church Green en juego.\n[action] [action] Si no hay pistas sobre New Church Green: Mira la primera carta del mazo de Indicios. Si no tiene <b>Victoria X</b>, descártala. Límite de grupo de una vez por partida.",
+		"flavor": "Sus credos heréticos y misteriosos…\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Innsmouth. Escondite."
+    },
+    {
+        "code": "07076",
+        "name": "Robert Friendly",
+        "subname": "Estibador malencarado",
+        "text": "<b>Revelación</b> - Pon a Robert Friendly en juego en el Puerto de Innsmouth, con 1 pista [per_investigator] sobre él.\nIndiferente.\n[action]: <b>Negociar.</b> Realiza una prueba de [agility] (2). Si fracasas, recibe 1 punto de daño. Si tienes éxito, toma el control de 1 de las pistas que haya sobre Robert Friendly. A continuación, si no hay pistas sobre él, añádelo a la zona de victoria.",
+        "traits": "Humanoide. Sospechoso. Élite."
+    },
+    {
+        "code": "07077",
+        "name": "Zadok Allen",
+        "subname": "Borracho y alborotador",
+        "text": "<b>Revelación</b> - Pon a Zadok Allen en juego en el Puente de Fish Street, con 1 pista [per_investigator] sobre él.\nIndiferente.\n[action]: <b>Negociar.</b> Realiza una prueba de [agility] (3). Si tienes éxito, toma el control de 1 de las pistas que haya sobre Zadok Allen. A continuación, si no hay pistas sobre él, añádelo a la zona de victoria.",
+        "traits": "Humanoide. Sospechoso. Élite."
+    },
+    {
+        "code": "07078",
+        "name": "Brian Burnham",
+        "subname": "Quiere irse",
+        "text": "<b>Revelación</b> - Pon a Brian Burnham en juego en a Tienda de comestibles First National, con 1 pista [per_investigator] sobre él.\nIndiferente.\n[action] Descarta cartas de tu mano que tengan un total de al menos 3 iconos de habilidad: <b>Negociar.</b> Toma el control de 1 de las pistas que haya sobre Brian Burnham. A continuación, si no hay pistas sobre él, añádelo a la zona de victoria.",
+        "traits": "Humanoide. Sospechoso. Élite."
+    },
+    {
+        "code": "07079",
+        "name": "Barnabas Marsh",
+        "subname": "El cambio está en sus manos",
+        "text": "<b>Revelación</b> - Pon Barnabas Marsh en juego en la Refinería Marsh, con 1 pista [per_investigator] sobre él.\nIndiferente.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (2). Si fracasas, recibe 1 punto horror. Si tienes éxito, toma el control de 1 de las pistas que haya sobre Barnabas Marsh. A continuación, si no hay pistas sobre él, añádelo a la zona de victoria.",
+        "traits": "Humanoide. Sospechoso. Élite."
+    },
+    {
+        "code": "07080",
+        "name": "Joyce Little",
+        "subname": "Librera",
+        "text": "<b>Revelación</b> - Pon a Joyce Little en juego en la Librería Little  Bookshop, con 1 pista [per_investigator] sobre ella.\nIndiferente.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (3). Si tienes éxito, toma el control de 1 de las pistas que haya sobre Joyce Little. A continuación, si no hay pistas sobre ella, añádela a la zona de victoria.",
+        "traits": "Humanoide. Sospechoso. Élite."
+    },
+    {
+        "code": "07081",
+        "name": "Othera Gilman",
+        "subname": "Propietaria del hotel",
+        "text": "<b>Revelación</b> - Pon a Othera Gilman en juego en el Gilman House, con 1 pista [per_investigator] sobre ella.\nIndiferente.\n[action] Gasta 3 recursos: <b>Negociar.</b> Toma el control de 1 de las pistas que haya sobre Othera Gilman. A continuación, si no hay pistas sobre ella, añádela a la zona de victoria.",
+        "traits": "Humanoide. Sospechoso. Élite."
+    },
+    {
+        "code": "07082",
+        "name": "Thomas Dawson",
+        "subname": "Soldado de una nueva guerra",
+        "text": "Recibes +1 [willpower] y +1 [combat].\n[reaction] Después de que un Enemigo ataque a un investigador que esté en tu Lugar, incluso si ese ataque fue cancelado, agota a Thomas Dawson: Ese investigador roba 1 carta.",
+        "traits": "Aliado. Agencia. Veterano.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "07083",
+        "name": "Elina Harper",
+        "subname": "Sabe demasiado",
+        "text": "Recibes +1 [intellect] y +1 [agility].\nLa primera acción que realices en cada turno no provoca ataques de oportunidad.",
+        "traits": "Aliado. Agencia. Detective.",
+        "slot": "Aliado"
+    },
+    {
+        "code": "07084",
+        "name": "Sacerdote de Dagón",
+        "text": "<b>Aparición</b> - Cualquier Lugar vacío.\n<b>Obligado</b> - Cuando el Sacerdote de Dagón vaya a ser derrotado o evitado, si no tiene perdición: En lugar de eso, cúrale todo el daño, prepáralo y coloca 1 ficha de Perdición sobre él.\n<b>Obligado</b> - Al final de la ronda, si el Sacerdote de Dagón está preparado y no tiene perdición: Coloca 1 ficha de Perdición sobre él.",
+        "traits": "Humanoide. Sectario."
+    },
+    {
+        "code": "07085",
+        "name": "Iniciada de Dagón",
+        "text": "<b>Aparición</b> - Cualquier Lugar vacío.\nCuando la Iniciada de Dagón no tenga perdición, recibe +2 a combate y +2 a evitar.\n<b>Obligado</b> - Al final de la ronda, si la Iniciada de Dagón está preparada y no tiene perdición: Coloca 1 ficha de Perdición sobre ella.",
+        "traits": "Humanoide. Híbrido. Sectario."
+    },
+    {
+        "code": "07086",
+        "name": "Lloigor",
+        "text": "<b>Presa</b> - Menos cartas en mano.\nIndiferente. Cazador.\nMientras haya un investigador en el Lugar del Lloigor que no tenga cartas en la mano, el Lloigor pierde Indiferente.\n<b>Obligado</b> - Al final de la fase de Enemigos: Cada investigador que esté en el Lugar del Lloigor o en un Lugar conectado descarta 1 carta al azar de su mano.",
+        "traits": "Monstruo."
+    },
+    {
+        "code": "07087",
+        "name": "Atracción psíquica",
+        "text": "<b>Revelación</b> - Si no tienes cartas en la mano, Atracción psíquica obtiene Oleada. Si no es así, descarta 1 carta al azar de tu mano. A continuación, realiza una prueba de [willpower] (X), donde X es el coste impreso de la carta descartada. Si fracasas, pierde 1 acción.",
+        "traits": "Poder."
+    },
+    {
+        "code": "07088",
+        "name": "Profundo macho",
+        "text": "<b>Obligado</b> - Después de que el Profundo macho se enfrente a ti: Elige y descarta una carta de tu mano.\n<b>Obligado</b> - Después de que un investigador derrote a otro Enemigo [[Profundo]] en cualquier Lugar; Prepara el Profundo macho y muévelo una vez hacia el Lugar de ese investigador.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07089",
+        "name": "Profundo emboscado",
+        "text": "<b>Presa</b> - Menor [agility].\n<b>Obligado</b> - Después de que el Profundo emboscado se enfrente a ti: Recibe 1 punto de daño.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07090",
+        "name": "Ataque de profundos",
+        "text": "<b>Revelación</b> - Deja de estar enfrentado a todos los Enemigos [[Profundo]] que estén en tu Lugar. Cada Enemigo [[Profundo]] que esté en tu Lugar y en cada Lugar conectado se enfrenta a ti. Si ningún Enemigo se enfrenta a ti por este efecto, busca en el mazo y la pila de descartes de Encuentros un Enemigo [[Profundo]], hazlo aparecer enfrentado a ti y baraja el mazo de Encuentros.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07091",
+        "name": "Resaca",
+        "text": "<b>Revelación</b> - Si tu Lugar no está inundado, la Resaca obtiene Oleada. Si no es así, pon la Resaca en juego en tu zona de amenaza.\n<b>Obligado</b> - Después de que te muevas: Recibe 2 puntos de daño y 2 puntos de horror. Descarta la Resaca.\n[free] Descarta 1 carta de tu mano: Realiza una prueba de [combat] (3) o de [agility] (3) para combatir el arrastre de la marea. Si tienes éxito, descarta la Resaca.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07092",
+        "name": "Marea creciente",
+        "text": "<b>Revelación</b> - Aumenta el nivel de inundación del Lugar más cercano que pueda ver su nivel de inundación aumentado. Si no aumentó el nivel de inundación de ningún Lugar por este efecto, Marea creciente obtiene Oleada.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07093",
+        "name": "Aguas revueltas",
+        "text": "<b>Revelación</b> - Si tu Lugar no está inundado, Aguas revueltas obtiene Oleada. Si no es así, realiza una prueba de [agility] (3) (o bien 4 si tu Lugar está totalmente inundado). Si fracasas, elige y descarta 1 Apoyo que controles. Si no puedes, en vez de eso pierde 1 recurso por cada punto que te falte para tener éxito.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07094",
+        "name": "Ser alado",
+        "text": "Cazador.\nX es el valor de velo del Lugar del Ser alado.\nEl Ser alado recibe 1 punto de daño menos por ataques excepto mediante cartas [[A distancia]], [[Arma de fuego]], o [[Hechizo]] (hasta un mínimo de 1 de daño).",
+        "traits": "Criatura. Monstruo."
+    },
+    {
+        "code": "07095",
+        "name": "Niebla sobre Innsmouth",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si tienes éxito, recibe 1 punto de horror o bien pon la Niebla sobre Innsmouth en juego junto al mazo de plan. Si fracasas, haz ambas cosas.\nCada Lugar recibe +1 a velo.\n<b>Obligado</b> - Al final de la ronda: Descarta 1 copia de Niebla sobre Innsmouth del juego. Máximo de una vez por ronda.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "07096",
+        "name": "Recuerdo macabro",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si revelas una ficha [cultist] durante esta prueba, fracasas automáticamente. Si fracasas, recibe 2 puntos de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "07097",
+        "name": "Consciencia fracturada",
+        "text": "<b>Revelación</b> - Realiza una prueba de [intellect] (3). Si revelas una ficha [tablet] durante esta prueba, fracasas automáticamente. Si fracasas, recibe 2 puntos de daño.",
+        "traits": "Terror."
+    },
+    {
+        "code": "07098",
+        "name": "Recuerdo del olvido",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (4) o de [intellect] (4). Si revelas una ficha [elder_thing] durante esta prueba, fracasas automáticamente. Elige y descarta 1 carta de tu mano por cada punto que te falte para tener éxito.",
+        "traits": "Terror."
+    },
+    {
+        "code": "07099",
+        "name": "Avería",
+        "text": "<b>Revelación</b> - Vincula esta carta al Apoyo de historia [[Vehículo]] más cercano.\nLas capacidades \"[action]\" del Apoyo vinculado no pueden ser activadas.\n[action]: Realiza una prueba de [intellect] (3). Si tienes éxito, descarta Avería.",
+        "flavor": "¡Como no consigas que este condenado trasto vuelva a funcionar, no vamos a ninguna parte!",
+        "traits": "Equivocación."
+    },
+    {
+        "code": "07100",
+        "name": "Alineamiento de mareas",
+        "text": "Peligro.\n<b>Revelación</b> - Elige un Lugar donde haya al menos 1 investigador. Aumenta en nivel de inundación de ese Lugar. Cada investigador que esté en el Lugar elegido recibe 1 punto de daño. Si el nivel de inundación del Lugar elegido no aumenta por este efecto, Alineamiento de mareas obtiene Oleada.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "07101",
+        "name": "Sicigia",
+        "text": "Peligro.\n<b>Revelación</b> - Debes decidir (elige una opción):\n- Cada investigador pierde 3 recursos.\n- Cada investigador recibe 2 puntos de horror.\n- Coloca 1 ficha de Perdición sobre el plan en curso. Este efecto puede hacer que el plan en curso avance.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "07102",
+        "name": "Caverna submarina",
+        "text": "La Caverna submarina entra en juego totalmente inundada.\n[action]: <b>Movimiento.</b> Muévete desde la Caverna submarina a cualquier Lugar [[Cueva]].",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo de agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07103",
+        "name": "Estanque de marea",
+        "text": "El Estanque de marea recibe +1 a velo mientras esté parcialmente inundado y +2 a velo mientras esté totalmente inundado.\n<b>Obligado</b> - Después de que el Estanque de marea sea revelado: Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre el Estanque de marea sin mirarla.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo de agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07104",
+        "name": "Río subterráneo",
+        "text": "El Río subterráneo no puede quedar totalmente inundado.\n<b>Obligado</b> - Cuando el Río subterráneo entra en juego, aumenta su nivel de inundación.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo de agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07105",
+        "name": "Camorrista de Innsmouth",
+        "text": "<b>Aparición</b> - El Lugar con más pistas.\nCazador.\n[action] Coloca 1 de tus pistas sobre tu Lugar: <b>Negociar.</b> Agota el Camorrista de Innsmouth. No se prepara durante la próxima fase de Mantenimiento.  Esta capacidad puede activarla un investigador que esté en un Lugar conectado.",
+        "traits": "Humanoide. Híbrido. Criminal."
+    },
+    {
+        "code": "07106",
+        "name": "Pinta de Innsmouth",
+        "text": "<b>Revelación</b> - Pon la Pinta de Innsmout en juego en tu zona de amenaza.\nRecibes -1 [intellect] y -1 de cordura, y obtienes el rasgo [[Profundo]].\n[action]: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta la Pinta de Innsmout.",
+        "traits": "Curse. Terror."
+    },
+    {
+        "code": "07107",
+        "name": "Lugareños furtivos",
+        "text": "<b>Revelación</b> - Realiza una prueba de [intellect] (3). Si tienes éxito, recibe 1 punto de daño o bien por los Lugareños furtivos en juego junto al mazo de plan. Si fracasas, haz ambas cosas.\nLos investigadores no pueden negociar.\n<b>Obligado</b> - Al final de la ronda: Descarta 1 copia de los Lugareños furtivos del juego. Máximo de una vez por ronda.",
+        "traits": "Terror."
+    }
+]

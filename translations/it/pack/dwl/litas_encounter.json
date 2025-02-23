@@ -1,0 +1,167 @@
+[
+    {
+        "code": "02311",
+        "name": "Oltre il Tempo e lo Spazio",
+        "text": "<b>Facile / Standard</b>\n[skull] -1 per ogni luogo [[Extradimensione]] in gioco (massimo-5).\n[cultist] Rivela 1 altro segnalino. Se fallisci, dopo che questa prova di abilità è stata risolta scarta carte dalla cima del mazzo degli incontri finché non scarti un luogo. Metti in gioco quel luogo e muoviti fino ad esso.\n[tablet] -3. Se Yog-Sothoth è in gioco, dopo che questa prova di abilità è stata risolta ti attacca.\n[elder_thing] -X, dove X è il valore di Oscurità del tuo luogo. Se fallisci e ti trovi in un luogo [[Extradimensione]], scartalo.",
+        "back_text": "<b>HarDifficile / Esperto</b>\n[skull] -1 per ogni luogo [[Extradimensione]] in gioco.\n[cultist] Rivela 1 altro segnalino. Dopo che questa prova di abilità è stata risolta scarta carte dalla cima del mazzo degli incontri finché non scarti un luogo. Metti in gioco quel luogo e muoviti fino ad esso.\n[tablet] -5. Se Yog-Sothoth è in gioco, dopo che questa prova di abilità è stata risolta ti attacca.\n[elder_thing] -X, dove X è il doppio del valore di Oscurità del tuo luogo. Se fallisci e ti trovi in un luogo [[Extradimensione]], scartalo."
+    },
+    {
+        "code": "02312",
+        "flavor": "Sentieri fatti di suoni e di colore si estendono per un'eternità in tutte le direzioni, disseminati di architetture impossibili e brulicanti di forme di vita aliene. Le linee tra gli oggetti sono discontinue e instabili e avete la sensazione che la vostra pelle sia stata rivoltata da dentro a fuori.",
+        "name": "Tutto è Uno",
+        "text": "<b>Obbligo</b> - Dopo che un investigatore è stato mosso fino a un luogo dall'effetto di una carta incontro: Quell'investigatore subisce 1 orrore.",
+        "back_name": "Echi Familiari",
+        "back_text": "Rimescolate la pila degli scarti degli incontri nel mazzo degli incontri. Poi scartate carte dalla cima del mazzo degli incontri finché non scartate un luogo. L'investigatore capo risolve la sua capacità Rivelazione.\n<hr>\n<b>Se “gli studenti non sono stati salvati” nel Diario della Campagna, leggete il brano seguente:</b>\n<blockquote><i>Davanti a voi compare un'enorme creatura canina dall'aspetto alieno e allo stesso tempo vagamente familiare. La creatura si avventa su di voi e vi preparate a respingerla, ma con vostra grande sorpresa vi passa attraverso e si dirige verso un edificio alle vostre spalle che fino a pochi momenti fa non c'era: sembra una costruzione della Miskatonic University. La creatura sfonda la porta d'ingresso e sentite numerose grida di panico echeggiare dall'interno, seguito dal rumore di ossa che si spezzano e da lunghe urla di dolore.</i></blockquote>\nOgni investigatore subisce 1 orrore."
+    },
+    {
+        "code": "02313",
+        "flavor": "Attraversando questo reame, cogliete fugaci visioni della realtà: scene di vecchi ricordi, visioni più recenti degli ultimi giorni passati e a volte perfino alcuni eventi che non ricordate affatto e che non sono ancora accaduti…",
+        "name": "Passato, Presente e Futuro",
+        "text": "<b>Obbligo</b> - Dopo che un investigatore è stato mosso fino a un luogo dall'effetto di una carta incontro: Quell'investigatore subisce 1 orrore.",
+        "back_name": "Il Prezzo del Fallimento",
+        "back_text": "Rimescolate la pila degli scarti degli incontri nel mazzo degli incontri. Poi scartate carte dalla cima del mazzo degli incontri finché non scartate un luogo. L'investigatore capo risolve la sua capacità Rivelazione.<hr>\n<b>Se ci sono dei “sacrifici a Yog-Sothoth” nel Diario della Campagna, leggete il brano seguente:</b>\n<blockquote><i>Sentite una voce familiare che vi chiede aiuto ed entrate in un edificio di pietra diroccato, dalla forma impossibile. \"No… Non farlo!\" grida la voce. Vi affrettate nella sua direzione scendendo una ripida scalinata, finché non vi ritrovate all'interno della camera nascosta di Dunwich: laggiủ trovate le vittime che non siete riusciti a salvare, incatenate, sanguinanti e mutilate. Una creatura dal volto semiumano si sta cibando di un cadavere riverso a terra, quando la testa del morto si gira di scatto per osservarvi e un dolore lancinante vi colpisce al cuore.</i></blockquote>\nOgni investigatore effettua una prova di [willpower](X), dove X è il numero di “sacrifici a Yog-Sothoth”. Per ogni punto di cui fallisce, quell'investigatore subisce 1 danno."
+    },
+    {
+        "code": "02314",
+        "flavor": "Attraversando questa dimensione distorta, a prescindere da dove vi rechiate, c'è sempre una sagoma inquietante che incombe in lontananza: all'inizio sembra un disco, una luna nera da cui si protende una serie di tentacoli brulicanti, ma col passare del tempo avete l'impressione che si faccia sempre più grande…",
+        "name": "Rivelazione Graduale",
+        "text": "<b>Obbligo</b> - Dopo che un investigatore è stato mosso fino a un luogo dall'effetto di una carta incontro: Quell'investigatore subisce 1 orrore.",
+        "back_name": "La Chiave e il Portale",
+        "back_text": "<b>Rivelazione</b> - Generate Yog-Sothoth messo da parte nel Confine dell'Universo. Se il Confine dell'Universo non è in gioco, generatelo invece nell'Altra Dimensione. Poi proseguite con la Trama 4a."
+    },
+    {
+        "code": "02315",
+        "flavor": "La forma in lontananza fa irruzione oltre le barriere di questa dimensione e le sue molte braccia si protendono per ghermire ogni cosa che vedete: il suo corpo è come un ammasso di melma ricoperto di occhi e di bocche. Di fronte alla terrificante maestà di questa creatura vi sentite insignificanti come insetti.",
+        "name": "La Fine di Tutte le Cose",
+        "text": "<b>Obbligo</b> - Dopo che un investigatore è stato mosso fino a un luogo dall'effetto di una carta incontro: Quell'investigatore subisce 1 orrore.\n<b>Obbligo</b> - Quando Yog-Sothoth è sconfitto: <b>(→R3)</b>.",
+        "back_name": "Yog-Sothoth Attacca!",
+        "back_flavor": "Alla ricerca del varco da cui siete entrati in questa dimensione, l'orrore extradimensionale scatena la sua furia, stritolando interi reami tra le sue grinfie.",
+        "back_text": "In ordine di gioco, Yog-Sothoth attacca ogni investigatore in gioco (indipendentemente dal luogo in cui si trova). Poi fate ritorno alla Trama 4a."
+    },
+    {
+        "code": "02316",
+        "flavor": "In qualche modo, dovete farvi strada attraverso questo territorio alieno e trovare il fulcro descritto nel tomo del Vecchio Whateley.",
+        "name": "Oltre Questo Mondo",
+        "text": "[action]: Scarta 3 carte dalla cima del mazzo degli incontri. Scegli 1 luogo scartato con questo effetto e risolvi la sua capacità Rivelazione.",
+        "back_name": "Il Fulcro delle Dimensioni",
+        "back_flavor": "[action]: Scarta 3 carte dalla cima del mazzo degli incontri. Scegli 1 luogo scartato con questo effetto e risolvi la sua capacità Rivelazione.",
+        "back_text": "Mettete in gioco il Confine dell'Universo messo da parte."
+    },
+    {
+        "code": "02317",
+        "flavor": "Continuate a seguire il fuoco fatuo, anche se il territorio mutevole circostante vi rende difficile stargli dietro.",
+        "name": "Nell'Oltre",
+        "text": "[action]: Scarta 3 carte dalla cima del mazzo degli incontri. Scegli 1 luogo scartato con questo effetto e risolvi la sua capacità Rivelazione.\n<b>Obiettivo</b> - Quando un investigatore entra nel Confine dell'Universo, proseguite con i capitoli.",
+        "back_name": "Ai Confini del Mondo",
+        "back_flavor": "Giungete ai margini di un abisso nero come la pece e inconcepibilmente denso e capite che questo è il luogo dove tutta la realtà, tutto ciò che esiste e che mai esisterà, ha fine; al suo centro scorgete un minuscolo varco sospeso, appena fuori della vostra portata.\nQuando vi affacciate oltre il varco, siete sorpresi di scorgere la sommità del Colle Guardiano. In qualche modo siete riusciti a raggiungere l'altro lato del varco… Ora dovete trovare un modo per chiuderlo definitivamente."
+    },
+    {
+        "code": "02318",
+        "flavor": "Sulle pietre aliene ai vostri piedi compare un simbolo mai visto prima. Quando vi avvicinate, una voce echeggia nella vostra mente, parlando in una lingua aliena.",
+        "name": "Chiudere il Varco",
+        "text": "[action]: Scarta 3 carte dalla cima del mazzo degli incontri. Scegli 1 luogo scartato con questo effetto e risolvi la sua capacità Rivelazione.\n<b>Obiettivo</b> - Quando gli investigatori nel Confine dell'Universo spendono il totale richiesto di indizi, proseguite con i capitoli.",
+        "back_name": "Richiudere lo Squarcio",
+        "back_flavor": "Siete sfiniti e non avete idea di come sia possibile richiudere il varco: è troppo lontano per toccarlo e nulla di ciò che fate sembra avere effetto… Non c'è nulla che possa guidarvi, a parte le parole ultraterrene che qualcuno sussurra nella vostra mente. Proprio in quel momento, tra il coro di frasi senza senso sentite una voce familiare che vi incita a ripetere le sue parole: “Claude ostium…” sussurrate con esitazione, e le parole sembrano fermarsi sulla punta della vostra lingua. Chiudete gli occhi per concentrarvi e l'eco si fa più intensa. Quando il coro termina e riaprite gli occhi, di fronte a voi non c'è altro che un abisso nero: lo squarcio è scomparso.",
+        "back_text": "Rimuovete dal gioco il Confine dell'Universo. Mettete in gioco lo Squarcio nel Tempo messo da parte."
+    },
+    {
+        "code": "02319",
+        "flavor": "Non riuscendo a trovare una via d'uscita da questa dimensione, vi mettete in cerca di un altro sentiero.",
+        "name": "Una Nuova Via",
+        "text": "[action]: Scarta 3 carte dalla cima del mazzo degli incontri. Scegli 1 luogo scartato con questo effetto e risolvi la sua capacità Rivelazione.\n<b>Obiettivo</b> - Quando ogni investigatore non sconfitto ha abbandonato, proseguite con i capitoli.",
+        "back_name": "Il Richiamo della Realtà",
+        "back_flavor": "Scoprite un sentiero che vi sembra vagamente familiare e decidete di seguirlo. Anche se la vostra impresa è compiuta, iniziate a capire che, avendo richiuso il varco, forse non tornerete mai a casa. Il timore di restare intrappolati in questo luogo per sempre vi sprona ad avanzare fino a raggiungere un arco che conduce a un gigantesco corridoio. Oltre una porta di legno marcito giungete in una sacca di fitta pioggia e di cielo nuvoloso; il cemento si trasforma in ghiaia, poi in marmo, in acciaio e in erba; attraversate un prato di lunghezza inconcepibile e vi fate strada oltre boschi intricati prima che la fatica abbia la meglio. Prosciugati di ogni energia, capite di non poter proseguire oltre e il vostro corpo cede.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "02320",
+        "name": "Altra Dimensione",
+        "subname": "Svincolata dalla Realtà",
+        "text": "<b>Obbligo</b> - Quando un luogo esce dal gioco: Muovete ogni investigatore e ogni nemico non impegnato in quel luogo fino all'Altra Dimensione. Non può essere annullato.",
+        "traits": "Ultraterreno.",
+        "back_flavor": "Fissate increduli e a bocca aperta i colori turbinanti e gli angoli alieni che vi circondano: questa è follia allo stato puro."
+    },
+    {
+        "code": "02321",
+        "name": "Confine dell' Universo",
+        "text": "Devi possedere almeno 2 indizi per muoverti fino al Confine dell'Universo.\nDurante la Fase di Gestione, se ti trovi nel Confine dell'Universo, non puoi pescare carte.",
+        "traits": "Ultraterreno.",
+        "back_flavor": "Nulla può preparare in alcun modo a una vista del genere, magnifica e terrificante allo stesso tempo.",
+        "back_text": "Devi possedere almeno 2 indizi per muoverti fino al Confine dell'Universo."
+    },
+    {
+        "code": "02322",
+        "name": "Squarcio nel Tempo",
+        "text": "[action] Spendi 2 indizi: <b>Abbandona.</b> Scopri un nuovo percorso e spera che ti conduca alla salvezza.",
+        "traits": "Ultraterreno.",
+        "back_flavor": "Ciò che è, ciò che era, ciò che non sarà mai…\nVedi ogni cosa, e ogni cosa vede te."
+    },
+    {
+        "code": "02323",
+        "name": "Yog-Sothoth",
+        "subname": "Guardiano della Soglia",
+        "text": "Cacciatore. Massiccio. Ritorsione.\nYog-Sothoth riceve +6[per_investigator] Salute.\nYog-Sothoth non può essere eluso e non può effettuare attacchi di opportunità.\nQuando Yog-Sothoth ti attacca: Invece di subire fino a X orrori, puoi scartare X carte dalla cima del tuo mazzo. Poi, se non rimane nessuna carta nel tuo mazzo, impazzisci.",
+        "traits": "Grande Antico. Elite."
+    },
+    {
+        "code": "02324",
+        "name": "Squarcio nello Spazio",
+        "text": "Impulso.\n<b>Rivelazione</b> - Metti in gioco lo Squarcio nello Spazio.\n<b>Obbligo</b> - Alla fine del round: Scegli se collocare 1 destino sullo Squarcio nello Spazio oppure scartarlo.",
+        "traits": "Ultraterreno. Extradimensione."
+    },
+    {
+        "code": "02325",
+        "name": "Cascata Prismatica",
+        "text": "<b>Rivelazione</b> - Metti in gioco la Cascata Prismatica e scarta 1 carta casuale dalla tua mano.\n<b>Obbligo</b> - Dopo che l'ultimo indizio sulla Cascata Prismatica è stato rimosso: Scarta la Cascata Prismatica.",
+        "traits": "Ultraterreno. Extradimensione."
+    },
+    {
+        "code": "02326",
+        "name": "Ponte Infinito",
+        "text": "<b>Rivelazione</b> - Metti in gioco il Ponte Infinito e perdi 2 risorse.\n<b>Obbligo</b> - Dopo che hai lasciato il Ponte Infinito: Scegli se collocare 1 destino sul Ponte Infinito oppure scartarlo.",
+        "traits": "Ultraterreno. Extradimensione."
+    },
+    {
+        "code": "02327",
+        "name": "Scale di Y'hagharl",
+        "text": "<b>Rivelazione</b> - Metti in gioco le Scale di Y'hagharl. Poi pesca la prima carta [[Follia]] dalla cima della tua pila degli scarti.\n<b>Obbligo</b> - Quando stai per lasciare le Scale di Y'hagharl: Effettua una prova di [willpower](2). Se fallisci, rimescola le Scale di Y'hagharl nel mazzo degli incontri invece di muoverti.",
+        "traits": "Ultraterreno. Extradimensione."
+    },
+    {
+        "code": "02328",
+        "name": "Porta Dimensionale",
+        "text": "<b>Rivelazione</b> - Metti in gioco il Portale Dimensionale. Poi pesca la prima carta [[Sortilegio]] dalla cima della pila degli scarti degli incontri.\n<b>Obbligo</b> - Alla fine del tuo turno, se ti trovi nel Portale Dimensionale: Scegli se spendere 2 risorse oppure rimescolare il Portale Dimensionale nel mazzo degli incontri.",
+        "traits": "Ultraterreno. Extradimensione."
+    },
+    {
+        "code": "02329",
+        "name": "Viaggiatore Interstellare",
+        "text": "<b>Generazione</b> - Un qualsiasi luogo [[Extradimensione]].\nCacciatore.\n<b>Obbligo</b> - Quando il Viaggiatore Interstellare entra in un luogo: Gira 1 indizio su quel luogo sul suo lato destino e collocalo sul Viaggiatore Interstellare. Se non ci sono indizi su quel luogo, colloca invece 1 destino sul Viaggiatore Interstellare.",
+        "traits": "Mostro. Yithian."
+    },
+    {
+        "code": "02330",
+        "name": "Cercatore Stellare Yithiano",
+        "text": "<b>Generazione</b> - L'Altra Dimensione.\nRitorsione.\n<b>Obbligo</b> - Quando il Cercatore Stellare Yithiano attacca un investigatore con 11 o più carte nella sua pila degli scarti: Colloca 1 destino sul Cercatore Stellare Yithiano.",
+        "traits": "Mostro. Yithian."
+    },
+    {
+        "code": "02331",
+        "flavor": "Il mondo attorno a te sembra ripiegarsi su se stesso: si deforma, si contorce e implode.",
+        "name": "Realtà Collassata",
+        "text": "<b>Rivelazione</b> - Se ti trovi in un luogo [[Extradimensione]], scartalo e subisci 1 danno. Altrimenti, subisci 2 danni.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "02332",
+        "name": "Tunnel Interdimensionale",
+        "text": "<b>Rivelazione</b> - Scarta carte dalla cima del mazzo degli incontri finché non scarti un luogo. Risolvi la capacità Rivelazione di quel luogo, poi muoviti fino a quel luogo.",
+        "traits": "Pericolo."
+    },
+    {
+        "code": "02333",
+        "name": "Distesa Sterminata",
+        "text": "<b>Rivelazione</b> - Se non ci sono luoghi Extradimensione in gioco, la Distesa Sterminata ottiene Impulso. Altrimenti, effettua una prova di [willpower](X), dove X è il numero di luoghi [[Extradimensione]] in gioco (massimo 5). Per ogni punto di cui fallisci, subisci 1 orrore.",
+        "traits": "Terrore."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "code": "act",
+        "name": "Acte"
+    },
+    {
+        "code": "agenda",
+        "name": "Intrigue"
+    },
+    {
+        "code": "asset",
+        "name": "Soutien"
+    },
+    {
+        "code": "enemy",
+        "name": "Ennemi"
+    },
+    {
+        "code": "enemy_location",
+        "name": "Enemy-Location"
+    },
+    {
+        "code": "event",
+        "name": "Événement"
+    },
+    {
+        "code": "investigator",
+        "name": "Investigateur"
+    },
+    {
+        "code": "key",
+        "name": "Key"
+    },
+    {
+        "code": "location",
+        "name": "Lieu"
+    },
+    {
+        "code": "scenario",
+        "name": "Scénario"
+    },
+    {
+        "code": "skill",
+        "name": "Compétence"
+    },
+    {
+        "code": "story",
+        "name": "Histoire"
+    },
+    {
+        "code": "treachery",
+        "name": "Traîtrise"
+    }
+]

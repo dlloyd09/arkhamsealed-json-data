@@ -1,0 +1,217 @@
+[
+    {
+        "code": "04237",
+        "name": "La Ciudad de los Archivos",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si tienes 5 o más cartas en la mano.\n[cultist] [elder_thing]: -2. Si fracasas, coloca 1 de tus pistas sobre tu Lugar.\n[tablet]: -3. Si fracasas, descarta 1 carta de tu mano al azar.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien fracasas automáticamente si tienes 5 o más cartas en la mano.\n[cultist] [elder_thing]: -2. Coloca 1 de tus pistas sobre tu Lugar.\n[tablet]: -3. Por cada punto que te falte para tener éxito, descarta 1 carta de tu mano al azar."
+    },
+    {
+        "code": "04238",
+        "flavor": "De algún modo, habéis despertado en una ciudad futurista, habitada por extrañas criaturas alienígenas que escapan a vuestra imaginación. Debéis explorar este extraño lugar si queréis encontrar una vía de escape, pero os cuesta acostumbraros a vuestros nuevos cuerpos.",
+        "name": "Ciudad de la Gran Raza",
+        "text": "Los investigadores no pueden poner Apoyos [[Objeto]] en juego (incluidas las Debilidades [[Objeto]]).",
+        "back_name": "El replicador",
+        "back_flavor": "Mientras recorréis estas extrañas salas, os topáis con una estancia que no habíais visto antes. Está llena de artefactos y objetos de todo tipo, pertenecientes a distintas civilizaciones. Muchos de ellos coinciden con las descripciones que les disteis a los habitantes de la ciudad: descripciones del equipo que llevabais encima la primera vez que os encontrasteis a las criaturas. ¿Han replicado de algún modo los objetos que teníais? Os lleváis lo que podéis y seguís explorando.",
+        "back_text": "Cada investigador busca hasta 2 Apoyos [[Objeto]] entre las 9 primeras cartas de su mazo y los roba. Baraja cada mazo en el se busque. <i>Nota: los investigadores ya pueden poner en juego Apoyos [[Objeto]].\nAñade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nSi El custodio está en juego y no está controlado por un investigador, muévelo al Lugar que tenga más pistas."
+    },
+    {
+        "code": "04239",
+        "flavor": "Poco a poco, los recuerdos de vuestra vida anterior empiezan a desvanecerse. Los acontecimientos más recientes son los primeros en desaparecer, pero pronto comenzáis a perder lo que conforma vuestra identidad humana.",
+        "name": "Recuerdos perdidos",
+        "text": "El tamaño de mano máximo de cada investigador se reduce en 2.",
+        "back_name": "Memoria final",
+        "back_text": "Añade la pila de descartes de Encuentros al mazo de Encuentros y barájalo.\nSi El custodio está en juego y no está controlado por un investigador, muévelo al Lugar que tenga más pistas.\n<hr><b>Comprueba los suministros. Si un investigador tiene un colgante, ese investigador lee lo siguiente:<b>\n<blockquote><i>Cuanto más y más tiempo pasas en la ciudad alienígena, tus recuerdos del pasado siguen desvaneciéndose. Entonces, una chispa de esperanza vuelve a ti, y recuerdas un objeto que llevabas contigo y que te reconfortaba en los momentos difíciles. Revisas los objetos que los yithianos replicaron gracias a vuestras descripciones y allí lo encuentras: un colgante con una cadena de plata. Al cogerlo, tu identidad real vuelve a ti como una marea.</i></blockquote>\nCada investigador que tenga un colgante roba 2 cartas. Durante el resto del escenario, cada investigador que tenga un colgante ignora cualquier efecto que fuese a reducir su tamaño de mano máximo."
+    },
+    {
+        "code": "04240",
+        "flavor": "¿Cuánto tiempo ha pasado? ¿Días? ¿Semanas?\n\n…¿Años?",
+        "name": "Perdiendo la humanidad",
+        "text": "El tamaño de mano máximo de cada investigador se reduce en 4.",
+        "back_name": "Existencia alienígena",
+        "back_flavor": "Olvidáis todo lo que fuisteis. Vuestros nombres y vuestra humanidad se pierden. Sin embargo, la ciudad perdida de Pnakotus os llama, y sus pacíficas salas contienen verdaderos tesoros de conocimientos más vastos que nada que vuestras mentes hubieran podido comprender antes de vuestra llegada aquí. Vuestra misión se pierde en la confusión, y vivís vuestros días con la Gran Raza de Yith, hasta que un día…",
+        "back_text": "Cada investigador superviviente queda derrotado."
+    },
+    {
+        "code": "04241",
+        "flavor": "Salir de esta extraña ciudad podría ser más difícil de lo que pensabais. Sus salas son infinitas y están llenas con todo tipo de complejas máquinas futuristas.",
+        "name": "Explorando Pnakotus",
+        "text": "Todas las copias del Observador yithiano obtienen Indiferente.",
+        "back_name": "Encontrar tu camino",
+        "back_flavor": "Exploráis la zona cercana a vuestra sala de interrogatorios durante un tiempo, descubriendo más sobre la ciudad y sus moradores. Es un lugar de conocimiento e investigación, habitada por seres que se llaman a sí mismos la Gran Raza de Yith. Por la mayor parte, los yithianos os permiten explorar la ciudad, encontráis un panel anclado en la pared. Es un dispositivo tecnológico que no podéis esperar entender. Mientras estáis frente a él, perplejos, uno de vuestros observadores se acerca cautelosamente. Para vuestra sorpresa, la pared que tenéis delante se abre y revela otra serie de salas. La criatura se hace a un lado para dejaros pasar.",
+        "back_text": "Pon en juego cada uno de los Lugares puesto aparte (Gran Biblioteca, Laboratorio de la Gran Raza, Planetario yitjiano, Sala de deconstrucción y Torres de Pnakotus).\nElige uno de estos Lugares al azar. Pon el Apoyo El custodio puesto aparte en juego en el Lugar elegido al azar.\n<i>Nota: todas las copias del Observador yithiano dejan de ser Indiferente.</i>"
+    },
+    {
+        "code": "04242",
+        "flavor": "Debéis encontrar un camino de vuelta a casa. Si los yithianos pueden traeros a este lugar, seguramente debe de haber una forma de regresar…",
+        "name": "Acceso restringido",
+        "text": "<b>Objetivo</b> - Si tres de las siguientes afirmaciones son ciertas, debes hacer avanzar el acto:\n- Un investigador ha \"encontrado el proceso\".\n- Un investigador ha \"diseccionado un órgano\".\n- Un investigador ha \"interrogado a un sujeto de pruebas\".\n- Un investigador ha \"averiguado qué año es\".\n- Un investigador ha \"activado el dispositivo\".\n- Un investigador controla El custodio.",
+        "back_name": "El proceso",
+        "back_flavor": "Creéis haber descubierto el proceso que emplean los yithianos para transportaros aquí. Pero la verdad es difícil de aceptar. Nunca trajeron vuestros cuerpos a este lugar. Vuestra mente ha sido transferida al cuerpo de una de estas criaturas. En alguna parte, y en otro tiempo, una de las denostadas criaturas habita en cada uno de vuestros cuerpos.",
+        "back_text": "Ya no tienes que realizar ninguna de las siguientes tareas. Sin embargo, cuantas más hayas realizado para cuando acabe el escenario, más fácil será la transición a tu cuerpo humano, y menos probable será el proceso falle o salga mal. <b>Cuidado…</b>\nColoca este acto en la zona de victoria con este lado boca arriba como recordatorio.\n- Un investigador ha \"encontrado el proceso\".\n- Un investigador ha \"diseccionado un órgano\".\n- Un investigador ha \"interrogado a un sujeto de pruebas\".\n- Un investigador ha \"averiguado qué año es\".\n- Un investigador ha \"activado el dispositivo\".\n- Un investigador controla El custodio."
+    },
+    {
+        "code": "04243",
+        "flavor": "Habéis reunido el conocimiento necesario para recuperar vuestros cuerpos, pero antes de que podáis iniciar el proceso, debéis expandir vuestras mentes.",
+        "name": "Recuperación",
+        "text": "Cada Observador yithiano obtiene Cazador.\n[action] Gasta 1 pista: <b>Robar.</b> Roba 2 cartas en lugar de 1. Si tu mano supera tu tamaño de mano máximo, roba 1 carta adicional.\n<b>Objetivo</b> - Si cada investigador superviviente tiene 10 o más cartas en su mano, haz avanzar el acto inmediatamente.\n<i>Cuidado: recuerda completar tantas de las tareas indicadas en el acto 2b como sea posible.</i>",
+        "back_name": "Regreso al futuro",
+        "back_flavor": "La máquina zumba con una intensa vibración. Han hecho falta muchas horas para construirla, y habéis tenido que fabricarla en secreto, empleando el conocimiento reunido en las distintas zonas de la ciudad. Es un extraño dispositivo con barras, ruedas y cristal, del tamaño de un archivador pequeño. Un espejo circular que hay en su centro os devuelve vuestros reflejos alienígenas.\nActiváis el dispositivo, y notáis un tirón en vuestra psique que estira vuestra consciencia por el éter del tiempo y el espacio. Los recuerdos regresan en tropel.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "04244",
+        "name": "Cuerpo de yithiano",
+        "subname": "Cautivo en otra forma",
+        "text": "Cada uno de tus Apoyos [[Aliado]] obtiene el rasgo [[Yithiano]].\n[reaction] Después de que asignes una carta a una prueba de habilidad que estés realizando: Duplica los iconos de habilidad de esa carta. Límite de una vez por prueba.\n[elder_sign] effect: +2. Roba 1 carta.",
+        "traits": "Monstruo. Yithiano.",
+        "back_flavor": "Y entonces comencé a sentir cada vez más la morbosa tentación de mirarme. Una noche, por fin, no pude resistir. Al primer golpe de vista no vi absolutamente nada. Un momento después supe por qué: mi cabeza estaba situada al final de un cuello flexible de una longitud increíble. Encogiendo este cuello y mirando atentamente hacia abajo distinguí una forma cónica y rugosa, iridiscente, cubierta de escamas, de unos cuatro metros de altura y otros tantos de diámetro en la base. Aquella noche desperté a medio Arkham con mi alarido, al saltar como loco de los abismos del sueño.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "back_text": "<b>Tamaño de mazo:</b> El que era cuando eras humano.\n<b>Opciones de creación de mazos:</b> Los Yithianos no pueden crear mazos.\n<b>Requisitos de creación de mazos</b>: (no cuentan para el tamaño de mazo): ¿Te acuerdas…?"
+    },
+    {
+        "code": "04245",
+        "flavor": "Había ventanales inmensos y redondos, puertas rematadas en arcos y pedestales o altares tan altos como una habitación ordinaria.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "name": "Sala de interrogatorios",
+        "subname": "Sala de llegadas",
+        "text": "[reaction] Después de que comiences tu turno en este Lugar, si hay un Enemigo [[Yithiano]] en este Lugar: Roba 1 carta.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Entre tanto, la mente desplazada, se proyectaba a su vez hacia la época y el cuerpo del espíritu invasor, era cuidadosamente vigilada. Se impedía que dañase el cuerpo que ocupaba, y se le extraían todos los conocimientos útiles por medio de interrogatorios especiales.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04246",
+        "name": "Sala de interrogatorios",
+        "subname": "Sala de detención",
+        "text": "[action]: <b>Negociar.</b> Realiza una prueba de [intellect] (4) o de [combat] (4) para interrogar a la mente cautiva que hay atrapada aquí. Si tienes éxito, recuerda que has \"interrogado a un sujeto de pruebas.\" Si fracasas, recibe 2 puntos de horror.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Entre tanto, la mente desplazada, se proyectaba a su vez hacia la época y el cuerpo del espíritu invasor, era cuidadosamente vigilada. Se impedía que dañase el cuerpo que ocupaba, y se le extraían todos los conocimientos útiles por medio de interrogatorios especiales.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04247",
+        "flavor": "Un cieno inidentificable cubre la gran mesa que hay cerca del centro de la sala. ¿Serán los restos de un experimento fallido? ¿O algo mucho peor?",
+        "name": "Sala de interrogatorios",
+        "subname": "Cámara llena de icor",
+        "text": "<b>Obligado</b> - Después de que entres en este Lugar: Realiza una prueba de [willpower] (3). Recibe 1 punto de horror por cada punto que te falte para tener éxito.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Entre tanto, la mente desplazada, se proyectaba a su vez hacia la época y el cuerpo del espíritu invasor, era cuidadosamente vigilada. Se impedía que dañase el cuerpo que ocupaba, y se le extraían todos los conocimientos útiles por medio de interrogatorios especiales.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04248",
+        "flavor": "Más adelante tuve otras visiones. Atravesaba por ciclópeos corredores de piedra, y subía y bajaba por inmensos planos inclinados, construidos con idéntica y gigantesca sillería.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "name": "Salones de Pnakotus",
+        "subname": "Corredores norte",
+        "text": "[free] Durante tu turno, elige y descarta una carta de tu mano: Muévete a otra copia de los Salones de Pnakotus. Límite de una vez por turno.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "En aquel punto, las arenas del desierto se extendían directamente sobre una de las plantas de un edificio gigantesco, construido en los mismos albores de la Tierra… Cómo se conservaba después de millones de años, y después de tantas convulsiones geológicas, es cosa que ni siquiera pretendí entonces -ni ahora tampoco- adivinar.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04249",
+        "flavor": "Más adelante tuve otras visiones. Atravesaba por ciclópeos corredores de piedra, y subía y bajaba por inmensos planos inclinados, construidos con idéntica y gigantesca sillería.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "name": "Salones de Pnakotus",
+        "subname": "Corredores este",
+        "text": "[free] Durante tu turno, elige y descarta una carta de tu mano: Muévete a otra copia de los Salones de Pnakotus. Límite de una vez por turno.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "En aquel punto, las arenas del desierto se extendían directamente sobre una de las plantas de un edificio gigantesco, construido en los mismos albores de la Tierra… Cómo se conservaba después de millones de años, y después de tantas convulsiones geológicas, es cosa que ni siquiera pretendí entonces -ni ahora tampoco- adivinar.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04250",
+        "flavor": "Más adelante tuve otras visiones. Atravesaba por ciclópeos corredores de piedra, y subía y bajaba por inmensos planos inclinados, construidos con idéntica y gigantesca sillería.\n- H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "name": "Salones de Pnakotus",
+        "subname": "Corredores oeste",
+        "text": "[free] Durante tu turno, elige y descarta una carta de tu mano: Muévete a otra copia de los Salones de Pnakotus. Límite de una vez por turno.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "En aquel punto, las arenas del desierto se extendían directamente sobre una de las plantas de un edificio gigantesco, construido en los mismos albores de la Tierra… Cómo se conservaba después de millones de años, y después de tantas convulsiones geológicas, es cosa que ni siquiera pretendí entonces -ni ahora tampoco- adivinar.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04251",
+        "name": "Gran Biblioteca",
+        "text": "[action] Gasta 1 pista [per_investigator]: Realiza una prueba de [intellect] (3) para descifrar la información que has encontrado. Si tienes éxito, recuerda que has \"encontrado el proceso\".\n<b>Obligado</b> - Al final de la ronda, si hay menos de 4 pistas sobre la Gran Biblioteca: Añade pistas a la Gran Biblioteca hasta que haya 4 pistas sobre ella.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Sus inmensas bibliotecas conservaban innumerables textos y grabados que resumían toda la historia de la Tierra. En ellos se describía cada una de las especies que existieron o llegarían a existir, con especial referencia a sus artes, sus realizaciones, sus lenguas y su psicología.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04252",
+        "name": "Planetario yithiano",
+        "text": "[action] [action] Si no hay pistas sobre el Planetario yithiano: Recuerda que has \"averiguado qué año es\".\nMientras estés en el Planetario yithiano, aumenta en 2 tu tamaño de mano máximo.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "En mis sueños, me comuniqué -mediante el castañeteo de mis pinzas- con los espíritus exiliados que procedían de todos los rincones del sistema solar. Había un espíritu que viviría, en un futuro incalculablemente lejano, en el planeta que llamamos Venus, y otro que había vivido en uno de los satélites de Júpiter hace seis millones de años.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04253",
+        "name": "Laboratorio de la Gran Raza",
+        "text": "[action]Si no hay pistas sobre el Laboratorio de la Gran Raza: Realiza una prueba de [agility] (3) para manipular los controles del dispositivo tecnológico que hay en él. Si tienes éxito, recuerda que has \"activado el dispositivo\". Si fracasas, coloca 1 pista sobre el Laboratorio de la Gran Raza <i>(de la reserva de fichas)</i>.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Esta raza conocía la ciencia de todas las civilizaciones pasadas y futuras de la Tierra, ya que sus espíritus más poderosos poseían la facultad de proyectarse en el pasado y en el futuro, salvando incluso abismos de millones de años, con objeto de estudiar el saber de cada época.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04254",
+        "name": "Sala de deconstrucción",
+        "text": "[action]: Realiza una prueba de [combat] (4) para intentar recuperar un órgano valioso de uno de los cadáveres alienígenas. Esta prueba recibe +1 a su dificultad por cada pista que haya sobre la Sala de deconstrucción. Si tienes éxito, recuerda que has \"diseccionado un órgano\".",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "Poseían una constitución sólo parcialmente material --según lo que nosotros entendemos por materia-, y su tipo de conciencia y medios de percepción diferían muchísimo de los de cualquier organismo terrestre.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04255",
+        "flavor": "El gran desierto arenoso que se extiende más allá no te permitirá huir. Si te marchas, nunca recuperarás tu cuerpo.",
+        "name": "Torres de Pnakotus",
+        "text": "[action]: Descarta cualquier cantidad de cartas de tu mano. Añade tu pila de descartes a tu mazo y baraja éste; luego roba una cantidad de cartas igual a la cantidad de cartas que descartaste más 1. Límite de una vez por turno.",
+        "traits": "Antiguo. Pnakotus.",
+        "back_flavor": "En determinados parajes llegué a descubrir unas torres enormes, oscuras, cilíndricas, que se elevaban muy por encima de cualquier otro edificio.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>"
+    },
+    {
+        "code": "04256",
+        "name": "El custodio",
+        "subname": "Yithiano curioso",
+        "text": "[reaction] Cuando comience la fase de Investigación, si controlas El custodio: Cada investigador que esté en su Lugar roba 1 carta.\n[action] Si El custodio no está controlado por un jugador: <b>Negociar.</b> Realiza una prueba de [intellect] (3) para conversar con el custodio de la biblioteca. Si tienes éxito, hay algo en sus gestos que te parece familiar; coloca 1 de tus pistas sobre él. A continuación, si hay 1 pista [per_investigator] sobre él, toma el control de El custodio.",
+        "traits": "Aliado. Yithiano."
+    },
+    {
+        "code": "04257",
+        "name": "Guardián de la Gran Biblioteca",
+        "text": "<b>Aparición</b> - Gran Biblioteca.\nAlerta. Indiferente.\nSi un investigador ha \"encontrado el proceso\" o ha \"averiguado qué año es\", el Guardián de la Gran Biblioteca pierde Indiferente y obtiene Cazador.",
+        "traits": "Monstruo. Yithiano."
+    },
+    {
+        "code": "04258",
+        "name": "Científico de Yith",
+        "text": "<b>Aparición</b> - Laboratorio de la Gran Raza.\nIndiferente.\nSi un investigador ha \"activado el dispositivo\" o ha \"diseccionado un órgano\", el Científico de Yith pierde Indiferente y obtiene Cazador.",
+        "traits": "Monstruo. Yithiano."
+    },
+    {
+        "code": "04259",
+        "name": "Erudito de Yith",
+        "text": "<b>Presa</b> - Más cartas en la mano.\n<b>Obligado</b> - Después de que el Erudito de Yith te ataque: Descarta 2 cartas de tu mano al azar.\n[action] Si el Erudito de Yith está preparado y enfrentado a ti: <b>Negociar.</b> Realiza una prueba de [intellect] (3) para intentar hacerte pasar por un miembro de la raza de la criatura. Si tienes éxito, roba 1 carta y evita al Erudito de Yith. Si fracasas, el Erudito de Yith te ataca.",
+        "traits": "Monstruo. Yithiano."
+    },
+    {
+        "code": "04260",
+        "name": "Presencia yithiana",
+        "text": "<b>Revelación</b> - Pon la Presencia yithiana en juego en tu zona de amenaza.\nSi hay un Enemigo [[Yithiano]] en tu Lugar, no puedes investigar ese Lugar ni activar capacidades [action] de las cartas de Encuentro <i>(incluida ésta).</i>\n[action] Elige y descarta 2 cartas de tu mano: Descarta la Presencia yithiana.",
+        "traits": "Poder. Terror."
+    },
+    {
+        "code": "04261",
+        "name": "Interrogatorio cruel",
+        "text": "<b>Revelación</b> - Pon el Interrogatorio cruel en juego en tu zona de amenaza. Si un investigador ha \"interrogado a un sujeto de pruebas\", recibes 1 punto de horror y el Interrogatorio cruel obtiene Oleada.\nNo puedes realizar acciones de robar.\n[action]: Realiza una prueba de [willpower] (2). Si tienes éxito, descarta el Interrogatorio cruel",
+        "traits": "Lesión. Terror."
+    },
+    {
+        "code": "04262",
+        "flavor": "Se le extirpaba la mayor cantidad posible de recuerdos, de manera que en la mayoría de los caos sólo conservaba un vacío de sueños nebulosos de ese periodo.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "name": "Humanidad perdida",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (5). Por cada punto que te falte para tener éxito, retira de la partida la primera carta de tu mazo. Si hay menos de 10 cartas en total entre tu mano, tu mazo y tu pila de descartes, te vuelves loco.",
+        "traits": "Terror."
+    },
+    {
+        "code": "04263",
+        "flavor": "No era un secuestro, sino un intercambio.",
+        "name": "Mente cautiva",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (0). Independientemente de si esta prueba de habilidad tiene éxito o fracasa, elige y descarta todas las cartas de tu mano menos X. X es tu valor de habilidad modificado para esta prueba.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "04264",
+        "flavor": "Sentía, además, fuertes dolores de cabeza, y una extraña sensación, totalmente nueva para mí: era como si alguien tratara de apoderarse de mis pensamientos.\n– H. P. Lovecraft, <u>La Sombra de Otro Tiempo</u>",
+        "name": "Experiencia extracorpórea",
+        "text": "<b>Revelación</b> - Devuelve todas las cartas de tu mano a tu mazo, barájalo y roba esa misma cantidad de cartas. Devuelve Experiencia extracorpórea a tu mazo y barájalo.",
+        "traits": "Locura. Paradoja."
+    }
+]

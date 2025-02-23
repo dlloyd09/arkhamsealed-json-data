@@ -1,0 +1,224 @@
+[
+    {
+        "code": "03200",
+        "name": "Widmo Prawdy",
+        "text": "<b>Łatwy / Standardowy</b>\n[skull]: -X. X to liczba żetonów zagłady w grze (maks. 5).\n[cultist]: -2. Jeśli test zakończy się porażką, porusz każdego niebędącego w zwarciu wroga z cechą [[Byakhee]] 1 raz w stronę najbliższego badacza.\n[tablet]: -3. Anuluj efekty i symbole każdej karty umiejętności przeznaczonej do tego testu.\n[elder_thing]: -2. Jeśli test zakończy się porażką, tracisz 1 żeton zasobu za każdy punkt, o który test się nie powiódł.",
+        "back_text": "<b>Trudny / Ekspercki</b>\n[skull]: -X. X to liczba żetonów zagłady w grze.\n[cultist]: -2. Porusz każdego niebędącego w zwarciu wroga z cechą [[Byakhee]] 1 raz w stronę najbliższego badacza.\n[tablet]: -4. Anuluj efekty i symbole każdej karty umiejętności przeznaczonej do tego testu.\n[elder_thing]: -3. Jeśli test zakończy się porażką, tracisz 1 żeton zasobu za każdy punkt, o który test się nie powiódł."
+    },
+    {
+        "code": "03201",
+        "flavor": "As you step off the train in Gare d’Orsay, the sun sinks below the Paris skyline. You cannot waste any time. If Nigel Engram is somewhere in Paris, you have to find him and wring the answers from him one way or another.",
+        "name": "The First Night",
+        "text": "While you have more <b>Conviction</b> than <b>Doubt</b>, this agenda gains:\n\"When checking the doom threshold, doom on cards other than this agenda subtract from the total doom in play instead of adding to it.\"",
+        "back_name": "Daybreak",
+        "back_flavor": "Birds start to chirp eagerly. An orange tint slowly spreads across the sky as the creatures of the night shrink back into the darkness. You spend most of the day resting, and the daylight passes quickly with very little to show for it. Before you are able to fully recover from the previous night's events, it is evening once more",
+        "back_text": "Each investigator disengages from each enemy engaged with him or her and may move to a connecting location. Move The Organist 1 location away from the nearest investigator (to a location with no investigators, if possible)."
+    },
+    {
+        "code": "03202",
+        "flavor": "The city stirs as cold shadows embrace the streets. There is danger all around you. Danger that you cannot escape. Danger that will follow you to the ends of the earth. When will this waking nightmare end?",
+        "name": "The Second Night",
+        "text": "While you have more <b>Conviction</b> than <b>Doubt</b>, this agenda gains:\n\"When checking the doom threshold, doom on cards other than this agenda subtract from the total doom in play instead of adding to it.\"",
+        "back_name": "A Red Sun Rises",
+        "back_flavor": "To your relief, the sun once again begins to rise, peeking just over the eastern horizon and casting long shadows across the city streets. You are completely exhausted from the night's events. It feels as though you haven't slept in weeks. Perhaps you haven't.",
+        "back_text": "Each investigator disengages from each enemy engaged with him or her and may move to a connecting location. Move The Organist 1 location away from the nearest investigator (to a location with no investigators, if possible).\nCheck Campaign Log. If Jordan Perry is not listed under \"VIPs Slain,\" search the collection for Jordan Perry <i>(An Imposing Presence)</i> and spawn him in Montparnasse."
+    },
+    {
+        "code": "03203",
+        "flavor": "On the evening of your third night in Paris, a desperate resolve stirs within you. This cat and mouse game cannot go on any longer. One way or another, this night will end it. ",
+        "name": "The Third Night",
+        "text": "While you have more <b>Conviction</b> than <b>Doubt</b>, this agenda gains:\n\"When checking the doom threshold, doom on cards other than this agenda subtract from the total doom in play instead of adding to it.\"",
+        "back_name": "Dawn At Last",
+        "back_flavor": "The sun rises, and dispels the darkness. A warm fog envelops the city, blotting out the sky.",
+        "back_text": "Check Campaign Log.\n-If you have more (or equal) <b>Doubt</b> than <b>Conviction</b>, proceed to <b>(→R3)</b>.\n-If you have more <b>Conviction</b> than <b>Doubt</b>, advance to act 2b."
+    },
+    {
+        "code": "03204",
+        "flavor": "You pass the Church of St. Barnabé as you exit the train station and cannot help but overhear the organ playing. Is there a sermon this late in the evening? You marvel at the wild and strange chords for a moment before continuing. Paris is a big city, and you have very few leads…",
+        "name": "The Parisian Conspiracy (v. I)",
+        "text": "<b>Objective</b> - Spend the requisite number of clues to advance.\n<b>Objective</b> - At the end of the round, if there are 3 or more doom in play, advance.",
+        "back_name": "St. Barnabé",
+        "back_text": "<b>If you spent clues to advance</b>:\n<blockquote><i>You nearly bump into a tall man, his coat and hat as black as his skin is pale. You remember seeing him through the windows of St. Barnabé Church. His organ playing continues to haunt you…</i></blockquote>\nSpawn the set-aside The Organist enemy at the lead investigator's location, <i>(Draped in Mystery)</i> side face-up. Advance to Act 2a - Pursuing Shadows.\n<hr><b>Otherwise:</b>\n<blockquote><i>The organ you heard earlier continues to haunt you. No matter where you are, the torturous chords play over and over in your head. Startled, you ask a passerby about the church. \"St. Barnabé?\" she replies in a thick accent. \"There is no such place.\"</i></blockquote>\nEach investigator takes 2 horror.\nSpawn the set-aside The Organist enemy at the location farthest from all investigators, <i>(Draped in Mystery)</i> side face-up. Advance to Act 2a - Pursuing Shadows."
+    },
+    {
+        "code": "03205",
+        "flavor": "You pass the Church of St. Barnabé as you exit the train station and cannot help but overhear the organ playing. Is there a sermon this late in the evening? You marvel at the wild and strange chords for a moment before continuing. Paris is a big city, and you have very few leads…",
+        "name": "The Parisian Conspiracy (v. II)",
+        "text": "<b>Objective</b> - Spend the requisite number of clues to advance.\n<b>Objective</b> - At the end of the round, if there are 3 or more doom in play, advance.",
+        "back_name": "True Evil",
+        "back_text": "<b>If you spent clues to advance</b>:\n<blockquote><i>The organ you heard earlier continues to haunt you. No matter where you are, the torturous chords play over and over in your head. The sensation that you are being watched tugs at your mind.</i></blockquote>\nSpawn the set-aside The Organist enemy at the location farthest from all investigators, <i>(Hopeless, I Defied Him)</i> side face-up. Advance to Act 2a - Stalked by Shadows.\n<hr><b>Otherwise:</b>\n<blockquote><i>You nearly bump into a tall man, his coat and hat as black as his skin is pale. He gives you a look of hatred, as intense and as deadly as you have ever seen. You recoil at the mere sight of him, and shadows gather around his feet as he marches towards you.</i></blockquote>\nEach investigator takes 2 horror.\nSpawn the set-aside The Organist enemy at the lead investigator's location, <i>(Hopeless, I Defied Him)</i> side face-up. Advance to Act 2a - Stalked by Shadows."
+    },
+    {
+        "code": "03206",
+        "flavor": "The chords that echo in your mind, the infernal man whose organ-playing intrigues and terrifies you… Perhaps there is a connection between this shadowy presence and <u>The King in Yellow</u>?",
+        "name": "Pursuing Shadows",
+        "text": "[reaction] After you successfully attack The Organist: An investigator at your location may place 1 of his or her clues on The Organist. (Group limit 1 [per_investigator] times per round.)\n<b>Objective</b> - If there are 3 [per_investigator] clues on The Organist, advance.",
+        "back_name": "Lost Lamb",
+        "back_flavor": "You pursue your quarry through a narrow avenue, passing a set of heavy iron gates. You are in a dead end - a court with tall, old houses on either side. You close the gates behind you and turn back toward the shadowed figure just as day begins to break. Rays of light peek out over the skyline, and you lift your hand to block the gaze of the sun. Then, as though dispersed by the sunlight, the figure you had been chasing folds into the shadows and vanishes. You search the court for the mysterious figure, but there is no sign of him anywhere. Just as you are about to leave, you spot a plaque next to a red-brown door atop a steep, narrow staircase. It reads: \"N. Engram.\"",
+        "back_text": "Check Campaign Log.\n-<i>If you intruded on a secret meeting</i>, proceed to <b>(→R2)</b>.\n-Otherwise, proceed to <b>(→R1)</b>."
+    },
+    {
+        "code": "03207",
+        "flavor": "I knew that every time I met him brought him nearer to the accomplishment of his purpose and my fate. And still I tried to save myself.\n–Robert W. Chambers, \"In the Court of the Dragon,\" <u>The King in Yellow</u>",
+        "name": "Stalked by Shadows",
+        "text": "[free] Spend 1 [per_investigator] clues, as a group: Either place 1 doom on the current agenda, or automatically evade The Organist. (Group limit once per round.)\n<b>Objective</b> - Survive three nights. <i>(Do not advance until you are instructed.)</i>",
+        "back_name": "Shepherd's Crook",
+        "back_flavor": "You lose track of yourself within the city as you flee for your life. Your feet move of their own accord. The beating of sinewy wings and screeching of creatures above you spurs you onward. Soon you find yourself running down a narrow avenue, passing a set of heavy iron gates. You are in a dead end - a court with tall, old houses on either side. You turn back toward the entrance and breathe a sigh of relief as you see the sun rising once more over the skyline of Paris. As though dispersed by the sunlight, the figure that had been chasing you folds into the shadows and vanishes. Just as you are about to leave, you spot a plaque next to a red-brown door atop a steep, narrow staircase. It reads: \"N. Engram.\"",
+        "back_text": "Check Campaign Log.\n-<i>If you intruded on a secret meeting</i>, proceed to <b>(→R2)</b>.\n-Otherwise, proceed to <b>(→R1)</b>."
+    },
+    {
+        "code": "03208",
+        "name": "Montparnasse",
+        "text": "[free] Odrzuć kartę z twojej ręki: zyskujesz żetony zasobów w liczbie równej liczbie symboli [willpower] na odrzuconej karcie. (Limit 1 raz na rundę).",
+        "traits": "Paryż. Kolejka.",
+        "back_flavor": "Ta okolica słynie z kawiarni i barów i głodujący artyści często tutaj bywają. Może pewnego dnia któryś z tych kreatywnych ludzi stanie się sławny. Podejrzewasz jednak, że o większości z nich nikt nigdy nie usłyszy."
+    },
+    {
+        "code": "03209",
+        "flavor": "Ulice skąpane są w zimnym deszczu. Każda mijana alejka może być kryjówką dla czegoś złowieszczego.",
+        "name": "Montmartre",
+        "text": "[action]: Odkryj wierzchnią kartę z talii każdego badacza. Możesz zagrać pod twoją kontrolę 1 odkryty w ten sposób atut <i>(płacąc jego koszt)</i>. Potasuj talię każdego badacza. (Limit grupowy 1 raz na rundę).",
+        "traits": "Paryż. Kolejka.",
+        "back_flavor": "Słyszałeś, że ta dzielnica jest wyjątkowo żywa i przyjazna, ale jak na twoje oko ulice sprawiają wrażenie niezwykle odludnych."
+    },
+    {
+        "code": "03210",
+        "flavor": "Cold rain pelts the street. Every alleyway you pass is another hiding place for something sinister.",
+        "name": "Montmartre",
+        "text": "[action] Spend 1 resource: Add 1 supply or ammo token to a card you control. (Limit once per round.)",
+        "traits": "Paris. Rail.",
+        "back_flavor": "You’ve heard this district to be vibrant and friendly, but the streets feel unusually lonely to you."
+    },
+    {
+        "code": "03211",
+        "flavor": "Wygląda na to, że w teatrze jest jakieś przedstawienie o szaleństwie. Zastanawiasz się, czy kiedykolwiek wystawiali „Króla w Żółci”.",
+        "name": "Grand Guignol",
+        "subname": "Teatr marionetek",
+        "text": "<b>Wymuszony</b> - Po tym, jak odkryjesz Grand Guignol: musisz otrzymać 2 punkty przerażenia albo wtasować do twojej talii wszystkie niebędące osłabieniami karty z twojej ręki, a następnie dobrać taką samą liczbę kart.",
+        "traits": "Paryż.",
+        "back_flavor": "Le Théâtre du Grand-Guignol specjalizuje się w realistycznych pokazach grozy, czasem określanych jako niemoralne. To jeden z najmniejszych obiektów kultury w Paryżu i jednocześnie jeden z najbardziej popularnych."
+    },
+    {
+        "code": "03212",
+        "flavor": "A trail of blood leads up the grand staircase. Deep, cold mist envelops the room. You get the unmistakable feeling that there is something inhuman in the opera house…",
+        "name": "Opéra Garnier",
+        "text": "While you are investigating Opéra Garnier, double the number of skill icons committed to this skill test.",
+        "traits": "Paris. Rail.",
+        "back_flavor": "The Palais Garnier is an ornate architectural masterpiece, and one of the most famous opera houses in the world. Strangely, you find the main doors thrown wide open, and a dark mist creeps out from the doorway."
+    },
+    {
+        "code": "03213",
+        "flavor": "Na głównych schodach zauważasz krwawy ślad wiodący do środka. Wnętrze spowite jest w gęstej, zimnej mgle. Masz nieodparte uczucie, że w gmachu opery kryje się coś nieludzkiego…",
+        "name": "Opéra Garnier",
+        "text": "Dopóki badasz Opéra Garnier, podwajasz bazowe wartości twoich umiejętności.",
+        "traits": "Paryż. Kolejka.",
+        "back_flavor": "Palais Garnier to architektoniczne arcydzieło i jeden z najbardziej znanych gmachów opery na świecie. Co dziwne, główne wejście jest otwarte na oścież, a z wnętrza budynku wylewa się mroczna mgła."
+    },
+    {
+        "code": "03214",
+        "flavor": "Sądziłeś, że na dworcu będą tłumy ludzi, ale jest tu upiornie pusto. Ledwie kilku pasażerów przechadza się wolno po peronie, snując się bez celu.",
+        "name": "Gare d'Orsay",
+        "text": "[action] Wydaj 1 żeton zasobu: porusz się do dowolnej lokalizacji z cechą [[Kolejka]].",
+        "traits": "Paryż. Kolejka.",
+        "back_flavor": "Ten dworzec kolejowy zbudowano w 1900 roku i był to pierwszy dworzec miejski korzystający wyłącznie z pociągów elektrycznych."
+    },
+    {
+        "code": "03215",
+        "flavor": "Kamienne ścieżki wiją się pośród nagrobków i niezliczonych mauzoleów. Gęsty las obelisków i bijąca zewsząd obecność śmierci sprawiają, że przytłacza cię melancholia.",
+        "name": "Cmentarz Père Lachaise",
+        "text": "<b>Wymuszony</b> - Po tym, jak uda ci się zbadać (sukces) Cmentarz Père Lachaise: do końca tej rundy nie możesz opuścić cmentarza Père Lachaise.",
+        "traits": "Paryż.",
+        "back_flavor": "To największy cmentarz w Paryżu i jednocześnie pierwszy cmentarz ogrodowy. Père Lachaise jest piękny i niepokojący zarazem."
+    },
+    {
+        "code": "03216",
+        "name": "Kanał Saint-Martin",
+        "text": "[reaction] Po tym, jak wymkniesz się wrogowi w Kanale Saint-Martin: porusz danego wroga do połączonej lokalizacji. (Limit 1 raz na rundę).",
+        "traits": "Paryż.",
+        "back_flavor": "Ten podziemny kanał łączy rzekę Sekwanę z Kanałem de l'Ourcq. Do wejścia do kanału wiodą stare, spękane schody."
+    },
+    {
+        "code": "03217",
+        "flavor": "Kiedy jesteś w tej okolicy, nie możesz pozbyć się uczucia, że jesteś obserwowany. Za każdym razem, kiedy spojrzysz w górę, masz wrażenie, że coś przemyka po dachach, ale natychmiast znika.",
+        "name": "Le Marais",
+        "text": "[reaction] Początek twojej tury, jeśli znajdujesz się w Le Marais: dobierz 1 kartę. (Limit grupowy 1 raz na rundę).",
+        "traits": "Paryż. Kolejka.",
+        "back_flavor": "Ostatnimi czasy ta historyczna dzielnica stała się mniej arystokratyczna, ale stara, wspaniała architektura pozostała."
+    },
+    {
+        "code": "03218",
+        "flavor": "Throughout this region, you cannot shake the feeling that you are being watched. Something along the rooftops ducks just out of sight each time you peer upward.",
+        "name": "Le Marais",
+        "text": "<b>Forced</b> - After you enter Le Marais: For the remainder of the round, you cannot leave Le Marais.",
+        "traits": "Paris. Rail.",
+        "back_flavor": "This historic district has recently become less aristocratic, but the old architectural masterwork remains."
+    },
+    {
+        "code": "03219",
+        "name": "Notre-Dame",
+        "text": "Każdy wróg znajdujący się w Notre-Dame dostaje -1 do walki i +1 do wymykania się.\n[action]: Wykonaj test [willpower] (6). Jeśli test zakończył się sukcesem, umieść 1 żeton zagłady na obecnej tajemnicy albo usuń 1 żeton zagłady z obecnej tajemnicy. (Limit grupowy 1 raz na grę).",
+        "traits": "Paryż. Kolejka.",
+        "back_flavor": "Notre-Dame de Paris - „Nasza dama Paryża” - to ikona miasta, najsłynniejsza katedra w Paryżu i jeden z najwspanialszych przykładów gotyckiej architektury na świecie. Zza witrażowych okien bije światło i słyszysz dziwaczną, chaotyczną melodię graną na organach."
+    },
+    {
+        "code": "03220",
+        "name": "Ogrody Luksemburskie",
+        "text": "Dopóki dowolny wróg z cechą [[Byakhee]] porusza się, jeśli w Ogrodach Luksemburskich znajduje się badacz, lokalizację danego wroga uznaje się za połączoną z Ogrodami Luksemburskimi.",
+        "traits": "Paryż.",
+        "back_flavor": "W ogrodach Pałacu Luksemburskiego znajdują się setki posągów, monumentów i fontann. Doskonałe miejsce na relaksujący spacer, gdyby nie fakt, że trafiłeś tu, uciekając przed skrzydlatymi stworami, których wrzaski cały czas słychać z ciemnego nieba."
+    },
+    {
+        "code": "03221",
+        "flavor": "…the point from which it would strike was his infernal eyes. – Robert W. Chambers, \"In the Court of the Dragon,\" <u>The King in Yellow</u>",
+        "name": "The Organist",
+        "subname": "Hopeless, I Defied Him",
+        "text": "Hunter. Cannot be damaged.\n<b>Forced</b> - After The Organist moves from the hunter keyword, if it is unengaged: Resolve its hunter keyword again. The Organist cannot attack this phase. (Limit once per round).",
+        "traits": "Humanoid. Avatar. Elite."
+    },
+    {
+        "code": "03221b",
+        "flavor": "I was creeping along, my feet almost refusing to move. – Robert W. Chambers, \"In the Court of the Dragon,\" <u>The King in Yellow</u>",
+        "name": "The Organist",
+        "subname": "Draped in Mystery",
+        "text": "Aloof. Cannot be damaged.\n<b>Forced</b> - At the end of the enemy phase: If The Organist is unengaged, move it 1 location away from the nearest investigator (to a location with no investigators, if possible). If it is engaged, disengage it instead.",
+        "traits": "Humanoid. Avatar. Elite."
+    },
+    {
+        "code": "03222",
+        "flavor": "If you can hear the beating of its leathery wings, it’s already too late.",
+        "name": "Stealthy Byakhee",
+        "text": "Hunter.\nWhile Stealthy Byakhee is exhausted, it gets -3 fight.",
+        "traits": "Monster. Byakhee."
+    },
+    {
+        "code": "03223",
+        "flavor": "The implication spoils what would otherwise be a lovely sunset.",
+        "name": "Twin Suns",
+        "text": "<b>Revelation</b> - Test [intellect] (4). If you fail, you must either remove 1 doom from the current agenda, or take 1 horror for each point you failed by.",
+        "traits": "Omen."
+    },
+    {
+        "code": "03224",
+        "name": "Deadly Fate",
+        "text": "<b>Revelation</b> - Test [willpower] (3). If you fail, discard cards from the top of the encounter deck until an enemy is discarded. You must either draw that enemy, or that enemy attacks you <i>(from the discard pile)</i>. If no enemy is discarded, take 1 horror instead.",
+        "traits": "Omen."
+    },
+    {
+        "code": "03225",
+        "name": "Torturous Chords",
+        "text": "<b>Revelation</b> - Test [willpower] (5). If you fail, put Torturous Chords into play in your threat area, with 1 resource on it for each point you failed by.\nEach time you play a card, increase the cost of that card by 1 and remove 1 resource from Torturous Chords.\nIf Torturous Chords has no resources, discard it.",
+        "traits": "Hex. Terror."
+    },
+    {
+        "code": "03226",
+        "name": "Frozen in Fear",
+        "text": "<b>Revelation</b> - Put Frozen in Fear into play in your threat area.\nThe first time you perform one of the following actions (move, fight, or evade) each round, it costs 1 additional action.\n<b>Forced</b> - At the end of your turn: Test [willpower] (3). If you succeed, discard Frozen in Fear.",
+        "traits": "Terror."
+    },
+    {
+        "code": "03227",
+        "name": "Zagubiona dusza",
+        "text": "<b>Odkrycie</b> - Sprawdź Dziennik kampanii. \n-Jeśli masz więcej (lub tyle samo) <b>Wątpliwości</b> niż <b>Przeświadczeń</b>, wykonaj test [intellect] (X), gdzie X to twoja [willpower]. Jeśli test zakończy się porażką, otrzymujesz 2 obrażenia.\n-Jeśli masz więcej <b>Przeświadczeń</b> niż <b>Wątpliwości</b>, wykonaj test [willpower] (X), gdzie X to twoja [intellect]. Jeśli test zakończy się porażką, otrzymujesz 2 obrażenia.",
+        "traits": "Szaleństwo. Pakt."
+    }
+]

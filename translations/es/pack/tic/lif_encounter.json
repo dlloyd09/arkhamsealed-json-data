@@ -1,0 +1,238 @@
+[
+    {
+        "code": "07231",
+        "name": "Una luz en la niebla",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1. Si tu Lugar está inundado, revela una ficha de Caos adicional.\n[cultist]: -2. Si fracasas, después de que termine esta prueba, aumenta el nivel de inundación de tu Lugar.\n[tablet]: -3. Si fracasas en esta prueba y tu Lugar está inundado, recibe 1 punto de daño.\n[elder_thing]: -4. Si fracasas, mueve una vez hacia tu Lugar el Enemigo preparado y sin enfrentar más cercano. Pierde Indiferente durante este movimiento.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2. Si tu Lugar está inundado, revela una ficha de Caos adicional.\n[cultist]: -2. Si fracasas, después de que termine esta prueba, aumenta el nivel de inundación de tu Lugar. Si no puedes, en vez de eso recibe 1 punto de horror.\n[tablet]: -3. Si fracasas en esta prueba y tu Lugar está inundado, recibe 2 puntos de daño.\n[elder_thing]: -4. Mueve una vez hacia tu Lugar el Enemigo sin enfrentar más cercano. Pierde Indiferente durante este movimiento."
+    },
+    {
+        "code": "07232",
+        "name": "Niebla en la bahía",
+        "text": "Los Lugares que están en la misma fila están conectados entre sí.\n<b>Obligado</b> - Cuando este plan avance: Mueve al siguiente plan toda la perdición que tenga.",
+        "flavor": "Un jirón de niebla envuelve el faro con un velo espectral. Las olas lamen las rocas de la costa como hambrientas lenguas húmedas. En el cielo, la luna brilla con intensidad sobrenatural. Tienes la curiosa sensación de que no estás solo…",
+        "back_name": "¡Emboscada!",
+        "back_text": "Haz aparecer el Enemigo Oceiros Marsh puesto aparte enfrentado al investigador jefe. Coloca la llave azul puesta aparte sobre Oceiros Marsh.\nAñade todas las copias de Digno de su puesto puestas aparte al mazo de Encuentros y barájalo.\nCada investigador pierde todas sus pistas.\nPon el Lugar Sótano del faro puesto aparte en juego directamente debajo de la Escalera del faro.\nHaz avanzar el acto directamente al acto 2a <i>(no resuelvas el acto 1b)</i>.",
+        "back_flavor": "No ves venir el ataque hasta que es demasiado tarde. Al doblar una esquina, alguien te golpea la cabeza y hace que te tambalees. Tu atacante te aprisiona contra la pared y muestra sus afilados dientes serrados al sonreír. Reconoces esa repulsiva cara de tus recuerdos\n-Volvemos a vernos -dice Oceiros con cierta sorpresa en su ronca voz-. Así que sois los que habéis estado fisgando por ahí. Da igual. Esta intromisión acabará ahora."
+    },
+    {
+        "code": "07233",
+        "name": "Inmutable como el mar",
+        "text": "Los Lugares que están en la misma fila están conectados entre sí.\n<b>Obligado</b> - Cuando un investigador sea capturado: Haz avanzar este plan.\n<b>Obligado</b> - Cuando este plan avance: Mueve al siguiente plan toda la perdición que tenga.",
+        "flavor": "La Orden sabe que estás aquí. No tienes tiempo que perder; ¡debes encontrar el camino a su guarida antes de que se movilicen para capturarte!",
+        "back_name": "Apresados por profundos",
+        "back_text": "Todos los investigadores son capturados. Coloca todas sus llaves en el Calabozo. Si Oceiros Marsh está en juego, ponlo aparte, fuera del juego. Añade todas las copias de Hecho prisionero puestas aparte al mazo de Encuentros y barájalo.\nRevela el Sótano del faro. Pon la Gruta hundida <i>(Profundidades inferiores)</i> en juego directamente debajo de la Gruta hundida <i>(Profundidades superiores)</i> y la Gruta hundida <i>(Profundidades finales)</i> en juego directamente debajo de la Gruta hundida <i>(Profundidades inferiores)</i>. A continuación, pon en juego Lugares aleatorios Túnel de marea puestos aparte hasta que haya exactamente 4 Lugares en cada fila, excepto la fila de la Sala de la linterna <i>(consulta la guía de campaña para ver una imagen)</i>.\nHaz avanzar el acto directamente al acto 3a <i>(no resuelvas el acto 2b)</i>.",
+        "back_flavor": "De pronto, sufres una emboscada por parte de más de esas repulsivas criaturas híbridas. Demasiadas como para librarte. Unas frías manos escamosas te agarran los brazos y los inmovilizan tras tu espalda. A continuación, te cubren la cabeza con un saco y tu visión se oscurece. Te debates en vano contra tus raptores, pero te superan en número y no puedes con ellos.\n-Llevad abajo a todos los prisioneros -ordena una ronca voz-. Debes entender las consecuencias de profanar suelo sagrado."
+    },
+    {
+        "code": "07234",
+        "name": "La marea sube",
+        "text": "Los Lugares que están en la misma fila están conectados entre sí.",
+        "flavor": "Una fría sensación de dejà-vu te recorre el cuerpo cuando ves que el nivel del agua comienza a subir por los túneles. Llega la marea. Si no te das prisa, no quedará mucho que investigar. Por suerte, aún tienes una salida si la marea sube demasiado rápido…",
+        "back_name": "Salida cerrada",
+        "back_text": "Busca a Oceiros Marsh en todas las zonas fuera del juego y haz que aparezca en la Gruta hundida <i>(Profundidades superiores)</i>.\nRetira de la partida todos los Lugares [[Cabo del Halcón]] (o bien añádelos a la zona de victoria si tienen <b>Victoria X</b> y no tienen pistas). Mueve a todos los Enemigos e investigadores que estén en esos Lugares a la Gruta hundida <i>(Profundidades superiores)</i>. Todas las demás cartas de esos Lugares son descartadas.\nBusca los 4 Lugares que estén más cerca de la parte inferior que puedan ver aumentados sus niveles de inundación. Aumenta cada uno de sus niveles de inundación.",
+        "back_flavor": "Una conocida respiración pesada resuena entre las resbaladizas rocas de las cavernas y las paredes de piedra del faro. Te agachas tras una cobertura cuando oyes pasos que se acercan. Lo siguiente que escuchas es el fuerte chirrido de una pesada puerta metálica antes de cerrarse de un portazo, seguido de un revelador clic que te corta la respiración. Alguien ha cerrado la salida que da al faro…"
+    },
+    {
+        "code": "07235",
+        "name": "Terror en el Cabo del Halcón",
+        "text": "Oceiros Marsh recibe +2 de salud [per_investigator].\nLos Lugares que están en la misma fila están conectados entre sí.\n<i>(Cuidado - Es posible que el escenario no acabe cuando este plan avance, pero la marea seguirá subiendo…)</i>",
+        "flavor": "El ruido de las olas al romper en la costa resuena por los porosos túneles que hay bajo el faro. Notas la fuerza de tus latidos en los oídos mientras te debates por llevarle la delantera al agua.",
+        "back_name": "Marea alta",
+        "back_text": "Busca los 4 Lugares que estén más cerca de la parte inferior que puedan ver aumentados sus niveles de inundación. Aumenta cada uno de sus niveles de inundación. Si no puedes, pasa a <b>(→R3)</b>. Si no es así, vuelve a darle la vuelta a este plan y sigue jugando.",
+        "back_flavor": "La marea sigue subiendo…"
+    },
+    {
+        "code": "07236",
+        "name": "El faro",
+        "text": "<b>Objetivo</b> - Gasta la cantidad necesaria de pistas antes de que el plan avance.",
+        "flavor": "Todo apunta a que este faro sirve como base de operaciones para la Orden Esotérica de Dagón. No queda mucho de Innsmouth que investigar, así que esta es tu mejor oportunidad para encontrar respuestas. ¿Qué está tramando la Orden exactamente? Debes averiguarlo antes de que se den cuenta de que estás aquí…",
+        "back_name": "Escuchando al enemigo",
+        "back_text": "Haz aparecer el Enemigo Oceiros Marsh puesto aparte en la Cabaña del farero, agotado. Coloca la llave azul puesta aparte sobre él.\nAñade todas las copias de Digno de su puesto puestas aparte al mazo de Encuentros y barájalo.\nPon el Lugar Sótano del faro puesto aparte en juego directamente debajo de la Escalera del faro.\nHaz avanzar el plan directamente al plan 2a <i>(no resuelvas el plan 1b)</i>.",
+        "back_flavor": "Mientras avanzas de forma sigilosa por la vieja estructura, que ha sufrido los estragos del tiempo, oyes una conversación que se desarrolla en voz baja en el interior de la pequeña cabaña que hay pegada al faro. Pones la oreja en una pared cercana y te quedas completamente inmóvil, con el corazón a mil.|n-Encontradlos -ordena una grave voz ronca-. No permitáis que lleguen a la gruta. Los secretos de la Orden deben seguir siéndolo.\n-Sí, Oceiros -contestan calladamente varias voces al unísono. Esperas hasta que el sonido de las pisadas haya dejado de oírse antes de proseguir la investigación. Parece que tu corazonada era cierta. ¡Oceiros está aquí!"
+    },
+    {
+        "code": "07237",
+        "name": "Encontrar el camino",
+        "text": "<b>Objetivo</b> - Si un investigador entra en el Sótano del faro antes de que el plan avance, haz avanzar el acto.",
+        "flavor": "El Cabo del Halcón contiene muchos secretos que la Orden no quiere que descubras. Tal vez puedas abrir el camino si acabas con Oceiros.",
+        "back_name": "Explorando las profundidades",
+        "back_text": "Si Oceiros Marsh está en juego, añádelo a la zona de victoria.\nPon la Gruta hundida <i>(Profundidades inferiores)</i> en juego directamente debajo de la Gruta hundida <i>(Profundidades superiores)</i> y la Gruta hundida <i>(Profundidades finales)</i> en juego directamente debajo de la Gruta hundida <i>(Profundidades inferiores)</i>. A continuación, pon en juego Lugares aleatorios Túnel de marea puestos aparte hasta que haya exactamente 4 Lugares en cada fila, excepto la fila de la Sala de la linterna <i>(consulta la guía de campaña para ver una imagen)</i>.\nAñade todas las copias de Hecho prisionero puestas aparte al mazo de Encuentros y barájalo.\nHaz avanzar el plan directamente al plan 3a <i>(no resuelvas el plan 2b)</i>.",
+        "back_flavor": "Usas la llave de Oceiros para abrir la puerta del sótano del faro, esperando encontrar una pequeña bodega de piedra. En lugar de eso, encuentras una red de cavernas inundadas que se extiende hacia las profundidades del acantilado del Cabo del Halcón, posiblemente bajo el nivel del mar. Hiciste bien en venir aquí: ¿quién sabe qué secretos guarda la Orden al abrigo de ojos curiosos?"
+    },
+    {
+        "code": "07238",
+        "name": "Adoradores de las profundidades",
+        "text": "<b>Obligado</b> - Al final de la fase de Investigación: Cada investigador que esté en un Lugar totalmente inundado debe recibir 3 puntos de daño o bien moverse al Lugar que esté directamente debajo de su Lugar.\n<b>Objetivo</b> - Si todos los investigadores no derrotados han desistido, haz avanzar el acto. <i>(Consejo - Tal vez quieras encontrar los que has venido a buscar antes de marcharte de este sitio. Las llaves roja y negra representan los objetos que más falta te hacen)</i>.",
+        "flavor": "En las profundidades que hay bajo el faro existe una red de túneles repletos de información sobre las actividades de la Orden. Debes descubrir todo lo que puedas antes de escapar.",
+        "back_name": "Hacia Y'ha-nthlei",
+        "back_text": "<b>Si al menos 1 investigador desistió desde la Sala de la luna:</b>\n<blockquote><i>Los túneles submarinos parecen no tener fin y se extienden hacia turbios remolinos. La oscura agua salada choca contra el cristal del casco de tu traje. Tras lo que parece una eternidad, sales al frío aire vespertino, helado hasta los huesos. te quitas el pesado traje pieza a pieza en cuento llegas a la orilla.</i></blockquote>\n<b>(→R1)</b>\n<b>Si todos los investigadores que desistieron lo hicieron desde la Garita del Cabo del Halcón:</b>\n<blockquote><i>Huyes hacia los solitarios bosques, jadeante por la falta de aire. De algún modo, has huido una vez más de los habitantes de las profundidades.</i></blockquote><b>(→R2)</b>"
+    },
+    {
+        "code": "07239",
+        "name": "Garita del Cabo del Halcón",
+        "text": "La Garita del Cabo del Halcón no puede quedar totalmente inundada.\n[action]: <b>Desistir.</b> Vuelves hacia el bosque, dejando atrás el faro y sus misterios. Si controlas la llave negra o la llave roja, coloca cada una de esas llaves que controles sobre el acto en curso.",
+        "back_text": "La Garita del Cabo del Halcón no puede quedar totalmente inundada.",
+        "back_flavor": "Una espesa niebla oculta tu llegada mientras subes por el camino que lleva al Cabo del Halcón. Con suerte, el faro estará abandonado… Pero la suerte no ha estado de tu parte últimamente.",
+        "traits": "Cabo del Halcón."
+    },
+    {
+        "code": "07240",
+        "name": "Escalera del faro",
+        "text": "La Escalera del faro no puede quedar totalmente inundada.\n[free] Si en este momento hay cualquier Apoyo de historia [[Reliquia]] puesto aparte: Añade 1 de ellos a tu mano.",
+        "back_text": "La Escalera del faro no puede quedar totalmente inundada.",
+        "back_flavor": "La pesada puerta que da al faro está entornada. Alguien ha estado aquí hace poco…",
+        "traits": "Cabo del Halcón."
+    },
+    {
+        "code": "07241",
+        "name": "Sala de la linterna",
+        "text": "La Sala de la linterna no puede quedar inundada.\n<b>Obligado</b> - Después de que la Sala de la linterna sea revelada: Coloca sobre ella la llave blanca puesta aparte.",
+        "back_text": "La Sala de la linterna no puede quedar inundada.",
+        "back_flavor": "En la parte de arriba de la escalera, una estrecha puerta de madera combada por el daño de la lluvia te impide el paso a la sala de la linterna que hay en lo alto del faro.",
+        "traits": "Cabo del Halcón."
+    },
+    {
+        "code": "07242",
+        "name": "Acantilado del Cabo del Halcón",
+        "text": "El Acantilado del Cabo del Halcón no puede quedar totalmente inundada.\n[free] Si controlas la llave blanca: Usas la llave blanca para otear el oscuro horizonte de tormenta, y algo brota entre tus recuerdos. Lee el <b>Destello del pasado XII</b> en la guía de campaña.",
+        "back_text": "El Acantilado del Cabo del Halcón no puede quedar totalmente inundada.",
+        "back_flavor": "Es escarpado acantilado se proyecta sobre la costa de Innsmouth. Las oscuras olas chocan contra las afiladas rocas. Una caída desde aquí sería mortal sin duda alguna.",
+        "traits": "Cabo del Halcón."
+    },
+    {
+        "code": "07243",
+        "name": "Cabaña del farero",
+        "text": "La Cabaña del farero no puede quedar totalmente inundada.\n<b>Obligado</b> - Después de que la Cabaña del farero sea revelada: Coloca sobre ella la llave amarilla puesta aparte.",
+        "back_text": "La Cabaña del farero no puede quedar totalmente inundada.",
+        "back_flavor": "La cabaña que hay junto al faro está hecha una pena. Es un milagro que la puerta no se haya desprendido de sus goznes. Al otro lado, el interior del edificio huele a moho y pescado.",
+        "traits": "Cabo del Halcón."
+    },
+    {
+        "code": "07244",
+        "name": "Gruta hundida",
+        "subname": "Profundidades superiores",
+        "text": "[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de un Lugar Túnel de marea de esta fila.",
+        "flavor": "Vaya, pues eso no es una bodega precisamente.",
+        "back_name": "Sótano del faro",
+        "back_text": "La puerta que lleva al sótano del faro está cerrada a cal y canto. No puedes entrar en este Lugar a menos que controles la llave azul.",
+        "back_flavor": "Un gran candado te impide el paso a lo que sospechas que es una pequeña bodega bajo el faro.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07245",
+        "name": "Gruta hundida",
+        "subname": "Profundidades inferiores",
+        "text": "[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de un Lugar Túnel de marea de esta fila.",
+        "back_flavor": "Una desvencijada escalera de madera atraviesa la superficie de la pared del acantilado y lleva hacia las profundidades subterráneas.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07246",
+        "name": "Gruta hundida",
+        "subname": "Profundidades finales",
+        "text": "[free] Los investigadores que estén en este Lugar, como grupo, gastan 1 pista [per_investigator]: Mira el lado revelado de un Lugar Túnel de marea de esta fila.",
+        "back_flavor": "Una desvencijada escalera de madera atraviesa la superficie de la pared del acantilado y lleva hacia las profundidades subterráneas.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07247",
+        "name": "Altar a Hidra",
+        "text": "No se pueden descubrir pistas en el Altar a Hidra excepto al investigar.\nMientras un investigador que esté en el Altar a Hidra controle la llave verde, el Altar a Hidra recibe -3 a velo.\n<b>Obligado</b> - Depués de que el Altar a Hidra sea revelado: Coloca sobre él la llave roja puesta aparte.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07248",
+        "name": "Zona de cría de profundos",
+        "text": "[free] Si controlas la llave morada: Comparas la llave morada con los enormes huevos que llenan la sala inundada y recuerdas algo. Lee el <b>Destello del pasado XIII</b> en la guía de campaña.\n<b>Obligado</b> - Después de que la Zona de cría de profundos sea revelada: Aumenta su nivel de inundación.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07249",
+        "name": "Sala de la luna",
+        "text": "[action] Si la Sala de la luna está sin inundar: <b>Desistir.</b> Te pones uno de los trajes de buzo vacíos y te sumerges en el estanque. Si controlas la llave negra o la llave roja, coloca cada una de esas llaves que controles sobre el acto en curso.\n<b>Obligado</b> - Después de que la Sala de la luna sea revelada: Aumenta su nivel de inundación.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07250",
+        "name": "Archivos hundidos",
+        "text": "No se pueden descubrir pistas en los Archivos hundidos mientras estén inundados.\n<b>Obligado</b> - Después de que los Archivos hundidos sean revelados: Quedan totalmente inundados. Coloca sobre ellos la llave negra puesta aparte.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07251",
+        "name": "Sala de bombeo",
+        "text": "[action]: Realiza una prueba de [intellect] (2) o de [agility] (2). Si tienes éxito, elige 2 Lugares. Reduce el nivel de inundación de uno de esos Lugares y aumenta el nivel de inundación del otro (si tienes éxito por 2 o más, en vez de eso puedes simplemente elegir simplemente un Lugar y reducir su nivel de inundación).",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07252",
+        "name": "¡Capturados!",
+        "text": "<b>La primera vez que un investigador sea capturado, lee el siguiente texto:</b>\n<blockquote><i>Te atan y te llevan a rastras bajo tierra antes de tirarte en una celda rodeada de paredes de piedra de las que gotea agua. Tus captores hacen oídos sordos frente a tus gritos, y sus pisadas se pierden a lo lejos.</i></blockquote>\nRetira el investigador capturado de su Lugar y devuelve todos los Apoyos de los espacios de mano de ese investigador a su mano.\nGira hacia un lado la carta pequeña de ese investigador para indicar que ha sido capturado. Los investigadores capturados no pueden moverse, combatir ni ser enfrentados.\nDale la vuelta a esta carta de Historia para mostrar su lado \"Calabozos\" y ponla en juego. No está en ninguna fila o columna existente, y solo está conectada a los Lugares Gruta hundida mediate sus símbolos de conexión. Coloca el investigador capturado en los Calabozos.\nA partir de ahora, siempre que un investigador sea capturado, resuelve este mismo efecto (devuelve todos sus Apoyos de sus espacios de mano a su mano, gira hacia un lado su carta pequeña y colócalo en los Calabozos)."
+    },
+    {
+        "code": "07252b",
+        "name": "Calabozos",
+        "text": "Los Calabozos no pueden quedar inundados. \nLos Enemigos no pueden entrar o aparecer en los Calabozos (si fuese a aparecer alguno aquí, en lugar de eso haz que aparezca en cualquier Gruta hundida).\n[action]: Realiza una prueba de [combat] (3) para romper los barrotes o de [agility] (3) para forzar la cerradura. Si controlas la llave amarilla esta prueba tiene éxito automáticamente. Si tienes éxito, libera un investigador que esté capturado aquí.",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07253",
+        "name": "Oceiros Marsh",
+        "subname": "Guardián del faro",
+        "text": "Cazador. Represalia.\nOceiros Marsh recibe +2 a evitar mientras esté en un Lugar inundado.\n<b>Obligado</b> - Después de evitar con éxito a Oceiros Marsh: Toma el control de 1 de las llaves que tenga por cada punto que tuvieras por encima del valor mínimo de éxito.\n<b>Obligado</b> - Después de que Oceiros Marsh te ataque durante la fase de Enemigos: Eres capturado. Coloca todas tus llaves sobre Oceiros Marsh.",
+        "traits": "Humanoide. Profundo. Híbrido. Élite."
+    },
+    {
+        "code": "07254",
+        "name": "Profundo niñera",
+        "text": "Indiferente. Represalia.\nMientras el Profundo niñera no esté enfrentado, cada uno de los demás Enemigos [[Profundo]] que estén en su Lugar o Lugares conectados recibe +1 a comabte y  +1 a evitar.\n<b>Obligado</b> - Después de que el Profundo niñera se enfrente a ti: Roba la primera carta del mazo de Encuentros. Esa carta pierde Oleada.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07255",
+        "name": "Cría de profundo",
+        "text": "Oleada.\n<b>Obligado</b> - Después de te enfrentes a la Cría de profundo: Debes perder 1 acción o bien te ataca.\n<b>Obligado</b> - Después de que derrotes a la Cría de profundo: Mueve una vez hacia tu Lugar el Enemigo [[Profundo]] más cercano que esté preparado y sin enfrentar. Ese Enemigo pierde indiferente durante este movimiento.",
+        "traits": "Monstruo. Profundo."
+    },
+    {
+        "code": "07256",
+        "name": "Nana horrenda",
+        "text": "<b>Revelación</b> -Si no hay ningún Enemigo [[Profundo]] en juego, la Nana horrenda obtiene Oleada. Si no es así, busca el Enemigo [[Profundo]] con el valor de combate más alto. Realiza una prueba de [willpower] (X), donde X es el valor de combate de ese Enemigo. Si fracasas, recibe 2 puntos de horror.",
+        "traits": "Terror."
+    },
+    {
+        "code": "07257",
+        "name": "Beso oceánico",
+        "text": "<b>Revelación</b> - Realiza una prueba de [combat] (2). Aumenta la dificultad de esta prueba en 2 si estás en un Lugar inundado. Si fracasas, recibe 1 punto de daño y pon el Beso oceánico en juego en tu zona de amenaza.\nNo puedes obtener recursos ni robar cartas.\n<b>Obligado</b> - Al final de la fase de Enemigos: Descarta el Beso oceánico.",
+        "traits": "Maldición. Riesgo."
+    },
+    {
+        "code": "07258",
+        "name": "Totalidad",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Si fracasas, pon Totalidad en juego en tu zona de amenaza.\n<b>Obligado</b> - Después de que entres en un Lugar inundado: Recibe 1 punto de horror.\n<b>Obligado</b> - Al final de turno: Descarta la Totalidad.",
+        "traits": "Augurio. Terror."
+    },
+    {
+        "code": "07259",
+        "name": "Digno de su puesto",
+        "text": "<b>Revelación</b> -Vincula esta carta a Oceiros Marsh, incluso si está en la zona de victoria.\n<b>Obligado</b> - Después de que Oceiros Marsh se mueva mediante su palabra clave Cazador, si no está enfrentado: Resuelve su palabra clave Cazador de nuevo. No puede atacar esta fase. Límite de una vez por ronda.\n<b>Obligado</b> - Cuando Oceiros Marsh ataque: Este ataque inflige +1 de daño y +1 de horror. Descarta esta carta.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07260",
+        "name": "Hecho prisionero",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (4). Si fracasas, eres capturado; coloca todas tus llaves en el Calabozo.",
+        "flavor": "Te lanzan al interior de la oscura celda y oyes el escalofriante clic de la cerradura al cerrarse a tu espalda.",
+        "traits": "Maquinación."
+    }
+]

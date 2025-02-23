@@ -1,0 +1,54 @@
+[
+    {
+        "code": "act",
+        "name": "Акт"
+    },
+    {
+        "code": "agenda",
+        "name": "Загроза"
+    },
+    {
+        "code": "asset",
+        "name": "Актив"
+    },
+    {
+        "code": "enemy",
+        "name": "Ворог"
+    },
+    {
+        "code": "enemy_location",
+        "name": "Enemy-Location"
+    },
+    {
+        "code": "event",
+        "name": "Подія"
+    },
+    {
+        "code": "investigator",
+        "name": "Дослідник"
+    },
+    {
+        "code": "key",
+        "name": "Key"
+    },
+    {
+        "code": "location",
+        "name": "Локація"
+    },
+    {
+        "code": "scenario",
+        "name": "Сценарій"
+    },
+    {
+        "code": "skill",
+        "name": "Навичка"
+    },
+    {
+        "code": "story",
+        "name": "Сюжет"
+    },
+    {
+        "code": "treachery",
+        "name": "Напасть"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "code": "07163",
+        "name": "Arrecife del Diablo",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es el número de llaves que controlan los investigadores.\n[cultist]: -2. Si fracasas y esta prueba es un ataque o un intento de evitar contra un Enemigo [[Profundo]], este se enfrenta a ti. Si ya está enfrentado a ti, primero deja de estar enfrentado y luego vuelve a enfrentarse a ti.\n[tablet]: -3. Si fracasas y no estás en un Vehículo, recibe 1 punto de daño.\n[elder_thing]: -4. Si fracasas y tu Lugar tiene una llave, recibe 1 punto de horror.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es el número de llaves que controlan los investigadores más 1.\n[cultist]: -3. Si esta prueba es un ataque o un intento de evitar contra un Enemigo [[Profundo]], este se enfrenta a ti. Si ya está enfrentado a ti, primero deja de estar enfrentado y luego vuelve a enfrentarse a ti.\n[tablet]: -4. Si no estás en un Vehículo, recibe 1 punto de daño.\n[elder_thing]: -5. Si tu Lugar tiene una llave, recibe 1 punto de horror."
+    },
+    {
+        "code": "07164",
+        "name": "Secretos del mar (v. I)",
+        "text": "Como coste adicional para moverte de un Lugar [[Océano]] a otro mientras no estés en un Vehículo, debes gastar 2 acciones.\n<b>Obligado</b> - Cuando comience tu turno, si estás en un Lugar completamente inundado, tratas de conseguir aire: Cuando termine tu turno, si no has entrado en un Lugar sin inundar, en un Lugar parcialmente inundado o en un vehículo durante tu turno, recibe 5 puntos de daño directo.",
+        "flavor": "Los marineros de los muelles de Innsmouth te observan con desconfianza cuando zarpáis. La luz del faro que hay sobre un acantilado cercano es la única iluminación existente mientras el barco se adentra en la niebla."
+    },
+    {
+        "code": "07164b",
+        "name": "El Terror del Arrecife del Diablo",
+        "subname": "Abominación apresadora",
+        "text": "<b>Aparición</b> - Lugar del Barco de pesca.\nCazador. Descomunal. Represalia.\nEl Terror del Arrecife del Diablo no puede entrar en Lugares [[Cueva]].\nEl Terror del Arrecife del Diablo recibe +3 de salud [per_investigator].",
+        "flavor": "¡Nos ha agarrado! Ahora no se va a mover. ¡Es su oportunidad!",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "07165",
+        "name": "Secretos del mar (v. II)",
+        "text": "Como coste adicional para moverte de un Lugar [[Océano]] a otro mientras no estés en un Vehículo, debes gastar 2 acciones.\n<b>Obligado</b> - Cuando comience tu turno, si estás en un Lugar completamente inundado, tratas de conseguir aire: Cuando termine tu turno, si no has entrado en un Lugar sin inundar, en un Lugar parcialmente inundado o en un vehículo durante tu turno, recibe 5 puntos de daño directo.",
+        "flavor": "Los marineros de los muelles de Innsmouth te observan con desconfianza cuando zarpáis. La luz del faro que hay sobre un acantilado cercano es la única iluminación existente mientras el barco se adentra en la niebla."
+    },
+    {
+        "code": "07165b",
+        "name": "El Terror del Arrecife del Diablo",
+        "subname": "Retorciéndose en las profundidades",
+        "text": "<b>Aparición</b> - Lugar del Barco de pesca.\nCazador. Descomunal. Represalia.\nEl Terror del Arrecife del Diablo no puede entrar en Lugares [[Cueva]].\n<b>Obligado</b> - Cuando El Terror del Arrecife del Diablo fuese a ser derrotado: En vez de eso, retira todo el daño que tenga y agótalo. No puede prepararse durante el resto de la ronda <i>(incluida la fase de Mantenimiento)</i>.",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "07166",
+        "flavor": "Ahora sabes por qué nadie osa aventurarse cerca de los arrecifes negros. No es solo por los extraños avistamientos de las islas; bajo las olas vive algo mucho más antiguo y horrendo…",
+        "name": "El demonio de las profundidades",
+        "text": "Como coste adicional para moverte de un Lugar [[Océano]] a otro mientras no estés en un Vehículo, debes gastar 2 acciones.\n<b>Obligado</b> - Cuando comience tu turno, si estás en un Lugar completamente inundado, tratas de conseguir aire: Cuando termine tu turno, si no has entrado en un Lugar sin inundar, en un Lugar parcialmente inundado o en un vehículo durante tu turno, recibe 5 puntos de daño directo.",
+        "back_name": "El triunfo de las olas",
+        "back_text": "Anota en el registro de campaña <i>la marea se ha vuelto más fuerte</i>.\n<b>(→R1)</b>",
+        "back_flavor": "-¡Tenemos que retroceder! -grita el señor Moore sobre el rugido de las olas-. ¡La mar está arbolada y la marea empeora a cada minuto que pasa! Si seguimos aquí más tiempo, ¡el barco acabará por volcar!\nProtestas, pero el capitán tiene razón. El tiempo ha empeorado tanto que el señor Moore apenas puede controlar el barco. Y lo que es peor, en cuestión de horas, la marea ha comenzado a tragarse las islas costeras, así que no queda mucho que investigar. Frustrado, haces un gesto de asentimiento al capitán. Tendrá que bastar con lo que has logrado."
+    },
+    {
+        "code": "07167",
+        "flavor": "La Orden Esotérica de Dagón oculta algo grande en algún lugar de este maldito arrecife… pero ¿el qué?",
+        "name": "Arrecife de misterios",
+        "text": "Solo se pueden obtener llaves de los Lugares [[Y'ha-nthlei]] usando la capacidad [free] de esos Lugares.\n<b>Objetivo</b> - Encuentra y obtén tantas de las siguientes llaves como puedas en Lugares [[Y'ha-nthlei]] (morada, blanca y negra). Si los Investigadores controlan estas 3 llaves, haz avanzar el acto.",
+        "back_name": "Secretos descubiertos",
+        "back_text": "<b>(→R1)</b>",
+        "back_flavor": "Confías haber encontrado suficientes pruebas sobre las actividades de la Orden y vuelves a la costa. Preferirías continuar la investigación en tierra firme."
+    },
+    {
+        "code": "07168",
+        "name": "Aguas agitadas",
+        "text": "[action] Si estás en el Barco de pesca: <b>Desistir.</b> Todos los investigadores que estén en el Barco de pesca desisten. Retira el Barco de pesca de la partida. Todos los investigadores que hayan desistido colocan sobre el acto en curso todas las llaves moradas, negras o blancas que tengan. Todos los demás investigadores tendrán que arreglárselas por su cuenta.",
+        "back_text": "Las Aguas agitadas entran en juego totalmente inundadas <i>(incluso mientras están sin revelar)</i>.",
+        "back_flavor": "Y allá lejos, mar adentro, pese a la marea alta, pude distinguir una raya larga y negra que apenas afloraba del agua y que al instante ejerció sobre mí una atracción singular y maligna.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Océano."
+    },
+    {
+        "code": "07169",
+        "name": "Isla solitaria",
+        "text": "<b>Obligado</b> - Después de que la Isla solitaria sea revelada: Pon en juego 2 Túneles de marea aleatorios puestos aparte, de forma que cada uno esté adyacente a la Isla solitaria, pero no entre sí.",
+        "back_name": "Arrecife del Diablo",
+        "back_flavor": "…involuntariamente me vinieron a la imaginación las terribles historias que me había contado el viejo Zadok, según las cuales esta roca desgarrada daba acceso a regiones desconocidas, preñadas de horrores y monstruos inconcebibles.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Océano. Isla."
+    },
+    {
+        "code": "07170",
+        "name": "Cala oculta",
+        "text": "<b>Obligado</b> - Después de que reveles la Cala oculta: Pon en juego 1 Túnel de marea aleatorio puesto aparte adyacente a la Cala oculta; a continuación, pon en juego 1 Profundidades insondables puestas aparte adyacentes a ese Túnel de marea.",
+        "back_name": "Arrecife del Diablo",
+        "back_flavor": "…involuntariamente me vinieron a la imaginación las terribles historias que me había contado el viejo Zadok, según las cuales esta roca desgarrada daba acceso a regiones desconocidas, preñadas de horrores y monstruos inconcebibles.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Océano. Isla."
+    },
+    {
+        "code": "07171",
+        "name": "Isla desgastada por el oleaje",
+        "text": "<b>Obligado</b> - Después de que reveles la Isla desgastada por el oleaje: Aumenta su nivel de inundación. Pon en juego 1 Profundidades insondables aleatoria puesta aparte y 2 Túneles de marea aleatorios puestos aparte, de forma que cada uno de los tres Lugares esté adyacente a la Isla desgastada por el oleaje, pero no entre sí.",
+        "back_name": "Arrecife del Diablo",
+        "back_flavor": "…involuntariamente me vinieron a la imaginación las terribles historias que me había contado el viejo Zadok, según las cuales esta roca desgarrada daba acceso a regiones desconocidas, preñadas de horrores y monstruos inconcebibles.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Océano. Isla."
+    },
+    {
+        "code": "07172",
+        "name": "Marismas saladas",
+        "text": "[action] Si controlas la llave morada: Mira el lado revelado de cualquier Lugar Túnel de marea o Profundidades insondables que haya en juego. Límite de grupo de una vez por partida.\n<b>Obligado</b> - Después de que reveles las Marismas saladas: Aumenta su nivel de inundación. Pon en juego 1 Túnel de marea aleatorio puesto aparte adyacente a las Marismas saladas.",
+        "back_name": "Arrecife del Diablo",
+        "back_flavor": "…involuntariamente me vinieron a la imaginación las terribles historias que me había contado el viejo Zadok, según las cuales esta roca desgarrada daba acceso a regiones desconocidas, preñadas de horrores y monstruos inconcebibles.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Océano. Isla."
+    },
+    {
+        "code": "07173",
+        "name": "Arrecife negro",
+        "text": "<b>Obligado</b> - Después de que reveles el Arrecife negro: Aumenta un nivel de inundación. Pon en juego 2 Túneles de marea aleatorios puestos aparte, de forma que cada uno esté adyacente al Arrecife negro, pero no entre sí. A continuación, pon en juego 1 Profundidades insondables aleatoria puesta aparte adyacentes a ambos Túneles de marea.",
+        "back_name": "Arrecife del Diablo",
+        "back_flavor": "…involuntariamente me vinieron a la imaginación las terribles historias que me había contado el viejo Zadok, según las cuales esta roca desgarrada daba acceso a regiones desconocidas, preñadas de horrores y monstruos inconcebibles.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Océano. Isla."
+    },
+    {
+        "code": "07174a",
+        "name": "Escondite de traficantes",
+        "text": "<b>Obligado</b> - Después de que el Escondite de traficantes sea revelado.\n[action] Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre el Escondite de traficantes sin mirarla.\n[action] Si controlas la llave blanca: Roba 3 cartas. Límite de grupo de una vez por partida.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07174b",
+        "name": "Bootlegger's Hideaway",
+        "text": "<b>Obligado</b> - Después de que el Escondite de traficantes sea revelado.\n[action] Elige al azar 1 de las llaves boca abajo puestas aparte y colócala sobre el Escondite de traficantes sin mirarla.\n[action] Si controlas la llave blanca: Gana 5 recursos. Límite de grupo de una vez por partida.",
+        "back_name": "Túnel de marea",
+        "back_flavor": "El aire de este lugar es gélido, y no hay ningún sonido aparte del débil goteo del agua sobre el irregular suelo de piedra. Te estremeces y sigues adelante…",
+        "traits": "Cueva."
+    },
+    {
+        "code": "07175a",
+        "name": "Gruta de profundos",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Aumenta su nivel de inundación. Coloca sobre él la llave de morada puesta aparte.\n[free] Si los investigadores que estén en este Lugar controlan las llaves roja y azul y gastan, como grupo, 2 pistas [per_investigator]: Toma el control de la llave morada y lee el <b>Destello del pasado IX</b> en la guía de campaña.",
+        "back_name": "Profundidades insondables",
+        "back_flavor": "Tenían muchas ciudades en el fondo, y la propia isla había salido de las profundidades.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Cueva. Y'ha-nthlei."
+    },
+    {
+        "code": "07175b",
+        "name": "Gruta de profundos",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Aumenta su nivel de inundación. Coloca sobre él la llave de morada puesta aparte.\n[free] Si los investigadores que estén en este Lugar controlan las llaves verde y amarilla y gastan, como grupo, 3 pistas [per_investigator]: Toma el control de la llave morada y lee el <b>Destello del pasado IX</b> en la guía de campaña.",
+        "back_name": "Profundidades insondables",
+        "back_flavor": "Tenían muchas ciudades en el fondo, y la propia isla había salido de las profundidades.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Cueva. Y'ha-nthlei."
+    },
+    {
+        "code": "07176a",
+        "name": "Ruinas ciclópeas",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Queda totalmente inundado. Coloca sobre él la llave blanca puesta aparte.\n[free] Si los investigadores que estén en este Lugar controlan las llaves roja y amarilla y gastan, como grupo, 2 pistas [per_investigator]: Toma el control de la llave blanca y lee el <b>Destello del pasado X</b> en la guía de campaña.",
+        "back_name": "Profundidades insondables",
+        "back_flavor": "Tenían muchas ciudades en el fondo, y la propia isla había salido de las profundidades.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Cueva. Y'ha-nthlei."
+    },
+    {
+        "code": "07176b",
+        "name": "Ruinas ciclópeas",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Queda totalmente inundado. Coloca sobre él la llave blanca puesta aparte.\n[free] Si los investigadores que estén en este Lugar controlan las llaves azul y verde y gastan, como grupo, 3 pistas [per_investigator]: Toma el control de la llave blanca y lee el <b>Destello del pasado X</b> en la guía de campaña.",
+        "back_name": "Profundidades insondables",
+        "back_flavor": "Tenían muchas ciudades en el fondo, y la propia isla había salido de las profundidades.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Cueva. Y'ha-nthlei."
+    },
+    {
+        "code": "07177a",
+        "name": "Templo de la unión",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Coloca sobre él la llave negra puesta aparte.\n[free] Si los investigadores que estén en este Lugar controlan las llaves roja y verde gastan, como grupo, 2 pistas [per_investigator]: Toma el control de la llave negra y lee el <b>Destello del pasado XI</b> en la guía de campaña.",
+        "back_name": "Profundidades insondables",
+        "back_flavor": "Tenían muchas ciudades en el fondo, y la propia isla había salido de las profundidades.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Cueva. Y'ha-nthlei."
+    },
+    {
+        "code": "07177b",
+        "name": "Templo de la unión",
+        "text": "<b>Obligado</b> - Después de que este Lugar sea revelado: Coloca sobre él la llave negra puesta aparte.\n[free] Si los investigadores que estén en este Lugar controlan las llaves azul y amarilla gastan, como grupo, 3 pistas [per_investigator]: Toma el control de la llave negra y lee el <b>Destello del pasado XI</b> en la guía de campaña.",
+        "back_name": "Profundidades insondables",
+        "back_flavor": "Tenían muchas ciudades en el fondo, y la propia isla había salido de las profundidades.\n- H. P. Lovecraft, <u>La Sombra sobre Innsmouth</u>",
+        "traits": "Cueva. Y'ha-nthlei."
+    },
+    {
+        "code": "07178",
+        "name": "Barco de pesca",
+        "text": "Vehículo.\nMientras estés en este Vehículo, trata tu Lugar como si estuviera sin inundar.\n[action]: Mueve el Barco de pesca a un Lugar [[Océano]] conectado.",
+        "traits": "Vehículo."
+    },
+    {
+        "code": "07179",
+        "name": "Ídolo desgastado por el oleaje",
+        "text": "[reaction] Después de que el nivel de inundación de tu Lugar cambie, o después de que aparezca un Enemigo [[Profundo]] en tu Lugar, agota al Ídolo desgastado por el oleaje: Realiza una acción inmediatamente como si fuera tu turno (esta acción no cuenta para el número de acciones que puedes realizar en cada turno).",
+        "traits": "Objeto. Reliquia."
+    },
+    {
+        "code": "07180",
+        "name": "Manto despertado",
+        "text": "[free] Si tu Lugar está inundado, agota el Manto despertado: Muévete a un Lugar conectado que también esté inundado.",
+        "traits": "Objeto. Reliquia. Ropa."
+    },
+    {
+        "code": "07181",
+        "name": "Diadema de Y'ha-nthlei",
+        "text": "Recibes +1 a tu valor de habilidad al investigar un Lugar inundado o al atacar o evitar a un Enemigo en un Lugar inundado.",
+        "traits": "Objeto. Reliquia."
+    },
+    {
+        "code": "07182",
+        "name": "Profundo depredador",
+        "text": "Cazador.\n<b>Obligado</b> - Después de que el Profundo depredador se enfrente a ti: Mueve 1 de tus pistas o llaves al Profundo depredador.\n<b>Obligado</b> - Cuando derrotes o evites al Profundo depredador: Toma el control de todas sus pistas y llaves.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07183",
+        "name": "Profundo cazador",
+        "text": "Cazador.\nMientras el Profundo cazador esté enfrentado a ti, no puedes entrar en Vehículos ni obtener recursos.\n<b>Obligado</b> - Después de que el Profundo cazador se enfrente a ti: Si no estás en un Vehículo, pierde 2 recursos. Si estás en un Vehículo, pierde 2 recursos. Si estás en un Vehículo, sal de tu Vehículo.",
+        "traits": "Humanoide. Monstruo. Profundo."
+    },
+    {
+        "code": "07184",
+        "name": "Formas en el agua",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (2). Si fracasas, recibe 2 puntos de horror. Esta prueba recibe +1 a su dificultad si tu Lugar está inundado, o bien +2 a su dificultad si está totalmente inundado.",
+        "flavor": "¿Has visto eso?",
+        "traits": "Terror."
+    },
+    {
+        "code": "07185",
+        "name": "Emboscada acuática",
+        "text": "<b>Revelación</b> - Pon la Emboscada acuática en juego junto al mazo de Plan.\n<b>Obligado</b> - Cuando reveles una ficha de Caos mientras atacas a un Enemigo en un Lugar inundado: Revela una ficha de Caos adicional. Máximo de una vez por prueba.\n<b>Obligado</b> - Al final de la ronda: Descarta 1 copia de la Emboscada acuática del juego. Máximo de una vez por ronda.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07186",
+        "name": "Horrores de las profundidades",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (2). Si fracasas, recibe 2 puntos de daño. Esta prueba recibe +1 a su dificultad si tu Lugar está inundado, o bien +2 a su dificultad si está totalmente inundado.",
+        "traits": "Terror."
+    },
+    {
+        "code": "07187",
+        "name": "Polizón",
+        "text": "<b>Revelación</b> - Si no hay ningún investigador en un Vehículo, Polizón obtiene Oleada. Si no es así, cada investigador que esté en un Vehículo debe recibir 1 punto de daño y 1 punto de horror o bien salir de ese Vehículo. Todos los investigadores que hayan salido de un Vehículo no pueden entrar en ese Vehículo durante el resto de la ronda.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "07188",
+        "name": "Arrastrado al fondo",
+        "text": "<b>Revelación</b> - Pon Arrastrado al fondo en juego en tu zona de amenaza. Si estás en un Vehículo, sal de él.\nNo puedes entrar en Vehículos.\n[action]: Realiza una prueba de [combat] (3) o de [agility] (3). Si tienes éxito, descarta Arrastrado al fondo.",
+        "traits": "Maquinación. Terror."
+    }
+]

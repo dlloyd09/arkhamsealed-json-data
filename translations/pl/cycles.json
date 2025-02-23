@@ -1,0 +1,66 @@
+[
+    {
+        "code": "core",
+        "name": "Podstawka"
+    },
+    {
+        "code": "dwl",
+        "name": "Dziedzictwo Dunwich"
+    },
+    {
+        "code": "eoe",
+        "name": "Na krawędzi Ziemi"
+    },
+    {
+        "code": "fhv",
+        "name": "Uczta w Dolinie Hemlock"
+    },
+    {
+        "code": "investigator",
+        "name": "Talie początkowe badaczy"
+    },
+    {
+        "code": "parallel",
+        "name": "Badacze z równoległego świata"
+    },
+    {
+        "code": "promotional",
+        "name": "Promocyjne"
+    },
+    {
+        "code": "ptc",
+        "name": "Szlak do Carcosy"
+    },
+    {
+        "code": "return",
+        "name": "Powrót..."
+    },
+    {
+        "code": "side_stories",
+        "name": "Historie poboczne"
+    },
+    {
+        "code": "tcu",
+        "name": "Przerwany krąg"
+    },
+    {
+        "code": "tdc",
+        "name": "The Drowned City"
+    },
+    {
+        "code": "tde",
+        "name": "Pożeracze snów"
+    },
+    {
+        "code": "tfa",
+        "name": "Zapomniana era"
+    },
+    {
+        "code": "tic",
+        "name": "Zmowa nad Innsmouth"
+    },
+    {
+        "code": "tsk",
+        "name": "Szkarłatne klucze"
+    }
+]

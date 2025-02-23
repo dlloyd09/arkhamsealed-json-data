@@ -1,0 +1,461 @@
+[
+    {
+        "code": "70001",
+        "name": "Los laberintos de la demencia",
+        "text": "<b>Normal</b>\n[skull]: -1. Revela otra ficha.\n[cultist]: -3. Si fracasas, coloca 1 de tus pistas sobre tu Lugar.\n[tablet]: -4. Si fracasas, descarta 2 recursos.\n[elder_thing]: -4. Si fracasas, descarta una carta de tu mano al azar.",
+        "back_text": "<b>Difícil</b>\n[skull]: -1. Revela otra ficha. Si fracasas, debes recibir 1 punto de daño o 1 punto de horror.\n[cultist]: -3. Coloca 1 de tus pistas sobre tu Lugar.\n[tablet]: -4. Descarta 2 recursos.\n[elder_thing]: -4. Descarta una carta de tu mano al azar."
+    },
+    {
+        "code": "70002",
+        "flavor": "Tu grupo y otros dos más han sido secuestrados y atrapados en algún tipo de experimento terrible. La nota de tu grupo tiene más instrucciones.",
+        "name": "Despertar",
+        "text": "<b>Obligado</b> - Al final de la ronda, si hay al menos 1 ficha de Perdición sobre este plan y ningún grupo ha activado aún esta capacidad: El investigador jefe del grupo A elige al azar una carta de Historia [[Acto 1]] puesta aparte y la roba. Anuncia el nombre de la carta elegida a los tres grupos. Cada uno de los demás investigadores jefe roba esa carta de Historia.",
+        "back_name": "Hay esperanza",
+        "back_text": "Haz avanzar la carta de Acto en curso y sigue sus instrucciones.\nCuando se te indique que resuelvas la <b>preparación del acto 2</b>, consulta esas instrucciones en las reglas del escenario (usa la sección de tu grupo)."
+    },
+    {
+        "code": "70003",
+        "flavor": "Tu grupo y otros dos más han sido secuestrados y atrapados en algún tipo de experimento terrible. La nota de tu grupo tiene más instrucciones.",
+        "name": "Despertar",
+        "back_name": "Hay esperanza",
+        "back_text": "Haz avanzar la carta de Acto en curso y sigue sus instrucciones.\nCuando se te indique que resuelvas la <b>preparación del acto 2</b>, consulta esas instrucciones en las reglas del escenario (usa la sección de tu grupo)."
+    },
+    {
+        "code": "70004",
+        "flavor": "Al escapar de la primera cámara, unas palabras brillantes aparecen repentinamente en la nota de tu grupo:\n\"¿Habéis logrado salir de la priemra cámara? Bien. Quizás no séais tan inútiles como sospechaba.\".",
+        "name": "Agonía y desesperación",
+        "text": "<b>Obligado</b> - Al final de la ronda, si hay al menos 1 ficha de Perdición sobre este plan y ningún grupo ha activado aún esta capacidad: El investigador jefe del grupo A elige al azar una carta de Historia [[Acto 2]] puesta aparte y la roba. Anuncia el nombre de la carta elegida a los tres grupos. Cada uno de los demás investigadores jefe roba esa carta de Historia.",
+        "back_name": "La esperanza se desvanece",
+        "back_text": "Haz avanzar la carta Acto en curso y sigue sus instrucciones.\nCuando se te indique que resuelvas la <b>preparación del acto 3</b>, consulta estas instrucciones en las reglas del escenario (usa la sección de tu grupo)."
+    },
+    {
+        "code": "70005",
+        "flavor": "Al escapar de la primera cámara, unas palabras brillantes aparecen repentinamente en la nota de tu grupo: \"¿Habéis logrado salir de la primera cámara? Bien. Quizás no seáis tan inútiles como sospechaba.\".",
+        "name": "Agonía y desesperación",
+        "back_name": "La esperanza se desvanece",
+        "back_text": "Haz avanzar la carta Acto en curso y sigue sus instrucciones.\nCuando se te indique que resuelvas la <b>preparación del acto 3</b>, consulta estas instrucciones en las reglas del escenario (usa la sección de tu grupo)."
+    },
+    {
+        "code": "70006",
+        "flavor": "Corres a la siguiente cámara, esperando encontrar una salida de esta pesadilla. La puerta de acero cerrada a cal y canto que te encuentras hace añicos esa esperanza. En las paredes hay grabados enigmáticos símbolos, y otro más palpita de poder en el suelo. En ese momento, una silueta surge entre las sombras.",
+        "name": "El cerebro",
+        "text": "Cada Lugar [[Distorsión]] obtiene:\n\"[action] @~[survivor][willpower]@ T @ 4 \\[survivor][willpower]@: \\1=2\\~+ H 4[cultist]1[willpower]9[survivor] &lt;+ &lt;@1[auto_fail]9 @ EIXODOLON. Límite de grupo de una vez por partida.\"\n<b>Objetivo</b> - Si todos los investigadores son derrotados, haz avanzar este plan.",
+        "back_name": "Se ha perdido la esperanza",
+        "back_flavor": "La distorsionada voz del cerebro de todo esto crepita con lo que podría llamarse una risa: -Tu dolor encierra poder -explica la voz-. Pese a verte arrancado de la seguridad de tu vida y llevado a la desgracia, conservas la esperanza… Aunque sólo para que la aplaste y reduzca a la nada.\nLas runas del suelo del almacén abandonado brillan con intensidad, y por las grietas del cemento empieza a brotar sangre que gotea por las paredes: -Sé que no es justo -concede la voz-. Pero nada lo es realmente.",
+        "back_text": "El ritual se ha completado en esta línea temporal.\nSi estás jugando en <i>modo multijugador</i>, mueve todo el daño de Eixodolon a la copia de Eixodolon de otro grupo.\nTodos los investigadores de este grupo mueren. <b>(→R1)</b>"
+    },
+    {
+        "code": "70007",
+        "flavor": "\"Tenéis una hora para descubrir cómo salir\", dice la nota, \"o respiraréis vuestra muerte.\".",
+        "name": "Encerrados (Grupo A)",
+        "text": "<b>Contrarreloj</b> - No hagas avanzar este acto hasta que se te indique. Para cuando el plan avance, los investigadores deben poseer la Llave de los misterios y la cantidad de pistas requeridas. <i> Atención: si el plan avanza y no se cumplen estos requisitos, todos los investigadores de este grupo morirán.</i>",
+        "back_name": "Éxito… O muerte",
+        "back_text": "<b>Si los investigadores poseen la Llave de los misterios y 2 pistas [per_investigator]:</b><blockquote><i>Metes la llave en la cerradura, la pared de la cámara se abre, dando paso a un oscuro y estrecho pasillo de metal ondulado y hormigón. El silbido de las tuberías que hay por todas partes se atenúa hasta no ser más que un débil gemido.</i></blockquote><\nLos investigadores, como grupo, gastan 2 pistas [per_investigator]. Retira la Llave de los misterios de la partida. Resuleve la <b>preparación del acto 2</b>.\n<hr/><b>Si los investigadores no poseen la Llave de los misterios y/o 2 pistas [per_investigator]:</b>\n<blockquote><i>Un potente gas tóxico brota de las rejillas y llena la sala. Tu visión se vuelve borrosa, y te desplomas en el suelo: -Es el destino que nos espera a todos -explica una siniestra voz. Todo se vuelve oscuro.\nTodos los investigadores de este grupo mueren. <b>(→R1)</b>"
+    },
+    {
+        "code": "70008",
+        "flavor": "Hay un miembro de tu grupo atrapado en uno de los muchos depósitos de esta cámara. Un mecanismo que hay sobre el depósito se activa, y comienza a caer agua en el interior del depósito. \"Tenéis una hora para encontrar la forma de liberar a vuestro compañero\", dice la nota,\"o su suerte estará echada.\".",
+        "name": "Tumba acuosa (Grupo B)",
+        "text": "<b>Contrarreloj</b> - No hagas avanzar este acto hasta que se te indique. Para cuando el plan avance, los investigadores que estén en el mismo Lugar deben poseer la cantidad de pistas requerida. <i> Atención: si el plan avanza y no se cumple este requisito, el investigador que está en la Cámara de la lluvia morirá.</i>",
+        "back_name": "Una muerte lenta",
+        "back_text": "<b>Si los investigadores que estén en el mismo Lugar poseen 2 pistas [per_investigator]:</b>\n<blockquote><i>Respiras con alivio cuando el agua comienza a desaguar sin más.</i></blockquote>\nLos investigadores que estén en el mismo Lugar gastan, como grupo, 2 pistas [per_investigator]. Resuelve <b>preparación del acto 2.</b><hr/><b>Si los investigadores que estén en el mismo Lugar no poseen 2 pistas [per_investigator]:</b>\n<blockquote><i>El nivel del agua sigue subiendo. Primero llena el depósito y luego tus pulmones. Golpeas en vano el cristal. Tienes la libertad tan cerca y tan lejos a la vez.</i></blockquote>\nCada investigador pierde todas sus pistas.\nEl investigador que está en la Cámara de la lluvia muere.\nResuelve la <b>preparación del acto 2.</b>"
+    },
+    {
+        "code": "70009",
+        "flavor": "\"Sólo uno de vosotros puede tomar la decisión\", dice la nota. \"Elegid la palanca correcta o morid\". Un rastrillo de hierro cercano se abre con un estruendo ensordecedor y revela una pequeña estancia que contiene tres palancas sin ninguna marca.",
+        "name": "Las palancas (Grupo C)",
+        "text": "<b>Contrarreloj</b> - No hagas avanzar este acto hasta que se te indique. Antes de que el plan avance, un investigador debe activar la capacidad [action] de la Cámara del remordimiento. <i>Atención: si tiras de la palanca equivocada, morirás</i>.",
+        "back_name": "¿Qué palanca?",
+        "back_text": "<b>Si un investigador ha activado la capacidad [action] de la Cámara del remordimiento, dicho investigador examina la Cámara de los secretos de la zona de juego del Grupo A para ver si su texto de ambientación coincide con la palanca que ha tirado.</b>\n— Si no coincide, varias hojas terriblemente afiladas surgen de las paredes de la estancia, diseccionándote con precisión aterradora. Has muerto. Resuelve la <b>preparación del acto 2</b>.\n— Si coincide, el rastrillo se levanta y la puerta de la Cámara de la noche se abre. Resuelve la <b>preparación del acto 2</b>.\n<hr/><b>Si ningún investigador ha activado la capacidad [action] de la Cámara del remordimiento:</b>\n<blockquote></i>El tiempo se ha agotado. Corres hacia las palancas, pero llegas tarde. Varias hojas terriblemente afiladas surgen de las paredes de la estancia, diseccionándote con precisión aterradora.</i></blockquote>\nEl investigador más cercano a la Cámara del remordimiento muere. <i>(en caso de empate, los investigadores deciden)</i>. Resuelve la <b>preparación del acto 2</b>."
+    },
+    {
+        "code": "70010",
+        "flavor": "\"Sólo uno de vosotros puede tomar la decisión\", dice la nota. \"Elegid la palanca correcta o morid\". Un rastrillo de hierro cercano se abre con un estruendo ensordecedor y revela una pequeña estancia que contiene tres palancas sin ninguna marca.",
+        "name": "Las palancas (Grupo C)",
+        "text": "<b>Contrarreloj</b> - No hagas avanzar este acto hasta que se te indique. Antes de que el plan avance, un investigador debe activar la capacidad [action] de la Cámara del remordimiento. <i>Atención: si tiras de la palanca equivocada, morirás</i>.",
+        "back_name": "¿Qué palanca?",
+        "back_text": "<b>Si un investigador ha activado la capacidad [action] de la Cámara del remordimiento, dicho investigador examina el Lugar Cámara de los secretos que hay bajo la carta de referencia de escenario para ver si su texto de ambientación coincide con la palanca que ha tirado.</b>\n— Si no coincide, varias hojas terriblemente afiladas surgen de las paredes de la estancia, diseccionándote con precisión aterradora. Has muerto. Resuelve la <b>preparación del acto 2</b>.\n— Si coincide, el rastrillo se levanta y la puerta de la Cámara de la noche se abre. Resuelve la <b>preparación del acto 2</b>.\n<hr/><b>Si ningún investigador ha activado la capacidad [action] de la Cámara del remordimiento:</b>\n<blockquote></i>El tiempo se ha agotado. Corres hacia las palancas, pero llegas tarde. Varias hojas terriblemente afiladas surgen de las paredes de la estancia, diseccionándote con precisión aterradora.</i></blockquote>\nEl investigador más cercano a la Cámara del remordimiento muere. <i>(en caso de empate, los investigadores deciden)</i>. Resuelve la <b>preparación del acto 2</b>."
+    },
+    {
+        "code": "70011",
+        "flavor": "Siguen apareciendo palabras brillantes en la nota que dice: \"El tiempo fluye de forma distinta en la próxima cámara. Si no os dais prisa, os convertiréis en polvo\".",
+        "name": "Distorsiones del tiempo (Grupo A)",
+        "text": "<b>ContrarrelojTimed</b> - No hagas avanzar este acto hasta que se te indique. Cuando el plan avance, debe haber al menos 11 fichas de Perdición en juego. <i> Atención: si el plan avanza y no se cumplen estos requisitos, todos los investigadores de este grupo morirán.</i>",
+        "back_name": "Invertir el ritmo",
+        "back_text": "<b>Si había al menos 11 fichas de Perdición en juego cuando avanzó el plan:</b>\n<blockquote></i>Giras el dial del dispositivo hasta su valor máximo y te cuesta sujetarlo mientras tus músculos se agarrotan y comienzas a deteriorarte. El dial se para con un clic, y luego logras seguir girándolo lentamente en la misma dirección. Te invade un intenso dolor mientras gira y gira hasta llegar por fin a donde empezó. El aire deja de ser pesado, y el tiempo vuelve a su ritmo normal.</i></blockquote>\nResuelve la <b>preparación del acto 3.</b><hr/>b>Si había menos de 11 fichas de Perdición en juego cuando avanzó el plan:</b><blockquote><i>Tus músculos se agarrotan, tu piel parece encoger, y notas cómo tu cuerpo pierde toda su energía. Tratas de gritar, pero de tu garganta no sale aire. Tus órganos se deterioran hasta pudrirse: -En inevitable destino que nos espera a todos -explica una siniestra voz. En pocos minutos, no eres más que polvo.</i></blockquote>\nTodos los investigadores de este grupo mueren. <b>(→R1)</b>"
+    },
+    {
+        "code": "70012",
+        "flavor": "Siguen apareciendo palabras brillantes en la nota, que dice: \"La Cámara del veneno aguarda. Uno de vosotros debe abrir el camino. Un sacrificio por el bien común.\".",
+        "name": "Muerte insidiosa (Grupo B)",
+        "text": "<b>Contrarreloj</b> - No hagas avanzar este acto hasta que se te indique. Antes de que el plan avance, un investigador debe activar la capacidad [action] de la Cámara del veneno.",
+        "back_name": "El pozo de veneno",
+        "back_text": "<b>Si un investigador ha activado la capacidad [action] de la Cámara del veneno, dicho investigador lee lo siguiente:</b>\n— Si has \"recibido una inyección\", el cieno es asqueroso, pero inofensivo. Resuelve la <b>preparación del acto 3</b>.\n— Si no has \"recibido una inyección\", el veneno se filtra por tu piel, devorando tus órganos desde dentro. Mueres. Resuelve la <b>preparación del acto 3</b>.\n<hr/><b>Si ningún investigador ha activado la capacidad [action] de la Cámara del veneno:</b>\n<blockquote><i>Los suelos y paredes de todo el laberinto giran y se desplazan, y pierdes el equilibrio. Al deslizarte por el suelo con el cambio de gravedad, te ves lanzado al pozo venenoso.</i></blockquote>\nMueve a todos los investigadores a la Cámara del veneno. Cada investigador de este grupo que no haya \"recibido una inyección\" muere. Resuelve la <b>preparación del acto 3</b>."
+    },
+    {
+        "code": "70013",
+        "flavor": "Siguen apareciendo palabras brillantes en la nota, que dice: \"En la siguiente cámara vive mi mascota. Está muy hambrienta, así que quizás deberíais abrirle la puerta y dejar que coma\".",
+        "name": "La mascota (Grupo C)",
+        "text": "<b>Contrarreloj</b> - No hagas avanzar este acto hasta que se te indique. Encuentra el modo de acabar con la Mascota de Eixodolon antes de que el plan avance. <i>Atención: si la criatura sigue \"encerrada\" cuando el plan avance, se liberará</i>.",
+        "back_name": "Hambre infinita",
+        "back_text": "<b>Si le habéis \"enviado la Mascota de Eixodolon a otro grupo\":</b>\nElige otro grupo al azar. Al final de la ronda en curso, ese grupo hace aparecer su copia puesta aparte de la Mascota de Eixodolon en una de sus Salas laberínticas. Resuelve la <b>preparación del acto 3</b>.\n<hr/><b>Si la Mascota de Eixodolon está en la zona de victoria:</b>\n<blockquote><i>Respiras con alivio cuando la criatura se desploma inerte en el suelo.</i></blockquote>\nResuelve la <b>preparación del acto 3</b>.\n<hr/><b>Si nada de lo anterior es cierto:</b>\n<blockquote><i>La criatura sale de su terrario haciendo añicos el cristal y ataca con avidez a todo el que tiene cerca.</i></blockquote>\nMueve la Mascota de Eixodolon a la Cámara del hambre. Ataca a cada investigador que esté en la Cámara del hambre, siguiendo el orden de juego. Resuelve la <b>preparación del acto 3</b>."
+    },
+    {
+        "code": "70014",
+        "flavor": "-Tienes la libertad muy cerca -dice la distorsionada voz de la silueta-. ¿Aún hay esperanza en tu voz? ¿Sigue habiendo luz en tus ojos?",
+        "name": "La huida",
+        "text": "<b>Objetivo</b> - Al final de la ronda, si a Eixodolon no le queda salud, puedes mover cualquier cantidad de daño que tenga por encima de su salud a la copia de Eixodolon de otro grupo. A continuación, haz avanzar el acto.",
+        "back_name": "Laberintos paralelos",
+        "back_text": "<b>Si le queda salud a cualquier copia de Eixodolon que esté en la zona de juego de cualquier grupo superviviente:</b>\n<blockquote><i>La figura se distorsiona y brilla por el espaciotiempo.</i></blockquote>\nVuelve a darle la vuelta a este acto.\n<hr/><b>Si a las copias de Eixodolon de los demás grupos supervivientes no les queda salud:</b>\n- Si tu grupo es el único grupo superviviente, pasa a <b>(→R2)</b>.\n- Si sólo han sobrevivido dos grupos, pasa a <b>(→R3)</b>.\n- Si los tres grupos han sobrevivido, todos pasan a <b>(→R4)</b>."
+    },
+    {
+        "code": "70015",
+        "flavor": "-Tienes la libertad muy cerca -dice la distorsionada voz de la silueta-. ¿Aún hay esperanza en tu voz? ¿Sigue habiendo luz en tus ojos?",
+        "name": "La huida",
+        "text": "<b>Objetivo</b> - Si a Eixodolon no le queda salud, haz avanzar el acto",
+        "back_name": "Laberintos paralelos",
+        "back_text": "<b>Si estás jugando como escenario independiente:</b>\nPasa a <b>(→R2)</b>.\n<hr/><b>Si estás jugando como minicampaña y éste es el primer o segundo grupo que juegas:</b>\nComienza de nuevo como otro grupo para descubrir a qué resolución llegas.<hr/><b>Si estás jugando como minicampaña y éste es el tercer grupo que juegas:</b>\n- Si sólo ha sobrevivido un grupo, pasa a <b>(→R2)</b>.\n-Si sólo han sobrevivido dos grupos, pasa a <b>(→R3)</b>.\n- Si han sobrevivido los tres grupos, pasa a <b>(→R4)</b>."
+    },
+    {
+        "code": "70016",
+        "flavor": "Un burdo mensaje garabateado en la pared dice: \"DERECHA\".\nQuizás sea una pista… pero ¿para qué?",
+        "name": "Cámara de los secretos",
+        "subname": "Prisión sangrienta",
+        "text": "[action]: Golpeas la pared de la cámara con los puños. Nadie responde.",
+        "traits": "Prisión. Distorsión.",
+        "back_flavor": "La cámara está cerrada a cal y canto. No hay ninguna puerta de salida, sólo un ojo de cerradura con una extraña forma a un lado de la cámara. Las paredes y el techo están cubiertos de tuberías de cobre oxidado que os rodean por todas partes."
+    },
+    {
+        "code": "70017",
+        "flavor": "Un burdo mensaje garabateado en la pared dice: \"CENTRO\".\nQuizás sea una pista… pero ¿para qué?",
+        "name": "Cámara de los secretos",
+        "subname": "Prisión misteriosa",
+        "text": "[action]: Golpeas la pared de la cámara con los puños. Nadie responde.",
+        "traits": "Prisión. Distorsión.",
+        "back_flavor": "La cámara está cerrada a cal y canto. No hay ninguna puerta de salida, sólo un ojo de cerradura con una extraña forma a un lado de la cámara. Las paredes y el techo están cubiertos de tuberías de cobre oxidado que os rodean por todas partes."
+    },
+    {
+        "code": "70018",
+        "flavor": "Un burdo mensaje garabateado en la pared dice: \"IZQUIERDA\".\nQuizás sea una pista… pero ¿para qué?",
+        "name": "Cámara de los secretos",
+        "subname": "Prisión oculta",
+        "text": "[action]: Golpeas la pared de la cámara con los puños. Nadie responde.",
+        "traits": "Prisión. Distorsión.",
+        "back_flavor": "La cámara está cerrada a cal y canto. No hay ninguna puerta de salida, sólo un ojo de cerradura con una extraña forma a un lado de la cámara. Las paredes y el techo están cubiertos de tuberías de cobre oxidado que os rodean por todas partes."
+    },
+    {
+        "code": "70019",
+        "name": "Cámara de la lluvia",
+        "text": "La Cámara de la lluvia está completamente cerrada mientras el agua fluye. Mientras sea el acto 1, este Lugar obtiene:\n\"Los investigadores no pueden entrar ni salir de este Lugar\".\n<b>Obligado</b> - Cuando un investigador que esté en este Lugar robe una carta de Enemigo: Descártala y roba una nueva carta en su Lugar.\".",
+        "traits": "Distorsión.",
+        "back_flavor": "El agua cae en cascada por las paredes de la cámara, llenando la cápsula. Observas con horror que no cesa."
+    },
+    {
+        "code": "70020",
+        "name": "Cámara del pesar",
+        "text": "[action]: Realiza una prueba de [combat] (1) para intentar romper la puerta del terrario que se inunda. Independientemente de que tengas éxito o fracases, no logras nada. Recuerda que \"hiciste lo que pudiste\".",
+        "traits": "Prisión.",
+        "back_flavor": "Esta cámara contiene varios depósitos metálicos con ventanas de cristal. La matoría están llenos de agua. Ves en su interior cadáveres de animales que deben de haberse ahogado lenta y dolorosamente. ¿Qué clase de persona querría ver algo así…?"
+    },
+    {
+        "code": "70021",
+        "name": "Cámara del pesar",
+        "text": "[action]: Realiza una prueba de [willpower] (2) para interpretar el diagrama que hay inscrito en el cristal. Si tienes éxito, toma el control de 1 pista de un investigador que esté en la Cámara del pesar o en la Cámara de la lluvia (o de ese Lugar si eres el único investigador de la partida). Cualquier investigador que esté en la Cámaara del pesar o en la Cámara de la lluvia puede realizar esta acción..",
+        "traits": "Prisión.",
+        "back_flavor": "Esta cámara contiene varios depósitos metálicos con ventanas de cristal. La matoría están llenos de agua. Ves en su interior cadáveres de animales que deben de haberse ahogado lenta y dolorosamente. ¿Qué clase de persona querría ver algo así…?"
+    },
+    {
+        "code": "70022",
+        "flavor": "Los estantes de madera de esta cámara están tan podridos que te sorprende que sean capaces de aguantar peso sin venirse abajo.",
+        "name": "Cámara de la noche",
+        "text": "[action]: Pides ayuda a voces tan fuerte como puedes. Nadie responde.",
+        "traits": "Prisión.",
+        "back_flavor": "La única luz que hay en esta sala de almacenaje proviene de unas pocas velas dispersas. Estás rodeado por todas partes de cajas, botellas y cajones, pero apenas logras ver nada por la tenue luz."
+    },
+    {
+        "code": "70023",
+        "name": "Cámara de la noche",
+        "text": "[action]: Realiza una prueba de [intellect] (4). Si tienes éxito, te apercibes de una extraña escritura que hay en la pared; mira el lado revelado del Lugar que hay bajo la carta de referencia de escenario. Cuando acabes, vuelve a colocarlo bajo la carta de referencia de escenario.",
+        "traits": "Prisión.",
+        "back_flavor": "La única luz que hay en esta sala de almacenaje proviene de unas pocas velas dispersas. Estás rodeado por todas partes de cajas, botellas y cajones, pero apenas logras ver nada por la tenue luz."
+    },
+    {
+        "code": "70024",
+        "name": "Cámara del remordimiento",
+        "text": "No puede haber más de un investigador en la Cámara del remordimiento a la vez.\n[action] Los investigadores, como grupo, gastan 2 pistas [per_investigator]: Tiras de una de las 3 palancas (elige una): izquierda, centro o derecha. En cuanto lo haces, el rastrillo se cierra de golpe a tu espalda. No puedes abandonar la Cámara del remordimiento durante el resto del acto en curso.",
+        "traits": "Distorsión.",
+        "back_flavor": "Empotrado en la pared de piedra hay un hueco del tamaño de un armarito que tiene tres palancas sin ninguna marca. Un rastrillo de hierro levantado amenaza con cerrar el hueco si te atreves a entrar en él.",
+        "back_text": "No puede haber más de un investigador en la Cámara del remordimiento a la vez."
+    },
+    {
+        "code": "70025",
+        "flavor": "Mientras recorres estas salas, te asalta un fétido hedor.",
+        "name": "Salas laberínticas",
+        "subname": "Camino maloliente",
+        "text": "[free] Elige y descarta 2 cartas de tu mano: Encuentras una vieja caja fuerte en un montón de basura y decides dejar algo de ella. Al final de la ronda, elige a otro investigador de cualquier grupo. Ese investigador roba 2 cartas. Límite de grupo de una vez por partida.",
+        "back_flavor": "Este extraño complejo industrial está lleno de salas de acero ondulado y hormigón. Las numerosas puertas cerradas con llave y callejones sin salida hacen que te invada la sensación de que jamás lograrás escapar."
+    },
+    {
+        "code": "70026",
+        "flavor": "Esta sección del complejo está llena de cadáveres de criaturas demacradas; algunas son naturales, pero otras son imposibles.",
+        "name": "Salas laberínticas",
+        "subname": "Camino lleno de cadáveres",
+        "text": "[free] Gasta 4 recursos: Encuentras el cadáver de alguien a quien crees conocer y deseas haber podido salvarlo. Al final de la ronda, elige a otro investigador de cualquier grupo. Ese investigador obtiene 4 recursos. Límite de grupo de una vez por partida.",
+        "back_flavor": "Este extraño complejo industrial está lleno de salas de acero ondulado y hormigón. Las numerosas puertas cerradas con llave y callejones sin salida hacen que te invada la sensación de que jamás lograrás escapar."
+    },
+    {
+        "code": "70027",
+        "flavor": "Mientras continúas por las salas, encuentras musgo, moho y enredaderas recubriendo las paredes y el suelo.",
+        "name": "Salas laberínticas",
+        "subname": "Camino invadido por vegetación",
+        "text": "[action] [action]: Te miras en un espejo cubierto de plantas y ves un reflejo desconocido. Al final de la ronda, elige a otro investigador de cualquier grupo. Ese investigador puede realizar 2 acciones adicionales durante su siguiente turno. Límite de grupo de una ver por partida.",
+        "back_flavor": "Este extraño complejo industrial está lleno de salas de acero ondulado y hormigón. Las numerosas puertas cerradas con llave y callejones sin salida hacen que te invada la sensación de que jamás lograrás escapar."
+    },
+    {
+        "code": "70028",
+        "flavor": "Es como un zoo dirigido por un sádico.",
+        "name": "Cámara del hambre",
+        "text": "[free] Si no hay pistas en la Cámara del hambre: Hay algo extraño dibujado en el cristal. Toma el control del Diagrama del hambre puesto aparte.",
+        "traits": "Distorsión.",
+        "back_flavor": "Este lugar contiene una colección de criaturas, algunas naturales, y otras siniestras y deformes. Un monstruo golpea el cristal de su jaula cuando te ve entrar."
+    },
+    {
+        "code": "70029",
+        "flavor": "El aire es húmedo y pesado. Hace que te piquen los ojos y tosas de forma incontrolable.",
+        "name": "Cámara del marchitamiento",
+        "text": "[free] Si no hay pistas en la Cámara del marchitamiento: Aquí dentro hay un diario con extraños garabatos. Toma el control del Diagrama del marchitamiento puesto aparte.",
+        "traits": "Distorsión.",
+        "back_flavor": "Esta sala está llena de hileras de plantas de muchas formas y variedades y en distintos estados de crecimiento y marchitamiento. Cerca del centro de la sala hay un panel de control con multitud de palancas y diales."
+    },
+    {
+        "code": "70030",
+        "flavor": "Una trampilla que hay en el suelo lleva a una cámara inferior distinta.",
+        "name": "Cámara de la putrefacción",
+        "text": "[free]Si no hay pistas en la Cámara de la putrefacción: Hay algo extraño grabado en las paredes. Toma el control del Diagrama de la putrefacción puesto aparte.",
+        "traits": "Distorsión.",
+        "back_flavor": "Esta cámara está llena de basura, mugre y restos humanos. El acre y rancio olor te hace arder las fosas nasales."
+    },
+    {
+        "code": "70031",
+        "flavor": "El terrible cieno de color verdeamarillento burbujea y forma espuma. Al otro lado del foso, ves un panel de control con una válvula de cobre.",
+        "name": "Cámara del veneno",
+        "text": "[action]: Cruzas el nocivo foso y giras la válvula que hay al otro lado. <i>Atención: activar esta capacidad sin el antídoto podría ser letal</i>.",
+        "back_flavor": "Una escalera levantada recorre la mitad del camino hacia una cámara de hormigón llena de un lodo burbujeante que emite un horrible hedor.",
+        "back_text": "Hay que bajar una escalera que lleva a la Cámara del veneno. Como coste adicional para entrar en la Cámara del veneno, los investigadores que estén en la Cámara de putrefacción, como grupo, deben gastar 1 pista [per_investigator]."
+    },
+    {
+        "code": "70032",
+        "flavor": "Hay otras dos pesadas puertas metálicas que dan al almacén abandonado y que están firmemente cerradas. Puedes oír voces provenientes del otro lado y a tu alrededor, como si se extendieran por varias dimensiones.",
+        "name": "Almacén abandonado",
+        "traits": "Distorsión.",
+        "back_flavor": "No hay salida."
+    },
+    {
+        "code": "70033",
+        "flavor": "Ves que en tu cámara hay un conjunto de runas arcanas grabadas en la pared. Si logras descifrarlas y colocarlas en el orden correcto, quizás cambie algo…",
+        "name": "Runas arcanas",
+        "text": "<b>Revelación</b> - Vincula las Runas arcanas a un Lugar [[Distorsión]].\n[free] Si hay 1 recurso [per_investigator] en esta carta: Dale la vuelta y sigue las instrucciones del otro lado.\n[action]: liaRzae una ureapb de [intellect] )3(. iS eniste éioxt, olccoa 1 reurosc en stae caart.\nSi un investigador de este grupo ha resuelto con éxito la capacidad anterior, esta carta obtiene: \"[action]: zRa3elai nau pu)rea ed [intellect] (b. oN psudee agranis rscaat a ates reabup de hildb.iaad iS iesten éi,oxt oalcco 1 errusco en la cpoia ed Rsaun rcasnaa ed root ugrpo.\".",
+        "traits": "Acto 1.",
+        "back_name": "En lo profundo del laberinto…",
+        "back_text": "<b>Si estás en el grupo B:</b>\n<blockquote><i>Ves que comienza a brillar un plano grabado en el cristal de la cápsula que se va llenando de agua.</i></blockquote>\nLos investigadores de este grupo pueden intercambiar pistas entre sí inmediatamente. Mueve cualquier cantidad de pistas de la Cámara de la lluvia a la Cámara del pesar o viceversa. Vuelve a darle la vuelta a esta carta.\n<hr/><b>Si estás en el grupo A:</b>\n<blockquote><i>La runas brillan, y una porción de la pared se desliza para revelar un comportamiento secreto lleno de cosas.</i></blockquote>\nPon la Llave de los misterios en juego en la Cámara de los secretos. Vuelve a darle la vuelta a esta carta.\n<hr/><b>Si estás en el grupo C:</b>\n<blockquote><i>La runas de tu cámara cambian para formar una palabra.</i></blockquote>\nLa palabra que ves es la misma que hay escrita en la pared de la Cámara de los secretos de la zona de juego del grupo A (puedes examinar la zona de juego del grupo A). Vuelve a darle la vuelta a esta carta."
+    },
+    {
+        "code": "70034",
+        "flavor": "Con un repentino destello de luz, una grieta comienza a abrirse en la pared cercana, y su energía se concentra para formar un portal. Ahora es demasiado pequeño para entrar por él, pero pronto será lo suficientemente grande como para que pase una persona…",
+        "name": "La grieta",
+        "text": "<b>Revelación</b> - Vincula La grieta al acto en curso. Si es el acto 1, los grupos B y C ponen en juego la Llave de los misterios puesta aparte en un Lugar [[Distorsión]].\n<b>Obligado</b> - Al final de la ronda, si hay menos de 3 fichas de Perdición en el plan de cada grupo: La grieta ser abre lo suficiente como para que pase un investigador. Elige a un investigador que esté en cualquier Lugar para que entre en la grieta. A continuación, ese investigador le da la vuelta a esta carta y sigue las instrucciones del otro lado.",
+        "traits": "Acto 1. Acto 2.",
+        "back_name": "En lo profundo del laberinto…",
+        "back_flavor": "Te encuentras en una especie de nexo, un camino por el éter. Hay otros prisioneros que han encontrado la forma de llegar aquí. Quizás puedas colaborar con ellos para encontrar el modo de escapar.",
+        "back_text": "Todos los investigadores que hayan entrado en la grieta cogen esta carta de Historia y se reúnen en privado, alejados de todos los grupos. Los investigadores que estén dentro de la grieta pueden hablar libremente y pueden intercambiar cualquier cantidad de pistas, recursos, cartas de su mano o Apoyos de historia controlados. Cuando hayan acabado, cada investigador regresa a su grupo original. Vuelve a darle la vuelta a esta carta."
+    },
+    {
+        "code": "70035",
+        "flavor": "Encuentras un conducto de ventilación por el que puedes meter objetos importantes…",
+        "name": "El conducto",
+        "text": "<b>Revelación</b> - Coloca El conducto en un Lugar [[Distorsión]]. Si es el acto 1, los grupos B y C ponen en juego la Llave de los misterios puesta aparte en este Lugar.\n[free]: Coloca cualquier cantidad de tus pistas o recursos sobre esta carta y/o coloca cualquier cantidad de Apoyos [[Objeto]] que controles bajo esta carta. También puedes colocar una nota escrita bajo esta carta.\n[action]: Toma el control de cualquier cantidad de fichas, cartas o notas que haya sobre o bajo esta carta.\n[reaction] Al final de la ronda: Envías por el conducto de ventilación todas las fichas y cartas que haya aquí. Dale la vuelta a esta carta y sigue las instrucciones del otro lado.",
+        "traits": "Acto 1. Acto 2.",
+        "back_name": "En lo profundo del laberinto…",
+        "back_flavor": "Los objetos caen rebotando por el conducto, produciendo fuertes ruidos que resuenan tras las paredes y bajo el suelo. Ojalá otro grupo pueda encontrarlos…",
+        "back_text": "Coge las cartas, fichas y notas que haya sobre o bajo esta carta y colócalas sobre o bajo de El conducto de otro grupo.\nVuelve a darle la vuelta a esta carta."
+    },
+    {
+        "code": "70036",
+        "flavor": "Unas brillantes palabras aparecen en la nota de tu grupo, como si las escribiera una entidad invisible. Dicen: \"No te preocupes. Les daré a tus amigos la posibilidad de escapar. Lo único que tienes que hacer es morir por ellos, y recibirán la forma de escapar. Escribe \"Elijo la muerte\" en esta nota y cerraremos el trato\",",
+        "name": "El dilema",
+        "text": "<b>Revelación</b> - Pon El dilema en juego junto al mazo de Acto. \nEl acto en curso obtiene: \"[reaction] Al final de la ronda: Estás tan desesperado que te dispones a sacrificarte por el bien de los demás grupos. Dale la vuelta a El dilema y sigue las instrucciones del otro lado.\".",
+        "traits": "Acto 2.",
+        "back_name": "En lo profundo del laberinto…",
+        "back_flavor": "Escribes \"Elijo la muerte\" en la nota. Bajo tus palabras aparecen otras, formando una frase como respuesta: \"¿De verdad pensabas que te dejaría morir tan fácilmente?\".",
+        "back_text": "Debes elegir y descartar todas las cartas de tu mano menos X y retirar todos los recursos de tu reserva de recursos menos X. X es la cantidad de perdición que hay en el plan en curso.\n<hr/><b>Lee lo siguiente en voz alta a todos los grupos:</b>\n<blockquote><i>Las palabras y letras de la nota cambian y se mueven hasta formar un extraño diagrama.</i></blockquote>\nEl investigador jefe del grupo A toma el control del Diagrama de la putrefacción puesto aparte.\nEl investigador jefe del grupo B toma el control del Diagrama del hambre puesto aparte.\nEl investigador jefe del grupo C toma el control del Diagrama del marchitamiento puesto aparte.\nRetira de la partida la copia de El dilema de carda grupo."
+    },
+    {
+        "code": "70037",
+        "flavor": "ves una puerta en la cámara que antes no estaba ahí. La sala del otro lado está en las mas profunda oscuridad.¿Adónde lleva?",
+        "name": "La puerta",
+        "text": "<b>Revelación</b> - Vincula La puerta a un Lugar [[Distorsión]] location.\n[action] Gasta 1 pista: Dale la vuelta a esta carta y sigue las instrucciones del otro lado.",
+        "traits": "Acto 2.",
+        "back_name": "En lo profundo del laberinto…",
+        "back_flavor": "En cuanto pasas por la puerta, ésta se desvanece a tu espalda. Estás solo,por ahora…",
+        "back_text": "Dependiendo de en qué grupo estés, pon en juego un Lugar distinto, de la siguiente forma:\n- Si estás en el grupo A, pon en juego la Cámara de la putrefacción.\n- Si estás en el grupo B, pon en juego la Cámara del hambre.\n- Si estás en el grupo C, pon en juego la Cámara del marchitamiento.\nDeja de estar enfrentado con todos los Enemigos y muévete al Lugar que acabas de poner en juego.\nEse Lugar no se considera conectado a ningún otro Lugar hasta que haya al menos 5 fichas de Perdición en el plan en curso.\nRetira esta carta de la partida."
+    },
+    {
+        "code": "70038",
+        "flavor": "Ves tres líneas de extraños símbolos grabados en la pared de tu cámara. Una línea parece más brillante que las otras.",
+        "name": "Símbolos cifrados",
+        "text": "<b>Revelación</b> - Vinculo los Símbolos cifrados a un Lugar [[Distorsión]].\n<b>Obligado</b> - Si hay al menos 1 punto de horror y 1 punto de daño [per_investigator] en esta carta: Dale la vuelta y sigue las instrucciones del otro lado.\n[action]: Realiza una prueba de [intellect] (2) para intentar descifrar los símbolos. Si tienes éxito, coloca 1 punto de daño en esta carta.\n[action]: Realiza una prueba de [willpower] (4) para poner los símbolos en su orden correcto. Si tienes éxito, coloca 1 punto de horror en la copia de los Símbolos cifrados de cada grupo.",
+        "traits": "Acto 2.",
+        "back_name": "En lo profundo del laberinto…",
+        "back_flavor": "Las runas de la cámara brillan, formando un extraño mensaje en la pared.",
+        "back_text": "<b>Si estás en el grupo A:</b>\nElige un investigador para que tome el control del Diagrama de la putrefacción puesto aparte. Retira esta carta de la partida.<hr/><b>Si estás en el grupo B:</b>\nElige un investigador para que tome el control del Diagrama de hambre puesto aparte. Retira esta carta de la partida.<hr/><b>Si estás en el grupo C:</b>\nElige un investigador para que tome el control del Diagrama del marchitamiento puesto aparte. Retira esta carta de la partida."
+    },
+    {
+        "code": "70039",
+        "flavor": "A@ B# C% D< E+ F= G~ H> I&#092; J3 K7 L2 M6 N1 O9 P4 Q8 R5 S[survivor] T[willpower] U[cultist] V[elder_thing] W[intellect] X[tablet] Y[auto_fail] Z[elder_sign] 1T 2R 3H 4D 5U 6P 7Q 8Z 9B [action][action]",
+        "name": "Nota de Eixodolon",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control de la Nota de Eixodolon a otro investigador.",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70040",
+        "flavor": "La cabeza de la llave tiene estampada la letra A.",
+        "name": "Llave de los misterios",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Coloca la Llave de los misterios en tu Lugar.\nMientras la Llave de los misterios no esté bajo el control de nadie, obtiene: \"[action]: <b>Investigar.</b> Si tienes éxito, en lugar de descubrir pistas, toma el control de la Llave de los misterios\".",
+        "traits": "Objeto. Llave."
+    },
+    {
+        "code": "70041",
+        "flavor": "El cuerpo de la jeringuilla tiene estampada la letra B.",
+        "name": "Jeringuilla misteriosa",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control de la Jeringuilla misteriosa a otro investigador.\n[action]: Elige a un investigador que esté en tu Lugar y retira la Jeringuilla misteriosa de la partida. Recuerda que el investigador elegido ha \"recibido una inyección\".",
+        "traits": "Objeto."
+    },
+    {
+        "code": "70042",
+        "flavor": "¿Sabrá alguno de los otros grupos cómo interpretar esto?",
+        "name": "Diagrama de la putrefacción",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control del Diagrama de la putrefacción a otro investigador.\nMientras estés en la Cámara del marchitamiento, ésta obtiene: \"[action]: Coloca 1 ficha de Perdición aquí. Dale la vuelta a cualquier cantidad de tus pistas para mostrar su lado de perdición y colócalas aquí.\".",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70043",
+        "name": "Diagrama de la putrefacción",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control del Diagrama de la putrefacción a otro investigador.\nMientras estés en la Cámara de la putrefacción, ésta gana: \"[action]: <b>Investigar.</b> Si tienes éxito, en lugar de descubrir pistas, toma el control de la Jeringuilla misteriosa puesta aparte.\".",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70044",
+        "flavor": "¿Sabrá alguno de los otros grupos cómo interpretar esto?",
+        "name": "Diagrama del hambre",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control del Diagrama del hambre a otro investigador.\nMientras estés en la Cámara de la putrefacción, ésta obtiene: \"[action]: <b>Investigar.</b> Si tienes éxito, en lugar de descubrir pistas, toma el control de la Jeringuilla misteriosa puesta aparte.\".",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70045",
+        "name": "Diagrama del hambre",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control del Diagrama del hambre a otro investigador.\nMientras estés en la Cámara del hambre, ésta obtiene: \"[action] Si la Mascota de Eixodolon está \"encerrada\", gasta 1 pista: Inflige 4 puntos de daño a la Mascota de Eixodolon.\".",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70046",
+        "flavor": "¿Sabrá alguno de los otros grupos cómo interpretar esto?",
+        "name": "Diagrama del marchitamiento",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control del Diagrama del marchitamiento a otro investigador.\nMientras estés en la Cámara del hambre, ésta obtiene: \"[action] Si la Mascota de Eixodolon está \"encerrada\", gasta 1 pista: Inflige 4 puntos de daño a la Mascota de Eixodolon.\".",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70047",
+        "name": "Diagrama del marchitamiento",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control de Diagrama del marchitamiento a otro investigador.\nMientras estés en la cámara del marchitamiento, ésta obtiene: \"[action]: Coloca 1 ficha de Perdición aquí. Dale la vuelta a cualquier cantidad de tus pistas para mostrar su lado de perdición y colócalas aquí.\".",
+        "traits": "Objeto. Escritura."
+    },
+    {
+        "code": "70048",
+        "name": "Eixodolon",
+        "subname": "Tu angustia es mi poder",
+        "text": "Cazador. Represalia.\nEixodolon recibe +6 puntos de salud [per_investigator] y no puede ser derrotado mediante daño.\n<b>Obligado</b> - Cuando comience la fase de Enemigos, si hay una copia de Dolor cosechado en la zona de victoria: Prepara a Eixodolon.",
+        "traits": "Humanoide. Servidor. Élite."
+    },
+    {
+        "code": "70049",
+        "name": "Mascota de Eixodolon",
+        "subname": "No eres su primera víctima, ni la última",
+        "text": "Cazador. Represalia.\nMientras la Mascota de Eixodolon esté \"encerrada\", es inmune a los efectos de las cartas de Jugador, y la Cámara del hambre obtiene: \"[action] Los investigadores que estén en la Cámara del hambre gastan, como grupo, 1 pista [per_investigator]: Deja aparte la Mascota de Eixodolon, fuera del juego. Recuerda que le has \"enviado la Mascota de Eixodolon a otro grupo\".\".",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "70050",
+        "name": "Mascota de Eixodolon",
+        "subname": "No eres su primera víctima, ni la última",
+        "text": "Cazador. Represalia.\nMientras la Mascota de Eixodolon esté \"encerrada\", es inmune a los efectos de las cartas de Jugador.",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "70051",
+        "name": "El carcelero",
+        "text": "<b>Aparición</b> - Salas laberínticas más cercanas.\nCazador.\nLa Nota de Eixodolon obtiene: \"[action] <b>Combatir.</b> Usa esta capacidad sólo contra El carcelero. Usa [willpower] o [combat] para este ataque. Si tienes éxito, deja aparte El carcelero, fuera del juego. Al final de la ronda, mueve El carcelero a las Salas laberínticas de otro grupo <i>(conserva todas las fichas y cartas vinculadas)</i>.\".",
+        "traits": "Monstruo. Élite."
+    },
+    {
+        "code": "70052",
+        "name": "Raptor sin rostro",
+        "text": "<b>Aparición</b> - Lugar [[Prisión]] más cercano.\nCazador.\n<b>Obligado</b> - Después de que el Raptor sin rostro ataque a un investigador: Mueve ese investigador a un Lugar [[Prisión]].",
+        "traits": "Monstruo. Ángel descarnado."
+    },
+    {
+        "code": "70053",
+        "name": "Víctima torturada",
+        "text": "<b>Revelación</b> - Debes descartar una carta aleatoria de tu mano, o bien la Víctima torturada realiza un ataque inmediatamente contra ti.",
+        "traits": "Humanoide. Extradimensional."
+    },
+    {
+        "code": "70054",
+        "name": "Guardia Mi-Go",
+        "text": "<b>Presa</b> - Mayor salud restante.\nPor cada ficha [skull], [cultist], [tablet] o [elder_thing] revelada durante un ataque contra el Guardia Mi-Go, este ataque inflige 1 punto de daño menos.",
+        "traits": "Monstruo. Mi-Go."
+    },
+    {
+        "code": "70055",
+        "name": "Cansancio anómalo",
+        "text": "Peligro.\n<b>Revelación</b> - Realiza una prueba de [willpower] (3). Debes elegir una opción distinta por cada punto que te falte para tener éxito:\n- Pierde 3 recursos.\n- Pierde 1 acción.\n- Descarta una carta de tu mano al azar.",
+        "traits": "Lesión. Veneno."
+    },
+    {
+        "code": "70056",
+        "name": "Gas venenoso",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (4). Si fracasas, pierde 1 acción, o bien 2 acciones si fracasas por 2 o más. Cuando comience esta prueba de habilidad, un investigador que esté en tu Lugar puede colocar 1 de sus pistas en tu Lugar para reducir en 2 la dificultad de esta prueba.",
+        "traits": "Trampa. Veneno."
+    },
+    {
+        "code": "70057",
+        "name": "Mecanismo atroz",
+        "text": "<b>Revelación</b> - Pon el Mecanismo atroz en juego en tu zona de amenaza.\n<b>Obligado</b> - Después de que realices una acción que no sea la capacidad [action] de esta carta: Recibe 1 punto de daño, descarta un Apoyo que ocupe al menos un espacio de mano y descarta el Mecanismo atroz.\n[action]: Realiza una prueba de [combat] (2). Si tienes éxito, descarta el Mecanismo atroz.",
+        "traits": "Trampa."
+    },
+    {
+        "code": "70058",
+        "name": "Sangre y óxido",
+        "text": "<b>Revelación</b> - Realiza una prueba de [agility] (4). Si fracasas, recibe 1 punto de daño, o bien 2 puntos de daño si fracasaste por 2 o más. Cuando comience esta prueba de habilidad, un investigador que esté en tu Lugar puede colocar 1 de sus pistas en tu Lugar para reducir en 2 la dificultad de esta prueba.",
+        "traits": "Trampa."
+    },
+    {
+        "code": "70059",
+        "name": "Efecto de la paradoja",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Recibe 1 punto de horror por cada punto que te falte para tener éxito. Si tienes éxito, pon el Efecto de la paradoja en juego en tu zona de amenaza.\n<b>Obligado</b> - Al final de la ronda: Descarta el Efecto de la paradoja y elige un investigador de otro grupo. Tú y ese investigador podéis hablar en privado y podéis intercambiar recursos, Apoyos de la historia y cartas de la mano.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "70060",
+        "flavor": "La realidad tiembla.\nLa realidad divide.\nLa realidad se corrige, y la paradoja se colapsa.",
+        "name": "Efecto de la paradoja",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (3). Por cada punto que te falte para tener éxito, recibe 1 punto de horror.",
+        "traits": "Riesgo."
+    },
+    {
+        "code": "70061",
+        "name": "Dolor cosechado",
+        "text": "Peligro.\n<b>Revelación</b> - Si tienes 3 o menos puntos de salud o de cordura restantes, añade el Dolor cosechado a la zona de victoria. Si no es así, recibe 1 punto de daño y 1 punto de horror.\nMientras el Dolor cosechado esté en la zona de victoria, Eixodolon recibe +1 a combate.",
+        "traits": "Maldición."
+    }
+]
+

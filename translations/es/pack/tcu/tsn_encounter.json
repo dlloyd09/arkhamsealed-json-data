@@ -1,0 +1,250 @@
+[
+    {
+        "code": "05120",
+        "name": "El nombre secreto",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -1, o bien -3 si estás en un Lugar [[Extradimensional]].\n[cultist]: Revela otra ficha de Caos. Si fracasas, descarta las 3 primeras cartas del mazo de Encuentros.\n[tablet]: -2. Si fracasas y Nahab está en tu Lugar, te ataca.\n[elder_thing]: -3. Si fracasas, resuelve la palabra clave Cazador de cada Enemigo en juego.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -2, o bien -4 si estás en un Lugar [[Extradimensional]].\n[cultist]: Revela otra ficha de Caos. Si fracasas, descarta las 5 primeras cartas del mazo de Encuentros.\n[tablet]: -3. Si fracasas y Nahab está en juego, te ataca <i>(independientemente de su Lugar actual)</i>.\n[elder_thing]: -4. Resuelve la palabra clave Cazador de cada Enemigo en juego."
+    },
+    {
+        "code": "05121",
+        "name": "El Ermitaño • IX",
+        "text": "Cada Enemigo que no sea Debilidad recibe +1 de salud.\n[reaction] Después de que derrotes a Brown Jenkin o a Nahab: Obtén 1 pista de la reserva de pistas, o bien 2 pistas si hay 3 o más investigadores en la partida.",
+        "flavor": "BUSCA RESPUESTAS DENTRO Y NO FUERA.\nMUCHOS CAMINOS LLEVAN A LA MISMA RESPUESTA.\nCONTEMPLA LA GRAN VERDAD.",
+        "back_name": "Ratas en las paredes",
+        "back_text": "Si Brown Jenkin está en juego, busca en el mazo y la pila de descartes de Encuentros una Avalancha de ratas y haz que aparezca en el Lugar de Brown Jenkin. Si Brown Jenkin no está en juego, búscalo en el mazo y la pila de descartes de Encuentros y haz que aparezca en el Lugar del investigador jefe.\nAdemás, si hay 3 o 4 investigadores en la partida, busca en el mazo y la pila de descartes de Encuentros una Avalancha de ratas y haz que aparezca en cualquier Lugar [[Casa de la bruja]].",
+        "back_flavor": "Mientras exploráis la antigua y ruinosa casa, el distintivo correteo y el ruido de arañazos en las paredes se vuelve más fuerte y frecuente. De vez en cuando, una peluda criatura con colmillos pasa a toda velocidad por el suelo de madera, entrando y saliendo de ratoneras en las paredes. Os preguntáis si esta casa tiene más ratas que madera."
+    },
+    {
+        "code": "05122",
+        "name": "El familiar",
+        "text": "Cada Enemigo que no sea Debilidad recibe +2 de salud.\n[reaction] Después de que derrotes a Brown Jenkin o Nahab: Obtén 1 pista de la reserva de pistas, o bien 2 pistas si hay 3 o más investigadores en la partida.",
+        "flavor": "…las descripciones del frenético y pequeño objeto peludo que le hacía las veces de demonio familiar eran desagradablemente realistas, a pesar de ser increíblemente detalladas. – H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "back_name": "La vieja bruja",
+        "back_text": "- Si está en juego el acto 1, haz aparecer la carta Nahab puesta aparte en el Cuarto de Walter Gilman.\n- Si está en juego el acto 2, haz aparecer la carta Nahab puesta aparte en el Cuarto de Keziah.\n- Si está en juego el acto 3, coloca 1 ficha de Perdición sobre Nahab.\nAñade las dos copias de Presencia fantasmal puestas aparte al mazo de Encuentros y barájalo.\nBusca a Brown Jenkin (incluso si está fuera del juego) Y colócalo en el Lugar actual de Nahab.",
+        "back_flavor": "Una mareante luz violeta brota de los huecos de la destartalada casa, de detrás de las grietas de los paneles de madera y de debajo del suelo, bañándonos desde todos los ángulos. Un chillido inhumano se burla de vosotros mientras una silueta surge de la luz de bruja. En su forma rota y retorcida sólo queda un atisbo de humanidad. La vieja bruja se ríe con un timbre de pesadilla, y su voz resuena desde el reino del otro lado."
+    },
+    {
+        "code": "05123",
+        "name": "La luz bruja",
+        "text": "Cada Enemigo que no sea Debilidad recibe +3 de salud.\n[reaction] Después de que derrotes a Brown Jenkin o Nahab: Obtén 1 pista de la reserva de pistas, o bien 2 pistas si hay 3 o más investigadores en la partida.",
+        "flavor": "A la cegadora luz violeta del sueño, la vieja y el pequeño ser peludo de afilados colmillos se presentaron de nuevo, con mayor claridad que en ninguna ocasión anterior. Esta vez llegaron hasta él, y Gilman sintió que las secas garras de la bruja le agarraban. -H.P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "back_name": "Despertar",
+        "back_text": "- Si está en juego el acto 1 o 2, pon aparte a Nahab, fuera del juego, y coloca 4 fichas de Perdición sobre el plan 4a cuando entre en juego.\n- Si está en juego el acto 3, coloca 1 ficha de Perdición sobre Nahab.",
+        "back_flavor": "Un repentino destello de luz violeta os hace tambalearos hacia atrás. La forma espectral de la vieja bruja está rota y en pedazos, pero veis una siniestra sonrisa en su deformada cara mientras caéis. Una descarga de dolor recorre vuestros cuerpos cuando os dais con la cabeza contra la pared, y la terrible sonrisa de la bruja es lo último que veis antes de que todo se vuelva negro."
+    },
+    {
+        "code": "05124",
+        "name": "Marcados para el sacrificio",
+        "text": "Cada Enemigo que no sea Debilidad recibe +4 de salud.\n[reaction] Después de que derrotes a Brown Jenkin o Nahab: Obtén 1 pista de la reserva de pistas, o bien 2 pistas si hay 3 o más investigadores en la partida.",
+        "flavor": "O bien esta casa está encantada de verdad o bien sus extraños ángulos y su luz espectral están jugándole una mala pasada a vuestra confundida mente. ¿Son reales estas visiones fantasmales? ¿O los ecos del macabro pasado de la casa?",
+        "back_name": "Sueño en la casa de la bruja",
+        "back_flavor": "Destellos de visiones brotan en vuestra memoria mientras os arrastran por el sucio suelo de madera. Una siniestra ceremonia… la casa… Nahab… un rítmico cántico… el negro vórtice en espiral… una oscura celebración… el Caos Primordial… el llanto de un niño… un túnel que se abre paso en vuestro pecho.",
+        "back_text": "<b>(→R1)</b>"
+    },
+    {
+        "code": "05125",
+        "name": "Investigando la casa de la bruja",
+        "text": "<b>Objetivo</b> - Si todos los investigadores no derrotados están en el Cuarto de Walter Gilman, los investigadores pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "flavor": "Cuando llegáis a la vieja casa de la bruja, la encontráis en un estado más lamentable de lo que imaginabais. La casa está rodeada por una cerca de madera y parece como si fuera a desmoronarse en cualquier momento. La puerta delantera está cerrada con llave, pero podéis entrar fácilmente por una de las ventanas tras quitar los podridos tablones que cubren el crital roto.",
+        "back_name": "Espectro del pasado",
+        "back_text": "intercambia el Cuarto de Walter Gilman por el Cuarto de Keziah puesto aparte, que toma su lugar <i>(todas las fichas y cartas que estuvieran en el primer Lugar pasan a estar en el nuevo).</i> Retira de la partida todos los demás Lugares en juego.\nElige un investigador para que tomo el control del Apoyo El Libro Negro puesto aparte. Añade las dos copias de Geometría extraña puestas aparte al mazo de Encuentros y barájalo.",
+        "back_flavor": "Estar en el cuarto de un muerto ya es lo bastante desconcertante, pero lo que encontráis dentro es suficiente como para que queráis marcharos y no volver nunca. El diario de Walter Gilman está lleno de descripciones de sus sueños y visiones, cada uno más aterrador y asombroso que el anterior. Menciona haber visto la figura de Keziah Mason en más de una ocasión, y en un momento dado la llama por otro nombre: \"Nahab\". En cuanto leéis el nombre en voz alta, la ventana más cercana estalla en pedazos, y una niebla espectral que conocéis demasiado bien invade el angosto espacio. Cuando se retira, toda la habitación ha cambiado. En el rincón más alejado del cuarto de Gilman hay un escritorio y una vetusta librería allí donde debería estar su cama. La puerta por la que entrasteis ha desaparecido. Las paredes están cubiertas de extraños signos geométricos dibujados con una pegajosa sustancia roja."
+    },
+    {
+        "code": "05126",
+        "name": "Beyond the Casa de la bruja",
+        "text": "<b>Objetivo</b> - Sólo los investigadores que estén en las Ruinas de la casa de la bruja pueden, como grupo, gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+        "flavor": "Entre los libros de esta extraña habitación hay un tomo negro y sin  que está escrito con sangre seca. Coincide con una descripción que aparece en el diario de Walter Gilman sobre un tomo que llama \"El Libro Negro\". Esta habitación debe de ser la morada de Keziah Mason de hace más de 200 años. Se rumorea que Keziah había descubierto profundas verdades matemáticas que la permitían atravesar el tiempo y el espacio. Quizás podáis encontrar una salida empleando este conocimiento.",
+        "back_name": "Un ritual profano",
+        "back_text": "Pon en juego el Lugar Lugar del sacrificio puesto aparte.\n- Si está en juego el plan 1, 2, o 3, busca a Nahab (incluso si está fuera del juego), y coloca 2 fichas de Perdición sobre ella y colócala en el Lugar del sacrificio.\n- Si está en juego el plan 4,busca a Nahab (incluso si está fuera del juego) y colócala en el Lugar del sacrificio. Mueve toda la perdición del plan 4a sobre Nahab.\nBusca a Brown Jenkin (incluso si está fuera del juego) y colócalo en el Lugar actual de Nahab.",
+        "back_flavor": "Mientras registráis las ruinas, encontráis un agujero podrido en el techo inclinado que lleva un ático clausurado. Entre los escombros, hay huesos machacados y astillados, unos humanos y otros… no. Hay más de los terribles tomos de Keziah diseminados por el lugar, llenos de páginas de oscuros rituales y magia negra. En el suelo, han tallado un círculo (o quiza lo han roído) en la madera. En su centro hay una salpicadura de sangre seca y un cuchillo serrado. ¿Qué terribles rituales se realizaban en este lugar profano? Tal vez haya un modo de saberlo a ciencia cierta. Cogéis el cuchillo y uno de vosotros se pincha la mano lo suficiente como para que brote sangre hacia su palma. Usando las fórmulas de Keziah, dibujáis un patrón en el círculo y os abrís paso en el tiempo…"
+    },
+    {
+        "code": "05127",
+        "name": "Detener el ritual",
+        "text": "Nahab no puede abandonar el Lugar del sacrificio.\n<b>Obligado</b> - Cuando Nahab sea derrotada: En lugar de descartarla, cúrale todo el daño, haz que deje de estar enfrentada a todos los investigadores y agótala. No se prepara durante la fase de Mantenimiento de esta ronda.\n<b>Objetivo</b> - Si no hay perdición sobre Nahab, haz avanzar el acto.",
+        "flavor": "Abrís las costuras del espaciotiempo y llegáis a vuestro destino. Es el mismo ático estrecho, pero en una época distinta. La sala está oscura, salvo por un brillo violeta que sale del extremo más alejado, donde el suelo cae hacia el vacío. Del abismo surgen la antigua bruja y su familiar…",
+        "back_name": "Ritual evitado",
+        "back_text": "<b>(→R2)</b>",
+        "back_flavor": "La antigua bruja emite un alarido de banshee cuando desmanteláis su impío ritual. La sala se desdobla por el espaciotiempo, y las angostas paredes inclinadas se despliegan para revelar el vacío que hay al otro lado. La criatura que antaño fue Keziah Mason profiere una aborrecible maldición cuando su silueta informe es arrastrada hacia el vacío. Trozo a trozo, el suelo de paneles de madera se va rompiendo bajo vuestros pies. Después sois arrastrados… la atracción de las estrellas… un callejón embarrado… la flauta del bosque… el rugiente abismo… la mirada del vigilante… la Torre… una verde ladera de colina… el vórtice negro… los gritos de los acusados… el flautista… tres flechas… un sacrificio… una campana que suena… un ascenso… y salís de la anomalía, golpeando el suelo dolorosamente."
+    },
+    {
+        "code": "05128",
+        "name": "Salas vetustas",
+        "text": "<b>Embrujado</b> - Pierde 3 recursos.",
+        "flavor": "Entre las antiguas y decrépitas paredes de la casa de la bruja, las únicas señales de vida son las ratas que entran y salen correteando de los agujeros de las paredes.",
+        "back_flavor": "Cuando entráis en la casa de la bruja, os golpea inmediatamente el aire enrarecido. La madera huele a moho y putrefacción. El papel se despega de las paredes. No es de extrañar que clausuraran esta casa.",
+        "traits": "Casa de la bruja."
+    },
+    {
+        "code": "05129",
+        "name": "Cuarto del propietario",
+        "text": "<b>Obligado</b> - Después de que reveles el Cuarto del propietario: Busca una Avalancha de ratas en el mazo y la pila de descartes de Encuentros y haz que aparezca en las Salas vetustas. Baraja el mazo de Encuentros.\n<b>Embrujado</b> - Busca una Avalancha de ratas en el mazo y la pila de descartes de Encuentros y haz que aparezca en las Salas vetustas. Baraja el mazo de Encuentros.",
+        "back_name": "Puerta decrépita",
+        "back_flavor": "No hay ninguna marca ni pista que indique a quién pertenecía este cuarto; sólo el hedor del moho y el sonido de las ratas que corren por el otro lado.",
+        "traits": "Casa de la bruja."
+    },
+    {
+        "code": "05130",
+        "name": "Cuarto de Joe Mazurewicz",
+        "text": "[action]: Busca en tu mazo un Apoyo [[Bendecido]] u [[Objeto]] y añádelo a tu mano. Límite de grupo una vez por partida.\n<b>Embrujado</b> - Debes recibir 1 punto horror, o bien elegir y descartar un Apoyo que controles.",
+        "flavor": "Este cuarto es bastante sencillo. Hay varios crucifijos colgados de la pared, y un telar roto en una mesa del rincón.",
+        "back_name": "Puerta decrépita",
+        "back_flavor": "No hay ninguna marca ni pista que indique a quién pertenecía este cuarto; sólo el hedor del moho y el sonido de las ratas que corren por el otro lado.",
+        "traits": "Casa de la bruja."
+    },
+    {
+        "code": "05131",
+        "name": "Cuarto de Frank Elwood",
+        "text": "<b>Embrujado</b> - Debes colocar 1 de tus pistas sobre el Cuarto de Frank Elwood o bien colocar 1 ficha de Perdición sobre el plan en curso.",
+        "flavor": "Un escritorio repleto de libros y trabajos universitarios ocupa una de las paredes del pequeño cuarto. Tal vez aquí viviera un estudiante.",
+        "back_name": "Puerta decrépita",
+        "back_flavor": "No hay ninguna marca ni pista que indique a quién pertenecía este cuarto; sólo el hedor del moho y el sonido de las ratas que corren por el otro lado.",
+        "traits": "Casa de la bruja."
+    },
+    {
+        "code": "05132",
+        "name": "Cuarto de Walter Gilman",
+        "text": "[action]: Roba 3 cartas y recibe 1 punto de horror. Límite de una vez por partida.\n<b>Embrujado</b> - Descarta las 2 primeras cartas del mazo de Encuentros.",
+        "flavor": "La habitación de Gilman era de buen tamaño pero de forma irregular; la pared del norte se inclinaba perceptiblemente hacia el interior mientras que el techo, de poca altura, bajaba suavemente en igual dirección. - H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "back_text": "La puerta que da al Cuarto de Walter Gilman está cerrada con llave. Como coste adicional para entrar en el Cuarto de Walter Gilman, los investigadores que estén en las Salas vetustas deben gastar como grupo, 1 pista [per_investigator].",
+        "back_flavor": "Por el motivo que sea, esta sala se dejó cerrada con llave incluso tras clausurar el edificio. Te preguntas dónde podría estar la llave.",
+        "traits": "Casa de la bruja."
+    },
+    {
+        "code": "05133",
+        "name": "Cuarto de Keziah",
+        "text": "[reaction] Después de investigar con éxito el Cuarto de Keziah: En lugar de descubrir pistas, pon en juego la primera carta del mazo de Lugares desconocidos, sin revelar. A continuación, puedes moverte a ese Lugar.\n<b>Embrujado</b> - Descarta cartas de la parte superior del mazo de Encuentros hasta que sea descartada una carta [[Maleficio]]. Roba esa carta.",
+        "back_flavor": "No hubiera podido decir lo que esperaba encontrar allí, pero sabía que deseaba estar en aquel edificio donde alguna circunstancia había dado, más o menos repentinamente, a una vulgar anciana del siglo XVII, un atisbo de profundidades matemáticas tal vez más atrevidas que las más modernas elucubraciones de Planck, Heisenberg, Einstein, y de Sitter.\n– H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "traits": "Espectral. Casa de la bruja."
+    },
+    {
+        "code": "05134",
+        "name": "Salas vetustas",
+        "subname": "Earlier Tonight",
+        "text": "[action]: Le pides ayuda a tu yo del pasado. Cada investigador que esté en este Lugar puede devolver a su mano 1 carta de su pila de descartes. Cada investigador que lo haga recuerda que \"ha interferido con el pasado\". Límite de grupo una vez por partida.",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Casa de la bruja."
+    },
+    {
+        "code": "05135",
+        "name": "Abismo crepuscular",
+        "text": "<b>Obligado</b> - Después de que entres en el Abismo crepuscular, Realiza una prueba de [combat] o de [agility] (3). Por cada punto que te falte para tener éxito, recibe 1 punto de daño.",
+        "flavor": "Los entes orgánicos, cuyos movimientos parecían inconsecuentes y sin motivo, eran probablemente proyecciones de formas vitales procedentes de nuestro propio planeta, incluidos los seres humanos.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Sobrenatural."
+    },
+    {
+        "code": "05136",
+        "name": "Ciudad de los Antiguos",
+        "text": "[reaction] Después de que reveles la Ciudad de los Antiguos, recibe 2 puntos de horror: Pon en juego la primera carta del mazo de Lugares desconocidos, sin revelar. Durante el resto del escenario, la Ciudad de los Antiguos se considera conectada a ese Lugar y viceversa.",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Sobrenatural."
+    },
+    {
+        "code": "05137",
+        "name": "Ruinas de la casa de la bruja",
+        "text": "[action]: <b>Investigar.</b> Si tienes éxito, en lugar de descubrir pistas, cúrate 2 puntos de horror. Límite de una vez por partida.\n<b>Embrujado</b> - Pierde 1 acción.",
+        "flavor": "Esto parece ser las ruinas de la casa de la bruja; puede que sea una visión del futuro del edificio. Es un remolino de ladrillos desmoronados, tejas ennegrecidas y cubiertas de musgo y tablones y maderas podridos.",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Casa de la bruja."
+    },
+    {
+        "code": "05138",
+        "name": "Prisión de Salem. 1692",
+        "text": "[action]: Realiza una prueba de [intellect] (3). Si tienes éxito, muévete a cualquier Lugar revelado. Límite de una vez por partida.\n<b>Embrujado</b>- Muévete al Cuarto de Keziah.",
+        "flavor": "…ni siquiera Cotton Mather pudo explicar las curvas y ángulos dibujados sobre las grises paredes de piedra con algún líquido rojo y pegajoso.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Salem."
+    },
+    {
+        "code": "05139",
+        "name": "Aula de física",
+        "text": "[reaction] Después de que investigues con éxito el Aula de física por 2 o más: Descubre 1 pista en otro Lugar revelado. Límite de una vez por ronda.",
+        "flavor": "¿Un lugar de enseñanza superior?\n¿O un lugar donde encadenan la enseñanza superior?",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Miskatonic."
+    },
+    {
+        "code": "05140",
+        "name": "Corte de los Primigenios",
+        "subname": "Un futuro no demasiado lejano",
+        "text": "<b>Obligado</b> - Después de que entres en la Corte de los Primigenios, realiza una prueba de [willpower] (3). Por cada punto que te falte para tener éxito, recibe 1 punto de horror.\n<b>Embrujado</b> - La siguiente acción en esta ronda debe ser una acción de investigar.",
+        "back_name": "Lugares desconocidos",
+        "back_flavor": "También era posible que los habitantes de una zona dimensional determinada pudieran soportar la entrada en muchos dominios desconocidos e incomprensibles de dimensiones más numerosas, o indefinidamente multiplicadas, de dentro o de fuera del continuo espacio-tiempo dado, y lo contrario podría darse.\n- H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>.",
+        "traits": "Extradimensional. Sobrenatural."
+    },
+    {
+        "code": "05141",
+        "name": "Lugar del sacrificio",
+        "text": "[action] Los investigadores que estén en este Lugar gastan, como grupo, 1 pista [per_investigator]: Retira 1 ficha de Perdición de Nahab. Esta acción no provoca ataques de oportunidad de Nahab.\n<b>Obligado</b> - Al final de la ronda: Añade pistas a este Lugar hasta que tenga 3 pistas [per_investigator] sobre él.\n<b>Embrujado</b> - Debes colocar 1 ficha de Perdición sobre Nahab, o bien Nahab te ataca.",
+        "back_flavor": "…se encontró en un pequeño y descuidado recinto limitado por vigas y tablones sin cepillar que se elevaban para juntarse en ángulo por encima de él y formaban un curioso declive bajo sis pies. En el suelo había cajones achatados colmados de libros muy antiguos en diversos estados de conservación, y en el centro había una mesa y un banco, al parecer sujetos al suelo.\n– H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "traits": "Extradimensional. Casa de la bruja."
+    },
+    {
+        "code": "05142",
+        "name": "Geometría extraña",
+        "text": "<b>Revelación</b> - Pon la Geometría extraña en juego y muévete a ella.\n<b>Obligado</b> - Después de que acabe la fase de Investigación: Descarta la Geometría extraña y mueve a cada investigador y Enemigo que haya aquí al Lugar que tenga más pistas. Cada investigador que fuese movido por este efecto recibe 1 punto de daño y 1 punto de horror.\n[free] Si la Geometría extraña no tiene pistas: Muévete a cualquier Lugar .",
+        "traits": "Extradimensional."
+    },
+    {
+        "code": "05143",
+        "name": "Familiar entrometido",
+        "text": "<b>Revelación</b> - Si Brown Jenkin no está en juego, búscalo en el mazo y la pila de descartes de Encuentros, haz que aparezca en tu Lugar y recibe 1 punto de daño. Si no es así, busca una Avalancha de ratas en el mazo y la pila de descartes de Encuentros, haz que aparezca enfrentada a ti y luego recibe 1 punto de daño.",
+        "traits": "Maldición."
+    },
+    {
+        "code": "05144",
+        "name": "Presencia fantasmal",
+        "text": "<b>Revelación</b> - Si Nahab está en juego, prepárala, resuelve su palabra clave Cazador y ataca a cada investigador que esté en su Lugar. Si Nahab está en el Lugar del sacrificio, coloca también 1 ficha de Perdición sobre ella. Si no es así, busca a Nahab en el mazo y la pila de descartes de Encuentros y haz que aparezca en tu Lugar.",
+        "traits": "Augurio."
+    },
+    {
+        "code": "05145",
+        "name": "Visiones extradimensionales",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (2). Esta prueba recibe +1 a su dificultad por cada 10 cartas que haya en la pila de descartes de Encuentros. Si fracasas, descarta un Apoyo que controles.",
+        "flavor": "La mañana del día 29, Gilman se despertó sumido en una vorágine de horror. – H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "05146",
+        "name": "Atraído por las estrellas",
+        "text": "<b>Revelación</b> - Pon Atraído por las estrellas en juego en tu zona de amenaza.\n<b>Obligado</b> - Al final de tu turno, si no te moviste al menos una vez en este turno: Recibe 2 puntos de horror.\n[action]: Realiza una prueba de [willpower] (3). Si tienes éxito, descarta Atraído por las estrellas del juego. Si hay un Enemigo [[Bruja]] agotado en tu Lugar, esta prueba tiene éxito automáticamente.",
+        "traits": "Maleficio."
+    },
+    {
+        "code": "05147",
+        "name": "Sueños alarmantes",
+        "text": "<b>Revelación</b> - Realiza una prueba de [willpower] (5). Si fracasas, pon los Sueños alarmantes en juego en tu zona de amenaza.\n<b>Obligado</b> - Al final de tu turno: Descarta la primera carta del mazo de Encuentros.\n<b>Obligado</b> - Cuando el mazo de Encuentros se quede sin cartas: Descarta los Sueños alarmantes y revela las 10 primeras cartas de tu mazo. Roba cada debilidad revelada y descarta todas las demás cartas reveladas.",
+        "traits": "Terror."
+    },
+    {
+        "code": "05148",
+        "name": "Brown Jenkin",
+        "subname": "El familiar de la bruja",
+        "text": "Indiferente. Cazador.\nCada Enemigo [[Criatura]] preparado recibe +2 a combate.\n<b>Obligado</b> - Cuando acabe la fase de Enemigos, si Brown Jenkin está preparado: Cada investigador que esté en su Lugar descarta su mano y luego roba esa misma cantidad de cartas.",
+        "traits": "Criatura. Familiar. Élite."
+    },
+    {
+        "code": "05149",
+        "name": "Nahab",
+        "subname": "La que firmó el Libro Negro",
+        "text": "Cazador. Represalia.\nNo retires la perdición de Nahab cuando avance el plan.\nNahab recibe +X a combate, donde X es el número del plan en curso.\n<b>Obligado</b> - Después de que comience la fase de Enemigos, si Nahab está preparada: Coloca 1 ficha de Perdición sobre ella.",
+        "traits": "Monstruo. Geist. Bruja. Élite."
+    },
+    {
+        "code": "05150",
+        "name": "El Libro Negro",
+        "subname": "Firmado en sangre",
+        "text": "Recibes +1 [willpower] y +1 [intellect].\n[reaction] Cuando juegues una carta, agota El Libro Negro y recibe X de horror: Reduce en X el coste de esa carta.",
+        "flavor": "Tendría que firmar en el libro de Azathoth con su propia sangre y adoptar un nuevo nombre secreto… \n– H. P. Lovecraft, <u>Los sueños de la casa de la bruja</u>",
+        "traits": "Objeto. Tomo. Reliquia.",
+        "slot": "Mano"
+    }
+]

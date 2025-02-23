@@ -1,0 +1,257 @@
+[
+    {
+        "code": "05197",
+        "name": "Por el bien común",
+        "text": "<b>Fácil/Normal</b>\n[skull]: -X. X es la cantidad más alta de fichas de Perdición que haya sobre un Enemigo [[Sectario]] en juego.\n[cultist]: -2. Revela otra ficha.\n[tablet]: -3. Si fracasas, coloca 1 ficha de Perdición sobre el Enemigo [[Sectario]] más cercano.\n[elder_thing]: -3. Si fracasas, mueve al plan en curso 1 ficha de Perdición del Enemigo [[Sectario]] más cercano.",
+        "back_text": "<b>Difícil/Experto</b>\n[skull]: -X. X es la cantidad total de fichas de Perdición que haya sobre los Enemigos [[Sectario]] en juego.\n[cultist]: -2. Revela otra ficha.\n[tablet]: -3. Si fracasas, coloca 1 ficha de Perdición sobre cada Enemigo [[Sectario]] en juego. Si no hay Enemigos [[Sectario]] en juego, revela otra ficha.\n[elder_thing]: -3. Si fracasas, mueve al plan en curso toda la perdición del Enemigo [[Sectario]] más cercano. Si ningún Enemigo [[Sectario]] en juego tiene perdición, revela otra ficha."
+    },
+    {
+        "code": "05198",
+        "name": "El Sumo Sacerdote · V",
+        "text": "<b>Obligado</b> - Cuando derrotes a un Enemigo [[Crepúsculo de plata]]: Dejas señales de la pelea. Mueve 1 ficha de Perdición de cada Enemigo que esté en ese Lugar al plan en curso.",
+        "flavor": "ADAPTA TUS CREENCIAS Y ÁBRETE A NUEVAS VERDADES.\nSE ESPERA DE TI QUE TE AMOLDES.\nNO TE DESVÍES DEL CAMINO.",
+        "back_name": "Reunión",
+        "back_text": "Descarta las 5 primeras cartas del mazo de Encuentros. Siguiendo el orden de juego, cada investigador debe robar un Enemigo [[Sectario]] descartado de este modo.",
+        "back_flavor": "Mientras exploráis el edificio, estáis a punto de meteros en un acalorado debate entre varios miembros de la Logia que están en un pasillo cercano. Veis que es una oportunidad de recabar información, así que os ocultáis y escucháis la conversación a hurtadillas:\n-Las órdenes del Sr. Sanford son completar la trampa de espíritus cueste lo que cueste -dice uno de ellos con convicción-. Si eso supone poner vidas en peligro, que así sea. El bien de muchos supera el bien de unos pocos, ya lo sabéis.\nOtro miembro, una mujer, golpea la pared con el puño: -¡No! No podemos derramar sangre como primer recurso. Debe de haber otro modo.\n-No hay tiempo -responde el otro, y hay un murmullo de asentimiento entre el resto-. Está claro que no tienes la voluntad de continuar. Lleváosla. Haremos que vea por sí misma los sacrificios que es necesario realizar por le bien común.\n-¡No! ¡No podéis hacer esto! -grita la mujer. Hacéis una mueca mientras sus gritos se pierden por el pasillo. ¿Qué tienen planeado hacer?"
+    },
+    {
+        "code": "05199",
+        "name": "Medios y fines",
+        "text": "Todos los Enemigos [[Crepúsculo de plata]] que estén en un Lugar [[Santuario]] pierden Indiferente.\n<b>Obligado</b> - Cuando derrotes a un Enemigo [[Crepúsculo de plata]]: Dejas señales de pelea. Mueve 1 ficha de Perdición de cada Enemigo que esté en ese Lugar al plan en curso.",
+        "flavor": "La Logia recurrirá a medidas drásticas para lograr sus objetivos. Si no actuáis rápidamente, se derramará sangre.",
+        "back_name": "El bien común",
+        "back_text": "<b>Revelación</b> - Sustituye los mazos de Acto y de Plan por El bien común. Haz que aparezca la Bestia invocada puesta aparte en el Lugar de la Caja enigmática (o en cualquier Lugar [[Santuario]] si la Caja enigmática no está en juego) y retira la Caja enigmática de la partida."
+    },
+    {
+        "code": "05200",
+        "name": "Calurosa bienvenida",
+        "flavor": "Habéis llegado a la mansión de la Logia de French Hill para ver si pueden ayudaros a unir las pruebas que habéis reunido. Tal vez incluso podáis hablar con el presidente de la Logia otra vez. Sin embargo, al acercaros a la mansión, comenzáis a preguntaros si todo esto no ha sido más que una prueba de lealtad.",
+        "back_name": "La iniciación",
+        "back_text": "Si la Biblioteca no está en juego, ponla en juego.\nHaz aparecer el Enemigo Nathan Wick puesto aparte en la Biblioteca, con el lado <i>(Maestro de la iniciación)</i> boca arriba. Vincúlale el Apoyo de historia Caja enigmática puesto aparte.",
+        "back_flavor": "-Ah, sois vosotros -os dice un miembro de la Logia que se acerca a vosotros y al que conocéis: es uno de los guardaespaldas que tenía Carl Sanford en vuestro encuentro anterior con el presidente-.\n-Lamento informaros de que sel Sr. Sanford y los demás miembros de la Logia están ocupados con una importante tarea en este momento. Sugiero que volváis en otro momento.\nLe decís que vuestra tarea es importante y os ofrecéis a ayudar a cambio de poderos reunir con el Sr. Sanford. Se lo piensa durante un momento y luego asiente:\n-Está bien. Estamos intentando abrir un dispositivo que creemos que nos ayudará a atar a la resucitada con la que os encontrasteis. Si queréis ayudar, debéis hablar con Nathan Wick. Lo encontraréis en la biblioteca del piso de arriba.\nLe dais las gracias y os giráis para marcharos, pero coge el brazo a uno de vosotros y os detiene para haceros una última advertencia: -Debéis saber que queremos abrir este dispositivo a toda costa. Si no podéis soportar las consecuencias, vuelvo a sugeriros que os marchéis."
+    },
+    {
+        "code": "05201",
+        "name": "Infiltración en la Logia",
+        "text": "[reaction] Después de que evites a un Enemigo: Retírale toda la perdición que tenga.",
+        "flavor": "La Logia trama algo, de eso estáis seguros. De lo que no estáis seguros es de los detalles de su plan, pero vuestras sospechas han ido bien encaminadas hasta el momento. Habéis decidido colaros en la mansión de la Logia de French Hill para descubrir qué planean.",
+        "back_name": "El adoctrinamiento",
+        "back_text": "Si el Santuario interior no está en juego, ponlo en juego.\nHaz aparecer el Enemigo Nathan Wick puesto aparte en el Santuario interior, con el lado <i>(Maestro del adoctrinamiento)</i> boca arriba. Vincúlale el Apoyo de historia Caja enigmática puesto aparte.\nDurante el resto de partida, el acto en curso obtiene: \"[reaction] Después de que evites a un Enemigo: Retírale toda la perdición que tenga.\". Coloca esta carta junto al mazo de Acto como recordatorio y luego haz avanzar el acto al acto 2a.",
+        "back_flavor": "Al principio, vuestra investigación arroja pocas respuestas. Sí que hay algún tipo de reunión en la mansión esta noche, pero no sabéis el motivo. Por fin, tenéis suerte. En una mesa cercana, una convocatoria escrita explica la razón de la reunión de esta noche:\n\"Nuestras previsiones han debido adelantarse. Tenemos que completar la trampa antes de la medianoche de hoy. El dispositivo que encontramos nos ayudará a atar a la resucitada, así que es fundamental que encontremos una forma de abrirlo antes de que comience la ceremonia. No podemos perder tiempo con prudencia o cobardía. Presentaos de inmediato ante Nathan Wick en el santuario.\".\nOs plantea más preguntas que respuestas."
+    },
+    {
+        "code": "05202",
+        "name": "Obtener el dispositivo",
+        "text": "<b>Objetivo</b> - Si Nathan Wick es añadido a la zona de victoria por cualquier medio, elige a un investigador para que tome el control de la Caja enigmática vinculada y haz avanzar el acto.",
+        "flavor": "Sea lo que sea lo que planea la Logia, tiene que ver con un \"dispositivo\" que quieren abrir a toda costa. Parece que quien tiene el dispositivo en este momento es un miembro de la Logia llamado Nathan Wick. Tenéis que haceros con él de un modo u otro.",
+        "back_name": "Obtener el dispositivo",
+        "back_text": "<b>Si el acto avanzó por derrotar a Nathan Wick:</b>\n<blockquote><i>Coges rápidamente el dispositivo de las manos de Nathan y huis antes de ser descubiertos.</i></blockquote><hr><b>Si el acto avanzó por evitar a Nathan Wick:</b>\n<blockquote><i>Esperáis hasta que Nathan esté mirando para otro lado y os apresuráis a robar el dispositivo de la mesa que tiene al lado. Para cuando se da cuenta de que ha desaparecido, ya os habéis ido.</i></blockquote><hr><b>Si el acto avanzó por negociar con Nathan Wick:</b>\n<blockquote><i>-Muy bien, escuchame -explica Nathan en voz baja-. La verdad es que probablemente exista un modo más seguro de que abramos el dispositivo. Este edificio oculta muchos secretos; más de los que podríais llegar a conocer. Pero el tiempo apremia, y el Sr. Sanford quiere que esté abierto antes de la medianoche. Si lográis abrirlo antes de ese momento, estupendo. Si no, bueno… Si fuese vosotros, no querría estar por aquí cuando intentemos abrirlo por la fuerza. Os entrega el dispositivo y se marcha, dejándoos en silencio.</i></blockquote>"
+    },
+    {
+        "code": "05203",
+        "name": "Las cuatro llaves",
+        "text": "<b>Objetivo</b> - Si los investigadores que están en un mismo Lugar controlan la Caja enigmática, la llave [skull], la llave [cultist], la llave [tablet] y la llave [elder_thing], haz avanzar el acto.",
+        "flavor": "El \"dispositivo\" no es más que una caja enigmática cerrada, o suficientemente grande como para que quepan un par de zapatos. El diagrama de su superficie muestra un diseño roto que se puede manipular sin que tenga un fin aparente, y tampoco parece haber ningún tipo de cerradura.",
+        "back_name": "Abriendo la caja",
+        "back_text": "Comprueba el registro de campaña.\n- <i>Si los investigadores son miembros de la Logia</i>, <b>(→R1)</b>.\n- Si no es así, <b>(→R2)</b>.",
+        "back_flavor": "Aunque la propia caja parece combatiros, por fin lográis descubrir cómo abrir el artefacto tras conseguir los cuatro componentes de la llave. En primer lugar, giráis y retorcéis los muchos componentes mecánicos de la caja hasta que la imagen de su tapa se corresponde perfectamente con el diagrama que tenéis ([tablet]). A continuación, recitáis el ensalmo en latín que hay inscrito en la plaquita de madera que habéis encontrado ([cultist]). Os lleva algunos intentos lograrlo, pero acabáis por oír un clic cuando la superficie del recipiente de madera se desplaza y cambia. Ha aparecido una hendidura redonda en un lateral de la caja, cuyo tamaño coincide con el de vuestra misteriosa moneda de ónice negro ([elder_thing]). En cuanto colocáis la moneda en ella, se abre otro panel de madera en el otro lado y aparece una cerradura. Por fin, metéis la llave de hueso ([skull]) en la cerradura y la giráis. La tapa comienza a abrirse y, de pronto, toda la sala se ve envuelta por una ráfaga de aire mientras toda la luz, el color, el sonido y la materia son absorbidos hacia la caja."
+    },
+    {
+        "code": "05204",
+        "name": "Puertas de la Logia",
+        "subname": "Os estábamos esperando",
+        "text": "Los Enemigos no pueden aparecer en las Puertas de la Logia.\n[action]: <b>Desistir.</b> Pensándolo mejor, quizás fuera mala idea venir aquí.",
+        "flavor": "La sede de la Logia del Crepúsculo de plata es una bellísima mansión victoriana en French Hill que domina la mayor parte de la ciudad. Hay luz tras su imponente puerta con vidieras.",
+        "back_flavor": "Cuando os acercáis a las puertas de la mansión de la Logia de French Hill, os sorprende ver varios automóviles aparcados cerca, en la calle. Hay luz en varias ventanas de la mansión. ¿Hay algún tipo de reunión esta noche?",
+        "traits": "Logia."
+    },
+    {
+        "code": "05205",
+        "name": "Puertas de la Logia",
+        "subname": "Sólo para miembros",
+        "text": "Los Enemigos no pueden aparecer en las Puertas de la Logia.\n[action]: <b>Desistir.</b> Pensándolo mejor, quizás fuera mala idea venir aquí.",
+        "flavor": "La sede de la Logia del Crepúsculo de plata es una bellísima mansión victoriana en French Hill que domina la mayor parte de la ciudad. Hay luz tras su imponente puerta con vidieras.",
+        "back_flavor": "Cuando os acercáis a las puertas de la mansión de la Logia de French Hill, os sorprende ver varios automóviles aparcados cerca, en la calle. Hay luz en varias ventanas de la mansión. ¿Hay algún tipo de reunión esta noche?",
+        "traits": "Logia."
+    },
+    {
+        "code": "05206",
+        "name": "Vestíbulo",
+        "subname": "Os estábamos esperando",
+        "flavor": "Los guardias se hacen a un lado y os permiten entrar en el vestíbulo: -El Sr. Sanford os estaba esperando -dice uno de forma enigmática. El interior de la mansión está limpio y bien cuidado, como uno esperaría del club social más prestigioso de Arkham. Las paredes de madera están adornadas con placas, fotos y otros objetos que muestran la larga y famosa historia de la Logia.",
+        "back_text": "La entrada a la Logia del Crepúsculo de Plata está vigilada. No puedes entrar en el Vestíbulo.\nLas Puertas de la Logia obtienen: \"[action]: <b>Negociar.</b> Los guardias os reconocen de la finca Meiger y os dejan entrar. Revela el Vestíbulo.\".",
+        "back_flavor": "La entrada delantera de la mansión de la Logia está vigilada por dos hombres ataviados con gabardinas, que os hacen un gesto cuando os acercáis.",
+        "traits": "Logia."
+    },
+    {
+        "code": "05207",
+        "name": "Vestíbulo",
+        "subname": "Sólo para miembros",
+        "text": "<b>Obligado</b> - Después de que el Vestíbulo sea revelado: Coloca sobre él 1 llave aleatoria puesta aparte.",
+        "flavor": "El interior de la mansión está limpio y bien cuidado, como uno esperaría del club social más prestigioso de Arkham. Las paredes de madera están adornadas con placas, fotos y otros objetos que muestran la larga y famosa historia de la Logia.",
+        "back_flavor": "La entrada delantera de la mansión de la Logia está vigilada por dos hombres ataviados con gabardinas. Puede que haya otra forma de entrar en el edificio…",
+        "traits": "Logia."
+    },
+    {
+        "code": "05208",
+        "name": "Sótano de la Logia",
+        "subname": "Os estábamos esperando",
+        "text": "<b>Obligado</b> - Después de que el Sótano de la Logia sea revelado: Coloca sobre él 1 llave aleatoria puesta aparte.",
+        "flavor": "El sótano de la Logia sólo contiene una gran estantería con vinos y varios barriles sin marcar. Una pesada puerta de acero impide seguir adelante por el sótano. Casi perdéis las ganas de saber lo que hay más allá. Casi.",
+        "back_flavor": "Hay varias ventanas cerradas a nivel del sótano de la mansión que revelan las oscuras salas del interior.",
+        "traits": "Logia."
+    },
+    {
+        "code": "05209",
+        "name": "Sótano de la Logia",
+        "subname": "Sólo para miembros",
+        "flavor": "Os coláis en el sótano del edificio por una ventana abierta. Sólo contiene una gran estantería con vinos y varios barriles sin marcar. Una pesada puerta de acero impide seguir adelante por el sótano. Casi perdéis las ganas de saber lo que hay más allá. Casi.",
+        "back_text": "La entrada trasera a la Logia del Crepúsculo de Plata está oculta. No puedes entrar en el Sótano de la Logia.\nLas Puertas de la Logia obtienen: \"[action] Los investigadores que estén en las Puertas de la Logia gastan, como grupo, 1 pista [per_investigator]: Revela el Sótano de la Logia.\".",
+        "back_flavor": "Hay varias ventanas cerradas a nivel del sótano de la mansión que revelan las oscuras salas del interior.",
+        "traits": "Logia."
+    },
+    {
+        "code": "05210",
+        "name": "Salón",
+        "text": "<b>Obligado</b> - Después de que el salón sea revelado: Pon en juego los Lugares Cámara y Biblioteca puestos aparte. Pon en juego en el Salón el Apoyo August Lindquist puesto aparte. Coloca sobre él 1 llave aleatoria puesta aparte.",
+        "flavor": "Cuando entráis en el cálido salón, veis a un hombre vestido de forma elegante que lee junto al fuego. Para sorpresa vuestra, no os presta atención prácticamente.",
+        "back_flavor": "Al acercaros a la escalera que lleva al segundo piso de la mansión, oléis a cera de vela ardiendo. El silencio es tan grande que podéis oír el tenue crujido de una página al pasar.",
+        "traits": "Logia."
+    },
+    {
+        "code": "05211",
+        "name": "Cámara",
+        "text": "<b>Obligado</b> - Después de que la Cámara sea revelada: Coloca sobre ella 1 llave aleatoria puesta aparte.",
+        "flavor": "Esta sencilla sala sin adornos contiene muchas estanterías y archivadores en los que se guardan importantes documentos y registros sobre la Logia. Hay una pequeña caja fuerte de combinación en un rincón de la estancia. Os preguntáis qué secretos podríais descubrir aquí si tuvierais más tiempo.",
+        "back_text": "La puerta de la Cámara está cerrada. No puedes entrar en la Cámara a menos que controles la llave [elder_thing].",
+        "back_flavor": "Una pesada puerta de madera que tiene una ventana con barrotes de hierro parece llevar a una pequeña cámara. Está cerrada a cal y canto para alejar a los fisgones.",
+        "traits": "Logia."
+    },
+    {
+        "code": "05212",
+        "name": "Biblioteca",
+        "text": "Mientras estés investigando la Biblioteca, si controlas la llave [tablet], la Biblioteca recibe -3 a velo.",
+        "flavor": "Hasta la biblioteca de la Logia está colocada de tal forma que demuestra la riqueza y poder de la organización. Hay cientos de libros entre las altas y abarrotadas estanterías de la sala.",
+        "back_flavor": "Un estrecho pasillo sin ventanas sube desde el salón y os lleva a una alta puerta de madera.",
+        "traits": "Logia."
+    },
+    {
+        "code": "05213",
+        "name": "Catacumbas de la Logia",
+        "text": "<b>Obligado</b> - Cuando las Catacumbas de la Logia sean reveladas: Pon en juego el Santuario interior puesto aparte y todos los Lugares Puerta del santuario puestos aparte.",
+        "flavor": "Tras la puerta de acero, unos pasillos de piedra iluminados por antorchas llevan bajo tierra. En comparación con la madera pulida de los pisos de arriba, esta zona parece sucia y mugrienta. ¿Qué diablos es este lugar?",
+        "back_text": "La puerta que da a las Catacumbas de la Logia está cerrada. No puedes entrar en las Catacumbas de la Logia salvo que controles al menos 1 llave ([skull]/[cultist]/[tablet]/[elder_thing]).",
+        "back_flavor": "Una puerta de acero sin ventana bloquea el camino hacia un lugar desconocido. Tenéis la sensación de que este sótano es mucho mayor de lo que parece.",
+        "traits": "Logia. Santuario."
+    },
+    {
+        "code": "05214",
+        "name": "Sala de ceremonias",
+        "text": "<b>Obligado</b> - Cuando acabe la ronda: Cada investigador y cada Apoyo [[Aliado]] que esté en la Sala de ceremonias recibe 1 punto de horror directo. Cancela este efecto si un investigador que esté en la Sala de ceremonias controla la llave [skull].",
+        "flavor": "En el centro de la sala hay un altar de piedra en el que hay adornos tallados. La sangre sale del altar mediante varios canales que vierten en el suelo de mosaico de piedra.",
+        "back_name": "Puerta del santuario",
+        "back_flavor": "Hay una puerta de hierro sin ninguna marca tras un arco de piedra. Os tienta con secretos ocultos y verdades escondidas.",
+        "traits": "Logia. Santuario."
+    },
+    {
+        "code": "05215",
+        "name": "Calabozos",
+        "text": "<b>Obligado</b> - Después de que los Calabozos sean revelados: Busca un Enemigo [[Sectario]] en el mazo y la pila de descartes de Encuentros y haz que aparezca en los Calabozos. Baraja el mazo de Encuentros.",
+        "back_name": "Puerta del santuario",
+        "back_flavor": "Hay una puerta de hierro sin ninguna marca tras un arco de piedra. Os tienta con secretos ocultos y verdades escondidas.",
+        "traits": "Logia. Santuario."
+    },
+    {
+        "code": "05216",
+        "name": "Santuario interior",
+        "text": "<b>Obligado</b> - Después del que el Santuario interior sea revelado: Coloca sobre él 1 llave aleatoria puesta aparte.",
+        "flavor": "Al otro extremo de la sala, veis un podio sobre una plataforma de madera. Frente al escenario hay varias filas de cómodos asientos. Nunca habéis oído hablar de una sala de reuniones semejante en la Logia; debe de ser un lugar reservado a los miembros más dedicados y de mayor confianza.",
+        "back_text": "La puerta del Santuario interior está cerrada. No puedes entrar en el Santuario interior a menos que controles la llave [cultist].",
+        "back_flavor": "Al final de las catacumbas hay unas puertas de hierro adornadas con el símbolo de la Logia de Crepúsculo de Plata: tres flechas que apuntan hacia arriba. Como era de esperar, las puertas están cerradas a cal y canto.",
+        "traits": "Logia. Santuario."
+    },
+    {
+        "code": "05217",
+        "name": "Nathan Wick",
+        "subname": "Maestro de la iniciación",
+        "text": "Represalia.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] (3) para persuadir a Nathan que os deje buscar otra opción. Si tienes éxito, coloca 1 recurso sobre Nathan Wick. A continuación, si hay 1 recurso [per_investigator] sobre él, añádelo a la zona de victoria. Si fracasas, Nathan Wick te ataca.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata. Élite."
+    },
+    {
+        "code": "05217b",
+        "name": "Nathan Wick",
+        "subname": "Maestro del adoctrinamiento",
+        "text": "Alerta.\n<b>Obligado</b> - Después de que esquives a Nathan Wick por 3 o más: Robas la caja enigmática. Añade Nathan Wick a la zona de victoria.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata. Élite."
+    },
+    {
+        "code": "05218",
+        "name": "Carcelero de la Logia",
+        "text": "<b>Aparición</b> - Cualquier Lugar [[Santuario]].\nIndiferente.\n<b>Obligado</b> - Después de que el Carcelero de la Logia entre en juego: Coloca sobre él 2 fichas de Perdición y 1 llave aleatoria puesta aparte.\n[action]: <b>Negociar.</b> Realiza una prueba de [intellect] (3). Si tienes éxito, retira 1 ficha de Perdición del Carcelero de la Logia o bien toma el control de su llave.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05219",
+        "name": "Guardia de la celda",
+        "text": "<b>Aparición</b> - Cualquier Lugar [[Santuario]].\nAlerta.\n<b>Obligado</b> - Después de que el Guardia de la celda entre en juego: Coloca sobre él 2 fichas de Perdición y 1 llave aleatoria puesta aparte.\n<b>Obligado</b> - Cuando evites al Guardia de la celda por 2 o más: Toma el control de su llave.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05220",
+        "name": "Bestia invocada",
+        "subname": "Guardián de la trampa",
+        "text": "Represalia. Cazador.\nLa Bestia invocada recibe +1 a combate, +1 a evitar, +1 a daño y +1 a horror por cada 2 fichas de Perdición que haya en juego.\n<b>Obligado</b> - Al comienzo de la fase de Enemigos: la Bestia invocada derrota a todos los Enemigos [[Humanoide]] que estén en su Lugar. Mueve toda la perdición de esos Enemigos a la Bestia invocada.\n<b>Objetivo</b> - Si este Enemigo es derrotado: <b>(→R3)</b>",
+        "traits": "Monstruo. Crepúsculo de plata. Élite."
+    },
+    {
+        "code": "05221",
+        "name": "Caballero del Círculo Interno",
+        "text": "<b>Revelación</b> - Cualquier Lugar conectado al tuyo.\n<b>Presa</b> - Más llaves ([skull]/[cultist]/[tablet]/[elder_thing]) controladas.\nAlerta. Indiferente. Cazador.\n<b>Obligado</b> - Después de que entres en el Lugar del Caballero del Círculo Interno (o viceversa): Realiza una prueba de [agility] (4). Si fracasas, el Caballero del Círculo Interno se enfrenta a ti.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05222",
+        "name": "Caballero del Vacío Exterior",
+        "text": "<b>Revelación</b> - Cualquier Lugar conectado al tuyo.\nIndiferente. Peligro. Represalia.\n<b>Revelación</b> - Después de que el Caballero del Vacío Exterior aparezca, coloca 1 o 2 fichas de Perdición sobre él.\n[action]: <b>Negociar.</b> Realiza una prueba de [willpower] o de [intellect] (4). Si tienes éxito, toma el control de 1 ficha de Perdición del Caballero del Vacío Exterior y dale la vuelta a su lado de pista. Si fracasas, el Caballero del Vacío Exterior te ataca.",
+        "traits": "Humanoide. Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05223",
+        "name": "Llamada al orden",
+        "text": "<b>Revelación</b> - Busca los 2 primeros Enemigos [[Sectario]] de la pila de descartes de Encuentros y haz que aparezcan en el Lugar vacío al que queden más pistas. Si no aparecen Enemigos [[Sectario]] mediante este efecto, Llamada al orden obtiene Oleada.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "05224",
+        "name": "Expulsión",
+        "text": "<b>Revelación</b> - Si no hay Enemigos [[Sectario]] en juego, Expulsión obtiene Oleada. Si no es así, el Enemigo [[Sectario]] más cercano se prepara, se mueve de Lugar en Lugar hasta que llegue a tu Lugar, se enfrenta a ti y realiza un ataque inmediatamente. A continuación, coloca cada llave ([skull]/[cultist]/[tablet]/[elder_thing]) que controles sobre ese Enemigo.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "05225",
+        "name": "Bajo la Logia",
+        "text": "Si controlas al menos 1 llave ([skull]/[cultist]/[tablet]/[elder_thing]), Bajo la Logia obtiene Peligro y su prueba de habilidad recibe +1 a su dificultad.\n<b>Revelación</b> - Realiza una prueba de [intellect] (3). Por cada punto que te falte para tener éxito, debes perder 1 pista o bien recibir 1 punto de horror.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "05226",
+        "name": "Marca de la Orden",
+        "text": "Oleada.\n<b>Revelación</b> - Comprueba qué investigador controla cada llave. El investigador que tenga…\n- …la llave [skull] recibe 1 punto de daño.\n- …la llave [cultist] recibe 1 punto de horror.\n- …la llave [tablet] descarta 2 cartas aleatorias de su mano.\n- …la llave [elder_thing] pierde 3 recursos.",
+        "traits": "Maquinación."
+    },
+    {
+        "code": "05227",
+        "name": "August Lindquist",
+        "subname": "Elegante y esquivo",
+        "text": "[action] Los investigadores que estén en el Lugar de August Lindquist gastan, como grupo, 2 pistas [per_investigator]: <b>Negociar.</b> Cada investigador que haya gastado al menos 1 pista debe recibir 1 punto de daño o bien 1 punto de horror. Retira a August Lindquist de la partida y toma el control de su llave.",
+        "flavor": "\"Me da igual lo que estés haciendo aquí. Pero quizá podamos llegar a un acuerdo…\"",
+        "traits": "Sectario. Crepúsculo de plata."
+    },
+    {
+        "code": "05228",
+        "name": "Caja enigmática",
+        "subname": "Dispositivo enigmático",
+        "text": "<b>Obligado</b> - Cuando seas derrotado: Dale el control de la Caja enigmática a otro investigador.\n[action]: Apaga un brasero de tu Lugar, agota a El vigilante Espectral o inflige 5 puntos de daño a El vigilante Espectral si está agotado. Esta acción no provoca ataques de oportunidad de El vigilante Espectral. Límite de grupo de 1 vez por partida.",
+        "traits": "Objeto. Reliquia."
+    }
+]
