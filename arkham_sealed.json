@@ -244,11 +244,69 @@
   "11104": {
     "specialists": ["civic", "silver twilight", "socialite"]
   },
-
-
-
-
-  
+  "11105": {
+    "specialists": ["criminal", "socialite"]
+  },
+  "11106": {
+    "specialists": ["blessed", "chosen", "drifter"]
+  },
+  "11107": {
+    "specialists": ["criminal", "entrepreneur", "socialite"]
+  },
+  "11108": {
+    "specialists": ["dreamer", "performer", "sorcerer"]
+  },
+  "11109": {
+    "specialists": ["believer", "chosen", "cultist"]
+  },
+  "11110": {
+    "specialists": ["detective", "hunter", "wayfarer"]
+  },
+  "11111": {
+    "specialists": ["criminal", "drifter", "entrepreneur"]
+  },
+  "11112": {
+    "specialists": ["assistant", "medic", "warden"]
+  },
+  "11113": {
+    "specialists": ["agency", "police", "veteran"]
+  },
+  "11114": {
+    "specialists": ["clairvoyant", "hunter", "sorcerer"]
+  },
+  "11115": {
+    "specialists": ["blessed", "clairvoyant", "sorcerer"]
+  },
+  "11116": {
+    "specialists": ["civic", "performer", "socialite"]
+  },
+  "11117": {
+    "specialists": ["assistant", "reporter", "scholar"]
+  },
+  "11118": {
+    "specialists": ["miskatonic", "scholar"]
+  },
+  "11119": {
+    "specialists": ["hunter", "veteran", "warden"]
+  },
+  "11120": {
+    "specialists": ["detective", "hunter", "police", "reporter"]
+  },
+  "11121": {
+    "specialists": ["cultist", "cursed", "silver twilight"]
+  },
+  "11122": {
+    "specialists": ["cultist", "cursed", "silver twilight"]
+  },
+  "11123": {
+    "specialists": ["cultist", "cursed", "silver twilight"]
+  },
+  "11124": {
+    "specialists": ["performer", "sorcerer"]
+  },
+  "11125": {
+    "specialists": ["artist", "believer", "dreamer", "sorcerer"]
+  },  
   "51004": {
     "prerequisite": "02021"
   },
