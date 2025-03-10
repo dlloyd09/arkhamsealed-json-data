@@ -138,7 +138,8 @@
     "prerequisite": "08033"
   },
   "08044": {
-    "prerequisite": "08033"
+    "prerequisite": "08033",
+    "tags": "hd.hh."
   },
   "08053": {
     "tags": "uc."
