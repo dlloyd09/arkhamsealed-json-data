@@ -1,0 +1,322 @@
+[
+  "01060": {
+    "tags": "uc."
+  },
+  "01061": {
+    "tags": "uc."
+  },
+  "01071": {
+    "tags": "uc."
+  },
+  "02028": {
+    "tags": "uc."
+  },
+  "02030": {
+    "tags": "hh.uc."
+  },
+  "02112": {
+    "tags": "uc."
+  },
+  "02154": {
+    "tags": "uc."
+  },
+  "02233": {
+    "tags": "uc."
+  },
+  "02262": {
+    "prerequisite": "02021"
+  },
+  "02263": {
+    "prerequisite": "02021"
+  },
+  "02264": {
+    "prerequisite": "02021"
+  },
+  "02306": {
+    "tags": "uc."
+  },
+  "03032": {
+    "tags": "uc."
+  },
+  "03192": {
+    "prerequisite": "03025",
+    "tags": "uc."
+  },
+  "03193": {
+    "prerequisite": "03025",
+    "tags": "uc."
+  },
+  "03236": {
+    "tags": "uc."
+  },
+  "03266": {
+    "tags": "uc."
+  },
+  "03268": {
+    "tags": "uc."
+  },
+  "04026": {
+    "tags": "uc."
+  },
+  "04029": {
+    "tags": "uc."
+  },
+  "04230": {
+    "prerequisite": "04022"
+  },
+  "04231": {
+    "prerequisite": "04022"
+  },
+  "04271": {
+    "tags": "uc."
+  },
+  "04310": {
+    "tags": "se.uc."
+  },
+  "04311": {
+    "tags": "se.uc."
+  },
+  "05118": {
+    "tags": "uc."
+  },
+  "05192": {
+    "tags": "hh.uc."
+  },
+  "05193": {
+    "tags": "uc."
+  },
+  "06163": {
+    "tags": "hd.uc."
+  },
+  "06236": {
+    "prerequisite": "06112"
+  },
+  "06237": {
+    "prerequisite": "06112"
+  },
+  "06238": {
+    "prerequisite": "06112"
+  },
+  "06276": {
+    "tags": "uc."
+  },
+  "07027": {
+    "tags": "uc."
+  },
+  "07117": {
+    "tags": "uc."
+  },
+  "07118": {
+    "tags": "uc."
+  },
+  "07119": {
+    "tags": "uc."
+  },
+  "07191": {
+    "prerequisite": "07022"
+  },
+  "07192": {
+    "prerequisite": "07022"
+  },
+  "07226": {
+    "tags": "uc."
+  },
+  "07227": {
+    "tags": "uc."
+  },
+  "07228": {
+    "tags": "uc."
+  },
+  "08041": {
+    "prerequisite: "08033"
+  },
+  "08042": {
+    "prerequisite: "08033"
+  },
+  "08043": {
+    "prerequisite: "08033"
+  },
+  "08044": {
+    "prerequisite: "08033"
+  },
+  "08053": {
+    "tags": "uc."
+  },
+  "08058": {
+    "tags": "uc."
+  },
+  "08068": {
+    "tags": "hd.uc."
+  },
+  "08090": {
+    "tags": "uc."
+  },
+  "08092": {
+    "tags": "uc."
+  },
+  "08101": {
+    "tags": "uc."
+  },
+  "08103": {
+    "tags": "uc."
+  },
+  "08109": {
+    "tags": "uc."
+  },
+  "08111": {
+    "tags": "uc."
+  },
+  "08117": {
+    "tags": "hd.hh.uc."
+  },
+  "08118": {
+    "tags": "uc."
+  },
+  "08119": {
+    "tags": "hd.hh.uc."
+  },
+  "09022": {
+    "tags": "hd.hh.uc."
+  },
+  "09032": {
+    "tags": "uc."
+  },
+  "09079": {
+    "tags": "uc."
+  },
+  "10059": {
+    "prerequisite: "10044"
+  },
+  "10060": {
+    "prerequisite: "10044"
+  },
+  "10061": {
+    "prerequisite: "10044"
+  },
+  "10099": {
+    "tags": "uc."
+  },
+  "10128": {
+    "tags": "uc."
+  },
+  "11035": {
+    "tags": "uc."
+  },
+  "11046": {
+    "prerequisite": "11035",
+    "tags": "se.uc."
+  },
+  "11047": {
+    "prerequisite": "11035",
+    "tags": "uc."
+  },
+  "11048": {
+    "prerequisite": "11035",
+    "tags": "uc."
+  },
+  "11066": {
+    "tags": "uc."
+  },
+  "11067": {
+    "tags": "uc."
+  },
+  "11070": {
+    "tags": "se.uc."
+  },
+  "11078": {
+    "tags": "uc."
+  },
+  "11099": {
+    "specialists": ["miskatonic", "scholar"]
+  },
+  "11100": {
+    "specialists": ["artist", "clairvoyant", "dreamer", "performer"]
+  },
+  "11101": {
+    "specialists": ["assistant", "miskatonic", "scholar"]
+  },
+  "11102": {
+    "specialists": ["drifter", "hunter", "wayfarer"]
+  },
+  "11103": {
+    "specialists": ["blessed", "cursed", "sorcerer"]
+  },
+  "11104": {
+    "specialists": ["civic", "silver twilight", "socialite"]
+  },
+
+
+
+
+  
+  "51004": {
+    "prerequisite": "02021"
+  },
+  "51007": {
+    "tags": "uc."
+  },
+  "51008": {
+    "tags": "hh.uc."
+  },
+  "52004": {
+    "prerequisite": "03025",
+    "tags": "uc."
+  },
+  "52006": {
+    "tags": "uc."
+  },
+  "52007": {
+    "tags": "uc."
+  },
+  "53004": {
+    "prerequisite": "04022"
+  },
+  "53005": {
+    "tags": "uc."
+  },
+  "53007": {
+    "tags": "uc."
+  },
+  "53008": {
+    "tags": "se.uc."
+  },
+  "60106": {
+    "tags": "uc."
+  },
+  "60229": {
+    "prerequisite: "60210"
+  },
+  "60230": {
+    "prerequisite: "60210"
+  },
+  "60407": {
+    "tags": "uc."
+  },
+  "60408": {
+    "tags": "uc."
+  },
+  "60409": {
+    "tags": "uc."
+  },
+  "60421": {
+    "tags": "uc."
+  },
+  "60425": {
+    "tags": "uc."
+  },
+  "60426": {
+    "tags": "uc."
+  },
+  "60427": {
+    "tags": "uc."
+  },
+  "60430": {
+    "tags": "uc."
+  },
+  "60431": {
+    "tags": "uc."
+  },
+  "60432": {
+    "tags": "uc."
+  },
+]
