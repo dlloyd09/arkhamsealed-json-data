@@ -193,13 +193,14 @@
     "prerequisite": "10044"
   },
   "10061": {
-    "prerequisite": "10044"
+    "prerequisite": "10044",
+    "tags": "hd.hh."
   },
   "10099": {
     "tags": "uc."
   },
   "10128": {
-    "tags": "uc."
+    "tags": "pa.uc."
   },
   "11035": {
     "tags": "uc."
