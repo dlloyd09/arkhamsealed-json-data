@@ -284,10 +284,10 @@
     "tags": "uc."
   },
   "60229": {
-    "prerequisite: "60210"
+    "prerequisite": "60210"
   },
   "60230": {
-    "prerequisite: "60210"
+    "prerequisite": "60210"
   },
   "60407": {
     "tags": "uc."
