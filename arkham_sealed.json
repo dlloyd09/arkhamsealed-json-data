@@ -128,16 +128,16 @@
     "tags": "uc."
   },
   "08041": {
-    "prerequisite: "08033"
+    "prerequisite": "08033"
   },
   "08042": {
-    "prerequisite: "08033"
+    "prerequisite": "08033"
   },
   "08043": {
-    "prerequisite: "08033"
+    "prerequisite": "08033"
   },
   "08044": {
-    "prerequisite: "08033"
+    "prerequisite": "08033"
   },
   "08053": {
     "tags": "uc."
