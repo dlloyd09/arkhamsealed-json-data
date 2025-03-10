@@ -24,7 +24,8 @@
     "tags": "uc."
   },
   "02262": {
-    "prerequisite": "02021"
+    "prerequisite": "02021",
+    "tags": "hd."
   },
   "02263": {
     "prerequisite": "02021"
