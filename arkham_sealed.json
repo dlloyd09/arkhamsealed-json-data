@@ -1,18 +1,258 @@
 {
+  "01016": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01017": {
+    "pack_code": ["core", "rcor", "natc"]
+  },
+  "01018": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01019": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01020": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01021": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01022": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01023": {
+    "pack_code": ["core", "rcor", "natc"]
+  },
+  "01024": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01025": {
+    "pack_code": ["core", "rcor", "natc"]
+  },
+  "01026": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01027": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01028": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01029": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01030": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01031": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01032": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01033": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01034": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01035": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01036": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01037": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01038": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01039": {
+    "pack_code": ["core", "rcor", "harv"]
+  },
+  "01040": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01041": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01042": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01043": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01044": {
+    "pack_code": ["core", "rcor", "wini"]
+  },
+  "01045": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01046": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01047": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01048": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01049": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01050": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01051": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01052": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01053": {
+    "pack_code": ["core", "rcor", "wini"]
+  },
+  "01054": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01055": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01056": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01057": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01058": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01059": {
+    "pack_code": ["core", "rcor"]
+  },
   "01060": {
+    "pack_code": ["core", "rcor"],
     "tags": "uc."
   },
   "01061": {
+    "pack_code": ["core", "rcor"],
     "tags": "uc."
   },
+  "01062": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01063": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01064": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01065": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01066": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01067": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01068": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01069": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01070": {
+    "pack_code": ["core", "rcor"]
+  },
   "01071": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01072": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01073": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01074": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01075": {
+    "pack_code": ["core", "rcor", "stel"]
+  },
+  "01076": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01077": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01078": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01079": {
+    "pack_code": ["core", "rcor", "stel"]
+  },
+  "01080": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01081": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01082": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01083": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01084": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01085": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01086": {
+    "pack_code": ["core", "rcor"],
     "tags": "uc."
+  },
+  "01087": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01088": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01089": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01090": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01091": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01092": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01093": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01094": {
+    "pack_code": ["core", "rcor"]
+  },
+  "01095": {
+    "pack_code": ["core", "rcor"]
+  },
+  "02020": {
+    "pack_code": ["dleg", "harv"]
   },
   "02026": {
     "forbidden": true
-  }
+  },
   "02028": {
     "tags": "uc."
+  },
+  "02029": {
+    "pack_code": ["dleg", "jacq"]
   },
   "02030": {
     "tags": "hh.uc."
@@ -20,11 +260,35 @@
   "02112": {
     "tags": "uc."
   },
+  "02113": {
+    "pack_code": ["dleg", "stel"]
+  },
+  "02153": {
+    "pack_code": ["dleg", "jacq"]
+  },
   "02154": {
     "tags": "uc."
   },
+  "02157": {
+    "pack_code": ["dleg", "rcor"]
+  },
+  "02158": {
+    "pack_code": ["dleg", "rcor"]
+  },
+  "02186": {
+    "pack_code": ["dleg", "harv"]
+  },
+  "02190": {
+    "pack_code": ["dleg", "jacq"]
+  },
+  "02194": {
+    "pack_code": ["dleg", "rcor"]
+  },
   "02233": {
     "tags": "uc."
+  },
+  "02261": {
+    "pack_code": ["dleg", "rcor"]
   },
   "02262": {
     "prerequisite": "02021",
@@ -39,6 +303,18 @@
   "02306": {
     "tags": "uc."
   },
+  "02308": {
+    "pack_code": ["dleg", "rcor"]
+  },
+  "03030": {
+    "pack_code": ["pcar", "wini"]
+  },
+  "03031": {
+    "pack_code": ["pcar", "rcor"]
+  },
+  "03034": {
+    "pack_code": ["pcar", "jacq"]
+  },
   "03032": {
     "tags": "uc."
   },
@@ -50,7 +326,17 @@
     "prerequisite": "03025",
     "tags": "uc."
   },
+  "03194": {
+    "pack_code": ["pcar", "wini"]
+  },
+  "03230": {
+    "pack_code": ["pcar", "rcor"]
+  },
+  "03234": {
+    "pack_code": ["pcar", "rcor"]
+  },
   "03236": {
+    "pack_code": ["pcar", "rcor"],
     "tags": "uc."
   },
   "03266": {
@@ -65,11 +351,29 @@
   "04029": {
     "tags": "uc."
   },
+  "04032": {
+    "pack_code": ["forg", "jacq"]
+  },
+  "04034": {
+    "pack_code": ["forg", "stel"]
+  },
+  "04107": {
+    "pack_code": ["forg", "wini"]
+  },
+  "04200": {
+    "pack_code": ["forg", "stel"]
+  },
+  "04201": {
+    "pack_code": ["forg", "stel"]
+  },
   "04230": {
     "prerequisite": "04022"
   },
   "04231": {
     "prerequisite": "04022"
+  },
+  "04232": {
+    "pack_code": ["forg", "wini"]
   },
   "04271": {
     "tags": "uc."
@@ -89,6 +393,9 @@
   "05193": {
     "tags": "uc."
   },
+  "05324": {
+    "pack_code": ["circ", "rcor"]
+  },
   "06163": {
     "tags": "hd.uc."
   },
@@ -103,6 +410,9 @@
   },
   "06276": {
     "tags": "uc."
+  },
+  "06279": {
+    "pack_code": ["drme", "rcor"]
   },
   "07027": {
     "tags": "uc."
@@ -317,6 +627,7 @@
     "prerequisite": "02021"
   },
   "51007": {
+    "pack_code": ["rtdl", "rcor"],
     "tags": "uc."
   },
   "51008": {
@@ -346,6 +657,9 @@
   },
   "60106": {
     "tags": "uc."
+  },
+  "60227": {
+    "pack_code": ["harv", "rcor"]
   },
   "60229": {
     "prerequisite": "60210"
