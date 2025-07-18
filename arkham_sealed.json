@@ -667,6 +667,9 @@
   "60230": {
     "prerequisite": "60210"
   },
+  "60233": {
+    "forbidden": true
+  },
   "60407": {
     "tags": "uc."
   },
