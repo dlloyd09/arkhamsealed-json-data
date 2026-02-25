@@ -626,6 +626,21 @@
   "11125": {
     "specialists": ["artist", "believer", "dreamer", "sorcerer"]
   },  
+  "12059": {
+    "tags": "uc."
+  },
+  "12061": {
+    "tags": "uc."
+  },
+  "12062": {
+    "tags": "uc."
+  },
+  "12068": {
+    "tags": "uc."
+  },
+  "12071": {
+    "tags": "uc."
+  },
   "51004": {
     "prerequisite": "02021"
   },
