@@ -12,7 +12,7 @@
     "pack_code": ["core", "rcor"]
   },
   "01020": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01021": {
     "pack_code": ["core", "rcor"]
@@ -27,7 +27,7 @@
     "pack_code": ["core", "rcor"]
   },
   "01025": {
-    "pack_code": ["core", "rcor", "natc"]
+    "pack_code": ["core", "rcor", "natc", "core_2026"]
   },
   "01026": {
     "pack_code": ["core", "rcor"]
@@ -42,7 +42,7 @@
     "pack_code": ["core", "rcor"]
   },
   "01030": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01031": {
     "pack_code": ["core", "rcor"]
@@ -63,13 +63,13 @@
     "pack_code": ["core", "rcor"]
   },
   "01037": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01038": {
     "pack_code": ["core", "rcor"]
   },
   "01039": {
-    "pack_code": ["core", "rcor", "harv"]
+    "pack_code": ["core", "rcor", "harv", "core_2026"]
   },
   "01040": {
     "pack_code": ["core", "rcor"]
@@ -149,7 +149,7 @@
     "pack_code": ["core", "rcor"]
   },
   "01065": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01066": {
     "pack_code": ["core", "rcor"]
@@ -191,7 +191,7 @@
     "pack_code": ["core", "rcor"]
   },
   "01079": {
-    "pack_code": ["core", "rcor", "stel"]
+    "pack_code": ["core", "rcor", "stel", "core_2026"]
   },
   "01080": {
     "pack_code": ["core", "rcor"]
@@ -219,22 +219,22 @@
     "pack_code": ["core", "rcor"]
   },
   "01088": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01089": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01090": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01091": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01092": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01093": {
-    "pack_code": ["core", "rcor"]
+    "pack_code": ["core", "rcor", "core_2026"]
   },
   "01094": {
     "pack_code": ["core", "rcor"]
@@ -243,7 +243,7 @@
     "pack_code": ["core", "rcor"]
   },
   "02020": {
-    "pack_code": ["dleg", "harv"]
+    "pack_code": ["dleg", "harv", "core_2026"]
   },
   "02026": {
     "forbidden": true
@@ -270,10 +270,10 @@
     "tags": "uc."
   },
   "02157": {
-    "pack_code": ["dleg", "rcor"]
+    "pack_code": ["dleg", "rcor", "core_2026"]
   },
   "02158": {
-    "pack_code": ["dleg", "rcor"]
+    "pack_code": ["dleg", "rcor", "core_2026"]
   },
   "02186": {
     "pack_code": ["dleg", "harv"]
@@ -299,6 +299,9 @@
   },
   "02264": {
     "prerequisite": "02021"
+  },
+  "02268": {
+    "pack_code": ["dleg", "core_2026"]
   },
   "02306": {
     "tags": "uc."
@@ -357,8 +360,14 @@
   "04034": {
     "pack_code": ["forg", "stel"]
   },
+  "04103": {
+    "pack_code": ["forg", "core_2026"]
+  },
   "04107": {
-    "pack_code": ["forg", "wini"]
+    "pack_code": ["forg", "wini", "core_2026"]
+  },
+  "04199": {
+    "pack_code": ["forg", "core_2026"]
   },
   "04200": {
     "pack_code": ["forg", "stel"]
@@ -384,6 +393,12 @@
   "04311": {
     "tags": "se.uc."
   },
+  "05024": {
+    "pack_code": ["circ", "core_2026"]
+  },
+  "05114": {
+    "pack_code": ["circ", "core_2026"]
+  },
   "05118": {
     "tags": "uc."
   },
@@ -392,6 +407,12 @@
   },
   "05193": {
     "tags": "uc."
+  },
+  "05276": {
+    "pack_code": ["circ", "core_2026"]
+  },
+  "05278": {
+    "pack_code": ["circ", "core_2026"]
   },
   "05324": {
     "pack_code": ["circ", "rcor"]
@@ -416,6 +437,9 @@
   },
   "07027": {
     "tags": "uc."
+  },
+  "07114": {
+    "pack_code": ["inns", "core_2026"]
   },
   "07117": {
     "tags": "uc."
@@ -463,6 +487,9 @@
   "08068": {
     "tags": "hd.uc."
   },
+  "08073": {
+    "pack_code": ["eote", "core_2026"]
+  },
   "08076": {
     "forbidden": true
   },
@@ -498,6 +525,9 @@
   },
   "09032": {
     "tags": "uc."
+  },
+  "09064": {
+    "pack_code": ["skey", "core_2026"]
   },
   "09079": {
     "tags": "uc."
