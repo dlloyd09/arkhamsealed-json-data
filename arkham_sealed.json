@@ -12,7 +12,8 @@
     "pack_code": ["core", "rcor"]
   },
   "01020": {
-    "pack_code": ["core", "rcor", "core_2026"]
+    "pack_code": ["core", "rcor"],
+    "mutex": ["12020"]
   },
   "01021": {
     "pack_code": ["core", "rcor"]
@@ -149,7 +150,8 @@
     "pack_code": ["core", "rcor"]
   },
   "01065": {
-    "pack_code": ["core", "rcor", "core_2026"]
+    "pack_code": ["core", "rcor"],
+    "mutex": ["12065"]
   },
   "01066": {
     "pack_code": ["core", "rcor"]
@@ -222,16 +224,20 @@
     "pack_code": ["core", "rcor", "core_2026"]
   },
   "01089": {
-    "pack_code": ["core", "rcor", "core_2026"]
+    "pack_code": ["core", "rcor"],
+    "mutex": ["12090"]
   },
   "01090": {
-    "pack_code": ["core", "rcor", "core_2026"]
+    "pack_code": ["core", "rcor"],
+    "mutex": ["12093"]
   },
   "01091": {
-    "pack_code": ["core", "rcor", "core_2026"]
+    "pack_code": ["core", "rcor"],
+    "mutex": ["12092"]
   },
   "01092": {
-    "pack_code": ["core", "rcor", "core_2026"]
+    "pack_code": ["core", "rcor"],
+    "mutex": ["12091"]
   },
   "01093": {
     "pack_code": ["core", "rcor", "core_2026"]
@@ -243,7 +249,8 @@
     "pack_code": ["core", "rcor"]
   },
   "02020": {
-    "pack_code": ["dleg", "harv", "core_2026"]
+    "pack_code": ["dleg", "harv"],
+    "mutex": ["12032"]
   },
   "02026": {
     "forbidden": true
@@ -367,7 +374,7 @@
     "pack_code": ["forg", "wini", "core_2026"]
   },
   "04199": {
-    "pack_code": ["forg", "core_2026"]
+    "mutex": ["12064"]
   },
   "04200": {
     "pack_code": ["forg", "stel"]
@@ -397,7 +404,7 @@
     "pack_code": ["circ", "core_2026"]
   },
   "05114": {
-    "pack_code": ["circ", "core_2026"]
+    "mutex": ["12077"]
   },
   "05118": {
     "tags": "uc."
@@ -765,5 +772,53 @@
   },
   "60482": {
     "tags": "uc."
+  },
+  "01520": {
+    "mutex": ["12020"]
+  },
+  "12020": {
+    "mutex": ["01020", "01520"]
+  },
+  "60212": {
+    "mutex": ["12032"]
+  },
+  "12032": {
+    "mutex": ["02020", "60212"]
+  },
+  "12064": {
+    "mutex": ["04199"]
+  },
+  "01565": {
+    "mutex": ["12065"]
+  },
+  "12065": {
+    "mutex": ["01065", "01565"]
+  },
+  "12077": {
+    "mutex": ["05114"]
+  },
+  "01589": {
+    "mutex": ["12090"]
+  },
+  "12090": {
+    "mutex": ["01089", "01589"]
+  },
+  "01590": {
+    "mutex": ["12093"]
+  },
+  "12091": {
+    "mutex": ["01092", "01592"]
+  },
+  "01591": {
+    "mutex": ["12092"]
+  },
+  "12092": {
+    "mutex": ["01091", "01591"]
+  },
+  "01592": {
+    "mutex": ["12091"]
+  },
+  "12093": {
+    "mutex": ["01090", "01590"]
   }
 }
